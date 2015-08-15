@@ -1,0 +1,414 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: Z</title>
+    <ns>0</ns>
+    <id>317151</id>
+    <revision>
+      <id>656186696</id>
+      <parentid>641440870</parentid>
+      <timestamp>2015-04-12T22:47:41Z</timestamp>
+      <contributor>
+        <username>Certes</username>
+        <id>5984052</id>
+      </contributor>
+      <minor/>
+      <comment>Typo</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16353">{{Lists of airports by IATA code}}
+
+==Z==
+{{AlphanumericTOC|prefixLink=Z|prefixDesc=Z|numbers=|sections=||x=ZX&lt;!--no ZX section--&gt;}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+&lt;!-- comments added to prevent addition of incorrect IATA codes --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZA&quot;/&gt;-ZA-
+|-
+|    ZAA ||      || [[Alice Arm Airport]] || [[Alice Arm, British Columbia]], [[Canada]]
+|-
+|    ZAC || CZAC || [[York Landing Airport]] || [[York Landing, Manitoba]], [[Canada]]
+|-
+|    ZAD || LDZD || [[Zadar Airport]] || [[Zadar]], [[Croatia]]
+|-
+|    ZAG || LDZA || [[Zagreb Airport]] (Pleso Airport) || [[Zagreb]], [[Croatia]]
+|-
+|    ZAH || OIZH || [[Zahedan Airport]] || [[Zahedan]], [[Iran]]
+|-
+|    ZAJ || OAZJ || [[Zaranj Airport]] || [[Zaranj]], [[Afghanistan]]
+|-
+|    ZAL || SCVD || [[Pichoy Airport]] || [[Valdivia, Chile|Valdivia]], [[Chile]]
+|-
+|    ZAM || RPMZ || [[Zamboanga International Airport]] || [[Zamboanga City]], [[Philippines]]
+|-
+|    ZAO || LFCC || [[Laberandie Airport]] || [[Cahors]], [[France]]
+|-
+|    ZAR || DNZA || [[Zaria Airport]] || [[Zaria]], [[Nigeria]]
+|-
+|    ZAT || ZPZT || [[Zhaotong Airport]] || [[Zhaotong]], [[Yunnan]], [[China]]
+|-
+|    ZAZ || LEZG || [[Zaragoza Airport]] || [[Zaragoza]], [[Spain]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZB&quot;/&gt;-ZB-
+&lt;!-- ZBD is not IATA code for Ilford Airport (IATA: ILF, ICAO: CZBD) in Ilford, Manitoba, Canada --&gt;
+|-
+|    ZBE || LKZA || [[Dolní Benesov Airport]] || [[Zábřeh]], [[Czech Republic]]
+|-
+|    ZBF || CZBF || [[Bathurst Airport (New Brunswick)|Bathurst Airport]] || [[Bathurst, New Brunswick]], [[Canada]]
+|-
+|    ZBK ||      || [[Žabljak Airport]] || [[Žabljak]], [[Montenegro]]
+|-
+|    ZBL ||      || [[Biloela (Thangool) Airport]] || [[Biloela, Queensland]], [[Australia]]
+|-
+|    ZBM || CZBM || [[Bromont (Roland Désourdy) Airport]] || [[Bromont, Quebec]], [[Canada]]
+|-
+|    ZBO || YBWN || [[Bowen Airport]] || [[Bowen, Queensland]], [[Australia]]
+|-
+|    ZBR || OIZC || [[Konarak Airport]] || [[Chabahar]], [[Iran]]
+|-
+|    ZBY || VLSB || [[Sayaboury Airport]] || [[Sayaboury]], [[Laos]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZC&quot;/&gt;-ZC-
+|-
+|    ZCL || MMZC || [[General Leobardo C. Ruiz International Airport]] (La Calera Airport) || [[Zacatecas, Zacatecas]], [[Mexico]]
+|-
+|    ZCN || ETHC || [[Celle Air Base]] || [[Celle]], [[Germany]]
+|-
+|    ZCO || SCTC || [[Maquehue Airport]] || [[Temuco]], [[Araucanía Region|Araucanía]], [[Chile]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZD&quot;/&gt;-ZD-
+|-
+|    ZDY ||      || [[Dalma Airport]] || [[Dalma (island)]], [[United Arab Emirates]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZE&quot;/&gt;-ZE-
+|-
+|    ZEC || FASC || [[Secunda Airport]] || [[Secunda, Mpumalanga|Secunda]], [[South Africa]]
+&lt;!-- ZEE is not IATA code for Kelsey Airport (IATA: KES, ICAO: CZEE) in Kelsey, Manitoba, Canada --&gt;
+&lt;!-- ZEF is FAA code (not IATA) for Elkin Municipal Airport in Elkin, North Carolina, United States --&gt;
+|-
+|    ZEG ||      || [[Senggo Airport]] || [[Senggo]], [[Indonesia]]
+|-
+|    ZEL || CBBC || [[Bella Bella (Campbell Island) Airport]] || [[Bella Bella, British Columbia]], [[Canada]]
+|-
+|    ZEM || CZEM || [[Eastmain River Airport]] || [[Eastmain, Quebec]], [[Canada]]
+|-
+|    ZER || VEZO || [[Zero Airport]] (Ziro Airport) || [[Ziro]], [[India]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZF&quot;/&gt;-ZF-
+|-
+|    ZFA || CZFA || [[Faro Airport (Yukon)|Faro Airport]] || [[Faro, Yukon]], [[Canada]]
+|-
+|    ZFB ||      || [[Old Fort Bay Airport]] || [[Old Fort Bay, Quebec]], [[Canada]]
+|-
+|    ZFD || CZFD || [[Fond-du-Lac Airport]] || [[Fond-du-Lac, Saskatchewan]], [[Canada]]
+|-
+|    ZFL ||      || [[South Trout Lake Airport]] || [[South Trout Lake]], [[Ontario]], [[Canada]]
+|-
+|    ZFM || CZFM || [[Fort McPherson Airport]] || [[Fort McPherson, Northwest Territories]], [[Canada]]
+|-
+|    ZFN || CZFN || [[Tulita Airport]] (Fort Norman Airport) || [[Tulita, Northwest Territories]], [[Canada]]
+|-
+|    ZFW ||      || [[Fairview Airport]] (TC: CEB5) || [[Fairview, Alberta]], [[Canada]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZG&quot;/&gt;-ZG-
+|-
+| &lt;s&gt;ZGC&lt;/s&gt; || &lt;s&gt;ZLLL&lt;/s&gt; || &lt;s&gt;[[Lanzhou Zhongchuan Airport]] (Lanzhou West Airport)&lt;/s&gt; || &lt;s&gt;[[Lanzhou]], [[Gansu]], [[China]]&lt;/s&gt;
+|-
+|    ZGF || CZGF || [[Grand Forks Airport]] || [[Grand Forks, British Columbia]], [[Canada]]
+|-
+|    ZGI || CZGI || [[Gods River Airport]] || [[Gods River, Manitoba]], [[Canada]]
+|-
+|    ZGL || YSGW || [[South Galway Airport]] || [[South Galway, Queensland|South Galway]], [[Queensland]], [[Australia]]
+|-
+|    ZGM || FLNA || [[Ngoma Airport]] || [[Ngoma, Zambia|Ngoma]], [[Zambia]]
+|-
+|    ZGR || CZGR || [[Little Grand Rapids Airport]] || [[Little Grand Rapids, Manitoba]], [[Canada]]
+|-
+|    ZGS ||      || [[La Romaine Airport]] || [[La Romaine, Quebec|La Romaine]], [[Quebec]], [[Canada]]
+|-
+|    ZGU || NVSQ || [[Gaua Airport]] || [[Gaua]], [[Torba Province|Torba]], [[Vanuatu]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZH&quot;/&gt;-ZH-
+|-
+|    ZHA || ZGZJ || [[Zhanjiang Airport]] || [[Zhanjiang]], [[Guangdong]], [[China]]
+|-
+|    ZHM || VGSH || [[Shamshernagar Airport]] || [[Shamshernagar]], [[Bangladesh]]
+|-
+|    ZHP || CZHP || [[High Prairie Airport]] || [[High Prairie]], [[Alberta]], [[Canada]]
+&lt;!-- ZHV is not IATA code for Les Eplatures Airport (ICAO: LSGC) in La Chaux de Fonds, Switzerland --&gt;
+|-
+|    ZHY || ZLZW || [[Zhongwei Xiangshan Airport]] || [[Zhongwei]], [[Ningxia]], [[China]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZI&quot;/&gt;-ZI-
+|-
+|    ZIC || SCTO || [[Victoria Airport (Chile)|Victoria Airport]] || [[Victoria, Chile|Victoria]], [[Araucanía Region|Araucanía]], [[Chile]]
+|-
+|    ZIG || GOGG || [[Ziguinchor Airport]] || [[Ziguinchor]], [[Senegal]]
+|-
+|    ZIH || MMZH || [[Ixtapa-Zihuatanejo International Airport]] || [[Zihuatanejo]], [[Guerrero]], [[Mexico]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZJ&quot;/&gt;-ZJ-
+|-
+|    ZJG || CZJG || [[Jenpeg Airport]] || [[Jenpeg, Manitoba|Jenpeg]], [[Manitoba]], [[Canada]]
+&lt;!-- ZJI is not IATA code for Locarno Airport (ICAO: LSZL) in Locarno, Switzerland --&gt;
+|-
+|    ZJN || CZJN || [[Swan River Airport]] || [[Swan River, Manitoba]], [[Canada]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZK&quot;/&gt;-ZK-
+|-
+|    ZKB || FLKY || [[Kasaba Bay Airport]] || [[Kasaba Bay]], [[Zambia]]
+|-
+|    ZKE || CZKE || [[Kashechewan Airport]] || [[Kashechewan, Ontario]], [[Canada]]
+|-
+|    ZKG ||      || [[Kegaska Airport]] (TC: CTK6) || [[Kegaska, Quebec]], [[Canada]]
+|-
+|    ZKL || WASB || [[Bintuni Airport]] (Steenkool Airport) || [[Bintuni]], [[Indonesia]]
+|-
+|    ZKM || FOOS || [[Sette Cama Airport]] || [[Sette Cama]], [[Gabon]]
+|-
+|    ZKP || UESU || [[Zyryanka Airport]] || [[Zyryanka, Sakha Republic |Zyryanka]], [[Verkhnekolymsky District]], [[Sakha Republic]], [[Russia]]
+&lt;!-- ZKP is no longer [[Kasompe Airport]] (ICAO: FLKE), [[Chingola]], [[Zambia]] --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZL&quot;/&gt;-ZL-
+|-
+|    ZLG ||      || [[La Güera Airport]] || [[La Güera]], [[Western Sahara]]
+|-
+|    ZLO || MMZO || [[Playa de Oro International Airport]] || [[Manzanillo, Colima]], [[Mexico]]
+|-
+|    ZLT ||      || [[La Tabatière Airport]] (TC: CTU5) || [[La Tabatière, Quebec]], [[Canada]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZM&quot;/&gt;-ZM-
+|-
+|    ZMD || SWSN || [[Sena Madureira Airport]] || [[Sena Madureira]], [[Acre]], [[Brazil]]
+&lt;!-- ZMG is not IATA code for Magdeburg Airport (ICAO: EDBM) in Magdeburg, Germany --&gt;
+|-
+|    ZMH || CZML || [[South Cariboo Regional Airport]] || [[108 Mile Ranch, British Columbia]], [[Canada]]
+|-
+|    ZMM || MMZM || [[Zamora Airport]] || [[Zamora, Michoacán]], [[Mexico]]
+|-
+|    ZMT || CZMT || [[Masset Airport]] || [[Masset, British Columbia]], [[Canada]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZN&quot;/&gt;-ZN-
+|-
+|    ZNA ||      || [[Nanaimo Harbour Water Airport]] (TC: CAC8) || [[Nanaimo]], [[British Columbia]], [[Canada]]
+|-
+|    ZNC ||      || [[Nyac Airport]] || [[Nyac, Alaska|Nyac]], [[Alaska]], [[United States]]
+|-
+|    ZND || DRZR || [[Zinder Airport]] || [[Zinder]], [[Niger]]
+|-
+|    ZNE || YNWN || [[Newman Airport]] || [[Newman, Western Australia]], [[Australia]]
+|-
+|    ZNG ||      || [[Negginan Airport]] || [[Negginan]], [[Manitoba]], [[Canada]]
+&lt;!-- ZNG is not IATA code for Poplar River Airport (IATA: XPP, ICAO: CZNG) in Poplar River, Manitoba, Canada --&gt;
+|-
+|    ZNU ||      || [[Namu Airport]] || [[Namu, British Columbia]], [[Canada]]
+|-
+|    ZNZ || HTZA || [[Zanzibar Airport]] (Kisauni Airport) || [[Zanzibar]], [[Tanzania]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZO&quot;/&gt;-ZO-
+|-
+|    ZOF ||      || [[Ocean Falls Airport]] || [[Ocean Falls, British Columbia]], [[Canada]]
+|-
+|    ZOS || SCJO || [[Cañal Bajo Carlos Hott Siebert Airport ]] || [[Osorno, Chile|Osorno]], [[Chile]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZP&quot;/&gt;-ZP-
+|-
+|    ZPB || CZPB || [[Sachigo Lake Airport]] || [[Sachigo Lake, Ontario]], [[Canada]]
+|-
+|    ZPC || SCPC || [[Pucón Airport]] || [[Pucón]], [[Chile]]
+|-
+|    ZPH || KZPH || [[Zephyrhills Municipal Airport]] || [[Zephyrhills, Florida]], [[United States]]
+|-
+|    ZPO || CZPO || [[Pinehouse Lake Airport]] || [[Pinehouse Lake]], [[Saskatchewan]], [[Canada]]
+|-
+|    ZPQ || ETHE || [[Rheine Air Base]] || [[Rhine]], [[Germany]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZQ&quot;/&gt;-ZQ-
+&lt;!-- ZQC is not IATA code for Speyer Airport (ICAO: EDRY) in Speyer, Germany --&gt;
+&lt;!-- ZQE is not IATA code for Trier-Föhren Airport (ICAO: EDRT) in Trier, Germany --&gt;
+&lt;!-- ZQL is not IATA code for Donaueschingen-Villingen Airport (ICAO: EDTD) in Donaueschingen, Germany --&gt;
+|-
+|    ZQN || NZQN || [[Queenstown Airport]] || [[Queenstown, New Zealand|Queenstown]], [[New Zealand]]
+|-
+|    ZQS ||      || [[Queen Charlotte Island Airport]] || [[Haida Gwaii]], [[British Columbia]], [[Canada]]
+|-
+|    ZQU ||      || [[Qualicum Beach Airport]] || [[Qualicum Beach, British Columbia]], [[Canada]]
+|-
+|    ZQW || EDRZ || [[Zweibrücken Airport]] || [[Zweibrücken]], [[Germany]]
+|-
+|    ZQZ || ZBZJ || [[Zhangjiakou Airport]] || [[Zhangjiakou]], [[Hebei Province]], [[China]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZR&quot;/&gt;-ZR-
+|-
+|    ZRH || LSZH || [[Zurich Airport]] || [[Zürich]], [[Switzerland]]
+|-
+|    ZRI || WABO || [[Serui Airport]] || [[Serui]], [[Indonesia]]
+|-
+|    ZRJ || CZRJ || [[Round Lake (Weagamow Lake) Airport]] || [[Round Lake, Ontario]], [[Canada]]
+|-
+|    ZRM || WAJI || [[Sarmi Airport]] || [[Sarmi]], [[Indonesia]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZS&quot;/&gt;-ZS-
+|-
+|    ZSA || MYSM || [[San Salvador Airport]] (Cockburn Town Airport) || [[Cockburn Town]], [[San Salvador Island]], [[Bahamas]]
+|-
+|    ZSE || FMEP || [[Pierrefonds Airport]] || [[Saint-Pierre, Réunion|Saint-Pierre]], [[Réunion]]
+|-
+|    ZSJ || CZSJ || [[Sandy Lake Airport]] || [[Sandy Lake, Ontario]], [[Canada]]
+&lt;!-- ZSN is not IATA code for South Indian Lake Airport (IATA: XSI, ICAO: CZSN) in South Indian Lake, Manitoba, Canada --&gt;
+|-
+|    ZSP ||      || [[St. Paul Aerodrome]] (TC: CEW3) || [[St. Paul, Alberta]], [[Canada]]
+|-
+|    ZSS || DISS || [[Sassandra Airport]] || [[Sassandra]], [[Côte d'Ivoire]]
+|-
+|    ZST || CZST || [[Stewart Aerodrome]] || [[Stewart, British Columbia]], [[Canada]]
+&lt;!-- ZSU is not IATA code for Dessau Airport (ICAO: EDAD) in Dessau, Germany --&gt;
+|-
+|    ZSW || CZSW || [[Prince Rupert/Seal Cove Water Airport]] || [[Prince Rupert, British Columbia]], [[Canada]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZT&quot;/&gt;-ZT-
+|-
+|    ZTA || NTGY || [[Tureira Airport]] || [[Tureia]], [[Tuamotus]], [[French Polynesia]]
+|-
+|    ZTB ||      || [[Tête-à-la-Baleine Airport]] (TC: CTB6) || [[Tête-à-la-Baleine, Quebec]], [[Canada]]
+|-
+|    ZTH || LGZA || [[Zakynthos International Airport, &quot;Dionysios Solomos&quot;]] || [[Zakynthos]], [[Greece]]
+|-
+|    ZTM || CZTM || [[Shamattawa Airport]] || [[Shamattawa, Manitoba]], [[Canada]]
+|-
+|    ZTR || UKKV || [[Zhytomyr Airport]] || [[Zhytomyr]], [[Ukraine]]
+|-
+|    ZTS ||      || [[Tahsis Water Aerodrome]] (TC: CAL9) || [[Tahsis, British Columbia]], [[Canada]]
+|-
+|    ZTU || UBBY || [[Zaqatala International Airport]] || [[Zaqatala (city)|Zaqatala]], [[Azerbaijan]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZU&quot;/&gt;-ZU-
+|-
+|    ZUC || CZUC || [[Ignace Municipal Airport]] || [[Ignace, Ontario]], [[Canada]]
+|-
+|    ZUD || SCAC || [[Pupelde Airport]] || [[Ancud]], [[Los Lagos Region]], [[Chile]]
+|-
+|    ZUE ||      || [[Zuenoula Airport]] || [[Zuenoula]], [[Côte d'Ivoire]]
+|-
+|    ZUH || ZGSD || [[Zhuhai Sanzao Airport]] || [[Zhuhai]], [[Guangdong]], [[China]]
+|-
+|    ZUL || OEZL || [[Zilfi Airport]] || [[Zilfi]], [[Saudi Arabia]]
+|-
+|    ZUM || CZUM || [[Churchill Falls Airport]] || [[Churchill Falls, Newfoundland and Labrador]], [[Canada]]
+&lt;!-- ZUN is FAA code (not IATA) for Black Rock Airport in Zuni Pueblo, New Mexico, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZV&quot;/&gt;-ZV-
+|-
+|    ZVA || FMMN || [[Miandrivazo Airport]] || [[Miandrivazo]], [[Madagascar]]
+|-
+|    ZVG ||      || [[Springvale Airport, Western Australia|Springvale Airport]] || [[Springvale, Western Australia|Springvale]], [[Western Australia]], [[Australia]]
+|-
+|    ZVK || VLSK || [[Savannakhet Airport]] || [[Savannakhet]], [[Laos]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZW&quot;/&gt;-ZW-
+|-
+|    ZWA || FMND || [[Andapa Airport]] || [[Andapa]], [[Madagascar]]
+&lt;!-- ZWH is not IATA code for Lac Brochet Airport (IATA: XLB, ICAO: CZWH) in Lac Brochet, Manitoba, Canada --&gt;
+|-
+|    ZWL || CZWL || [[Wollaston Lake Airport]] || [[Wollaston Lake]], [[Saskatchewan]], [[Canada]]
+&lt;!-- ZXA is not IATA code for Rota Airport naval station (ICAO: LERT) in Rota, Spain --&gt;
+|-
+|    ZWS ||      || [[Stuttgart Hauptbahnhof]] || [[Stuttgart]], [[Germany]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZY&quot;/&gt;-ZY-
+|-
+|    ZYI || ZUZY || [[Zunyi Airport]] || [[Zunyi]], [[Guizhou]], [[China]]
+|-
+|    ZYL || VGSY || [[Osmani International Airport]] || [[Sylhet]], [[Bangladesh]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ZZ&quot;/&gt;-ZZ-
+|-
+|    ZZU || FWUU || [[Mzuzu Airport]] || [[Mzuzu]], [[Malawi]]
+|-
+|    ZZV || KZZV || [[Zanesville Municipal Airport]] || [[Zanesville, Ohio]], [[United States]]
+
+|}
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = [[PDF]] | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|Z]]</text>
+      <sha1>ncc8e0qrpovqfaa4g68k3tlkigxnwcc</sha1>
+    </revision>
+  </page>
+</mediawiki>

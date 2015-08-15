@@ -1,0 +1,1081 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: Y</title>
+    <ns>0</ns>
+    <id>317150</id>
+    <revision>
+      <id>675079909</id>
+      <parentid>668523200</parentid>
+      <timestamp>2015-08-08T03:25:42Z</timestamp>
+      <contributor>
+        <username>NE2</username>
+        <id>1757249</id>
+      </contributor>
+      <comment>/* Y */fix capitalization, replaced: Portage La Prairie → Portage la Prairie using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="50977">XD{{Lists of airports by IATA code}}
+
+==Y==
+{{AlphanumericTOC|prefixLink=Y|prefixDesc=Y|numbers=|sections=}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+&lt;!-- comments added to prevent addition of incorrect IATA codes --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YA&quot;/&gt;-YA-
+|-
+|    YAA ||      || [[Anahim Lake Airport]] (TC: CAJ4) || [[Anahim Lake, British Columbia]], [[Canada]]
+|-
+|    YAB ||      || [[Arctic Bay Airport]] (TC: CJX7) || [[Arctic Bay, Nunavut]], [[Canada]]
+|-
+|    YAC || CYAC || [[Cat Lake Airport]] || [[Cat Lake, Ontario]], [[Canada]]
+|-
+|    YAD ||      || [[Moose Lake Airport]] (TC: CJB4) || [[Moose Lake, Manitoba]], [[Canada]]
+|-
+|    YAG || CYAG || [[Fort Frances Municipal Airport]] || [[Fort Frances]], [[Ontario]], [[Canada]]
+|-
+|    YAH || CYAH || [[La Grande-4 Airport]] || Northern [[Quebec]], [[Canada]]
+|-
+|    YAI || SCCH || [[General Bernardo O'Higgins Airport]] || [[Chillán]], [[Ñuble Province|Ñuble]], [[Chile]]
+|-
+|    YAJ ||      || [[Lyall Harbour Airport]] || [[Lyall Harbour]], [[British Columbia]], [[Canada]]
+|-
+|    YAK || PAYA || [[Yakutat Airport]] || [[Yakutat, Alaska]], [[United States]]
+|-
+|    YAL || CYAL || [[Alert Bay Airport]] || [[British Columbia]], [[Canada]]
+|-
+|    YAM || CYAM || [[Sault Ste. Marie Airport]] || [[Sault Ste. Marie, Ontario]], [[Canada]]
+|-
+|    YAN || FZIR || [[Yangambi Airport]] || [[Yangambi]], [[Democratic Republic of the Congo]]
+|-
+|    YAO || FKKY || [[Yaoundé Airport]] || [[Yaoundé]], [[Cameroon]]
+|-
+|    YAP || PTYA || [[Yap International Airport]] (FAA: T11) || [[Yap]], [[Federated States of Micronesia]]
+|-
+|    YAQ ||      || Maple Bay Airport || [[Maple Bay, British Columbia]], [[Canada]]
+|-
+|    YAR || CYAD || [[La Grande-3 Airport]] || Northern [[Quebec]], [[Canada]]
+|-
+|    YAS || NFSW || [[Yasawa Island Airport]] || [[Yasawa Island]], [[Fiji]]
+|-
+|    YAT || CYAT || [[Attawapiskat Airport]] || [[Attawapiskat, Ontario]], [[Canada]]
+|-
+|    YAU ||      || [[Kattiniq/Donaldson Airport]] || [[Raglan Mines, Quebec]], [[Canada]]
+|-
+|    YAV ||      || [[Miner's Bay Airport]] || [[Miner's Bay, British Columbia]], [[Canada]]
+|-
+|    YAW || CYAW || [[CFB Shearwater|Shearwater Heliport]] || [[Shearwater, Nova Scotia]], [[Canada]]
+&lt;!-- YAX is not IATA code for Lac du Bonnet Airport (ICAO: CYAX) in Lac du Bonnet, Manitoba, Canada --&gt;
+|-
+|    YAY || CYAY || [[St. Anthony Airport]] || [[St. Anthony, Newfoundland and Labrador]], [[Canada]]
+|-
+|    YAZ || CYAZ || [[Tofino Airport]] || [[Tofino]], [[British Columbia]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YB&quot;/&gt;-YB-
+|-
+|    YBA || CYBA || [[Banff Airport]] || [[Banff, Alberta]], [[Canada]]
+|-
+|    YBB || CYBB || [[Kugaaruk Airport]] || [[Kugaaruk, Nunavut]], [[Canada]]
+|-
+|    YBC || CYBC || [[Baie-Comeau Airport]] || [[Baie-Comeau]], [[Quebec]], [[Canada]]
+|-
+|    YBD ||      || [[New Westminster Airport]] || [[New Westminster]], [[British Columbia]], [[Canada]]
+|-
+|    YBE || CYBE || [[Uranium City Airport]] || [[Uranium City, Saskatchewan]], [[Canada]]
+|-
+|    YBF ||      || [[Bamfield Water Aerodrome]] (TC: CAE9) || [[Bamfield, British Columbia]], [[Canada]]
+|-
+|    YBG || CYBG || [[CFB Bagotville|Bagotville Airport]] || [[Bagotville, Quebec]], [[Canada]]
+|-
+|    YBH || CYBH || [[Bull Harbour Airport]] || [[Bull Harbour, British Columbia]], [[Canada]]
+|-
+|    YBI ||      || [[Black Tickle Airport]] (TC: CCE4) || [[Black Tickle, Newfoundland and Labrador]], [[Canada]]
+|-
+|    YBJ ||      || [[Baie-Johan-Beetz Seaplane Base]] || [[Baie-Johan-Beetz, Quebec]], [[Canada]]
+|-
+|    YBK || CYBK || [[Baker Lake Airport]] || [[Baker Lake, Nunavut]], [[Canada]]
+|-
+|    YBL || CYBL || [[Campbell River Airport]] || [[Campbell River, British Columbia]], [[Canada]]
+|-
+|    YBM ||      || [[Bronson Creek Airport]] (TC: CAB5) || [[Bronson Creek]], [[British Columbia]], [[Canada]]
+|-
+|    YBN || CYBN || [[CFB Borden]] (heliport) || [[Borden, Ontario]], [[Canada]]
+|-
+|    YBO ||      || [[Bob Quinn Lake Airport]] (TC: CBW4) || [[Bob Quinn Lake]], [[British Columbia]], [[Canada]]
+|-
+|    YBP || ZUYB || [[Yibin Caiba Airport]] || [[Yibin]], [[Sichuan]], [[China]]
+|-
+|    YBQ ||      || [[Telegraph Harbour Airport]] || [[Telegraph Harbour, British Columbia]], [[Canada]]
+|-
+|    YBR || CYBR || [[Brandon Municipal Airport]] (McGill Field) || [[Brandon, Manitoba]], [[Canada]]
+|-
+|    YBT || CYBT || [[Brochet Airport]] || [[Brochet, Manitoba]], [[Canada]]
+|-
+|    YBV || CYBV || [[Berens River Airport]] || [[Berens River, Manitoba]], [[Canada]]
+|-
+|    YBW ||      || [[Bedwell Harbour Airport]] || [[Bedwell Harbour]], [[British Columbia]], [[Canada]]
+|-
+|    YBX || CYBX || [[Lourdes-de-Blanc-Sablon Airport]] || [[Blanc-Sablon, Quebec|Lourdes-de-Blanc-Sablon, Quebec]], [[Canada]]
+|-
+|    YBY || CYBF || [[Bonnyville Airport]] || [[Bonnyville, Alberta]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YC&quot;/&gt;-YC-
+|-
+|    YCA ||      || [[Courtenay Airpark]] (TC: CAH3) || [[Courtenay, British Columbia]], [[Canada]]
+|-
+|    YCB || CYCB || [[Cambridge Bay Airport]] || [[Cambridge Bay, Nunavut]], [[Canada]]
+|-
+|    YCC || CYCC || [[Cornwall Regional Airport]] || [[Cornwall, Ontario]], [[Canada]]
+|-
+|    YCD || CYCD || [[Nanaimo Airport]] || [[Nanaimo]], [[British Columbia]], [[Canada]]
+|-
+|    YCE || CYCE || [[Centralia/James T. Field Memorial Aerodrome]] || [[Centralia, Ontario]], [[Canada]]
+|-
+|    YCF ||      || [[Cortes Island Aerodrome]] (TC: CCI9) || [[Cortes Island]], [[British Columbia]], [[Canada]]
+|-
+|    YCG || CYCG || [[West Kootenay Regional Airport]] (Castlegar Airport) || [[Castlegar, British Columbia]], [[Canada]]
+|-
+|    YCH || CYCH || [[Miramichi Airport]] || [[Miramichi, New Brunswick]], [[Canada]]
+|-
+|    YCI || CWCI || [[Caribou Island Airport]] || [[Caribou Island]], [[Ontario]], [[Canada]]
+|-
+|    YCK ||      || [[Colville Lake/Tommy Kochon Aerodrome]] (TC: CEB3) || [[Colville Lake, Northwest Territories]], [[Canada]]
+|-
+|    YCL || CYCL || [[Charlo Airport]] || [[Charlo, New Brunswick]], [[Canada]]
+|-
+|    YCM || CYSN || [[St. Catharines/Niagara District Airport]] || [[St. Catharines]], [[Ontario]], [[Canada]]
+|-
+|    YCN || CYCN || [[Cochrane Airport]] || [[Cochrane, Ontario]], [[Canada]]
+|-
+|    YCO || CYCO || [[Kugluktuk Airport]] || [[Kugluktuk, Nunavut]], [[Canada]]
+|-
+|    YCP || CYCP || [[Blue River Airport]] || [[Blue River, British Columbia|Blue River]] (Co-op Point), [[British Columbia]], [[Canada]]
+|-
+|    YCQ || CYCQ || [[Chetwynd Airport]] || [[Chetwynd, British Columbia]], [[Canada]]
+|-
+|    YCR || CYCR || [[Cross Lake (Charlie Sinclair Memorial) Airport]] || [[Cross Lake, Manitoba]], [[Canada]]
+|-
+|    YCS || CYCS || [[Chesterfield Inlet Airport]] || [[Chesterfield Inlet, Nunavut]], [[Canada]]
+|-
+|    YCT || CYCT || [[Coronation Airport]] || [[Coronation, Alberta]], [[Canada]]
+|-
+|    YCU || ZBYC || [[Yuncheng Guangong Airport]] || [[Yuncheng]], [[China]]
+|-
+|    YCV || CYCV || [[Cartierville Airport]] || [[Cartierville, Quebec]], [[Canada]]
+|-
+|    YCW || CYCW || [[Chilliwack Airport]] || [[Chilliwack]], [[British Columbia]], [[Canada]]
+|-
+|    YCX || CYCX || [[CFB Gagetown]] (heliport) || [[Gagetown, New Brunswick]], [[Canada]]
+|-
+|    YCY || CYCY || [[Clyde River Airport]] || [[Clyde River, Nunavut]], [[Canada]]
+|-
+|    YCZ || CYCZ || [[Fairmont Hot Springs Airport]] || [[Fairmont Hot Springs, British Columbia]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YD&quot;/&gt;-YD-
+|-
+|    YDA || CYDA || [[Dawson City Airport]] || [[Dawson City]], [[Yukon]], [[Canada]]
+|-
+|    YDB || CYDB || [[Burwash Airport]] || [[Burwash Landing, Yukon]], [[Canada]]
+|-
+|    YDC ||      || [[Drayton Valley Industrial Airport]] (TC: CER3) || [[Drayton Valley]], [[Alberta]], [[Canada]]
+|-
+|    YDE ||      || [[Paradise River Airport]] (TC: CDF4) || [[Paradise River, Newfoundland and Labrador|Paradise River]], [[Newfoundland and Labrador]], [[Canada]]
+|-
+|    YDF || CYDF || [[Deer Lake Regional Airport]] || [[Deer Lake, Newfoundland and Labrador|Deer Lake]], [[Newfoundland and Labrador]], [[Canada]]
+|-
+|    YDG || CYID || [[Digby/Annapolis Regional Airport]] || [[Digby, Nova Scotia]], [[Canada]]
+|-
+|    YDH ||      || [[Daniel's Harbour Airport]] || [[Daniel's Harbour]], [[Newfoundland and Labrador]], [[Canada]]
+|-
+|    YDI ||      || [[Davis Inlet Airport]] (TC: CCB4) || [[Davis Inlet]], [[Newfoundland and Labrador]], [[Canada]]
+|-
+|    YDK || CYDK || [[Main Duck Island Airport]] || [[Main Duck Island]], [[Ontario]], [[Canada]]
+|-
+|    YDL || CYDL || [[Dease Lake Airport]] || [[Dease Lake, British Columbia]], [[Canada]]
+&lt;!-- YDM is not IATA code for Ross River Airport (ICAO: CYDM) in Ross River, Yukon, Canada --&gt;
+|-
+|    YDN || CYDN || [[Lt. Col W.G. (Billy) Barker VC Airport]] || [[Dauphin, Manitoba]], [[Canada]]
+|-
+|    YDO || CYDO || [[Dolbeau-Saint-Félicien Airport]] || [[Dolbeau-Mistassini]], [[Quebec]], [[Canada]]
+|-
+|    YDP || CYDP || [[Nain Airport]] || [[Nain, Newfoundland and Labrador]], [[Canada]]
+|-
+|    YDQ || CYDQ || [[Dawson Creek Airport]] || [[Dawson Creek]], [[British Columbia]], [[Canada]]
+|-
+|    YDR || CYDR || [[Broadview Airport]] || [[Broadview, Saskatchewan]], [[Canada]]
+|-
+|    YDS ||      || [[Desolation Sound Airport]] || [[Desolation Sound]], [[British Columbia]], [[Canada]]
+|-
+|    YDT || CZBB || [[Boundary Bay Airport]] || [[Delta, British Columbia]], [[Canada]]
+|-
+|    YDV || CZTA || [[Bloodvein River Airport]] || [[Bloodvein River]], [[Manitoba]], [[Canada]]
+|-
+|    YDW ||      || [[Obre Lake/North of Sixty Airport]] (TC: CKV4) || [[Obre Lake]], [[Northwest Territories]], [[Canada]]
+|-
+|    YDX ||      || [[Doc Creek Airport]] || [[Doc Creek]], [[British Columbia]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YE&quot;/&gt;-YE-
+|-
+|    YEA ||      || All airports || [[Edmonton]], [[Alberta]], [[Canada]]
+|-
+|    YEC || RKTY || [[Yecheon Air Base]] || [[Yecheon]], [[South Korea]]
+|-
+|    YED || CYED || [[CFB Edmonton]] (Namao Field) || [[Edmonton]], [[Alberta]], [[Canada]]
+&lt;!-- YEE is not IATA code for Midland/Huronia Airport (ICAO: CYEE) in Midland, Ontario, Canada --&gt;
+|-
+|    YEG || CYEG || [[Edmonton International Airport]] || [[Edmonton]], [[Alberta]], [[Canada]]
+|-
+|    YEI || LTBR || [[Yenişehir Airport]] || [[Yenişehir, Bursa|Yenişehir]], [[Bursa Province|Bursa]], [[Turkey]]
+|-
+|    YEK || CYEK || [[Arviat Airport]] || [[Arviat]], [[Nunavut]], [[Canada]]
+|-
+|    YEL || CYEL || [[Elliot Lake Municipal Airport]] || [[Elliot Lake]], [[Ontario]], [[Canada]]
+|-
+|    YEM || CYEM || [[Manitowaning/Manitoulin East Municipal Airport]] || [[Manitowaning, Ontario|Manitowaning]], [[Ontario]], [[Canada]]
+|-
+|    YEN || CYEN || [[Estevan Airport]] || [[Estevan]], [[Saskatchewan]], [[Canada]]
+|-
+|    YEO || EGDY || [[RNAS Yeovilton (HMS Heron)|RNAS Yeovilton]] || [[Yeovilton]], [[England]], [[United Kingdom]]
+|-
+|    YEP || CYEP || [[Estevan Point Airport]] || [[Estevan Point]], [[British Columbia]], [[Canada]]
+|-
+|    YEQ ||      || [[Yenkis Airport]] || [[Yenkis]], [[Papua New Guinea]]
+|-
+|    YER || CYER || [[Fort Severn Airport]] || [[Fort Severn, Ontario]], [[Canada]]
+|-
+|    YET || CYET || [[Edson Airport]] || [[Edson, Alberta]], [[Canada]]
+|-
+|    YEU || CYEU || [[Eureka Aerodrome]] || [[Eureka, Nunavut]], [[Canada]]
+|-
+|    YEV || CYEV || [[Inuvik (Mike Zubko) Airport]] || [[Inuvik]], [[Northwest Territories]], [[Canada]]
+|-
+|    YEY || CYEY || [[Amos/Magny Airport]] || [[Amos, Quebec]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YF&quot;/&gt;-YF-
+|-
+|    YFA || CYFA || [[Fort Albany Airport]] || [[Fort Albany, Ontario]], [[Canada]]
+|-
+|    YFB || CYFB || [[Iqaluit Airport]] || [[Iqaluit]], [[Nunavut]], [[Canada]]
+|-
+|    YFC || CYFC || [[Fredericton International Airport]] || [[Fredericton]], [[New Brunswick]], [[Canada]]
+&lt;!-- YFD is not the IATA code of [[Brantford Airport]] (ICAO: CYFD), [[Brantford]], [[Ontario]], [[Canada]] --&gt;
+|-
+|    YFE || CYFE || [[Forestville Airport]] || [[Forestville, Quebec]], [[Canada]]
+|-
+|    YFG ||      || [[Fontanges Airport]] (TC: CTU2) || [[Fontanges, Quebec|Fontanges]], [[Quebec]], [[Canada]]
+|-
+|    YFH || CYFH || [[Fort Hope Airport]] || [[Fort Hope, Ontario]], [[Canada]]
+|-
+|    YFL || CYFL || [[Fort Reliance Water Aerodrome]] || [[Fort Reliance, Northwest Territories]], [[Canada]]
+|-
+|    YFO || CYFO || [[Flin Flon Airport]] || [[Flin Flon]], [[Manitoba]], [[Canada]]
+|-
+|    YFR || CYFR || [[Fort Resolution Airport]] || [[Fort Resolution, Northwest Territories]], [[Canada]]
+|-
+|    YFS || CYFS || [[Fort Simpson Airport]] || [[Fort Simpson]], [[Northwest Territories]], [[Canada]]
+|-
+|    YFX ||      || [[St. Lewis (Fox Harbour) Airport]] (TC: CCK4) || [[St. Lewis, Newfoundland and Labrador]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YG&quot;/&gt;-YG-
+|-
+|    YGA || CYGA || [[Gagnon Airport]] || [[Gagnon, Quebec]], [[Canada]]
+|-
+|    YGB || CYGB || [[Texada/Gillies Bay Airport]] || [[Texada Island]], [[British Columbia]], [[Canada]]
+|-
+|    YGC ||      || [[Grande Cache Airport]] (TC: CEQ5) || [[Grande Cache]], [[Alberta]], [[Canada]]
+&lt;!-- YGD is not IATA code for Goderich Airport (ICAO: CYGD) in Goderich, Ontario, Canada --&gt;
+|-
+|    YGE ||      || [[Gorge Harbour Airport]] || [[Gorge Harbour]], [[British Columbia]], [[Canada]]
+|-
+|    YGG ||      || [[Ganges Water Aerodrome]] (TC: CAX6) || [[Ganges, British Columbia]], [[Canada]]
+|-
+|    YGH || CYGH || [[Fort Good Hope Airport]] || [[Fort Good Hope, Northwest Territories]], [[Canada]]
+|-
+|    YGJ || RJOH || [[Miho-Yonago Airport]] || [[Yonago, Tottori]], [[Japan]]
+|-
+|    YGK || CYGK || [[Kingston/Norman Rogers Airport]] || [[Kingston, Ontario]], [[Canada]]
+|-
+|    YGL || CYGL || [[La Grande Rivière Airport]] || [[Radisson, Quebec]], [[Canada]]
+|-
+|    YGM || CYGM || [[Gimli Industrial Park Airport]] || [[Gimli, Manitoba]], [[Canada]]
+|-
+|    YGN ||      || Greenway Sound Airport || [[Greenway Sound]], [[British Columbia]], [[Canada]]
+|-
+|    YGO || CYGO || [[Gods Lake Narrows Airport]] || [[Gods Lake Narrows, Manitoba]], [[Canada]]
+|-
+|    YGP || CYGP || [[Michel-Pouliot Gaspé Airport]] || [[Gaspé, Quebec]], [[Canada]]
+|-
+|    YGQ || CYGQ || [[Geraldton (Greenstone Regional) Airport]] || [[Geraldton, Ontario]], [[Canada]]
+|-
+|    YGR || CYGR || [[Îles-de-la-Madeleine Airport]] || [[Les Îles-de-la-Madeleine, Quebec]], [[Canada]]
+|-
+|    YGS || CYGS || [[Germansen Landing Airport]] || [[Germansen Landing]], [[British Columbia]], [[Canada]]
+|-
+|    YGT || CYGT || [[Igloolik Airport]] || [[Igloolik]], [[Nunavut]], [[Canada]]
+|-
+|    YGV || CYGV || [[Havre Saint-Pierre Airport]] || [[Havre-Saint-Pierre, Quebec]], [[Canada]]
+|-
+|    YGW || CYGW || [[Kuujjuarapik Airport]] || [[Kuujjuarapik, Quebec]], [[Canada]]
+|-
+|    YGX || CYGX || [[Gillam Airport]] || [[Gillam, Manitoba]], [[Canada]]
+|-
+|    YGY || CYGY || [[Deception Airport]] (Deception Bay Airport) || [[Deception, Quebec|Deception]], [[Quebec]], [[Canada]]
+|-
+|    YGZ || CYGZ || [[Grise Fiord Airport]] || [[Grise Fiord, Nunavut]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YH&quot;/&gt;-YH-
+|-
+|    YHA ||      || [[Port Hope Simpson Airport]] (TC: CCP4) || [[Port Hope Simpson, Newfoundland and Labrador]], [[Canada]]
+|-
+|    YHB || CYHB || [[Hudson Bay Airport]] || [[Hudson Bay, Saskatchewan]], [[Canada]]
+|-
+|    YHC ||      || [[Hakai Pass Airport]] || [[Hakai Pass]], [[British Columbia]], [[Canada]]
+|-
+|    YHD || CYHD || [[Dryden Regional Airport]] || [[Dryden, Ontario]], [[Canada]]
+|-
+|    YHE || CYHE || [[Hope Aerodrome]] || [[Hope, British Columbia]], [[Canada]]
+|-
+|    YHF || CYHF || [[Hearst (René Fontaine) Municipal Airport]] || [[Hearst, Ontario]], [[Canada]]
+|-
+|    YHG ||      || [[Charlottetown Airport (Labrador)|Charlottetown Airport]] (TC: CCH4) || [[Charlottetown, Labrador, Newfoundland and Labrador|Charlottetown, Newfoundland and Labrador]], [[Canada]]
+|-
+|    YHH ||      || [[Campbell River Water Aerodrome]] || [[Campbell River, British Columbia]], [[Canada]]
+|-
+|    YHI || CYHI || [[Ulukhaktok/Holman Airport]] || [[Ulukhaktok, Northwest Territories]], [[Canada]]
+|-
+|    YHK || CYHK || [[Gjoa Haven Airport]] || [[Gjoa Haven, Nunavut]], [[Canada]]
+|-
+|    YHM || CYHM || [[John C. Munro Hamilton International Airport]] || [[Hamilton, Ontario]], [[Canada]]
+|-
+|    YHN || CYHN || [[Hornepayne Municipal Airport]] || [[Hornepayne, Ontario]], [[Canada]]
+|-
+|    YHO || CYHO || [[Hopedale Airport]] || [[Hopedale, Newfoundland and Labrador|Hopedale, Labrador]], [[Canada]]
+|-
+|    YHP || CYHP || [[Poplar Hill Airport]] || [[Poplar Hill, Ontario]], [[Canada]]
+|-
+|    YHR || CYHR || [[Chevery Airport]] || [[Chevery, Quebec]], [[Canada]]
+|-
+|    YHS ||      || [[Sechelt Aerodrome]] (TC: CAX3) || [[Sechelt, British Columbia]], [[Canada]]
+|-
+|    YHT || CYHT || [[Haines Junction Airport]] || [[Haines Junction, Yukon]], [[Canada]]
+|-
+|    YHU || CYHU || [[Montréal/Saint-Hubert Airport]] || [[Saint-Hubert, Longueuil]] (near [[Montreal]]), [[Quebec]], [[Canada]]
+|-
+|    YHY || CYHY || [[Hay River/Merlyn Carter Airport]] || [[Hay River, Northwest Territories]], [[Canada]]
+|-
+|    YHZ || CYHZ || [[Halifax Stanfield International Airport]] || [[Enfield, Nova Scotia]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YI&quot;/&gt;-YI-
+|-
+|    YIB || CYIB || [[Atikokan Municipal Airport]] || [[Atikokan]], [[Ontario]], [[Canada]]
+|-
+|    YIC ||      || [[Yichun Mingyueshan Airport]] || [[Yichun, Jiangxi]], [[China]]
+|-
+|    YIE ||      || [[Arxan Airport]] || [[Arxan]], [[Inner Mongolia]], [[China]]
+|-
+|    YIF || CYIF || [[Saint-Augustin Airport]] || [[Saint-Augustin, Côte-Nord, Quebec|Saint-Augustin]], [[Quebec]], [[Canada]]
+|-
+|    YIG ||      || [[Big Bay Marina Airport]] || [[Big Bay Marina]], [[British Columbia]], [[Canada]]
+|-
+|    YIH || ZHYC || [[Yichang Sanxia Airport]] || [[Yichang]], [[Hubei]], [[China]]
+|-
+|    YIK || CYIK || [[Ivujivik Airport]] || [[Ivujivik, Quebec|Ivujivik]], [[Québec]], [[Canada]]
+|-
+|    YIN || ZWYN || [[Yining Airport]] || [[Yining City|Yining]], [[Xinjiang]], [[China]]
+|-
+|    YIO || CYIO || [[Pond Inlet Airport]] || [[Pond Inlet, Nunavut]], [[Canada]]
+|-
+|    YIP || KYIP || [[Willow Run Airport]] || [[Detroit]], [[Michigan]], [[United States]]
+|-
+|    YIV || CYIV || [[Island Lake Airport]] || [[Island Lake, Manitoba]], [[Canada]]
+|-
+|    YIW || ZSYW || [[Yiwu Airport]] || [[Yiwu]], [[Zhejiang]], [[China]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YJ&quot;/&gt;-YJ-
+|-
+|    YJA || CYJA || [[Jasper Airport]] || [[Jasper, Alberta]], [[Canada]]
+|-
+|    YJF || CYJF || [[Fort Liard Airport]] || [[Fort Liard, Northwest Territories]], [[Canada]]
+|-
+|    YJN || CYJN || [[Saint-Jean Airport]] || [[Saint-Jean-sur-Richelieu]], [[Quebec]], [[Canada]]
+|-
+|    YJP ||      || [[Hinton/Jasper-Hinton Airport]] || [[Hinton, Alberta]], [[Canada]]
+|-
+|    YJT || CYJT || [[Stephenville Airport]] || [[Stephenville, Newfoundland and Labrador]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YK&quot;/&gt;-YK-
+|-
+|    YKA || CYKA || [[Kamloops Airport]] || [[Kamloops]], [[British Columbia]], [[Canada]]
+|-
+|    YKC || CYKC || [[Collins Bay Airport]] || [[Collins Bay]], [[Saskatchewan]], [[Canada]]
+|-
+|    YKD || CYKM || [[Kincardine Airport]] || [[Kincardine, Ontario]], [[Canada]]
+|-
+|    YKE ||      || [[Knee Lake Airport]] (TC: CJT3) || [[Knee Lake]], [[Manitoba]], [[Canada]]
+|-
+|    YKF || CYKF || [[Region of Waterloo International Airport]] || [[Waterloo Regional Municipality]], [[Ontario]], [[Canada]]
+|-
+|    YKG || CYAS || [[Kangirsuk Airport]] || [[Kangirsuk, Quebec]], [[Canada]]
+&lt;!-- YKJ is not IATA code for Key Lake Airport (ICAO: CYKJ) in Key Lake, Saskatchewan, Canada --&gt;
+|-
+|    YKK ||      || [[Kitkatla Water Aerodrome]] (TC: CAP7) || [[Kitkatla]], [[British Columbia]], [[Canada]]
+|-
+|    YKL || CYKL || [[Schefferville Airport]] || [[Schefferville, Quebec]], [[Canada]]
+|-
+|    YKM || KYKM || [[Yakima Air Terminal]] (McAllister Field) || [[Yakima, Washington]], [[United States]]
+|-
+|    YKN || KYKN || [[Chan Gurney Municipal Airport]] || [[Yankton, South Dakota]], [[United States]]
+|-
+|    YKQ || CYKQ || [[Waskaganish Airport]] || [[Waskaganish, Quebec]], [[Canada]]
+|-
+|    YKS || UEEE || [[Yakutsk Airport]] || [[Yakutsk]], [[Sakha (Yakutia) Republic]], [[Russia]]
+|-
+|    YKT ||      || [[Klemtu Airport]] || [[Klemtu, British Columbia]], [[Canada]]
+|-
+|    YKU ||      || [[Chisasibi Airport]] (TC: CSU2) || [[Chisasibi, Quebec]], [[Canada]]
+|-
+|    YKX || CYKX || [[Kirkland Lake Airport]] || [[Kirkland Lake]], [[Ontario]], [[Canada]]
+|-
+|    YKY || CYKY || [[Kindersley Airport]] || [[Kindersley, Saskatchewan]], [[Canada]]
+|-
+|    YKZ || CYKZ || [[Toronto/Buttonville Municipal Airport]] || [[Buttonville, Ontario]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YL&quot;/&gt;-YL-
+|-
+|    YLA || CWJU || [[Langara Airport]] || [[Langara]]{{disambiguation needed|date=January 2012}}, [[British Columbia]], [[Canada]]
+|-
+|    YLB || CYLB || [[Lac La Biche Airport]] || [[Lac La Biche, Alberta]], [[Canada]]
+|-
+|    YLC || CYLC || [[Kimmirut Airport]] || [[Kimmirut, Nunavut]], [[Canada]]
+|-
+|    YLD || CYLD || [[Chapleau Airport]] || [[Chapleau, Ontario]], [[Canada]]
+|-
+|    YLE || CWMT || [[Wha Ti Airport]] (TC: CEM3) || [[Lac La Martre, Northwest Territories]], [[Canada]]
+|-
+|    YLF ||      || [[Laforges Airport]] || [[Laforges]], [[Quebec]], [[Canada]]
+|-
+|    YLG || YYAL || [[Yalgoo Airport]] || [[Yalgoo, Western Australia]], [[Australia]]
+|-
+|    YLH || CYLH || [[Lansdowne House Airport]] || [[Lansdowne House, Ontario]], [[Canada]]
+|-
+|    YLI || EFYL || [[Ylivieska Airport]] || [[Ylivieska]], [[Finland]]
+|-
+|    YLJ || CYLJ || [[Meadow Lake Airport (Saskatchewan)|Meadow Lake Airport]] || [[Meadow Lake, Saskatchewan]], [[Canada]]
+|-
+|    YLL || CYLL || [[Lloydminster Airport]] || [[Lloydminster]], [[Alberta]]/[[Saskatchewan]], [[Canada]]
+|-
+|    YLN || ZYYL || [[Yilan Airport]] || [[Yilan County, Heilongjiang|Yilan]], [[Heilongjiang]], [[China]]
+|-
+|    YLO || CYLO || [[Shilo Airport]] || [[Shilo, Manitoba]], [[Canada]]
+|-
+|    YLP || CYLP || [[Mingan Airport]] || [[Mingan, Quebec]], [[Canada]]
+|-
+|    YLQ || CYLQ || [[La Tuque Airport]] || [[La Tuque, Quebec]], [[Canada]]
+|-
+|    YLS ||      || [[Lebel-sur-Quévillon Airport]] (TC: CSH4) || [[Lebel-sur-Quévillon, Quebec]], [[Canada]]
+|-
+|    YLR || CYLR || [[Leaf Rapids Airport]] || [[Leaf Rapids]], [[Manitoba]], [[Canada]]
+|-
+|    YLT || CYLT || [[Alert Airport]] || [[Alert, Nunavut]], [[Canada]]
+|-
+|    YLW || CYLW || [[Kelowna International Airport]] || [[Kelowna]], [[British Columbia]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YM&quot;/&gt;-YM-
+|-
+|    YMA || CYMA || [[Mayo Airport]] || [[Mayo, Yukon]], [[Canada]]
+|-
+|    YMB ||      || [[Merritt Airport]] (TC: CAD5) || [[Merritt, British Columbia]], [[Canada]]
+|-
+|    YMC ||      || [[Maricourt Airstrip]] || [[Maricourt, Quebec]], [[Canada]]
+|-
+|    YMD || CYMD || [[Mould Bay Airport]] || [[Mould Bay]], [[Northwest Territories]], [[Canada]]
+|-
+|    YME || CYME || [[Matane Airport]] || [[Matane]], [[Quebec]], [[Canada]]
+|-
+|    YMF ||      || [[Montague Harbour Airport]] || [[Montague Harbour]], [[British Columbia]], [[Canada]]
+|-
+|    YMG || CYMG || [[Manitouwadge Airport]] || [[Manitouwadge, Ontario]], [[Canada]]
+|-
+|    YMH || CYMH || [[Mary's Harbour Airport]] || [[Mary's Harbour, Newfoundland and Labrador|Mary's Harbour, Labrador]], [[Canada]]
+|-
+|    YMI ||      || [[Minaki Airport]] (TC: CJA6) || [[Minaki, Ontario]], [[Canada]]
+|-
+|    YMJ || CYMJ || [[CFB Moose Jaw]] || [[Moose Jaw]], [[Saskatchewan]], [[Canada]]
+|-
+|    YML || CYML || [[Charlevoix Airport]] || [[Charlevoix]], [[Quebec]], [[Canada]]
+|-
+|    YMM || CYMM || [[Fort McMurray Airport]] || [[Fort McMurray]], [[Alberta]], [[Canada]]
+|-
+|    YMN || CYFT || [[Makkovik Airport]] || [[Makkovik, Newfoundland and Labrador]], [[Canada]]
+|-
+|    YMO || CYMO || [[Moosonee Airport]] || [[Moosonee, Ontario]], [[Canada]]
+|-
+|    YMP ||      || [[Port McNeill Airport]] (TC: CAT5) || [[Port McNeill, British Columbia]], [[Canada]]
+|-
+|    YMQ ||      || All airports || [[Montreal]], [[Quebec]], [[Canada]]
+|-
+|    YMS || SPMS || [[Moisés Benzaquén Rengifo Airport]] || [[Yurimaguas]], [[Peru]]
+|-
+|    YMT || CYMT || [[Chibougamau/Chapais Airport]] || [[Chibougamau]], [[Quebec]], [[Canada]]
+|-
+|    YMW || CYMW || [[Maniwaki Airport]] || [[Maniwaki, Quebec]], [[Canada]]
+|-
+|    YMX || CYMX || [[Montréal-Mirabel International Airport]] || [[Mirabel]] (near [[Montreal]]), [[Quebec]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YN&quot;/&gt;-YN-
+|-
+|    YNA || CYNA || [[Natashquan Airport]] || [[Natashquan, Quebec (municipality)|Natashquan, Quebec]], [[Canada]]
+|-
+|    YNB || OEYN || [[Yanbu Airport]] (Yenbo Airport) || [[Yanbu]] (Yenbo), [[Al Madinah]], [[Saudi Arabia]]
+|-
+|    YNC || CYNC || [[Wemindji Airport]] || [[Wemindji, Quebec]], [[Canada]]
+|-
+|    YND || CYND || [[Gatineau-Ottawa Executive Airport]] || [[Gatineau]], [[Quebec]], [[Canada]]
+|-
+|    YNE || CYNE || [[Norway House Airport]] || [[Norway House, Manitoba]], [[Canada]]
+|-
+|    YNG || KYNG || [[Youngstown-Warren Regional Airport]] || [[Youngstown, Ohio|Youngstown]]/[[Warren, Ohio]], [[United States]]
+|-
+|    YNH || CYNH || [[Hudson's Hope Airport]] || [[Hudson's Hope, British Columbia]], [[Canada]]
+|-
+|    YNI || CYNI || [[Nitchequon Airport]] || [[Nitchequon, Quebec]], [[Canada]]
+|-
+|    YNJ || ZYYJ || [[Yanji Chaoyangchuan Airport]] || [[Yanji]], [[Jilin]], [[China]]
+|-
+|    YNK ||      || [[Nootka Sound Airport]] || [[Nootka Sound]], [[British Columbia]], [[Canada]]
+|-
+|    YNL || CYNL || [[Points North Landing Airport]] || [[Points North Landing, Saskatchewan]], [[Canada]]
+|-
+|    YNM || CYNM || [[Matagami Airport]] || [[Matagami, Quebec]], [[Canada]]
+&lt;!-- YNN is not IATA code for Nejanilini Lake Airport (ICAO: CYNN) in Nejanilini Lake, Manitoba, Canada --&gt;
+|-
+|    YNO ||      || [[North Spirit Lake Airport]] (TC: CKQ3) || [[North Spirit Lake, Ontario]], [[Canada]]
+|-
+|    YNR ||      || [[Arnes Airport]] (TC: CJQ5) || [[Arnes, Manitoba|Arnes]], [[Manitoba]], [[Canada]]
+|-
+|    YNS || CYHH || [[Nemiscau Airport]] || [[Nemiscau, Quebec]], [[Canada]]
+|-
+|    YNT || ZSYT || [[Yantai Penglai International Airport]] || [[Yantai]], [[Shandong]], [[China]]
+|-
+|    YNZ || ZSYN || [[Yancheng Nanyang Airport]] || [[Yancheng]], [[Jiangsu]], [[China]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YO&quot;/&gt;-YO-
+|-
+|    YOC || CYOC || [[Old Crow Airport]] || [[Old Crow, Yukon]], [[Canada]]
+|-
+|    YOD || CYOD || [[CFB Cold Lake]] || [[Cold Lake, Alberta]], [[Canada]]
+|-
+|    YOE ||      || [[Donnelly Airport]] || [[Donnelly, Alberta]], [[Canada]]
+|-
+|    YOG ||      || [[Ogoki Post Airport]] (TC: CNT3) || [[Ogoki Post]], [[Ontario]], [[Canada]]
+|-
+|    YOH || CYOH || [[Oxford House Airport]] || [[Oxford House, Manitoba]], [[Canada]]
+|-
+|    YOJ || CYOJ || [[High Level Airport]] || [[High Level, Alberta]], [[Canada]]
+|-
+|    YOL || DNYO || [[Yola Airport]] || [[Yola, Nigeria|Yola]], [[Nigeria]]
+|-
+|    YOO || CYOO || [[Oshawa Airport]] || [[Oshawa]], [[Ontario]], [[Canada]]
+|-
+|    YOP || CYOP || [[Rainbow Lake Airport]] || [[Rainbow Lake, Alberta]], [[Canada]]
+|-
+|    YOS || CYOS || [[Owen Sound/Billy Bishop Regional Airport]] || [[Owen Sound]], [[Ontario]], [[Canada]]
+|-
+|    YOT || LLYT || [[Yotvata Airport]] || [[Yotvata]], [[Israel]]
+|-
+|    YOW || CYOW || [[Ottawa Macdonald–Cartier International Airport|Ottawa/Macdonald-Cartier International Airport]] || [[Ottawa]], [[Ontario]], [[Canada]]
+|-
+|    YOY || CYOY || [[CFB Valcartier]] (heliport) || [[Valcartier, Québec]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YP&quot;/&gt;-YP-
+|-
+|    YPA || CYPA || [[Prince Albert (Glass Field) Airport]] || [[Prince Albert, Saskatchewan]], [[Canada]]
+|-
+|    YPB ||      || [[Alberni Valley Regional Airport]] (TC: CBS8) || [[Port Alberni]], [[British Columbia]], [[Canada]]
+|-
+|    YPC || CYPC || [[Paulatuk Airport]] || [[Paulatuk, Northwest Territories]], [[Canada]]
+|-
+|    YPD ||      || [[Parry Sound Area Municipal Airport]] (TC: CNK4) || [[Parry Sound, Ontario]], [[Canada]]
+|-
+|    YPE || CYPE || [[Peace River Airport]] || [[Peace River, Alberta]], [[Canada]]
+|-
+|    YPF || CWPF || [[Esquimalt Airport]] || [[Esquimalt, British Columbia]], [[Canada]]
+|-
+|    YPG || CYPG || [[Portage la Prairie/Southport Airport]] || [[Portage la Prairie]], [[Manitoba]], [[Canada]]
+|-
+|    YPH || CYPH || [[Inukjuak Airport]] || [[Inukjuak, Quebec]], [[Canada]]
+|-
+|    YPI ||      || [[Port Simpson Airport]] || [[Port Simpson, British Columbia]], [[Canada]]
+|-
+|    YPJ || CYLA || [[Aupaluk Airport]] || [[Aupaluk, Quebec]], [[Canada]]
+|-
+|    YPK || CYPK || [[Pitt Meadows Airport]] || [[Pitt Meadows, British Columbia]], [[Canada]]
+|-
+|    YPL || CYPL || [[Pickle Lake Airport]] || [[Pickle Lake, Ontario]], [[Canada]]
+|-
+|    YPM || CYPM || [[Pikangikum Airport]] || [[Pikangikum, Ontario]], [[Canada]]
+|-
+|    YPN || CYPN || [[Port-Menier Airport]] || [[Port-Menier, Quebec]], [[Canada]]
+|-
+|    YPO || CYPO || [[Peawanuck Airport]] || [[Peawanuck, Ontario]], [[Canada]]
+|-
+|    YPP ||      || [[Pine Point Airport]] || [[Pine Point, Northwest Territories]], [[Canada]]
+|-
+|    YPQ || CYPQ || [[Peterborough Airport]] || [[Peterborough, Ontario]], [[Canada]]
+|-
+|    YPR || CYPR || [[Prince Rupert Airport]] || [[Prince Rupert, British Columbia]], [[Canada]]
+|-
+|    YPS || CYPD || [[Port Hawkesbury Airport]] || [[Port Hawkesbury, Nova Scotia]], [[Canada]]
+|-
+|    YPT ||      || [[Pender Harbour Water Aerodrome]] (TC: CAG8) || [[Pender Harbour, British Columbia]], [[Canada]]
+|-
+|    YPW || CYPW || [[Powell River Airport]] || [[Powell River, British Columbia]], [[Canada]]
+|-
+|    YPX || CYPX || [[Puvirnituq Airport]] || [[Puvirnituq, Quebec]], [[Canada]]
+|-
+|    YPY || CYPY || [[Fort Chipewyan Airport]] || [[Fort Chipewyan, Alberta]], [[Canada]]
+|-
+|    YPZ || CYPZ || [[Burns Lake Airport]] || [[Burns Lake, British Columbia]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YQ&quot;/&gt;-YQ-
+|-
+|    YQA || CYQA || [[Muskoka Airport]] || [[Muskoka, Ontario]], [[Canada]]
+|-
+|    YQB || CYQB || [[Québec/Jean Lesage International Airport]] || [[Sainte-Foy, Quebec City|Sainte-Foy]], [[Quebec City]],  [[Quebec]], [[Canada]]
+|-
+|    YQC || CYHA || [[Quaqtaq Airport]] || [[Quaqtaq, Quebec]], [[Canada]]
+|-
+|    YQD || CYQD || [[The Pas Airport]] || [[The Pas]], [[Manitoba]], [[Canada]]
+|-
+|    YQE ||      || [[Kimberley Airport (Canada)|Kimberley Airport]] || [[Kimberley, British Columbia]], [[Canada]]
+|-
+|    YQF || CYQF || [[Red Deer Regional Airport]] || [[Red Deer, Alberta]], [[Canada]]
+|-
+|    YQG || CYQG || [[Windsor Airport]] || [[Windsor, Ontario]], [[Canada]]
+|-
+|    YQH || CYQH || [[Watson Lake Airport]] || [[Watson Lake, Yukon]], [[Canada]]
+|-
+|    YQI || CYQI || [[Yarmouth Airport]] || [[Yarmouth, Nova Scotia]], [[Canada]]
+|-
+|    YQK || CYQK || [[Kenora Airport]] || [[Kenora]], [[Ontario]], [[Canada]]
+|-
+|    YQL || CYQL || [[Lethbridge County Airport]] || [[Lethbridge]], [[Alberta]], [[Canada]]
+|-
+|    YQM || CYQM || [[Greater Moncton International Airport]] || [[Moncton]], [[New Brunswick]], [[Canada]]
+|-
+|    YQN || CYQN || [[Nakina Airport]] || [[Nakina, Ontario]], [[Canada]]
+|-
+|    YQQ || CYQQ || [[CFB Comox]] || [[Comox, British Columbia]], [[Canada]]
+|-
+|    YQR || CYQR || [[Regina International Airport]] || [[Regina, Saskatchewan]], [[Canada]]
+|-
+|    YQS || CYQS || [[St. Thomas Municipal Airport (Ontario)|St. Thomas Municipal Airport]] || [[St. Thomas, Ontario]], [[Canada]]
+|-
+|    YQT || CYQT || [[Thunder Bay International Airport|Thunder Bay Airport]] || [[Thunder Bay]], [[Ontario]], [[Canada]]
+|-
+|    YQU || CYQU || [[Grande Prairie Airport]] || [[Grande Prairie]], [[Alberta]], [[Canada]]
+|-
+|    YQV || CYQV || [[Yorkton Municipal Airport]] || [[Yorkton]], [[Saskatchewan]], [[Canada]]
+|-
+|    YQW || CYQW || [[North Battleford Airport]] || [[North Battleford]], [[Saskatchewan]], [[Canada]]
+|-
+|    YQX || CYQX || [[Gander International Airport]] / [[CFB Gander]] || [[Gander, Newfoundland and Labrador|Gander, Newfoundland]], [[Canada]]
+|-
+|    YQY || CYQY || [[Sydney/J.A. Douglas McCurdy Airport]] || [[Sydney, Nova Scotia]], [[Canada]]
+|-
+|    YQZ || CYQZ || [[Quesnel Airport]] || [[Quesnel, British Columbia]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YR&quot;/&gt;-YR-
+|-
+|    YRA || CYRA || [[Gamètì/Rae Lakes Airport]] || [[Gamèti, Northwest Territories|Gamèti]] (formerly Rae Lakes), [[Northwest Territories]], [[Canada]]
+|-
+|    YRB || CYRB || [[Resolute Bay Airport]] || [[Resolute, Nunavut]], [[Canada]]
+&lt;!--  YRC is not the IATA code of [[Chicoutimi/Saint-Honoré Aerodrome]] (ICAO: CYRC), [[Chicoutimi]], [[Quebec]], [[Canada]] --&gt;
+|-
+|    YRD ||      || [[Dean River Airport]] || [[Dean River]], [[British Columbia]], [[Canada]]
+|-
+|    YRE ||      || [[Resolution Island Airport]] || [[Resolution Island, Nunavut]], [[Canada]]
+|-
+|    YRF || CYCA || [[Cartwright Airport]] || [[Cartwright, Newfoundland and Labrador]], [[Canada]]
+|-
+|    YRG ||      || [[Rigolet Airport]] (TC: CCZ2) || [[Rigolet, Newfoundland and Labrador]], [[Canada]]
+|-
+|    YRI || CYRI || [[Rivière-du-Loup Airport]] || [[Rivière-du-Loup]], [[Quebec]], [[Canada]]
+|-
+|    YRJ || CYRJ || [[Roberval Airport]] || [[Roberval, Quebec]], [[Canada]]
+|-
+|    YRL || CYRL || [[Red Lake Airport]] || [[Red Lake, Ontario]], [[Canada]]
+|-
+|    YRM || CYRM || [[Rocky Mountain House Airport]] || [[Rocky Mountain House]], [[Alberta]], [[Canada]]
+|-
+|    YRN ||      || [[Rivers Inlet Airport]] || [[Rivers Inlet, British Columbia]], [[Canada]]
+|-
+|    YRO || CYRO || [[Rockcliffe Airport]] || [[Ottawa]], [[Ontario]], [[Canada]]
+|-
+|    YRQ || CYRQ || [[Trois-Rivières Airport]] || [[Trois-Rivières]], [[Quebec]], [[Canada]]
+|-
+|    YRR ||      || [[Stuart Island Airport]] || [[Stuart Island, British Columbia]], [[Canada]]
+&lt;!-- YRP is not the IATA code for [[Carp Airport]] (ICAO: CYRP), [[Carp, Ontario]], [[Canada]] --&gt;
+|-
+|    YRS || CYRS || [[Red Sucker Lake Airport]] || [[Red Sucker Lake, Manitoba]], [[Canada]]
+|-
+|    YRT || CYRT || [[Rankin Inlet Airport]] || [[Rankin Inlet]], [[Nunavut]], [[Canada]]
+|-
+|    YRV || CYRV || [[Revelstoke Airport]] || [[Revelstoke, British Columbia]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YS&quot;/&gt;-YS-
+|-
+|    YSA || CYSA || [[Sable Island Airport]] || [[Sable Island]], [[Nova Scotia]], [[Canada]]
+|-
+|    YSB || CYSB || [[Sudbury Airport]] || [[Greater Sudbury]], [[Ontario]], [[Canada]]
+|-
+|    YSC || CYSC || [[Sherbrooke Airport]] || [[Sherbrooke]], [[Quebec]], [[Canada]]
+|-
+|    YSD || CYSD || [[CFB Suffield]] || [[Suffield, Alberta]], [[Canada]]
+|-
+|    YSE || CYSE || [[Squamish Airport]] || [[Squamish, British Columbia]], [[Canada]]
+|-
+|    YSF || CYSF || [[Stony Rapids Airport]] || [[Stony Rapids, Saskatchewan]], [[Canada]]
+|-
+|    YSG ||      || [[Lutselke/Snowdrift Airport]] || [[Lutselke, Northwest Territories|Lutselke]] (formerly Snowdrift), [[Northwest Territories]], [[Canada]]
+|-
+|    YSH || CYSH || [[Smiths Falls-Montague Airport]] || [[Smiths Falls, Ontario]], [[Canada]]
+|-
+|    YSI ||      || [[Sans Souci Water Aerodrome]] (TC: CPS9) || [[Frying Pan Island]] (near [[Parry Sound, Ontario|Parry Sound]]), [[Ontario]], [[Canada]]
+|-
+|    YSJ || CYSJ || [[Saint John Airport]] || [[Saint John, New Brunswick]], [[Canada]]
+|-
+|    YSK || CYSK || [[Sanikiluaq Airport]] || [[Sanikiluaq, Nunavut]], [[Canada]]
+|-
+|    YSL || CYSL || [[Saint-Léonard Aerodrome]] || [[Saint-Léonard, New Brunswick]], [[Canada]]
+|-
+|    YSM || CYSM || [[Fort Smith Airport]] || [[Fort Smith, Northwest Territories]], [[Canada]]
+|-
+|    YSN || CZAM || [[Salmon Arm Airport]] || [[Salmon Arm, British Columbia]], [[Canada]]
+&lt;!-- YSN is not IATA code for St. Catharines/Niagara District Airport (IATA: YCM, ICAO: CYSN) in St. Catharines, Ontario, Canada --&gt;
+|-
+|    YSO ||      || [[Postville Airport]] (TC: CCD4) || [[Postville, Newfoundland and Labrador]], [[Canada]]
+|-
+|    YSP || CYSP || [[Marathon Aerodrome]] || [[Marathon, Ontario]], [[Canada]]
+|-
+|    YSR || CYSR || [[Nanisivik Airport]] || [[Nanisivik, Nunavut]], [[Canada]]
+|-
+|    YST || CYST || [[St. Theresa Point Airport]] || [[St. Theresa Point, Manitoba]], [[Canada]]
+|-
+|    YSU || CYSU || [[Summerside Airport]] || [[Summerside, Prince Edward Island]], [[Canada]]
+|-
+|    YSV || CYSV || [[Saglek Airport]] || [[Saglek]], [[Labrador]], [[Canada]]
+|-
+|    YSX ||      || [[Shearwater Water Aerodrome]] (TC: CAW8) || [[Bella Bella, British Columbia]], [[Canada]]
+|-
+|    YSY || CYSY || [[Sachs Harbour Airport]] || [[Sachs Harbour, Northwest Territories]], [[Canada]]
+|-
+|    YSZ ||      || [[Squirrel Cove Airport]] || [[Squirrel Cove, British Columbia]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YT&quot;/&gt;-YT-
+|-
+|    YTA || CYTA || [[Pembroke Airport]] || [[Pembroke, Ontario]], [[Canada]]
+|-
+|    YTB ||      || [[Hartley Bay Water Aerodrome]] (TC: CAY4) || [[Hartley Bay, British Columbia]], [[Canada]]
+|-
+|    YTC ||      || [[Sturdee Airport]] || [[Sturdee, British Columbia|Sturdee]], [[British Columbia]], [[Canada]]
+|-
+|    YTD || CZLQ || [[Thicket Portage Airport]] || [[Thicket Portage, Manitoba]], [[Canada]]
+|-
+|    YTE || CYTE || [[Cape Dorset Airport]] || [[Cape Dorset, Nunavut]], [[Canada]]
+|-
+|    YTF || CYTF || [[Alma Airport]] || [[Alma, Quebec]], [[Canada]]
+|-
+|    YTG ||      || [[Sullivan Bay Airport]] || [[Sullivan Bay, British Columbia|Sullivan Bay]], [[British Columbia]], [[Canada]]
+|-
+|    YTH || CYTH || [[Thompson Airport]] || [[Thompson, Manitoba]], [[Canada]]
+|-
+|    YTI ||      || [[Triple Island Helipad, British Columbia|Triple Island Helipad]] || [[Triple Island]], [[British Columbia]], [[Canada]]
+|-
+|    YTJ || CYTJ || [[Terrace Bay Airport]] || [[Terrace Bay, Ontario]], [[Canada]]
+|-
+|    YTK ||      || [[Tulugak Airport]] || [[Tulugak]], [[Quebec]], [[Canada]]
+|-
+|    YTL || CYTL || [[Big Trout Lake Airport]] || [[Big Trout Lake, Ontario]], [[Canada]]
+|-
+|    YTM || CYFJ || [[Rivière Rouge/Mont-Tremblant International Airport]] || [[Mont-Tremblant]] (La Macaza), [[Quebec]], [[Canada]]
+|-
+|    YTN ||      || [[Rivière-au-Tonnerre Airport]] || [[Rivière-au-Tonnerre, Quebec]], [[Canada]]
+|-
+|    YTO ||      || All airports || [[Toronto]], [[Ontario]], [[Canada]]
+|-
+|    YTP ||      || [[Tofino Harbour Water Aerodrome]] (TC: CAB4) || [[Tofino, British Columbia]], [[Canada]]
+|-
+|    YTQ || CYTQ || [[Tasiujaq Airport]] || [[Tasiujaq, Quebec]], [[Canada]]
+|-
+|    YTR || CYTR || [[CFB Trenton]] / Trenton Airport || [[Trenton, Ontario]], [[Canada]]
+|-
+|    YTS || CYTS || [[Timmins/Victor M. Power Airport]] || [[Timmins]], [[Ontario]], [[Canada]]
+|-
+|    YTT ||      || [[Tisdale Airport]] (TC: CJY3) || [[Tisdale, Saskatchewan]], [[Canada]]
+|-
+|    YTU ||      || [[Tasu Water Aerodrome]] || [[Tasu, British Columbia]], [[Canada]]
+|-
+|    YTX ||      || [[Telegraph Creek Airport]] (TC: CBM5) || [[Telegraph Creek, British Columbia]], [[Canada]]
+|-
+|    YTY || ZSYA || [[Yangzhou Taizhou Airport]] || [[Yangzhou]] and [[Taizhou, Jiangsu|Taizhou]], [[Jiangsu]], [[China]]
+|-
+|    YTZ || CYTZ || [[Billy Bishop Toronto City Airport]] || [[Toronto]], [[Ontario]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YU&quot;/&gt;-YU-
+|-
+|    YUA || ZPYM || [[Yuanmou Airport]] || [[Yuanmou]], [[Yunnan]], [[China]]
+|-
+|    YUB || CYUB || [[Tuktoyaktuk/James Gruben Airport]] || [[Tuktoyaktuk]], [[Northwest Territories]], [[Canada]]
+|-
+|    YUD || CYMU || [[Umiujaq Airport]] || [[Umiujaq, Quebec]], [[Canada]]
+|-
+|    YUE || YYND || [[Yuendumu Airport]] || [[Yuendumu, Northern Territory]], [[Australia]]
+|-
+|    YUL || CYUL || [[Montréal–Pierre Elliott Trudeau International Airport]] || [[Dorval]], [[Quebec]], [[Canada]]
+|-
+|    YUM || KNYL || [[Yuma International Airport]] / [[Marine Corps Air Station Yuma|MCAS Yuma]] (FAA: NYL) || [[Yuma, Arizona]], [[United States]]
+|-
+|    YUS || ZLYS || [[Yushu Batang Airport]] || [[Yushu County]], [[Qinghai]], [[China]]
+|-
+|    YUT || CYUT || [[Repulse Bay Airport]] || [[Repulse Bay, Nunavut]], [[Canada]]
+|-
+|    YUX || CYUX || [[Hall Beach Airport]] || [[Hall Beach, Nunavut]], [[Canada]]
+|-
+|    YUY || CYUY || [[Rouyn-Noranda Airport]] || [[Rouyn-Noranda]], [[Quebec]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YV&quot;/&gt;-YV-
+|-
+|    YVA || FMCN || [[Iconi Airport]] || [[Moroni, Comoros|Moroni]], [[Comoros]]
+|-
+|    YVB || CYVB || [[Bonaventure Airport]] || [[Bonaventure, Quebec]], [[Canada]]
+|-
+|    YVC || CYVC || [[La Ronge (Barber Field) Airport]] || [[La Ronge, Saskatchewan]], [[Canada]]
+|-
+|    YVD ||      || [[Yeva Airport]] || [[Yeva]], [[Papua New Guinea]]
+|-
+|    YVE || CYVK || [[Vernon Regional Airport]] || [[Vernon, British Columbia]], [[Canada]]
+|-
+|    YVG || CYVG || [[Vermilion Airport]] || [[Vermilion, Alberta]], [[Canada]]
+|-
+|    YVM || CYVM || [[Qikiqtarjuaq Airport]] || [[Qikiqtarjuaq, Nunavut]], [[Canada]]
+|-
+|    YVO || CYVO || [[Val-d'Or Airport]] || [[Val-d'Or]], [[Quebec]], [[Canada]]
+|-
+|    YVP || CYVP || [[Kuujjuaq Airport]] || [[Kuujjuaq]], [[Quebec]], [[Canada]]
+|-
+|    YVQ || CYVQ || [[Norman Wells Airport]] || [[Norman Wells, Northwest Territories]], [[Canada]]
+|-
+|    YVR || CYVR || [[Vancouver International Airport]] || [[Vancouver]], [[British Columbia]], [[Canada]]
+|-
+|    YVT || CYVT || [[Buffalo Narrows Airport]] || [[Buffalo Narrows, Saskatchewan]], [[Canada]]
+|-
+|    YVV || CYVV || [[Wiarton Airport]] || [[Wiarton, Ontario]], [[Canada]]
+|-
+|    YVZ || CYVZ || [[Deer Lake Airport]] || [[Deer Lake, Ontario]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YW&quot;/&gt;-YW-
+|-
+|    YWA || CYWA || [[Petawawa Airport]] || [[Petawawa]], [[Ontario]], [[Canada]]
+|-
+|    YWB || CYKG || [[Wakeham Bay Airport]] || [[Kangiqsujuaq, Quebec]], [[Canada]]
+|-
+|    YWF ||      || [[Downtown Waterfront Heliport]] || [[Halifax Regional Municipality|Halifax]], [[Nova Scotia]], [[Canada]]
+|-
+|    YWG || CYWG || [[Winnipeg James Armstrong Richardson International Airport]] || [[Winnipeg]], [[Manitoba]], [[Canada]]
+|-
+|    YWH || CYWH || [[Victoria Inner Harbour Airport]] || [[Victoria, British Columbia]], [[Canada]]
+|-
+|    YWJ || CYWJ || [[Deline Airport]] || [[Deline, Northwest Territories]], [[Canada]]
+|-
+|    YWK || CYWK || [[Wabush Airport]] || [[Wabush]], [[Labrador]], [[Canada]]
+|-
+|    YWL || CYWL || [[Williams Lake Airport]] || [[Williams Lake, British Columbia]], [[Canada]]
+|-
+|    YWM ||      || [[Williams Harbour Airport]] (TC: CCA6) || [[Williams Harbour, Newfoundland and Labrador]], [[Canada]]
+|-
+|    YWN ||      || [[Winisk Airport]] || [[Winisk, Ontario]], [[Canada]]
+|-
+|    YWP || CYWP || [[Webequie Airport]] || [[Webequie, Ontario|Webequie]], [[Ontario]], [[Canada]]
+|-
+|    YWR || CYWR || [[White River Airport]] || [[White River, Ontario]], [[Canada]]
+|-
+|    YWS ||      || [[Whistler/Green Lake Water Aerodrome]] (TC: CAE5) || [[Whistler, British Columbia]], [[Canada]]
+|-
+|    YWV || CYWV || [[Wainwright Aerodrome]] || [[Wainwright, Alberta]], [[Canada]]
+|-
+|    YWY || CYWY || [[Wrigley Airport]] || [[Wrigley, Northwest Territories]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YX&quot;/&gt;-YX-
+|-
+|    YXC || CYXC || [[Cranbrook/Canadian Rockies International Airport]] || [[Cranbrook, British Columbia]], [[Canada]]
+|-
+|    YXE || CYXE || [[Saskatoon John G. Diefenbaker International Airport]] || [[Saskatoon]], [[Saskatchewan]], [[Canada]]
+|-
+|    YXF ||      || [[Snake River Airport]] || [[Snake River (Yukon)|Snake River]], [[Yukon]], [[Canada]]
+|-
+|    YXH || CYXH || [[Medicine Hat Airport]] || [[Medicine Hat]], [[Alberta]], [[Canada]]
+|-
+|    YXJ || CYXJ || [[Fort St. John Airport]] || [[Fort St. John, British Columbia]], [[Canada]]
+|-
+|    YXK || CYXK || [[Rimouski Airport]] || [[Rimouski]], [[Quebec]], [[Canada]]
+|-
+|    YXL || CYXL || [[Sioux Lookout Airport]] || [[Sioux Lookout]], [[Ontario]], [[Canada]]
+|-
+|    YXN || CYXN || [[Whale Cove Airport]] || [[Whale Cove, Nunavut]], [[Canada]]
+|-
+|    YXP || CYXP || [[Pangnirtung Airport]] || [[Pangnirtung]], [[Nunavut]], [[Canada]]
+|-
+|    YXQ || CYXQ || [[Beaver Creek Airport]] || [[Beaver Creek, Yukon]], [[Canada]]
+|-
+|    YXR || CYXR || [[Earlton - Timiskaming Regional Airport]] || [[Earlton, Ontario]], [[Canada]]
+|-
+|    YXS || CYXS || [[Prince George Airport]] || [[Prince George, British Columbia]], [[Canada]]
+|-
+|    YXT || CYXT || [[Northwest Regional Airport (British Columbia)|Northwest Regional Airport]] || [[Terrace, British Columbia]] and [[Kitimat, British Columbia]], [[Canada]]
+|-
+|    YXU || CYXU || [[London International Airport]] || [[London, Ontario]], [[Canada]]
+|-
+|    YXX || CYXX || [[Abbotsford International Airport]] || [[Abbotsford, British Columbia]], [[Canada]]
+|-
+|    YXY || CYXY || [[Erik Nielsen Whitehorse International Airport]] || [[Whitehorse, Yukon]], [[Canada]]
+|-
+|    YXZ || CYXZ || [[Wawa Airport]] || [[Wawa, Ontario]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YY&quot;/&gt;-YY-
+|-
+|    YYA ||      || [[Big Bay Yacht Club Airport]] || [[Big Bay, British Columbia]], [[Canada]]
+|-
+|    YYB || CYYB || [[North Bay/Jack Garland Airport]] || [[North Bay, Ontario]], [[Canada]]
+|-
+|    YYC || CYYC || [[Calgary International Airport]] || [[Calgary]], [[Alberta]], [[Canada]]
+|-
+|    YYD || CYYD || [[Smithers Airport]] || [[Smithers, British Columbia]], [[Canada]]
+|-
+|    YYE || CYYE || [[Fort Nelson Airport]] || [[Fort Nelson, British Columbia]], [[Canada]]
+|-
+|    YYF || CYYF || [[Penticton Regional Airport|Penticton Airport]] || [[Penticton]], [[British Columbia]], [[Canada]]
+|-
+|    YYG || CYYG || [[Charlottetown Airport]] || [[Charlottetown]], [[Prince Edward Island]], [[Canada]]
+|-
+|    YYH || CYYH || [[Taloyoak Airport]] || [[Taloyoak, Nunavut]], [[Canada]]
+|-
+|    YYI || CYYI || [[Rivers Airport]] || [[Rivers, Manitoba]], [[Canada]]
+|-
+|    YYJ || CYYJ || [[Victoria International Airport]] || [[Victoria, British Columbia]], [[Canada]]
+|-
+|    YYL || CYYL || [[Lynn Lake Airport]] || [[Lynn Lake, Manitoba]], [[Canada]]
+|-
+|    YYM || CYYM || [[Cowley Airport]] || [[Cowley, Alberta]], [[Canada]]
+|-
+|    YYN || CYYN || [[Swift Current Airport]] || [[Swift Current]], [[Saskatchewan]], [[Canada]]
+|-
+|    YYQ || CYYQ || [[Churchill Airport]] || [[Churchill, Manitoba]], [[Canada]]
+|-
+|    YYR || CYYR || [[CFB Goose Bay]] / Goose Bay Airport || [[Happy Valley-Goose Bay|Goose Bay, Labrador]], [[Canada]]
+|-
+|    YYT || CYYT || [[St. John's International Airport]] || [[St. John's, Newfoundland and Labrador]], [[Canada]]
+|-
+|    YYU || CYYU || [[Kapuskasing Airport]] || [[Kapuskasing]], [[Ontario]], [[Canada]]
+|-
+|    YYW || CYYW || [[Armstrong Airport]] || [[Armstrong, Thunder Bay District, Ontario]], [[Canada]]
+|-
+|    YYY || CYYY || [[Mont-Joli Airport]] || [[Mont-Joli]], [[Quebec]], [[Canada]]
+|-
+|    YYZ || CYYZ || [[Toronto Pearson International Airport]] || [[Mississauga]], [[Ontario]], [[Canada]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;YZ&quot;/&gt;-YZ-
+|-
+|    YZA || CYZA || [[Ashcroft Airport]] || [[Ashcroft, British Columbia]], [[Canada]]
+|-
+|    YZC ||      || [[Beatton River Airport]] || [[Beatton River]], [[British Columbia]], [[Canada]]
+|-
+&lt;!-- YZD is not IATA code for Toronto/Downsview Airport (ICAO: CYZD) in Toronto, Ontario, Canada --&gt;
+
+|    YZE || CYZE || [[Gore Bay-Manitoulin Airport]] || [[Gore Bay, Ontario]], [[Canada]]
+|-
+|    YZF || CYZF || [[Yellowknife Airport]] || [[Yellowknife]], [[Northwest Territories]], [[Canada]]
+|-
+|    YZG || CYZG || [[Salluit Airport]] || [[Salluit, Quebec]], [[Canada]]
+|-
+|    YZH || CYZH || [[Slave Lake Airport]] || [[Slave Lake, Alberta]], [[Canada]]
+|-
+|    YZM ||      || [[Buchans Airport]] || [[Buchans]], [[Newfoundland and Labrador]], [[Canada]]
+|-
+|    YZP || CYZP || [[Sandspit Airport]] || [[Sandspit, British Columbia]], [[Canada]]
+|-
+|    YZR || CYZR || [[Sarnia Chris Hadfield Airport]] || [[Sarnia]], [[Ontario]], [[Canada]]
+|-
+|    YZS || CYZS || [[Coral Harbour Airport]] || [[Coral Harbour, Nunavut]], [[Canada]]
+|-
+|    YZT || CYZT || [[Port Hardy Airport]] || [[Port Hardy, British Columbia]], [[Canada]]
+|-
+|    YZU || CYZU || [[Whitecourt Airport]] || [[Whitecourt]], [[Alberta]], [[Canada]]
+|-
+|    YZV || CYZV || [[Sept-Îles Airport]] || [[Sept-Îles, Quebec]], [[Canada]]
+|-
+|    YZW || CYZW || [[Teslin Airport]] || [[Teslin, Yukon]], [[Canada]]
+|-
+|    YZX || CYZX || [[CFB Greenwood]] / Greenwood Airport || [[Greenwood, Nova Scotia]], [[Canada]]
+|-
+|    YZY || ZLZY || [[Zhangye Ganzhou Airport]] || [[Zhangye]], [[Gansu]], [[China]]
+|}
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = [[PDF]] | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|Y]]</text>
+      <sha1>dad545hmkoekq2n3cd43qd4ups9iacs</sha1>
+    </revision>
+  </page>
+</mediawiki>

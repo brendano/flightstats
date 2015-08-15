@@ -1,0 +1,736 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: D</title>
+    <ns>0</ns>
+    <id>317102</id>
+    <revision>
+      <id>669134298</id>
+      <parentid>656338116</parentid>
+      <timestamp>2015-06-29T03:21:25Z</timestamp>
+      <contributor>
+        <username>HankW512</username>
+        <id>16106831</id>
+      </contributor>
+      <comment>/* D */ updated DAK; no DST</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="44839">{{Lists of airports by IATA code}}
+
+==D==
+{{AlphanumericTOC|prefixLink=D|prefixDesc=D|numbers=|sections=}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+! style=&quot;text-align:left;&quot; | Time
+! style=&quot;text-align:left;&quot; | DST
+&lt;!-- comments added to prevent addition of incorrect IATA codes --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DA&quot;/&gt;-DA-
+|-
+|    DAA || KDAA || [[Davison Army Airfield]] || [[Fort Belvoir, Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    DAB || KDAB || [[Daytona Beach International Airport]] || [[Daytona Beach, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    DAC || VGHS || [[Shahjalal International Airport]] || [[Dhaka]], [[Bangladesh]] || [[Bangladesh Standard Time|UTC+06:00]] ||
+|-
+|    DAD || VVDN || [[Da Nang International Airport]] || [[Da Nang]], [[Vietnam]] || [[UTC+07:00]] ||
+|-
+|    DAF ||      || [[Daup Airport]] || [[Daup]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+&lt;!-- DAF is FAA code (not IATA) for Necedah Airport in Necedah, Wisconsin, USA --&gt;
+|-
+|    DAG || KDAG || [[Barstow-Daggett Airport]] || [[Daggett, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    DAH ||      || [[Dathina Airport]] || [[Dathina]], [[Yemen]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    DAJ ||      || [[Dauan Airport]] || [[Dauan]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    DAK || HEDK || [[Dakhla Oasis Airport]] || [[Dakhla Oasis]], [[Egypt]] || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    DAL || KDAL || [[Dallas Love Field]] || [[Dallas, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DAM || OSDI || [[Damascus International Airport]] || [[Damascus]], [[Syria]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    DAN || KDAN || [[Danville Regional Airport]] || [[Danville, Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    DAP || VNDL || [[Darchula Airport]] || [[Darchula]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    DAR || HTDA || [[Julius Nyerere International Airport]] || [[Dar es Salaam]], [[Tanzania]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    DAT || ZBDT || [[Datong Yungang Airport]] || [[Datong]], [[Shanxi]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    DAU || AYDU || [[Daru Airport]] || [[Daru]], [[Western Province (Papua New Guinea)|Western Province]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    DAV || MPDA || [[Enrique Malek International Airport]] || [[David, Panama|David]], [[Chiriquí Province]], [[Panama]] || [[Eastern Time Zone|UTC−05:00]] ||
+&lt;!-- DAW is FAA code (not IATA) for Skyhaven Airport in Rochester, New Hampshire, USA --&gt;
+|-
+|    DAX || ZUDX || [[Dazhou Heshi Airport]] || [[Dazhou, Sichuan]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    DAY || KDAY || [[Dayton International Airport]] || [[Dayton, Ohio]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    DAZ || OADZ || [[Darwaz Airport]] || [[Darwaz district|Darwaz]], [[Badakhshan]], [[Afghanistan]] || [[Time in Afghanistan|UTC+04:30]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DB&quot;/&gt;-DB-
+|-
+|    DBA || OPDB || [[Dalbandin Airport]] || [[Dalbandin]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    DBD || VEDB || [[Dhanbad Airport]] || [[Dhanbad]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    DBM || HADM || [[Debre Marcos Airport]] || [[Debre Marcos]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    DBN || KDBN || [[W. H. 'Bud' Barron Airport]] || [[Dublin, Georgia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    DBO || YSDU || [[Dubbo Airport]] || [[Dubbo]], [[New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    DBP || AYDB || [[Debepare Airport]] || [[Debepare]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    DBQ || KDBQ || [[Dubuque Regional Airport]] || [[Dubuque, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DBS ||      || [[Dubois Municipal Airport (Idaho)|Dubois Municipal Airport]] (FAA: U41) || [[Dubois, Idaho]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    DBT || HADT || [[Debre Tabor Airport]] || [[Debre Tabor]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    DBV || LDDU || [[Dubrovnik Airport]] || [[Dubrovnik]], [[Dubrovnik-Neretva County]], [[Croatia]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    DBY || YDAY || [[Dalby Airport]] || [[Dalby, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DC&quot;/&gt;-DC-
+|-
+|    DCA || KDCA || [[Ronald Reagan Washington National Airport]] || [[Arlington County, Virginia]] (near [[Washington, D.C.]]), United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    DCF || TDCF || [[Canefield Airport]] || [[Canefield]], [[Dominica]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    DCI || LIED || [[Decimomannu Air Base]] || [[Sardinia]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    DCK ||      || [[Dahl Creek Airport]] || [[Dahl Creek, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    DCM || LFCK || [[Castres-Mazamet Airport]] || [[Castres]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| &lt;s&gt;DCR&lt;/s&gt; || &lt;s&gt;KDCR&lt;/s&gt; || &lt;s&gt;[[Decatur Hi-Way Airport]]&lt;/s&gt; (closed) || &lt;s&gt;[[Decatur, Indiana]], United States&lt;/s&gt; ||
+|-
+|    DCT || MYRD || [[Duncan Town Airport]] || [[Duncan Town]], [[Ragged Island, Bahamas|Ragged Island]], [[Bahamas]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    DCU || KDCU || [[Pryor Field Regional Airport]] || [[Decatur, Alabama]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DCY || ZUDC || [[Daocheng Yading Airport]] || [[Daocheng]], [[Sichuan]], China || [[Time in China|UTC+08:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DD&quot;/&gt;-DD-
+|-
+|    DDC || KDDC || [[Dodge City Regional Airport]] || [[Dodge City, Kansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DDG || ZYDD || [[Dandong Langtou Airport]] || [[Dandong]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    DDI ||      || [[Daydream Island Resort Airport]] || [[Daydream Island Resort]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    DDM ||      || [[Dodoima Airport]] || [[Dodoima]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    DDN || YDLT || [[Delta Downs Airport]] || [[Delta Downs, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    DDP ||      || [[Dorado Beach Airport]] || [[Dorado, Puerto Rico]] || [[Atlantic Time Zone|UTC−04:00]] ||
+&lt;!-- DDT is FAA code (not IATA) for Duffy's Tavern Airport in Slana, Alaska, USA --&gt;
+|-
+|    DDU || OPDD || [[Dadu Airport]] || [[Dadu, Pakistan]] || [[Time in Pakistan|UTC+05:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DE&quot;/&gt;-DE-
+|-
+|    DEA || OPDG || [[Dera Ghazi Khan Airport]] || [[Dera Ghazi Khan]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    DEB || LHDC || [[Debrecen Airport]]  || [[Debrecen]], [[Hajdú-Bihar]], Hungary || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    DEC || KDEC || [[Decatur Airport]] || [[Decatur, Illinois]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DED || VIDN || [[Dehradun Airport]] || [[Dehradun]], [[Uttarakhand]], India || [[Indian Standard Time|UTC+05:30]] ||
+&lt;!-- DED is FAA code (not IATA) for Deland Municipal Airport in Deland, Florida, USA --&gt;
+&lt;!-- DEE is FAA code (IATA: DRG) for Deering Airport in Deering, Alaska, USA --&gt;
+|-
+|    DEF || OIAD || [[Dezful Airport]] || [[Dezful]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    DEH || KDEH || [[Decorah Municipal Airport]] || [[Decorah, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DEI || FSSD || [[Denis Island Airport]] || [[Denis Island]], [[Seychelles]] || [[Seychelles Time|UTC+04:00]] ||
+|-
+|    DEL || VIDP || [[Indira Gandhi International Airport]] || [[Delhi]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    DEM || HADD || [[Dembidolo Airport]] || [[Dembidolo]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    DEN || KDEN || [[Denver International Airport]] (succeeded [[Stapleton Airport]]) || [[Denver, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    DEP || VEDZ || [[Daporijo Airport]] || [[Daporijo]], [[Arunachal Pradesh]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+&lt;!-- DEQ is FAA code (not IATA) for J. Lynn Helms Sevier County Airport in De Queen, Arkansas, USA --&gt;
+|-
+|    DER || AYDE || [[Derim Airport]] || [[Derim]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    DES || FSDR || [[Desroches Airport]] || [[Desroches Island]], [[Seychelles]] || [[Seychelles Time|UTC+04:00]] ||
+|-
+|    DET || KDET || [[Coleman A. Young International Airport]] || [[Detroit, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- DEW is FAA code (not IATA) for Deer Park Airport in Deer Park, Washington, USA --&gt;
+|-
+|    DEZ || OSDZ || [[Deir ez-Zor Airport]] (Al Jafrah Airport) || [[Deir ez-Zor]] (Deirezzor), [[Syria]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DF&quot;/&gt;-DF-
+|-
+|    DFI || KDFI || [[Defiance Memorial Airport]] || [[Defiance, Ohio]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    DFP ||      || [[Drumduff Airport]] || [[Drumduff]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    DFW || KDFW || [[Dallas/Fort Worth International Airport]] || [[Dallas, Texas|Dallas]] and [[Fort Worth, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DG&quot;/&gt;-DG-
+|-
+|    DGA ||      || [[Dangriga Airport]] || [[Dangriga]], [[Belize]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    DGC ||      || [[Degahbur Airport]] || [[Degahbur]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    DGE || YMDG || [[Mudgee Airport]] || [[Mudgee]], [[New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+&lt;!-- DGG is FAA code (IATA: RDB) for Red Dog Airport in Red Dog Mine, Alaska, USA --&gt;
+|-
+|    DGL || KDGL || [[Douglas Municipal Airport (Arizona)|Douglas Municipal Airport]] || [[Douglas, Arizona]], United States || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+|    DGN || KNDY || [[Dahlgren Naval Surface Warfare Center]] (FAA: NDY) || [[Dahlgren, Virginia|Dahlgren]], [[Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    DGO || MMDO || [[General Guadalupe Victoria International Airport]] || [[Durango, Durango]], Mexico || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+|    DGP || EVDA || [[Daugavpils International Airport]] || [[Daugavpils]], [[Latvia]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    DGR || NZDA || [[Dargaville Aerodrome]] || [[Dargaville]], [[New Zealand]] || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|-
+|    DGT || RPVD || [[Sibulan Airport|Sibulan (Dumaguete) Airport]] || [[Sibulan]], [[Negros Oriental]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    DGU || DFOD || [[Dedougou Airport]] || [[Dédougou]], [[Burkina Faso]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    DGW || KDGW || [[Converse County Airport]] || [[Douglas, Wyoming]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    DGX || EGDX || [[MOD St Athan]] || [[St Athan]], [[Wales]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DH&quot;/&gt;-DH-
+|-
+|    DHA || OEDR || [[Dhahran International Airport]] || [[Dhahran]], [[Saudi Arabia]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    DHD || YDRH || [[Durham Downs Airport]] || [[Durham Downs Station]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    DHF || OMAM || [[Al Dhafra Airport]] || [[Al Dhafra]], [[United Arab Emirates]] || [[UTC+04:00]] ||
+|-
+|    DHI || VNDH || [[Dhangarhi Airport]] || [[Dhangarhi]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    DHL || ODAL || [[Dhala Airport]] || [[Dhala]], [[Yemen]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    DHM || VIGG || [[Gaggal Airport]] || [[Kangra, Himachal Pradesh]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    DHN || KDHN || [[Dothan Regional Airport]] || [[Dothan, Alabama]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DHR || EHKD || [[De Kooy Airport]] || [[Den Helder]], Netherlands || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    DHT || KDHT || [[Dalhart Municipal Airport]] || [[Dalhart, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DI&quot;/&gt;-DI-
+&lt;!-- DIA not IATA for Diamantina Airport in Diamantina, Minas Gerais, Brazil --&gt;
+|-
+|    DIB || VEMN || [[Dibrugarh Airport]] (Chabua Airport) || [[Dibrugarh]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    DIC || WPDH || [[City Heliport]] || [[Dili]], [[East Timor]] (Timor-Leste) || [[Time in East Timor|UTC+09:00]] ||
+|-
+|    DIE || FMNA || [[Arrachart Airport]] || [[Antsiranana]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    DIG || ZPDQ || [[Dêqên Shangri-La Airport]] || [[Shangri-La County|Shangri-La]], [[Yunnan]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    DIJ || LFSD || [[Dijon-Bourgogne Airport]] || [[Dijon]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    DIK || KDIK || [[Theodore Roosevelt Regional Airport]] || [[Dickinson, North Dakota]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    DIL || WPDL || [[Presidente Nicolau Lobato International Airport]] || [[Dili]], [[East Timor]] (Timor-Leste) || [[Time in East Timor|UTC+09:00]] ||
+|-
+|    DIM || DIDK || [[Dimbokro Airport]] || [[Dimbokro]], [[Côte d'Ivoire]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    DIN || VVDB || [[Dien Bien Phu Airport]] || [[Dien Bien Phu]], [[Vietnam]] || [[UTC+07:00]] ||
+|-
+|    DIO ||      || [[Diomede Heliport]] (FAA: DM2) || [[Diomede, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    DIP || DFED || [[Diapaga Airport]] || [[Diapaga]], [[Burkina Faso]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    DIQ || SNDV || [[Divinópolis Airport]] || [[Divinópolis]], [[Minas Gerais]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    DIR || HADR || [[Aba Tenna Dejazmach Yilma International Airport]] || [[Dire Dawa]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    DIS || FCPL || [[Dolisie Airport]] || [[Dolisie]], [[Republic of Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    DIU ||      || [[Diu Airport]] || [[Diu, India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    DIV || DIDV || [[Divo Airport]] || [[Divo, Côte d'Ivoire|Divo]], [[Côte d'Ivoire]] (Ivory Coast) || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    DIY || LTCC || [[Diyarbakır Airport]] || [[Diyarbakır]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DJ&quot;/&gt;-DJ-
+|-
+|    DJA || DBBD || [[Djougou Airport]] || [[Djougou]], [[Benin]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    DJB || WIPA || [[Sultan Thaha Airport]] (Sultan Taha Syarifudn Airport) || [[Jambi]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|-
+|    DJE || DTTJ || [[Zarzis Airport]] || [[Djerba]], [[Tunisia]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    DJG || DAAJ || [[Tiska Airport]] || [[Djanet]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    DJJ || WAJJ || [[Sentani Airport]] || [[Jayapura]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    DJM || FCBD || [[Djambala Airport]] || [[Djambala]], [[Republic of Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    DJN ||      || [[Delta Junction Airport]] (FAA: D66) || [[Delta Junction, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    DJO || DIDL || [[Daloa Airport]] || [[Daloa]], [[Côte d'Ivoire]] (Ivory Coast) || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    DJR || YDAJ || [[Dajarra Airport]] || [[Dajarra, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    DJU || BIDV || [[Djúpivogur Airport]] || [[Djúpivogur]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DK&quot;/&gt;-DK-
+&lt;!-- DKB is FAA code (not IATA) for DeKalb Taylor Municipal Airport in DeKalb, Illinois, USA --&gt;
+|-
+|    DKI || YDKI || [[Dunk Island Airport]] || [[Dunk Island]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    DKK || KDKK || [[Chautauqua County/Dunkirk Airport]] || [[Dunkirk, New York]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    DKR || GOOY || [[Léopold Sédar Senghor International Airport]] || [[Dakar]], [[Senegal]] || [[Greenwich Mean Time|UTC±00:00]] ||
+&lt;!-- DKR is FAA code (not IATA) for Houston County Airport in Crockett, Texas, USA --&gt;
+|-
+|    DKS || UODD || [[Dikson Airport]] || [[Dikson (urban-type settlement)|Dikson]], Russia || [[Krasnoyarsk Time|UTC+07:00]] ||
+|-
+|    DKV || YDVR || [[Docker River Airport]] || [[Docker River]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+&lt;!-- DKX is FAA code (not IATA) for Knoxville Downtown Island Airport in Knoxville, Tennessee, USA --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DL&quot;/&gt;-DL-
+|-
+|    DLA || FKKD || [[Douala Airport]] || [[Douala]], [[Cameroon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    DLB ||      || [[Dalbertis Airport]] || [[Dalbertis]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    DLC || ZYTL || [[Dalian Zhoushuizi International Airport]] || [[Dalian]], [[Liaoning]], China || [[Time in China|UTC+08:00]] ||
+&lt;!-- DLC is FAA code (IATA: DLL) for Dillon County Airport in Dillon, South Carolina, USA --&gt;
+&lt;!-- DLD is not the IATA code of [[Geilo Airport, Dagali]] (ICAO code: ENDI), [[Geilo]], Norway --&gt;
+|-
+|    DLE || LFGJ || [[Dôle-Tavaux Airport]] || [[Dole, Jura|Dole]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    DLF || KDLF || [[Laughlin Air Force Base]] || [[Del Rio, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DLG || PADL || [[Dillingham Airport]] || [[Dillingham, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    DLH || KDLH || [[Duluth International Airport]] || [[Duluth, Minnesota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DLI || VVDL || [[Lien Khuong Airport]] || [[Da Lat]], [[Lam Dong]], [[Vietnam]] || [[UTC+07:00]] ||
+|-
+|    DLK || YDLK || [[Dulkaninna Airport]] || [[Dulkaninna]], [[South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+|    DLL || KDLC || [[Dillon County Airport]] (FAA: DLC) || [[Dillon, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- DLL is FAA code (not IATA) for Baraboo Wisconsin Dells Airport in Baraboo, Wisconsin, USA --&gt;
+|-
+|    DLM || LTBS || [[Dalaman Airport]] || [[Muğla]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    DLN || KDLN || [[Dillon Airport]] || [[Dillon, Montana]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+&lt;!-- DLO is FAA code (not IATA) for Delano Municipal Airport in Delano, California, USA --&gt;
+|-
+|    DLP ||      || [[Disneyland Resort Paris Airport]] || [[Disneyland Resort Paris]], Paris, France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    DLS || KDLS || [[Columbia Gorge Regional Airport]] ([[The Dalles Municipal Airport]]) || [[The Dalles, Oregon]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    DLU || ZPDL || [[Dali Airport]] || [[Dali City, Yunnan|Dali, Yunnan]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    DLV || YDLV || [[Delissaville Airport]] || [[Delissaville]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    DLY || NVVD || [[Dillon's Bay Airport]] || [[Dillon's Bay]], [[Erromango]], [[Taféa]], [[Vanuatu]] || [[UTC+11:00]] ||
+|-
+|    DLZ || ZMDZ || [[Omnogobi Airport]] || [[Dalanzadgad]], [[Mongolia]] || [[Time in Mongolia|UTC+08:00]] ||
+&lt;!-- DLZ is FAA code (not IATA) for Delaware Municipal Airport in Delaware, Ohio, USA --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DM&quot;/&gt;-DM-
+|-
+|    DMA || KDMA || [[Davis Monthan Air Force Base]] || [[Tucson, Arizona]], United States || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+|    DMB || UADD || [[Taraz Airport]] (Zhambul Airport) || [[Taraz]] (formerly Dzhambul and Aulie-Ata), [[Kazakhstan]] || [[Time in Kazakhstan|UTC+06:00]] ||
+|-
+|    DMD || YDMG || [[Doomadgee Mission Airport]] || [[Doomadgee Mission]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    DME || UUDD || [[Domodedovo International Airport]] || Moscow, Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    DMK || VTBD || [[Don Mueang International Airport]] || [[Don Muang]], [[Bangkok]], [[Thailand]] || [[UTC+07:00]] ||
+|-
+|    DMM || OEDF || [[King Fahd International Airport]] || [[Dammam]], [[Saudi Arabia]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    DMN || KDMN || [[Deming Municipal Airport]] || [[Deming, New Mexico]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    DMO || KDMO || [[Sedalia Memorial Airport]] || [[Sedalia, Missouri]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DMR ||      || [[Dhamar Airport]] || [[Dhamar, Yemen|Dhamar]], [[Yemen]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    DMT || SWDM || [[Diamantino Airport]] || [[Diamantino]], [[Mato Grosso]], [[Brazil]] || [[Time in Brazil|UTC−04:00]] || Oct-Feb
+|-
+|    DMU || VEMR || [[Dimapur Airport]] || [[Dimapur]], India || [[Indian Standard Time|UTC+05:30]] ||
+&lt;!-- DMW is FAA code (not IATA) for Carroll County Regional Airport in Westminster, Maryland, USA --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DN&quot;/&gt;-DN-
+|-
+|    DNA || RODN || [[Kadena Air Base]] || [[Okinawa Prefecture]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    DNB || YDBR || [[Dunbar Airport]] || [[Dunbar, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    DNC ||      || [[Danane Airport]] || [[Danane]], [[Côte d'Ivoire]] (Ivory Coast) || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    DND || EGPN || [[Dundee Airport]] || [[Dundee]], [[Scotland]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    DNF ||      || [[Martubah Airport]] || [[Derna, Libya|Derna]], [[Libya]] || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    DNH || ZLDH || [[Dunhuang Airport]] || [[Dunhuang]], [[Gansu]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    DNI || HSWD || [[Wad Medani Airport]] || [[Wad Medani]], [[Sudan]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    DNK || UKDD || [[Dnipropetrovsk International Airport]] || [[Dnipropetrovsk]], [[Ukraine]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    DNL || KDNL || [[Daniel Field]] || [[Augusta, Georgia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    DNM ||      || [[Denham Airport]] || [[Denham, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    DNN || KDNN || [[Dalton Municipal Airport]] || [[Dalton, Georgia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    DNO || SWDN || [[Dianopolis Airport]] || [[Dianopolis]], [[Tocantins (state)|Tocantins]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    DNP || VNDG || [[Tulsipur Airport]] (Dang Airport) || [[Dang Deukhuri District|Dang]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    DNQ || YDLQ || [[Deniliquin Airport]] || [[Deniliquin, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    DNR || LFRD || [[Dinard - Pleurtuit - Saint-Malo Airport]] || [[Dinard]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    DNS || KDNS || [[Denison Municipal Airport]] || [[Denison, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DNU || AYDN || [[Dinangat Airport]] || [[Dinangat]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    DNV || KDNV || [[Vermilion County Airport]] || [[Danville, Illinois]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DNX || HSGG || [[Galegu Airport]] || [[Dinder]], [[Sudan]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    DNZ || LTAY || [[Çardak Airport]] || [[Denizli]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DO&quot;/&gt;-DO-
+|-
+|    DOA ||      || [[Doany Airport]] || [[Doany]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    DOB || WAPD || [[Dobo Airport]] || [[Dobo, Indonesia|Dobo]], [[Wamar Island]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    DOC ||      || [[Dornoch Airport]] || [[Dornoch]], [[Scotland]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    DOD || HTDO || [[Dodoma International Airport]] || [[Dodoma]], [[Tanzania]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    DOE ||      || [[Djumu Airport]] || [[Djumu]] (Djoemoe), [[Suriname]] || [[UTC−03:00]] ||
+|-
+|    DOG || HSDN || [[Dongola Airport]] || [[Dongola]], [[Sudan]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    DOH || OTHH || [[Hamad International Airport]] || [[Doha]], [[Qatar]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    DOI || AYDO || [[Doini Airport]] || [[Doini]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    DOK || UKCC || [[Donetsk International Airport]] || [[Donetsk]], [[Ukraine]] || [[Moscow Time|UTC+03:00]] ||
+|-
+|    DOL || LFRG || [[Deauville Saint-Gatien Airport]] || [[Deauville]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    DOM || TDPD || [[Melville Hall Airport]] || [[Melville Hall]] (near [[Roseau, Dominica|Roseau]]), [[Dominica]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    DON ||      || [[Dos Lagunas Airport]] || [[Dos Lagunas]], [[El Petén]], [[Guatemala]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    DOO || AYDR || [[Dorobisoro Airport]] || [[Dorobisoro]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    DOP || VNDP || [[Dolpa Airport]] || [[Dolpa]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    DOR || DFEE || [[Dori Airport]] || [[Dori, Burkina Faso|Dori]], [[Burkina Faso]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    DOS ||      || [[Dios Airport]] || [[Dios, Papua New Guinea|Dios]], [[Papua New Guinea]] || [[UTC+11:00]] ||
+|-
+| &lt;s&gt;DOT&lt;/s&gt; || &lt;s&gt;SADD&lt;/s&gt; || &lt;s&gt;[[Don Torcuato International Airport]]&lt;/s&gt; (closed) || &lt;s&gt;[[Buenos Aires]], [[Argentina]]&lt;/s&gt; ||
+|-
+|    DOU || SSDO || [[Dourados Airport]] || [[Dourados]], [[Minas Gerais]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    DOV || KDOV || [[Dover Air Force Base]] || [[Dover, Delaware]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    DOX || YDRA || [[Dongara Airport]] || [[Dongara, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DP&quot;/&gt;-DP-
+|-
+|    DPA || KDPA || [[Dupage Airport]] || [[West Chicago, Illinois]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DPE || LFAB || [[St-Aubin Airport]] || [[Dieppe, Seine-Maritime|Dieppe]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    DPG || KDPG || [[Michael Army Airfield]] || [[Dugway Proving Ground]], [[Utah]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    DPL || RPMG || [[Dipolog Airport]] || [[Dipolog City]], [[Zamboanga del Norte]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+&lt;!-- DPL is FAA code (not IATA) for Duplin County Airport in Kenansville, North Carolina --&gt;
+|-
+|    DPO || YDPO || [[Devonport Airport]] || [[Devonport, Tasmania]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    DPS || WADD || [[Ngurah Rai International Airport]] || [[Denpasar]], [[Bali]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    DPT ||      || [[Deputatsky Airport]] || [[Deputatsky, Sakha Republic |Deputatsky]], [[Sakha Republic]], [[Russia]] || [[Vladivostok Time|UTC+10:00]] ||
+|-
+|    DPU ||      || [[Dumpu Airport]] || [[Dumpu]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DQ&quot;/&gt;-DQ-
+|-
+|    DQA || ZYDQ || [[Daqing Sartu Airport]] || [[Daqing]], [[Heilongjiang]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    DQH || PALP || [[Alpine Airstrip]] (FAA: AK15) || [[Deadhorse, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+&lt;!-- DQH is FAA code (not IATA) for Douglas Municipal Airport in Douglas, Georgia, USA --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DR&quot;/&gt;-DR-
+|-
+|    DRA || KDRA || [[Desert Rock Airport]] || [[Mercury, Nevada]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    DRB || YDBY || [[Derby Airport (Australia)|Derby Airport]] || [[Derby, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    DRC ||      || [[Dirico Airport]] || [[Dirico]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    DRD || YDOR || [[Dorunda Airport]] || [[Dorunda]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    DRE || KDRM || [[Drummond Island Airport]] (FAA: DRM) || [[Drummond Island, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    DRG || PADE || [[Deering Airport]] (FAA: DEE) || [[Deering, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    DRH ||      || [[Dabra Airport]] || [[Dabra, Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    DRI || KDRI || [[Beauregard Regional Airport]] || [[De Ridder, Louisiana]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DRJ || SMDA || [[Drietabbetje Airport]] || [[Drietabbetje]], [[Suriname]] || [[UTC−03:00]] ||
+|-
+|    DRK || MRDK || [[Drake Bay Airport]] || [[Drake Bay, Costa Rica]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    DRM ||      || [[Drama Airport]] || [[Drama]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+&lt;!-- DRM is FAA code (IATA: DRE) for Drummond Island Airport in Drummond Island, Michigan, USA --&gt;
+|-
+|    DRN || YDBI || [[Dirranbandi Airport]] || [[Dirranbandi, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    DRO || KDRO || [[Durango-La Plata County Airport]] || [[Durango, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    DRR || YDRI || [[Durrie Airport]] || [[Durrie Station]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    DRS || EDDC || [[Dresden Airport]] || [[Dresden]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    DRT || KDRT || [[Del Rio International Airport]] || [[Del Rio, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DRU ||      || [[Drummond Airport]] (FAA: M26) || [[Drummond, Montana]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    DRW || YPDN || [[Darwin International Airport]] || [[Darwin, Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DS&quot;/&gt;-DS-
+|-
+|    DSA || EGCN || [[Robin Hood Airport Doncaster Sheffield]] || [[Doncaster]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    DSC || FKKS || [[Dschang Airport]] || [[Dschang]], [[Cameroon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    DSD || TFFA || [[Grande Anse Airport]] || [[Grande Anse, Guadeloupe|Grande Anse]], [[La Desirade]], [[Guadeloupe]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    DSE || HADC || [[Combolcha Airport]] || [[Dessie]] / [[Kombolcha]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    DSG ||      || [[Dilasag Airport]] || [[Dilasag]], [[Aurora (province)|Aurora]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    DSI || KDTS || [[Destin-Fort Walton Beach Airport]] (FAA: DTS) || [[Destin, Florida]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DSK || OPDI || [[Dera Ismail Khan Airport]] || [[Dera Ismail Khan]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    DSL ||      || [[Daru Airport (Sierra Leone)|Daru Airport]] || [[Daru]], [[Sierra Leone]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    DSM || KDSM || [[Des Moines International Airport]] || [[Des Moines, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DSN || ZBDS || [[Ordos Ejin Horo Airport]] || [[Ordos]], [[Inner Mongolia]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    DSV || KDSV || [[Dansville Municipal Airport]] || [[Dansville, Livingston County, New York|Dansville, New York]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DT&quot;/&gt;-DT-
+|-
+|    DTA || KDTA || [[Delta Municipal Airport]] || [[Delta, Utah]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    DTD || WALJ || [[Datadawai Airport]] || [[Long Pahangai]], [[West Kutai Regency]], [[East Kalimantan]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    DTE || RPUD || [[Bagasbas Airport]] || [[Daet]], [[Camarines Norte]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+&lt;!-- DTG is FAA code (not IATA) for Dwight Airport in Dwight, Illinois, USA --&gt;
+|-
+|    DTH ||      || [[Death Valley National Park Airport]] || [[Death Valley]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    DTL || KDTL || [[Detroit Lakes Airport]] (Wething Field) || [[Detroit Lakes, Minnesota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DTM || EDLW || [[Dortmund Airport]] || [[Dortmund]], [[North Rhine-Westphalia]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    DTN || KDTN || [[Shreveport Downtown Airport]] || [[Shreveport, Louisiana]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- DTO is FAA code (not IATA) for Denton Municipal Airport in Denton, Texas, USA --&gt;
+&lt;!-- DTS is FAA code (IATA: DSI) for Destin-Fort Walton Beach Airport in Destin, Florida, USA --&gt;
+|-
+|    DTT ||      || All Airports || [[Detroit, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    DTW || KDTW || [[Detroit Metropolitan Wayne County Airport]] || [[Romulus, Michigan|Romulus]] (near [[Detroit]]), [[Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DU&quot;/&gt;-DU-
+|-
+|    DUA || KDUA || [[Eaker Field]] || [[Durant, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DUB || EIDW || [[Dublin Airport]] || [[Dublin]], [[Republic of Ireland|Ireland]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    DUC || KDUC || [[Halliburton Field (airport)|Halliburton Field]] || [[Duncan, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DUD || NZDN || [[Dunedin Airport]] || [[Dunedin]], [[Otago]], New Zealand || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|-
+|    DUE || FNDU || [[Dundo Airport]] || [[Dundo]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    DUF ||      || [[Pine Island Airport]] (FAA: 7NC2) || [[Corolla, North Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    DUG || KDUG || [[Bisbee-Douglas International Airport]] || [[Bisbee, Arizona|Bisbee]]/[[Douglas, Arizona]], United States || [[Mountain Time Zone|UTC−07:00]] ||
+&lt;!-- DUH is FAA code (not IATA) for Toledo Suburban Airport in Lambertville, Michigan, USA --&gt;
+|-
+|    DUJ || KDUJ || [[DuBois Regional Airport]] (formerly DuBois-Jefferson County Airport) || [[DuBois, Pennsylvania]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    DUK || FADK || [[Dukuduk Airport]] || [[Dukuduk]], South Africa || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    DUM || WIBD || [[Pinang Kampai Airport]] || [[Dumai]], [[Sumatra]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|-
+|    DUN || BGDU || [[Dundas Airport]] || [[Thule Air Base|Dundas]], [[Greenland]] || [[Atlantic Time Zone|UTC−04:00]] || Mar-Nov
+|-
+|    DUQ ||      || [[Duncan Airport]] || [[Duncan, British Columbia|Duncan]], [[British Columbia]], Canada || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    DUR || FALE || [[King Shaka International Airport]] || [[Durban]], [[KwaZulu-Natal]], South Africa || [[South African Standard Time|UTC+02:00]] ||
+&lt;!-- DUR was assigned to Durban International Airport until April 30, 2010, when the airport was closed and replaced with King Shaka International Airport --&gt;
+|-
+|    DUS || EDDL || [[Düsseldorf International Airport]] || [[Düsseldorf]], [[North Rhine-Westphalia]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    DUT || PADU || [[Unalaska Airport]] || [[Unalaska, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+&lt;!-- DUX is FAA code (not IATA) for Moore County Airport in Dumas, Texas, USA --&gt;
+&lt;!-- DUY is FAA code (IATA: KKH) for Kongiganak Airport in Kongiganak, Alaska, USA --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DV&quot;/&gt;-DV-
+|-
+|    DVA || LRDV || [[Deva Airport]] || [[Deva, Romania]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    DVD ||  || [[Andavadoaka Airport]] || [[Andavadoaka]], [[Toliara Province|Toliara province]], [[Atsimo-Andrefana|Atsimo-Andrefana region]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+&lt;!-- DVK is FAA code (not IATA) for Stuart Powell Field in Danville, Kentucky, USA --&gt;
+|-
+|    DVL || KDVL || [[Devils Lake Municipal Airport]] || [[Devils Lake, North Dakota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DVN || KDVN || [[Davenport Municipal Airport (Iowa)|Davenport Municipal Airport]] || [[Davenport, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DVO || RPMD || [[Francisco Bangoy International Airport]] || [[Davao City]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    DVP || YDPD || [[Davenport Downs Airport]] || [[Davenport Downs Station]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+&lt;!-- DVP is FAA code (not IATA) for Slayton Municipal Airport in Slayton, Minnesota, USA --&gt;
+|-
+|    DVR ||      || [[Daly River Airport]] || [[Daly River, Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    DVT || KDVT || [[Phoenix Deer Valley Airport]] || [[Phoenix, Arizona]], United States || [[Mountain Time Zone|UTC−07:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DW&quot;/&gt;-DW-
+|-
+|    DWA || FWDW || [[Dwangwa Airport]] || [[Dwangwa]], [[Malawi]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    DWB || FMNO || [[Soalala Airport]] || [[Soalala]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    DWC || OMDW || [[Al Maktoum International Airport]] || [[Jebel Ali]], [[Dubai]], [[United Arab Emirates]] || [[UTC+04:00]] ||
+|-
+|    DWD || OEDW || [[Dawadmi Airport]] || [[Dawadmi]], [[Saudi Arabia]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    DWH || KDWH || [[David Wayne Hooks Memorial Airport]] || [[Houston, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DWN ||      || [[Downtown Airpark]] (FAA: OK03) || [[Oklahoma City, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    DWS ||      || [[Walt Disney World Airport]] (no FAA code) || [[Walt Disney World]] / [[Orlando, Florida]], United States [http://www.airfields-freeman.com/FL/Airfields_FL_OrlandoSW.htm#disney] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- DWU is FAA code (not IATA) for Ashland Regional Airport in Worthington, Kentucky, USA --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DX&quot;/&gt;-DX-
+|-
+|    DXB || OMDB || [[Dubai International Airport]] || [[Dubai]], [[United Arab Emirates]] || [[UTC+04:00]] ||
+|-
+|    DXD || YDIX || [[Dixie Airport]] || [[Dixie, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+&lt;!-- DXE is FAA code (not IATA) for Dexter Municipal Airport in Dexter, Missouri, USA --&gt;
+|-
+|    DXR || KDXR || [[Danbury Municipal Airport]] || [[Danbury, Connecticut]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- DXX is FAA code (not IATA) for Lac qui Parle County Airport in Madison, Minnesota, USA --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DY&quot;/&gt;-DY-
+|-
+|    DYA || YDYS || [[Dysart Airport]] || [[Dysart, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+&lt;!-- DYB is FAA code (not IATA) for Summerville Airport in Summerville, South Carolina, USA --&gt;
+|-
+|    DYG || ZGDY || [[Zhangjiajie Hehua Airport]] (formerly Dayong Airport) || [[Zhangjiajie]], [[Hunan]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    DYL || KDYL || [[Doylestown Airport]] || [[Doylestown, Pennsylvania]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    DYM ||      || [[Diamantina Lakes Airport]] || [[Diamantina Lakes Station]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    DYR || UHMA || [[Ugolny Airport]] || [[Anadyr (town)|Anadyr]], Russia || [[Time in Russia|UTC+12:00]] ||
+|-
+|    DYS || KDYS || [[Dyess Air Force Base]] || [[Abilene, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- DYT is FAA code (not IATA) for Sky Harbor Airport in Duluth, Minnesota, USA --&gt;
+|-
+|    DYU || UTDD || [[Dushanbe Airport]] || [[Dushanbe]], [[Tajikistan]] || [[UTC+05:00]] ||
+|-
+|    DYW ||      || [[Daly Waters Airport]] || [[Daly Waters, Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;DZ&quot;/&gt;-DZ-
+|-
+|    DZA || FMCZ || [[Dzaoudzi Pamandzi International Airport]] || [[Dzaoudzi]], [[Mayotte]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    DZI ||      || [[Codazzi Airport]] || [[Codazzi]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+&lt;!-- DZJ is FAA code (not IATA) for Blairsville Airport in Blairsville, Georgia, USA --&gt;
+|-
+|    DZN || UAKD || [[Zhezkazgan Airport]] || [[Jezkazgan]], [[Kazakhstan]] || [[Time in Kazakhstan|UTC+06:00]] ||
+|-
+|    DZO || SUDU || [[Santa Bernardina International Airport]] || [[Durazno]], [[Durazno Department|Durazno]], [[Uruguay]] || [[Time in Uruguay|UTC−03:00]] || Oct-Mar
+|-
+|    DZU || ZUDZ || [[Dazu Airport]] || [[Dazu District]], China || [[Time in China|UTC+08:00]] ||
+|}
+∗ Morocco temporarily suspends DST for the month of Ramadan.
+
+== References ==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = [[PDF]] | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|D]]</text>
+      <sha1>l81v8wam5yiaay56bjn9o2ksm2o248v</sha1>
+    </revision>
+  </page>
+</mediawiki>

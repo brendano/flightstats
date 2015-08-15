@@ -1,0 +1,548 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: O</title>
+    <ns>0</ns>
+    <id>317140</id>
+    <revision>
+      <id>636505322</id>
+      <parentid>598534182</parentid>
+      <timestamp>2014-12-03T20:22:05Z</timestamp>
+      <contributor>
+        <username>NE2</username>
+        <id>1757249</id>
+      </contributor>
+      <comment>this looks like the more standard way to write it</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25291">{{Lists of airports by IATA code}}
+
+==O==
+{{AlphanumericTOC|prefixLink=O|prefixDesc=O|numbers=|sections=}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OA&quot;/&gt;-OA-
+|-
+|    OAI || OAIX || [[Bagram Airfield]] || [[Bagram]], [[Afghanistan]]
+|-
+|    OAJ || KOAJ || [[Albert J. Ellis Airport]] || [[Jacksonville, North Carolina]], [[United States]]
+|-
+|    OAK || KOAK || [[Oakland International Airport]] || [[Oakland, California|Oakland]] (near [[San Francisco]]), [[California]], [[United States]]
+|-
+|    OAM || NZOU || [[Oamaru Airport]] || [[Oamaru]], [[North Otago]], [[New Zealand]]
+&lt;!-- OAR is FAA code (not IATA) for Marina Municipal Airport in Marina, California, United States --&gt;
+|-
+|    OAX || MMOX || [[Xoxocotlán International Airport]] || [[Oaxaca, Oaxaca|Oaxaca]], [[Mexico]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OB&quot;/&gt;-OB-
+|-
+|    OBC || HDOB || [[Obock Airport]] || [[Obock]], [[Djibouti]]
+|-
+|    OBD || LEBA || [[Obano Airport]] || [[Obano]], [[Indonesia]]
+|-
+|    OBE || KOBE || [[Okeechobee County Airport]] || [[Okeechobee, Florida]], [[United States]]
+|-
+|    OBF || EDMO || [[Oberpfaffenhofen Airport]] || [[Oberpfaffenhofen]], [[Germany]]
+|-
+|    OBL || EBZR || [[Zoersel-Oostmalle Airfield]] || [[Zoersel]] / [[Oostmalle]], [[Belgium]]
+|-
+|    OBO || RJCB || [[Tokachi-Obihiro Airport]] || [[Obihiro]], [[Tokachi Subprefecture]], [[Hokkaido]], [[Japan]]
+|-
+|    OBT ||      || [[Oakland/coliseum Stat Airport]] || [[Oakland, Maryland]], [[United States]]
+|-
+|    OBU ||      || [[Kobuk Airport]] || [[Kobuk, Alaska]], [[United States]]
+|-
+|    OBX ||      || [[Obo Airport (Papua New Guinea)]] || [[Obo, Papua New Guinea]], [[Papua New Guinea]]
+|-
+|    OBY || BGSC || [[Ittoqqortoormiit Heliport]] || [[Ittoqqortoormiit]], [[Greenland]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OC&quot;/&gt;-OC-
+|-
+|    OCA ||      || [[Ocean Reef Club Airport]] (FAA: 07FA) || [[Key Largo, Florida|Key Largo]], [[Florida]], [[United States]]
+|-
+|    OCC || SECO || [[Francisco de Orellana Airport]] || [[Puerto Francisco de Orellana|Coca]], [[Ecuador]]
+|-
+|    OCE || KOXB || [[Ocean City Municipal Airport (Maryland)|Ocean City Municipal Airport]] (FAA: OXB) || [[Ocean City, Maryland]], [[United States]]
+|-
+|    OCF || KOCF || [[Ocala International Airport]] (Jim Taylor Field) || [[Ocala, Florida]], [[United States]]
+|-
+|    OCH || KOCH || [[A.L. Mangham Jr. Regional Airport]] || [[Nacogdoches, Texas]], [[United States]]
+|-
+|    OCJ || MKBS || [[Boscobel Aerodrome]] || [[Ocho Rios]], [[Jamaica]]
+|-
+|    OCN || KOKB || [[Oceanside Municipal Airport]] (FAA: OKB) || [[Oceanside, California]], [[United States]]
+&lt;!-- OCQ is FAA code (not IATA) for J. Douglas Bake Memorial Airport in Oconto, Wisconsin, United States --&gt;
+|-
+|    OCW || KOCW || [[Warren Field]] || [[Washington, North Carolina]], [[United States]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OD&quot;/&gt;-OD-
+|-
+|    ODB || LEBA || [[Córdoba Airport]] || [[Córdoba, Spain|Córdoba]], [[Spain]]
+|-
+|    ODE || EKOD || [[Odense Airport]] || [[Odense]], [[Denmark]]
+|-
+|    ODH || EGVO || [[RAF Odiham]] || [[Odiham]], [[United Kingdom]]
+&lt;!-- ODO is FAA code (not IATA) for Odessa-Schlemeyer Field in Odessa, Texas, United States --&gt;
+|-
+|    ODS || UKOO || [[Odessa International Airport]] || [[Odessa]], [[Ukraine]]
+|-
+|    ODW || KOKH || [[A.J. Eisenberg Airport]] (FAA: OKH) || [[Oak Harbor, Washington]], [[United States]]
+&lt;!-- ODX is FAA code (not IATA) for Evelyn Sharp Field in Ord, Nebraska, United States --&gt;
+|-
+|    ODY || VLOS  || [[Oudomsay Airport]] || [[Muang Xay]], [[Laos]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OE&quot;/&gt;-OE-
+|-
+|    OEA || KOEA || [[O'Neal Airport]] || [[Vincennes, Indiana]], [[United States]]
+&lt;!-- OEB is FAA code (not IATA) for Branch County Memorial Airport in Coldwater, Michigan, United States --&gt;
+|-
+|    OEC ||      || [[Ocussi Airport]] || [[Ocussi]], [[Indonesia]]
+|- 
+|    OEL || || [[Oryol Yuzhny Airport]] || [[Oryol]], [[Russia]]
+|-
+|    OEM || SMPA || [[Vincent Fayks Airport]] || [[Paloemeu]], [[Suriname]]
+|-
+|    OEO || KOEO || [[L.O. Simenstad Municipal Airport]] || [[Osceola, Wisconsin]], [[United States]]
+|-
+|    OER || ESNO || [[Örnsköldsvik Airport]] || [[Örnsköldsvik]], [[Sweden]]
+|-
+|    OES || SAVN || [[Antoine de Saint Exupéry Airport (Argentina)|Antoine de Saint Exupéry Airport]] || [[San Antonio Oeste]], [[Argentina]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OF&quot;/&gt;-OF-
+|-
+|    OFF || KOFF || [[Offutt Air Force Base]] || [[Omaha, Nebraska]], [[United States]]
+|-
+|    OFK || KOFK || [[Karl Stefan Memorial Airport]] || [[Norfolk, Nebraska]], [[United States]]
+&lt;!-- OFP is FAA code (not IATA) for Hanover County Municipal Airport in Richmond/Ashland, Virginia, United States --&gt;
+|-
+|    OFU ||      || [[Ofu Airport]] || [[Ofu-Olosega|Ofu]], [[American Samoa]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OG&quot;/&gt;-OG-
+|-
+|    OGA || KOGA || [[Searle Field]] || [[Ogallala, Nebraska]], [[United States]]
+|-
+|    OGB || KOGB || [[Orangeburg Municipal Airport]] || [[Orangeburg, South Carolina]], [[United States]]
+|-
+|    OGD || KOGD || [[Ogden-Hinckley Airport]] || [[Ogden, Utah]], [[United States]]
+|-
+|    OGG || PHOG || [[Kahului Airport]] || [[Kahului, Hawaii]], [[United States]]
+|-
+|    OGL || SYGO || [[Ogle Airport]] || [[Georgetown, Guyana|Georgetown]], [[Guyana]]
+&lt;!-- OGM is FAA code (not IATA) for Ontonagon County Airport (Schuster Field) in Ontonagon, Michigan, United States --&gt;
+|-
+|    OGN || ROYN || [[Yonaguni Airport]] || [[Yonaguni, Okinawa]], [[Japan]]
+|-
+|    OGR || FTTB || [[Bongor Airport]] || [[Bongor]], [[Chad]]
+|-
+|    OGS || KOGS || [[Ogdensburg International Airport]] || [[Ogdensburg, New York]], [[United States]]
+|-
+|    OGZ || URMO || [[Beslan Airport]] || [[Beslan]] / [[Vladikavkaz]], [[North Ossetia–Alania]], Russia
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OH&quot;/&gt;-OH-
+|-
+|    OHD || LWOH || [[Ohrid Airport]] || [[Ohrid]], [[Republic of Macedonia]]
+|-
+|    OHE || ZYMH || [[Mohe Gulian Airport]] || [[Mohe County|Mohe]], [[Heilongjiang]], [[China]]
+|-
+|    OHH || UHSH || [[Okha Airport]] || [[Okha, Russia|Okha]], [[Russia]]
+|-
+|    OHO ||  || [[Okhotsk Airport]] || [[Okhotsk]], [[Khabarovsk Krai]], [[Russia]]
+|-
+|    OHT || OPKT || [[Kohat Airport]] || [[Kohat]], [[Pakistan]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OI&quot;/&gt;-OI-
+|-
+|    OIC || KOIC || [[Norwich Lt. Warren Eaton Airport]] || [[Norwich (city), New York|Norwich, New York]], [[United States]]
+&lt;!-- OIN is FAA code (not IATA) for Oberlin Municipal Airport in Oberlin, Kansas, United States --&gt;
+|-
+|    OIR || RJEO || [[Okushiri Airport]] || [[Okushiri, Hokkaidō|Okushiri]], [[Okushiri Island]], [[Hokkaido]], [[Japan]]
+|-
+|    OIT || RJFO || [[Oita Airport]] || [[Oita, Oita|Oita]], [[Japan]]
+|-
+|    OIZ || DTTP || [[Bizerte-Sidi Ahmed Air Base]] || [[Bizerte]], [[Tunisia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OJ&quot;/&gt;-OJ-
+&lt;!-- OJA is FAA code (not IATA) for Thomas P. Stafford Airport in Weatherford, Oklahoma, United States --&gt;
+|-
+|    OJC || KOJC || [[Johnson County Executive Airport]] || [[Olathe, Kansas]], [[United States]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OK&quot;/&gt;-OK-
+|-
+|    OKA || ROAH || [[Naha Airport]] || [[Okinawa]], [[Japan]]
+|-
+|    OKB ||      || [[Orchid Beach]] || [[Fraser Island]], [[Queensland]], [[Australia]]
+|-
+|    OKC || KOKC || [[Will Rogers World Airport]] || [[Oklahoma City, Oklahoma]], [[United States]]
+|-
+|    OKH || EGXJ || [[RAF Cottesmore]] || [[Oakham]], [[England]], [[United Kingdom]]
+&lt;!-- OKH is FAA code (IATA: ODW) for AJ Eisenberg Airport in Oak Harbor, Washington, United States --&gt;
+|-
+|    OKJ || RJOB || [[Okayama Airport]] || [[Okayama]], [[Japan]]
+|-
+|    OKK || KOKK || [[Kokomo Municipal Airport]] || [[Kokomo, Indiana]], [[United States]]
+|-
+|    OKM || KOKM || [[Okmulgee Regional Airport]] || [[Okmulgee, Oklahoma]], [[United States]]
+|-
+|    OKS || KOKS || [[Garden County Airport]] || [[Oshkosh, Nebraska]], [[United States]]
+|-
+|    OKT || UWUK || [[Oktyabrsky Airport]] || [[Oktyabrsky, Republic of Bashkortostan|Oktyabrsky]], [[Bashkortostan]], Russia
+&lt;!-- OKV is FAA code (IATA: WGO) for Winchester Regional Airport in Winchester, Virginia, United States --&gt;
+&lt;!-- OKZ is FAA code (not IATA) for Kaolin Field in Sandersville, Georgia, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OL&quot;/&gt;-OL-
+|-
+|    OLB || LIEO || [[Olbia – Costa Smeralda Airport]] || [[Olbia]], [[Italy]]
+|-
+|    OLD || KOLD || [[Old Town Municipal Airport and Seaplane Base]] (DeWitt Field) || [[Old Town, Maine]], [[United States]]
+|-
+|    OLE || KOLE || [[Cattaraugus County-Olean Airport]] || [[Olean, New York]], [[United States]]
+|-
+|    OLF || KOLF || [[L. M. Clayton Airport]] || [[Wolf Point, Montana]], [[United States]]
+&lt;!-- OLG is FAA code (not IATA) for Solon Springs Municipal Airport in Solon Springs, Wisconsin, United States --&gt;
+|-
+|    OLH ||      || [[Old Harbor Airport]] (FAA: 6R7) || [[Old Harbor]], [[Alaska]], [[United States]]
+|-
+|    OLK ||      || [[Fuerte Olimpo Airport]] || [[Fuerte Olimpo]], [[Paraguay]]
+|-
+|    OLL ||      || [[Oyo Ollombo Airport]] || [[Oyo, Republic of the Congo]], [[Republic of the Congo]]
+|-
+|    OLM || KOLM || [[Olympia Airport]] || [[Olympia, Washington]], [[United States]]
+|-
+|    OLO || LKOL || [[Olomouc Airport]] || [[Olomouc]], [[Czech Republic]]
+|-
+|    OLS || KOLS || [[Nogales International Airport]] || [[Nogales, Arizona]], [[United States]]
+|-
+|    OLU || KOLU || [[Columbus Municipal Airport (Nebraska)]] || [[Columbus, Nebraska]], [[United States]]
+|-
+|    OLV || KOLV || [[Olive Branch Airport]] || [[Olive Branch, Mississippi]], [[United States]]
+|-
+|    OLY || KOLY || [[Olney-Noble Airport]] || [[Olney, Illinois|Olney]]-[[Noble, Illinois]], [[United States]]
+|-
+|    OLZ ||      || [[Olyokminsk Airport]] || [[Olyokminsk]], [[Sakha Republic]], [[Russia]]
+&lt;!-- OLZ is FAA code (not IATA) for Oelwein Municipal Airport in Oelwein, Iowa, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OM&quot;/&gt;-OM-
+|-
+|    OMA || KOMA || [[Eppley Airfield]] || [[Omaha, Nebraska]], [[United States]]
+|-
+|    OMC || RPVO || [[Ormoc Airport]] || [[Ormoc City]], [[Philippines]]
+|-
+|    OME || PAOM || [[Nome Airport]] || [[Nome, Alaska]], [[United States]]
+|-
+|    OMF || OJMF || [[King Hussein Air Base]] || [[Mafraq]], [[Mafraq Governorate]], [[Jordan]]
+|-
+|    OMH || OITR || [[Orange County Airport (Virginia)|Orange County Airport]] || [[Orange, Virginia]], [[United States]]
+&lt;!-- OMH is IATA code Urmieh (OMH) Iran --&gt;
+|-
+|    OMI || OIAJ || [[Omidiyeh Air Base]] || [[Omidiyeh]], [[Iran]]
+|-
+|    OMK || KOMK || [[Omak Airport]] || [[Omak, Washington]], [[United States]]
+|-
+|    OMN ||      || [[Osmanabad Airport]] || [[Osmanabad]], [[India]]
+|-
+|    OMO || LQMO || [[Mostar International Airport]] || [[Mostar]], [[Bosnia and Herzegovina]]
+|-
+|    OMR || LROD || [[Oradea International Airport]] || [[Oradea]], [[Romania]]
+|-
+|    OMS || UNOO || [[Tsentralny Airport|Omsk Airport]] || [[Omsk]], [[Russia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;ON&quot;/&gt;-ON-
+|-
+|    ONA || KONA || [[Winona Municipal Airport]] (Max Conrad Field) || [[Winona, Minnesota]], [[United States]]
+|-
+|    ONH ||      || [[Oneonta Municipal Airport]] (FAA: N66) || [[Oneonta, New York]], [[United States]]
+|-
+|    ONJ || RJSR || [[Odate-Noshiro Airport]] || [[Kitaakita, Akita]], [[Japan]]
+|-
+|    ONK || UERO || [[Olenyok Airport]] || [[Olenyok (rural locality) |Olenyok]], [[Sakha Republic]], [[Russia]]
+|-
+|    ONL || KONL || [[O'Neill Municipal Airport]] (John L. Baker Field) || [[O'Neill, Nebraska]], [[United States]]
+|-
+|    ONM || KONM || [[Socorro Municipal Airport]] || [[Socorro, New Mexico]], [[United States]]
+|-
+|    ONN ||      || [[Onion Bay Airport]] || [[Onion Bay, Alaska]], [[United States]]
+|-
+|    ONO || KONO || [[Ontario Municipal Airport]] || [[Ontario, Oregon]], [[United States]]
+|-
+|    ONP || KONP || [[Newport Municipal Airport (Oregon)|Newport Municipal Airport]] || [[Newport, Oregon]], [[United States]]
+|-
+|    ONQ || LTAS || [[Zonguldak Airport]] || [[Zonguldak]], [[Turkey]]
+|-
+|    ONT || KONT || [[Ontario International Airport]] || [[Ontario, California|Ontario]] (near [[Los Angeles, California|Los Angeles]]), [[California]], [[United States]]
+|-
+|    ONX || MPEJ || [[Enrique Adolfo Jiménez Airport]] || [[Colón, Panama]]
+|-
+|    ONY || KONY || [[Olney Municipal Airport]] || [[Olney, Texas]], [[United States]]
+&lt;!-- ONZ is FAA code (not IATA) for Grosse Ile Municipal Airport in Detroit/Grosse Ile, Michigan, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OO&quot;/&gt;-OO-
+|-
+|    OOA || KOOA || [[Oskaloosa Municipal Airport]] || [[Oskaloosa, Iowa]], [[United States]]
+&lt;!-- OOH is FAA code (not IATA) for Hoonah Seaplane Base in Hoonah, Alaska, United States --&gt;
+|-
+|    OOK || PAOO || [[Toksook Bay Airport]] || [[Toksook Bay, Alaska]], [[United States]]
+|-
+|    OOL || YBCG || [[Gold Coast Airport]] || [[Coolangatta, Queensland]], [[Australia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OP&quot;/&gt;-OP-
+|-
+|    OPF || KOPF || [[Opa-locka Airport]] || [[Miami, Florida]], [[United States]]
+|-
+|    OPL || KOPL || [[St. Landry Parish Airport]] (Ahart Field) || [[Opelousas, Louisiana]], [[United States]]
+&lt;!-- OPN is FAA code (not IATA) for Thomaston-Upson County Airport in Thomaston, Georgia, United States --&gt;
+|-
+|    OPO || LPPR || [[Francisco Sá Carneiro Airport]] || [[Porto]], [[Portugal]]
+|-
+|    OPS || SWSI || [[Aeroporto de Sinop Airport]] || [[Sinop, Mato Grosso]], [[Brazil]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OQ&quot;/&gt;-OQ-
+|-
+|    OQN || KOQN || [[Brandywine Airport]] || [[West Chester, Pennsylvania]], [[United States]]
+&lt;!-- OQU is FAA code (not IATA) for Quonset State Airport in North Kingstown, Rhode Island, United States --&gt;
+&lt;!-- OQW is FAA code (not IATA) for Maquoketa Municipal Airport in Maquoketa, Iowa, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OR&quot;/&gt;-OR-
+|-
+|    ORA || SASO || [[Orán Airport]] || [[Orán, Salta|Orán]], [[Salta Province]], [[Argentina]]
+|-
+|    ORB || ESOE || [[Örebro Airport]] || [[Örebro]], [[Sweden]]
+|-
+|    ORC || KORC || [[Orange City Municipal Airport]] || [[Orange City, Iowa]], [[United States]]
+|-
+|    ORD || KORD || [[O'Hare International Airport]] (formerly Orchard Depot Field) || [[Chicago, Illinois]], [[United States]]
+|-
+|    ORE || LFOJ || [[Orléans - Bricy Air Base]] || [[Orléans]], [[France]]
+|-
+|    ORF || KORF || [[Norfolk International Airport]] || [[Norfolk, Virginia]] (near [[Virginia Beach, Virginia|Virginia Beach]] and [[Williamsburg, Virginia|Williamsburg]]), [[United States]]
+|-
+|    ORG || SMZO || [[Zorg en Hoop Airport]] || [[Paramaribo]], [[Suriname]]
+|-
+|    ORH || KORH || [[Worcester Regional Airport]] || [[Worcester, Massachusetts]], [[United States]]
+|-
+|    ORI || KORI || [[Port Lions Airport]] || [[Port Lions, Alaska]], [[United States]]
+|-
+|    ORJ || SYDR || [[Orinduik Airport]] || [[Orinduik]], [[Guyana]]
+|-
+|    ORK || EICK || [[Cork Airport]] || [[Cork (city)|Cork]], [[Republic of Ireland|Ireland]]
+|-
+|    ORL || KORL || [[Orlando Executive Airport]] || [[Orlando, Florida]], [[United States]]
+|-
+|    ORM || EGBK || [[Sywell Aerodrome]] || [[Northampton]] / [[Peterborough]], [[United Kingdom]]
+|-
+|    ORN || DAOO || [[Oran Es Sénia Airport]] || [[Oran]], [[Algeria]]
+|-
+|    ORR ||      || [[Yorketown Airport]] || [[Yorketown, South Australia]], [[Australia]]
+|-
+|    ORS ||      || [[Waterport Airport]] || [[Orpheus, Queensland|Orpheus]], [[Queensland]], [[Australia]]
+|-
+|    ORT || PAOR || [[Northway Airport]] || [[Northway, Alaska]], [[United States]]
+|-
+|    ORU ||      || [[Oruro Airport]] || [[Oruro, Bolivia|Oruro]], [[Bolivia]]
+|-
+|    ORV || PFNO || [[Robert (Bob) Curtis Memorial Airport]] (FAA: D76) || [[Noorvik, Alaska]], [[United States]]
+|-
+|    ORY || LFPO || [[Orly Airport|Orly International Airport]] || [[Paris]]-[[Orly]], [[Paris]], [[France]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OS&quot;/&gt;-OS-
+|-
+|    OSA ||      || All Airports (was used for [[Osaka International Airport]]) || [[Osaka]], [[Japan]]
+&lt;!-- OSA is FAA code (not IATA) for Mount Pleasant Regional Airport in Mount Pleasant, Texas, United States --&gt;
+|-
+|    OSB ||      || [[Grand Glaize-Osage Beach Airport]] (FAA: K15) || [[Osage Beach, Missouri]], [[United States]]
+|-
+|    OSC || KOSC || [[Oscoda-Wurtsmith Airport]] || [[Oscoda, Michigan]], [[United States]]
+|-
+|    OSD || ESNZ || [[Åre Östersund Airport]] || [[Östersund]], [[Sweden]]
+|- 
+|    OSF || UUMO || [[Ostafyevo International Airport]] || [[Podolsk]], [[Russia]]
+|-
+|    OSH || KOSH || [[Wittman Regional Airport]] || [[Oshkosh, Wisconsin]], [[United States]]
+|-
+|    OSI || LDOS || [[Osijek Airport]] || [[Osijek]], [[Croatia]]
+|-
+|    OSK || ESMO || [[Oskarshamn Airport]] || [[Oskarshamn]], [[Sweden]]
+|-
+|    OSL || ENGM || [[Oslo Airport, Gardermoen]] (succeeding [[Oslo Airport, Fornebu]]) || [[Ullensaker]] (near [[Oslo]]), [[Norway]]
+|-
+|    OSR || LKMT || [[Ostrava-Mosnov International Airport]] || [[Ostrava]], [[Czech Republic]]
+|-
+|    OSS || UAFO || [[Osh Airport]] || [[Osh]], [[Kyrgyzstan]]
+|-
+|    OST || EBOS || [[Ostend-Bruges International Airport]] || [[Flanders]], [[Belgium]]
+|-
+|    OSU || KOSU || [[Ohio State University Airport]] || [[Columbus, Ohio]], [[United States]]
+|-
+|    OSX || KOSX || [[Kosciusko-Attala County Airport]] || [[Kosciusko, Mississippi]], [[United States]]
+|-
+|    OSW || UWOR || [[Orsk Airport]] || [[Orsk]], [[Orenburg Oblast]], Russia
+|-
+|    OSY || ENNM || [[Namsos Airport, Høknesøra]] || [[Namsos]], [[Norway]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OT&quot;/&gt;-OT-
+|-
+|    OTC || FTTL || [[Bol Airport (Chad)|Bol Airport]] || [[Bol, Chad|Bol]], [[Chad]]
+|-
+|    OTD ||      || [[Contadora Airport]] || [[Contadora Island]], [[Panama]]
+|-
+|    OTG || KOTG || [[Worthington Municipal Airport]] || [[Worthington, Minnesota]], [[United States]]
+|-
+|    OTH || KOTH || [[North Bend Municipal Airport]] || [[North Bend, Oregon]], [[United States]]
+|-
+|    OTL || GQNB || [[Boutilimit Airport]] || [[Boutilimit]], [[Mauritania]]
+|-
+|    OTM || KOTM || [[Ottumwa Industrial Airport]] || [[Ottumwa, Iowa]], [[United States]]
+|-
+|    OTN ||      || [[Ed-Air Airport]] (FAA: 2IG4) || [[Oaktown, Indiana]], [[United States]]
+|-
+|    OTP || LROP || [[Henri Coandă International Airport]] || [[Otopeni]] (near [[Bucharest]]), [[Romania]]
+|-
+|    OTR || MRCC || [[Coto 47 Airport]] || [[Coto 47]], [[Costa Rica]]
+|-
+|    OTS ||      || [[Anacortes Airport]] (FAA: 74S) || [[Anacortes, Washington]], [[United States]]
+|-
+|    OTZ || PAOT || [[Ralph Wien Memorial Airport]] || [[Kotzebue, Alaska]], [[United States]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OU&quot;/&gt;-OU-
+|-
+|    OUA || DFFD || [[Ouagadougou Airport]] || [[Ouagadougou]], [[Burkina Faso]]
+|-
+|    OUD || GMFO || [[Angads Airport]] || [[Oujda]], [[Morocco]]
+|-
+|    OUG || DFCC || [[Ouahigouya Airport]] || [[Ouahigouya]], [[Burkina Faso]]
+|-
+|    OUL || EFOU || [[Oulu Airport]] || [[Oulu]], [[Finland]]
+|-
+|    OUM ||      || [[Oum Hadjer Airport]] || [[Oum Hadjer]], [[Chad]]
+|-
+|    OUN || KOUN || [[University of Oklahoma Westheimer Airport]] || [[Norman, Oklahoma]], [[United States]]
+|-
+|    OUR || FKKI || [[Batouri Airport]] || [[Batouri]], [[Cameroon]]
+|-
+|    OUT || FTTS || [[Bousso Airport]] || [[Bousso]], [[Chad]]
+|-
+|    OUZ || GQPZ || [[Tazadit Airport]] || [[Zouerate]], [[Mauritania]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OV&quot;/&gt;-OV-
+|-
+|    OVB || UNNT || [[Novosibirsk Tolmachevo Airport]] || [[Novosibirsk]], [[Russia]]
+|-
+|    OVD || LEAS || [[Asturias Airport]] (Oviedo Airport) || [[Oviedo]], [[Asturias]], [[Spain]]
+|-
+|    OVE || KOVE || [[Oroville Municipal Airport]] || [[Oroville, California]], [[United States]]
+|-
+|    OVL || KOVL || [[Olivia Regional Airport]] || [[Olivia, Minnesota]], [[United States]]
+&lt;!-- OVO is FAA code (not IATA) for North Vernon Airport in North Vernon, Indiana, United States --&gt;
+&lt;!-- OVS is FAA code (not IATA) for Boscobel Airport in Boscobel, Wisconsin, United States --&gt;
+|-
+|    OVR || SAZF || [[Olavarría Airport]] || [[Olavarría]], [[Argentina]]
+|-
+|    OVS || USHS || [[Sovetsky Airport]] || [[Sovetsky, Khanty-Mansi Autonomous Okrug|Sovetsky]], [[Khanty–Mansi Autonomous Okrug]], Russia
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OW&quot;/&gt;-OW-
+|-
+|    OWA || KOWA || [[Owatonna Degner Regional Airport]] || [[Owatonna, Minnesota]], [[United States]]
+|-
+|    OWB || KOWB || [[Owensboro-Daviess County Airport]] || [[Owensboro, Kentucky]], [[United States]]
+|-
+|    OWD || KOWD || [[Norwood Memorial Airport]] || [[Norwood, Massachusetts]], [[United States]]
+&lt;!-- OWI is FAA code (not IATA) for Ottawa Municipal Airport in Ottawa, Kansas, United States --&gt;
+|-
+|    OWK || KOWK || [[Central Maine Airport of Norridgewock]] || [[Norridgewock, Maine]], [[United States]]
+&lt;!-- OWP is FAA code (not IATA) for William R. Pogue Municipal Airport in Sand Springs, Oklahoma, United States --&gt;
+&lt;!-- OWX is FAA code (not IATA) for Putnam County Airport in Ottawa, Ohio, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OX&quot;/&gt;-OX-
+|-
+|    OXB || GGOV || [[Osvaldo Vieiro International Airport]] || [[Bissau]], [[Guinea-Bissau]]
+&lt;!-- OXB is FAA (not IATA) code for Ocean City Municipal Airport in Ocean City, Maryland --&gt;
+|-
+|    OXC || KOXC || [[Waterbury-Oxford Airport]] || [[Oxford, Connecticut]], [[United States]]
+|-
+|    OXD || KOXD || [[Miami University Airport]] || [[Oxford, Ohio]], [[United States]]
+|-
+|    OXF || EGTK || [[London Oxford Airport]] || [[Oxford]], [[England]], United Kingdom
+&lt;!-- OXI is FAA code (not IATA) for Starke County Airport in Knox, Indiana, United States --&gt;
+|-
+|    OXR || KOXR || [[Oxnard Airport]] || [[Oxnard, California]], [[United States]]
+&lt;!-- OXV is FAA code (not IATA) for Knoxville Municipal Airport in Knoxville, Iowa, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OY&quot;/&gt;-OY-
+|-
+|    OYK || SBOI || [[Oiapoque Airport]] || [[Oiapoque]], [[Amapá|Amapa]], [[Brazil]]
+|-
+|    OYO || SAZH || [[Tres Arroyos Airport]] || [[Tres Arroyos]], [[Buenos Aires Province]], [[Argentina]]
+&lt;!-- OYM is FAA code (IATA: STQ) for St. Marys Municipal Airport in St. Marys, Pennsylvania, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;OZ&quot;/&gt;-OZ-
+|-
+|    OZA || KOZA || [[Ozona Municipal Airport]] || [[Ozona, Texas]], [[United States]]
+|-
+|    OZC || RPMO || [[Labo Airport]] || [[Ozamiz City]], [[Misamis Occidental]], [[Philippines]]
+|-
+|    OZH || UKDE || [[Zaporizhia International Airport]] || [[Zaporizhia]], [[Ukraine]]
+|-
+|    OZR || KOZR || [[Cairns Army Airfield]] (Fort Rucker) || [[Fort Rucker, Alabama|Fort Rucker]]/[[Ozark, Alabama]], [[United States]]
+&lt;!-- OZW is FAA code (not IATA) for Livingston County Spencer J. Hardy Airport in Howell, Michigan, United States --&gt;
+|-
+|    OZZ || GMMZ || [[Ouarzazate Airport]] || [[Ouarzazate]], [[Morocco]]
+|}
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = [[PDF]] | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|O]]</text>
+      <sha1>c82v5fxezzei5669guzpcod0zjzxicl</sha1>
+    </revision>
+  </page>
+</mediawiki>

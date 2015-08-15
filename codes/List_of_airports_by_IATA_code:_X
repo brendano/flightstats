@@ -1,0 +1,350 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: X</title>
+    <ns>0</ns>
+    <id>317149</id>
+    <revision>
+      <id>612755909</id>
+      <parentid>604161102</parentid>
+      <timestamp>2014-06-13T11:37:43Z</timestamp>
+      <contributor>
+        <username>Timrollpickering</username>
+        <id>32005</id>
+      </contributor>
+      <minor/>
+      <comment>/* X */clean up &amp; bypass redirect, replaced: [[People's Republic of China|China]] → [[China]] (10) using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13081">{{Lists of airports by IATA code}}
+
+==X==
+{{AlphanumericTOC|prefixLink=X|prefixDesc=X|numbers=|sections=|h=XH|j=XJ|w=XW|x=XX&lt;!--no XH,XJ,XW,XX section--&gt;}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+&lt;!-- comments added to prevent addition of incorrect IATA codes --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XA&quot;/&gt;-XA-
+|-
+|    XAB || LFOI || [[Abbeville - Buigny-Saint-Maclou Aerodrome]] || [[Abbeville]], [[France]]
+|-
+|    XAC || LFCH || [[Arcachon – La Teste-de-Buch Airport]] || [[Arcachon]], [[France]]
+|-
+|    XAL ||      || [[Álamos Airport]] || [[Álamos]], [[Sonora]], [[Mexico]]
+|-
+|    XAP || SBCH || [[Chapecó Airport]] || [[Chapecó]], [[Brazil]]
+|-
+|    XAR || DFOY || [[Aribinda Airport]] || [[Aribinda]], [[Burkina Faso]]
+|-
+|    XAU || SOOS || [[Saül Airport]] || [[Saül]], [[French Guiana]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XB&quot;/&gt;-XB-
+|-
+|    XBB ||      || [[Blubber Bay Airport]] || [[Blubber Bay, British Columbia]], [[Canada]]
+|-
+|    XBE ||      || [[Bearskin Lake Airport]] || [[Bearskin Lake, Ontario]], [[Canada]]
+|-
+|    XBG || DFEB || [[Bogande Airport]] || [[Bogande]], [[Burkina Faso]]
+|-
+|    XBJ || OIMB || [[Birjand Airport]] || [[Birjand]], [[Iran]]
+|-
+|    XBK || LFHS || [[Bourg - Ceyzériat Airport]] || [[Bourg-en-Bresse]], [[France]]
+|-
+|    XBL || HABB || [[Bedele Airport]] || [[Bedele]], [[Ethiopia]]
+|-
+|    XBN ||      || [[Biniguni Airport]] || [[Biniguni]], [[Papua New Guinea]]
+|-
+|    XBO || DFEA || [[Boulsa Airport]] || [[Boulsa]], [[Burkina Faso]]
+&lt;!-- XBP is FAA code (not IATA) for Bridgeport Municipal Airport in Bridgeport, Texas, United States --&gt;
+|-
+|    XBR ||      || [[Brockville Regional Tackaberry Airport]] || [[Brockville]], [[Ontario]], [[Canada]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XC&quot;/&gt;-XC-
+|-
+|    XCH || YPXM || [[Christmas Island Airport]] || [[Christmas Island]], [[Australia]]
+|-
+|    XCL ||      || [[Cluff Lake Airport]] || [[Cluff Lake]], [[Saskatchewan]], [[Canada]]
+|-
+|    XCM ||      || [[Chatham-Kent Airport]] || [[Chatham-Kent, Ontario]], [[Canada]]
+|-
+|    XCN ||      || [[Pacific Air-VAL Coron Airport]] || [[Coron, Palawan|Coron]], [[Palawan]], [[Philippines]]
+|-
+|    XCO || YOLA || [[Colac Airport]] || [[Colac, Victoria]], [[Australia]]
+|-
+|    XCR || LFOK || [[Vatry International Airport]] || [[Vatry]], [[France]]
+|-
+|    XCY || LFFH || [[Château-Thierry Belleau Airport]] || [[Château-Thierry]], [[France]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XD&quot;/&gt;-XD-
+|-
+|    XDA || LFBY || [[Dax - Seyresse Airport]] || [[Dax, Landes|Dax]], [[France]]
+|-
+|    XDE || DFOU || [[Diebougou Airport]] || [[Diebougou]], [[Burkina Faso]]
+|-
+|    XDJ || DFCJ || [[Djibo Airport]] || [[Djibo]], [[Burkina Faso]]
+|-
+|    XDK || LFAK || [[Dunkerque - Les Moëres Airport]] || [[Dunkerque]], [[France]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XE&quot;/&gt;-XE-
+|-
+|    XEN || ZYXC || [[Xingcheng Airport]] || [[Xingcheng]], [[Liaoning]], [[China]]
+|-
+|    XEP || LFSW || [[Épernay - Plivot Airport]] || [[Épernay]], [[France]]
+|-
+|    XEQ || BGTQ || [[Tasiusaq Heliport (Kujalleq)]] || [[Tasiusaq, Kujalleq]], [[Greenland]]
+|-
+|    XES ||      || [[Grand Geneva Resort Airport]] (FAA: C02) || [[Lake Geneva, Wisconsin]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XF&quot;/&gt;-XF-
+|-
+|    XFN || ZHXF || [[Xiangfan Airport]] || [[Xiangfan]], [[Hubei]], [[China]]
+|-
+|    XFW || EDHI || [[Hamburg Finkenwerder Airport]] || [[Hamburg]], [[Germany]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XG&quot;/&gt;-XG-
+|-
+|    XGA || DFOG || [[Gaoua Airport]] || [[Gaoua]], [[Burkina Faso]]
+|-
+|    XGG || DFEG || [[Gorom Gorom Airport]] || [[Gorom Gorom]], [[Burkina Faso]]
+|-
+|    XGL ||      || [[Granville Lake Airport]] || [[Granville Lake, Manitoba]], [[Canada]]
+|-
+|    XGN || FNXA || [[Xangongo Airport]] || [[Xangongo]], [[Angola]]
+|-
+|    XGR || CYLU || [[Kangiqsualujjuaq (Georges River) Airport]] || [[Kangiqsualujjuaq, Quebec]], [[Canada]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XI&quot;/&gt;-XI-
+|-
+|    XIC || ZUXC || [[Xichang Qingshan Airport]] || [[Qingshan]], [[China]]
+|-
+|    XIG ||      || [[Xinguara Municipal Airport]] || [[Xinguara]], [[Pará]], [[Brazil]]
+|-
+|    XIL || ZBXH || [[Xilinhot Airport]] || [[Xilinhot]], [[Inner Mongolia]], [[China]]
+|-
+|    XIN || ZGXN || [[Xingning Airport]] || [[Xingning, Guangdong|Xingning]], [[China]]
+|-
+|    XIY || ZLXY || [[Xi'an Xianyang International Airport]] || [[Xianyang]], [[Shaanxi]], [[China]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XK&quot;/&gt;-XK-
+|-
+|    XKA || DFEL || [[Kantchari Airport]] || [[Kantchari]], [[Burkina Faso]]
+|-
+|    XKH || VLXK || [[Xieng Khouang Airport]] || [[Xiangkhouang Province|Xieng Khouang]], [[Laos]]
+|-
+|    XKL ||      || [[KL Sentral|KL City Air Terminal]] || [[Kuala Lumpur, Malaysia|Kuala Lumpur]], [[Malaysia]]
+|-
+|    XKO ||      || [[Kemano Airport]] || [[Kemano, British Columbia]], [[Canada]]
+|-
+|    XKS || CYAQ || [[Kasabonika Airport]] || [[Kasabonika First Nation]], [[Ontario]], [[Canada]]
+|-
+|    XKY || DFCA || [[Kaya Airport]] || [[Kaya, Burkina Faso|Kaya]], [[Burkina Faso]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XL&quot;/&gt;-XL-
+|-
+|    XLB || CZWH || [[Lac Brochet Airport]] || [[Lac Brochet, Manitoba]], [[Canada]]
+&lt;!-- XLL is FAA code (not IATA) for Allentown Queen City Municipal Airport in Allentown, Pennsylvania, United States --&gt;
+|-
+|    XLO ||      || [[Long Xuyen Airport]] || [[Long Xuyen]], [[Vietnam]]
+|-
+|    XLS || GOSS || [[Saint-Louis Airport]] || [[Saint-Louis, Senegal|Saint-Louis]], [[Senegal]]
+|-
+|    XLU || DFCL || [[Leo Airport]] || [[Leo, Burkina Faso|Leo]], [[Burkina Faso]]
+|-
+|    XLW || EDWD || [[Lemwerder Airport]] || [[Lemwerder]], [[Lower Saxony]], [[Germany]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XM&quot;/&gt;-XM-
+|-
+|    XMA ||      || [[Maramag Airport]] || [[Maramag]], [[Bukidnon]], [[Philippines]]
+|-
+|    XMB ||      || [[Marina Mall Airport]] || [[Marina Mall]], [[Dubai]], [[UAE]]
+|-
+|    XMD || KMDS || [[Madison Municipal Airport (South Dakota)|Madison Municipal Airport]] (FAA: MDS) || [[Madison, South Dakota]], [[United States]]
+|-
+|    XMF || LFSM || [[Montbéliard Courcelles Airport]] || [[Montbéliard]], [[France]]
+|-
+|    XMG || VNMN || [[Mahendranagar Airport]] || [[Mahendranagar, Mahakali]], [[Nepal]]
+|-
+|    XMH || NTGI || [[Manihi Airport]] || [[Manihi]], [[French Polynesia]]
+|-
+|    XMI || HTMI || [[Masasi Airport]] || [[Masasi]], [[Tanzania]]
+|-
+|    XML || YMIN || [[Minlaton Airport]] || [[Minlaton, South Australia]], [[Australia]]
+|-
+|    XMN || ZSAM || [[Xiamen Gaoqi International Airport]] || [[Xiamen]], [[Fujian]], [[China]]
+&lt;!-- XMR is FAA code (not IATA) for Cape Canaveral AFS Skid Strip in Cocoa Beach, Florida, United States --&gt;
+|-
+|    XMS || SEMC || [[Macas Airport]] (Edmundo Carvajal Airport) || [[Macas (city)|Macas]], [[Ecuador]]
+|-
+|    XMU || LFHY || [[Moulins - Montbeugny Airport]] || [[Moulins, Allier]], [[France]]
+|-
+|    XMY || YYMI || [[Yam Island Airport]] || [[Yam Island, Queensland]], [[Australia]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XN&quot;/&gt;-XN-
+|-
+|    XNA || KXNA || [[Northwest Arkansas Regional Airport]] || [[Fayetteville, Arkansas|Fayetteville]]/[[Springdale, Arkansas]], [[United States]]
+|-
+|    XNN || ZLXN || [[Xining Caojiabu Airport]] || [[Xining]], [[Qinghai]], [[China]]
+&lt;!-- XNO is FAA code (not IATA) for North AF Auxiliary Field in North, South Carolina, United States --&gt;
+|-
+|    XNT || ZBXT || [[Xingtai Airport]] || [[Xingtai]], [[Hebei]], [[China]]
+|-
+|    XNU || DFON || [[Nouna Airport]] || [[Nouna]], [[Burkina Faso]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XO&quot;/&gt;-XO-
+|-
+|    XOG || LFMO || [[Orange-Caritat Air Base]] || [[Orange, Vaucluse|Orange]], [[France]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XP&quot;/&gt;-XP-
+|-
+|    XPA || DFEP || [[Pama Airport]] || [[Pama, Burkina Faso|Pama]], [[Burkina Faso]]
+|-
+|    XPK || CZFG || [[Pukatawagan Airport]] || [[Pukatawagan, Manitoba]], [[Canada]]
+|-
+|    XPL || MHSC || [[Palmerola Air Base]] (Soto Cano Air Base) || [[Comayagua]], [[Honduras]]
+|-
+|    XPP || CZNG || [[Poplar River Airport]] || [[Poplar River, Manitoba]], [[Canada]]
+|-
+|    XPR || KIEN || [[Pine Ridge Airport]] (FAA: IEN) || [[Pine Ridge, South Dakota]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XQ&quot;/&gt;-XQ-
+&lt;!-- XQC is not IATA code for Balad Airport (ICAO: ORBD) in Iraq --&gt;
+|-
+|    XQP || MRQP || [[Quepos Managua Airport]] || [[Quepos]], [[Costa Rica]]
+|-
+|    XQU ||      || [[Qualicum Beach Airport]] || [[Qualicum Beach, British Columbia]], [[Canada]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XR&quot;/&gt;-XR-
+|-
+|    XRR || CYDM || [[Ross River Airport]] || [[Ross River, Yukon]], [[Canada]]
+|-
+|    XRY || LEJR || [[Jerez Airport]] (La Parra Airport) || [[Jerez de la Frontera]], [[Spain]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XS&quot;/&gt;-XS-
+&lt;!-- XSA is FAA code (not IATA) for Tappahannock-Essex County Airport in Tappahannock, Virginia, United States --&gt;
+|-
+|    XSC || MBSC || [[South Caicos Airport]] || [[South Caicos]], [[Turks and Caicos Islands]]
+|-
+|    XSD || KTNX || [[Tonopah Test Range Airport]] (FAA: TNX) || [[Tonopah, Nevada]], [[United States]]
+|-
+|    XSE || DFES || [[Sebba Airport]] || [[Sebba]], [[Burkina Faso]]
+|-
+|    XSI || CZSN || [[South Indian Lake Airport]] || [[South Indian Lake, Manitoba]], [[Canada]]
+|-
+|    XSO || RPNO || [[Siocon Airport]] || [[Siocon]], [[Zamboanga del Norte]], [[Philippines]]
+|-
+|    XSP || WSSL || [[Seletar Airport]] || [[Seletar]], [[Singapore]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XT&quot;/&gt;-XT-
+|-
+|    XTG || YTGM || [[Thargomindah Airport]] || [[Thargomindah]], [[Queensland]], [[Australia]]
+|-
+|    XTL || CYBQ || [[Tadoule Lake Airport]] || [[Tadoule Lake, Manitoba]], [[Canada]]
+|-
+|    XTO || YTAM || [[Taroom Airport]] || [[Taroom, Queensland]], [[Australia]]
+|-
+|    XTR || YTAA || [[Tara Airport]] || [[Tara, Queensland]], [[Australia]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XU&quot;/&gt;-XU-
+|-
+|    XUZ || ZSXZ || [[Xuzhou Airport]] || [[Xuzhou]], [[Jiangsu]], [[China]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XV&quot;/&gt;-XV-
+&lt;!-- XVG is FAA code (not IATA) for Longville Municipal Airport in Longville, Minnesota, United States --&gt;
+|-
+|    XVL ||      || [[Vinh Long Airport]] || [[Vinh Long]], [[Vietnam]]
+|-
+|    XVS || LFAV || [[Valenciennes - Denain Aerodrome]] || [[Valenciennes]], [[France]]
+
+|- class=&quot;sortbottom&quot;
+&lt;!-- XXN is not the IATA code for [[Riyadh Air Base]] (ICAO: OERY), [[Riyadh Air Base]], [[Saudi Arabia]] --&gt;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XY&quot;/&gt;-XY-
+|-
+|    XYA || AGGY || [[Yandina Airport]] || [[Yandina, Solomon Islands|Yandina]], [[Solomon Islands]]
+|-
+|    XYE || VYYE || [[Ye Airport]] || [[Ye, Mon State]], [[Burma|Myanmar (Burma)]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;XZ&quot;/&gt;-XZ-
+|-
+|    XZA || DFEZ || [[Zabré Airport]] || [[Zabré]], [[Burkina Faso]]
+&lt;!-- XZR is not IATA code for Zaragoza Airport (IATA: ZAZ, ICAO: LEZG) in Zaragoza, Spain --&gt;
+
+|}
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = [[PDF]] | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|X]]</text>
+      <sha1>2jczi5c0qiomcny2kz9ryg4zph4b0rh</sha1>
+    </revision>
+  </page>
+</mediawiki>

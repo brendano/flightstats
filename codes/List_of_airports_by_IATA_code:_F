@@ -1,0 +1,636 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: F</title>
+    <ns>0</ns>
+    <id>317104</id>
+    <revision>
+      <id>675094468</id>
+      <parentid>669134544</parentid>
+      <timestamp>2015-08-08T05:47:48Z</timestamp>
+      <contributor>
+        <username>Zanhe</username>
+        <id>10400497</id>
+      </contributor>
+      <comment>FYN opened</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="40046">{{Lists of airports by IATA code}}
+
+==F==
+{{AlphanumericTOC|prefixLink=F|prefixDesc=F|numbers=|sections=|q=FQ|&lt;!--no FQ or FV sections--&gt;}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+! style=&quot;text-align:left;&quot; | Time
+! style=&quot;text-align:left;&quot; | DST
+&lt;!-- comments added to prevent addition of incorrect IATA codes --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FA&quot;/&gt;-FA-
+|-
+|    FAA || GUFH || [[Faranah Airport]] || [[Faranah]], [[Guinea]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    FAB || EGLF || [[Farnborough Airport]]  || [[Farnborough, Hampshire|Farnborough]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    FAC || NTKF || [[Faaite Airport]] || [[Faaite]], [[French Polynesia]] || [[Time in France|UTC−10:00]] ||
+|-
+|    FAE || EKVG || [[Vágar Airport]]  || [[Sørvágur]], [[Faroe Islands]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    FAF || KFAF || [[Felker Army Airfield]] || [[Fort Eustis, Virginia]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FAG || BIFM || [[Fagurhólsmýri Airport]] || [[Fagurhólsmýri]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    FAH || OAFR || [[Farah Airport]] || [[Farah, Afghanistan|Farah]], [[Afghanistan]] || [[Time in Afghanistan|UTC+04:30]] ||
+|-
+|    FAI || PAFA || [[Fairbanks International Airport]] || [[Fairbanks, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    FAJ || TJFA || [[Diego Jimenez Torres Airport]] (FAA: X95) || [[Fajardo, Puerto Rico]], [[United States]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    FAK ||      || [[False Island Seaplane Base]] (FAA: 2Z6) || [[False Island]], [[Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    FAM || KFAM || [[Farmington Regional Airport]] || [[Farmington, Missouri]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FAN || ENLI || [[Lista Airport]] || [[Farsund]], [[Norway]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FAO || LPFR || [[Faro Airport]] || [[Faro, Portugal|Faro]], [[Portugal]] || [[Western European Time|UTC±00:00]] || Mar-Oct
+|-
+|    FAQ || AYFR || [[Frieda River Airport]] || [[Frieda River]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+&lt;!-- FAQ is FAA code (IATA: FTI) for Fitiuta Airport in Fitiuta, American Samoa, United States --&gt;
+|-
+|    FAR || KFAR || [[Hector International Airport]] || [[Fargo, North Dakota]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FAS || BIFF || [[Fáskrúðsfjörður Airport]] || [[Fáskrúðsfjörður]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    FAT || KFAT || [[Fresno Yosemite International Airport]] || [[Fresno, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    FAV || NTGF || [[Fakarava Airport]] || [[Fakarava]], [[Society Islands]], [[French Polynesia]] || [[Time in France|UTC−10:00]] ||
+|-
+|    FAY || KFAY || [[Fayetteville Regional Airport]] (Grannis Field) || [[Fayetteville, North Carolina]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FB&quot;/&gt;-FB-
+|-
+|    FBD || OAFZ || [[Fayzabad Airport]] (Faizabad Airport) || [[Fayzabad, Badakhshan]], [[Afghanistan]] || [[Time in Afghanistan|UTC+04:30]] ||
+|-
+|    FBE || SSFB || [[Francisco Beltrão Airport]] || [[Francisco Beltrao]], [[Paraná (state)|Paraná]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    FBG || KFBG || [[Simmons Army Airfield]] || [[Fort Bragg, North Carolina]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FBK || PAFB || [[Wainwright Army Airfield]] || [[Fairbanks, Alaska|Fairbanks]] / [[Fort Wainwright, Alaska|Fort Wainwright]], [[Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    FBL || KFBL || [[Faribault Municipal Airport]] || [[Faribault, Minnesota]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FBM || FZQA || [[Lubumbashi International Airport]] || [[Lubumbashi]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    FBR || KFBR || [[Fort Bridger Airport]] || [[Fort Bridger, Wyoming]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    FBS ||      || [[Friday Harbor Seaplane Base]] (FAA: W33) || [[Friday Harbor, Washington]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    FBU || ENFB || [[Fornebu Airport]] (closed) || [[Oslo]], [[Norway]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FBY || KFBY || [[Fairbury Municipal Airport]] || [[Fairbury, Nebraska]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FC&quot;/&gt;-FC-
+|-
+|    FCA || KGPI || [[Glacier Park International Airport]] (FAA: GPI) || [[Kalispell, Montana]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    FCB || FAFB || [[Ficksburg Sentra Oes Airport]] || [[Ficksburg]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    FCH || KFCH || [[Fresno Chandler Executive Airport]] || [[Fresno, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+&lt;!-- FCI is FAA code (not IATA) for Chesterfield County Airport in Richmond, Virginia, United States --&gt;
+|-
+|    FCM || KFCM || [[Flying Cloud Airport]] || [[Eden Prairie, Minnesota]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FCN || ETMN || [[Nordholz Naval Airbase|Fliegerhorst Nordholz]] || [[Nordholz]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FCO || LIRF || [[Leonardo da Vinci–Fiumicino Airport]] || [[Fiumicino]] (near [[Rome]]), [[Italy]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FCS || KFCS || [[Butts Army Airfield]] (Fort Carson) || [[Fort Carson, Colorado]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    FCT || KFCT || [[Vagabond Army Airfield]] || [[Yakima, Washington]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    FCY || KFCY || [[Forrest City Municipal Airport]] || [[Forrest City, Arkansas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FD&quot;/&gt;-FD-
+|-
+|    FDA || SKFU || [[Fundación Airport]] || [[Fundación]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    FDE || ENBL || [[Førde Airport, Bringeland]] || [[Førde]] / [[Bringeland]], [[Norway]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FDF || TFFF || [[Martinique Aimé Césaire International Airport]] || [[Le Lamentin]] / [[Fort de France]], [[Martinique]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    FDH || EDNY || [[Friedrichshafen Airport]] (Bodensee Airport) || [[Friedrichshafen]], [[Bodensee]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FDK || KFDK || [[Frederick Municipal Airport (Maryland)|Frederick Municipal Airport]] || [[Frederick, Maryland]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FDO || SADF || [[San Fernando Airport (Argentina)|San Fernando Airport]] || [[San Fernando, Buenos Aires]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    FDR || KFDR || [[Frederick Municipal Airport (Oklahoma)|Frederick Municipal Airport]] || [[Frederick, Oklahoma]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FDU || FZBO || [[Bandundu Airport]] || [[Bandundu, Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+&lt;!-- FDW is FAA code (not IATA) for Fairfield County Airport in Winnsboro, South Carolina, United States --&gt;
+|-
+|    FDY || KFDY || [[Findlay Airport]] || [[Findlay, Ohio]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FE&quot;/&gt;-FE-
+|-
+|    FEA ||      || [[Fetlar Airport]] || [[Fetlar]], [[Scotland]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    FEB || VNSR || [[Sanfebagar Airport]] || [[Sanfebagar]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    FEC || SNJD || [[João Durval Carneiro Airport]] || [[Feira de Santana]], [[Bahia]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    FEG || UTKF || [[Fergana Airport]] || [[Fergana]], [[Uzbekistan]] || [[Time in Uzbekistan|UTC+05:00]] ||
+|-
+|    FEJ ||      || [[Feijó Airport]] || [[Feijó, Acre]], [[Brazil]] || [[Time in Brazil|UTC−05:00]] ||
+|-
+|    FEK || DIFK || [[Ferkessédougou Airport]] || [[Ferkessédougou]], [[Côte d'Ivoire]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    FEL || ETSF || [[Fürstenfeldbruck Air Base]] || [[Fürstenfeldbruck]], [[Bavaria]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FEN || SBFN || [[Fernando de Noronha Airport]] || [[Fernando de Noronha]], [[Pernambuco]], [[Brazil]] || [[Time in Brazil|UTC−02:00]] ||
+|-
+|    FEP || KFEP || [[Albertus Airport]] || [[Freeport, Illinois]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- FES is FAA code (not IATA) for Festus Memorial Airport in Festus, Missouri, United States --&gt;
+|-
+|    FET || KFET || [[Fremont Municipal Airport (Nebraska)|Fremont Municipal Airport]] || [[Fremont, Nebraska]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FEW || KFEW || [[Francis E. Warren Air Force Base]] || [[Cheyenne, Wyoming]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    FEZ || GMFF || [[Fes-Saïss Airport]] || [[Fes]], [[Morocco]] || [[Western European Time|UTC±00:00]] || Mar-Oct*
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FF&quot;/&gt;-FF-
+|-
+|    FFA || KFFA || [[First Flight Airport]] || [[Kill Devil Hills, North Carolina]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- FFC is FAA code (not IATA) for Peachtree City Airport (Falcon Field) in Peachtree City, Georgia, United States --&gt;
+|-
+|    FFD || EGVA || [[RAF Fairford]] || [[Fairford]], [[England]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    FFL || KFFL || [[Fairfield Municipal Airport (Iowa)|Fairfield Municipal Airport]] || [[Fairfield, Iowa]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FFM || KFFM || [[Fergus Falls Municipal Airport]] (Einar Mickelson Field) || [[Fergus Falls, Minnesota]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FFO || KFFO || [[Wright-Patterson Air Force Base]] || [[Dayton, Ohio]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FFT || KFFT || [[Capital City Airport (Kentucky)|Capital City Airport]] || [[Frankfort, Kentucky]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FFU || SCFT || [[Futaleufu Airport]] || [[Futaleufú, Chile|Futaleufu]], [[Chile]] || [[Time in Chile|UTC−03:00]] ||
+&lt;!-- FFX is FAA code (not IATA) for Fremont Municipal Airport in Fremont, Michigan, United States --&gt;
+&lt;!-- FFZ is FAA code (IATA: MSC) for Falcon Field in Mesa, Arizona, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FG&quot;/&gt;-FG-
+|-
+|    FGD || GQPF || [[Fderik Airport]] (F'dérik Airport) || [[Fderik]], [[Mauritania]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    FGI || NSFI || [[Fagali'i Airport]] || [[Apia]], [[Samoa]] || [[Time in Samoa|UTC+13:00]] || Sep-Apr
+|-
+|    FGL || NZFH || [[Fox Glacier Airport]] || [[Fox Glacier]], [[New Zealand]] || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|-
+|    FGU || NTGB || [[Fangatau Airport]] || [[Fangatau]], [[French Polynesia]] || [[Time in France|UTC−10:00]] ||
+&lt;!-- FGX is FAA code (not IATA) for Fleming-Mason Airport in Flemingsburg, Kentucky, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FH&quot;/&gt;-FH-
+&lt;!-- FHB is FAA code (not IATA) for Fernandina Beach Municipal Airport in Fernandina Beach, Florida, United States --&gt;
+&lt;!-- FHK is FAA code (not IATA) for Knox Army Heliport in Fort Rucker/Ozark, Alabama, United States --&gt;
+&lt;!-- FHR is FAA code (IATA: FRD) for Friday Harbor Airport in Friday Harbor, Washington, United States --&gt;
+|-
+|    FHU || KFHU || [[Sierra Vista Municipal Airport]] / [[Libby Army Airfield]] || [[Fort Huachuca]], [[Sierra Vista, Arizona]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+|    FHZ || NTKH || [[Fakahina Airport]] || [[Fakahina]], [[French Polynesia]] || [[Time in France|UTC−10:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FI&quot;/&gt;-FI-
+|-
+|    FID ||      || [[Elizabeth Field]] (FAA: 0B8) || [[Fishers Island]], [[New York]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FIE || EGEF || [[Fair Isle Airport]] || [[Fair Isle]], [[Scotland]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    FIG || GUFA || [[Fria Airport]] || [[Fria]], [[Guinea]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    FIH || FZAA || [[N'djili Airport]] (Kinshasa International) || [[Kinshasa]], [[Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    FIK || YFNE || [[Finke Airport]] || [[Finke, Northern Territory]], [[Australia]] || [[Australian Time|UTC+09:30]] ||
+|-
+|    FIL || KFOM || [[Fillmore Municipal Airport]] (FAA: FOM) || [[Fillmore, Utah|Fillmore]], [[Utah]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    FIN || AYFI || [[Finschhafen Airport]] || [[Finschhafen]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+&lt;!-- FIT is FAA code (not IATA) for Fitchburg Municipal Airport in Fitchburg, Massachusetts, United States --&gt;
+|-
+|    FIV ||      || [[Five Finger Coast Guard Heliport]] (FAA: 2AK3) || [[Five Finger, Alaska|Five Finger]], [[Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    FIZ || YFTZ || [[Fitzroy Crossing Airport]] || [[Fitzroy Crossing, Western Australia]], [[Australia]] || [[Australian Time|UTC+08:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FJ&quot;/&gt;-FJ-
+|-
+|    FJR || OMFJ || [[Fujairah International Airport]] (cargo only) || [[Fujairah]], [[United Arab Emirates]] || [[UTC+04:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FK&quot;/&gt;-FK-
+&lt;!-- FKA is FAA code (not IATA) for Fillmore County Airport in Preston, Minnesota, United States --&gt;
+|-
+|    FKB || EDSB || [[Baden Airpark]] (Karlsruhe/Baden-Baden Airport) || [[Karlsruhe]]/[[Baden-Baden]], [[Baden-Württemberg]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FKI || FZIC || [[Bangoka International Airport]] || [[Kisangani]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    FKJ || RJNF || [[Fukui Airport]] || [[Fukui, Fukui|Fukui]], [[Honshu]], [[Japan]] || [[Japan Standard Time|UTC+09:00]] ||
+&lt;!-- FKK is FAA code (not IATA) for Farewell Lake Seaplane Base in Farewell Lake, Alaska, United States --&gt;
+|-
+|    FKL || KFKL || [[Venango Regional Airport]] (Chess Lamberton Field) || [[Franklin, Pennsylvania]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FKN || KFKN || [[Franklin Municipal Airport]] (John Beverly Rose Field) || [[Franklin, Virginia]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FKQ || WASF || [[Fak Fak Airport]] || [[Fak Fak]], [[Irian Jaya]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+&lt;!-- FKR is FAA code (not IATA) for Frankfort Municipal Airport in Frankfort, Indiana, United States --&gt;
+|-
+|    FKS || RJSF || [[Fukushima Airport]] || [[Sugawa]], [[Fukushima Prefecture|Fukushima]], [[Japan]] || [[Japan Standard Time|UTC+09:00]] ||
+&lt;!-- FKS is FAA code (not IATA) for Frankfort Dow Memorial Field in Frankfort, Michigan, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FL&quot;/&gt;-FL-
+|-
+|    FLA || SKFL || [[Gustavo Artunduaga Paredes Airport]] || [[Florencia, Caquetá]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    FLB || SNQG || [[Cangapara Airport]] || [[Floriano, Piauí|Floriano]], [[Piauí]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    FLC ||      || [[Falls Creek Airport]] || [[Falls Creek, Victoria]], [[Australia]] || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    FLD || KFLD || [[Fond du Lac County Airport]] || [[Fond du Lac, Wisconsin]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FLE ||      || [[Fort Lee Army Airfield]] (FAA: VA35) || [[Fort Lee (Virginia)|Fort Lee]], [[Virginia]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FLF || EDXF || [[Schäferhaus Airport]] || [[Flensburg]], [[Schleswig-Holstein]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FLG || KFLG || [[Flagstaff Pulliam Airport]] || [[Flagstaff, Arizona]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+|    FLH ||      || [[Flotta Isle Airport]] || [[Flotta]], [[Scotland]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    FLI ||      || [[Flateyri Airport]] || [[Flateyri]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    FLL || KFLL || [[Fort Lauderdale–Hollywood International Airport]] || [[Fort Lauderdale, Florida|Fort Lauderdale]] / [[Hollywood, Florida|Hollywood]], [[Florida]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FLM || SGFI || [[Fernheim Airport]] (Filadelfia Airport) || [[Filadelfia]], [[Paraguay]] || [[UTC−04:00]] || Oct-Mar
+|-
+|    FLN || SBFL || [[Hercílio Luz International Airport]] || [[Florianópolis]], [[Santa Catarina (state)|Santa Catarina]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    FLO || KFLO || [[Florence Regional Airport]] || [[Florence, South Carolina]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FLP || KFLP || [[Marion County Regional Airport]] || [[Flippin, Arkansas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FLR || LIRQ || [[Peretola Airport]] (Amerigo Vespucci Airport) || [[Florence]], [[Italy]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FLS || YFLI || [[Flinders Island Airport]] || [[Flinders Island, Tasmania]], [[Australia]] || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    FLT ||      || [[Flat Airport]] || [[Flat, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    FLU || KFLU || [[Flushing Airport]] || [[Flushing, Queens|Flushing]], [[New York]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FLV || KFLV || [[Sherman Army Airfield]] || [[Fort Leavenworth, Kansas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FLW || LPFL || [[Flores Airport]] || [[Flores Island (Azores)|Flores Island]], [[Azores]], [[Portugal]] || [[UTC−01:00]] || Mar-Oct
+|-
+|    FLX || KFLX || [[Fallon Municipal Airport]] || [[Fallon, Nevada]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    FLY || YFIL || [[Finley Airport]] || [[Finley, New South Wales]], [[Australia]] || [[Australian Time|UTC+10:00]] || Oct-Apr
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FM&quot;/&gt;-FM-
+|-
+|    FMA || SARF || [[Formosa International Airport]] (El Pucú Airport) || [[Formosa, Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    FMC || PAFV || [[Five Mile Airport]] (FAA: FVM) || [[Five Mile, Alaska|Five Mile]], [[Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    FME || KFME || [[Tipton Airport]] (Fort Meade) || [[Odenton, Maryland]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FMH || KFMH || [[Otis ANGB]] (Cape Cod CGAS) || [[Falmouth, Massachusetts]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FMI || FZRF || [[Kalemie Airport]] || [[Kalemie]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    FMM || EDJA || [[Allgäu Airport]] || [[Memmingen]], [[Bavaria]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FMN || KFMN || [[Four Corners Regional Airport]] || [[Farmington, New Mexico]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    FMO || EDDG || [[Münster Osnabrück International Airport]] || [[Greven]], [[North Rhine-Westphalia]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FMS || KFSW || [[Fort Madison Municipal Airport]] (FAA: FSW) || [[Fort Madison]], [[Iowa]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FMY || KFMY || [[Page Field]] || [[Fort Myers, Florida]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- FMZ is FAA code (not IATA) for Fairmont State Airfield in Fairmont, Nebraska, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FN&quot;/&gt;-FN-
+|-
+|    FNA || GFLL || [[Lungi International Airport]] || [[Freetown]], [[Sierra Leone]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    FNB || ETNU || [[Neubrandenburg Airport]] || [[Neubrandenburg]], [[Mecklenburg-Vorpommern]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- FNB is FAA code (not IATA) for Brenner Field in Falls City, Nebraska, United States --&gt;
+|-
+|    FNC || LPMA || [[Santa Catarina Airport]] (also known as [[Funchal Airport]])|| [[Funchal]], [[Madeira]], [[Portugal]] || [[Western European Time|UTC±00:00]] || Mar-Oct
+|-
+|    FNE || AYFA || [[Fane Airport]] || [[Fane, Papua New Guinea|Fane]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    FNG || DFEF || [[Fada N'gourma Airport]] || [[Fada N'gourma]], [[Burkina Faso]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    FNH || HAFN || [[Fincha Airport]] || [[Fincha]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    FNI || LFTW || [[Garons Airport]] || [[Nîmes]]-[[Arles]]-[[Camargue]], [[France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FNJ || ZKPY || [[Pyongyang Sunan International Airport]] || [[Pyongyang]], [[North Korea]] || [[Korea Standard Time|UTC+09:00]] ||
+|-
+|    FNL || KFNL || [[Fort Collins-Loveland Municipal Airport]] || [[Fort Collins, Colorado|Fort Collins]]/[[Loveland, Colorado|Loveland]], [[Colorado]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    FNR || PANR || [[Funter Bay Seaplane Base]] || [[Funter Bay, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    FNT || KFNT || [[Bishop International Airport]] || [[Flint, Michigan]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FO&quot;/&gt;-FO-
+|-
+|    FOA ||      || [[Foula Airport]] || [[Foula]], [[Scotland]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+&lt;!-- FOA is FAA code (not IATA) for Flora Municipal Airport in Flora, Illinois, United States --&gt;
+|-
+|    FOB ||      || [[Fort Bragg Airport]] (FAA: 82CL) || [[Fort Bragg, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    FOC || ZSFZ || [[Fuzhou Changle International Airport]] || [[Fuzhou]], [[Fujian]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    FOD || KFOD || [[Fort Dodge Regional Airport]] || [[Fort Dodge, Iowa]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FOE || KFOE || [[Forbes Field (airport)|Forbes Field]] || [[Topeka, Kansas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FOG || LIBF || [[Gino Lisa Airport]] || [[Foggia, Italy|Foggia]], [[Italy]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FOK || KFOK || [[Francis S. Gabreski Airport]] || [[Westhampton Beach, New York]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FOM || FKKM || [[Nkounja Airport]] || [[Foumban]], [[Cameroon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    FON || MRAN || [[La Fortuna Airport]] || [[La Fortuna]], [[Costa Rica]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    FOO ||      || [[Kornasoren Airport]] (Noemfoor Airport) || [[Noemfoor]], [[Schouten Islands]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    &lt;s&gt;FOP&lt;/s&gt; ||      || [[Morris Army Airfield]] (FAA: 65GA) || [[Fort Gillem]], [[Forest Park, Georgia]], [[USA]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FOR || SBFZ || [[Pinto Martins International Airport]] || [[Fortaleza]], [[Ceará]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    FOS || YFRT || [[Forrest Airport]] || [[Forrest, Western Australia]], [[Australia]] || [[Australian Time|UTC+08:00]] ||
+|-
+|    FOT || KFOT || [[Rohnerville Airport]] || [[Fortuna, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    FOU || FOGF || [[Fougamou Airport]] || [[Fougamou]], [[Gabon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    FOY ||      || [[Foya Airport]] || [[Foya]], [[Liberia]] || [[Greenwich Mean Time|UTC±00:00]] ||
+&lt;!-- FOZ is FAA code (not IATA) for Bigfork Municipal Airport in Bigfork, Minnesota, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FP&quot;/&gt;-FP-
+&lt;!-- FPK is FAA code (not IATA) for Fitch H. Beach Airport in Charlotte, Michigan, United States --&gt;
+|-
+|    FPO || MYGF || [[Grand Bahama International Airport]] || [[Freeport, Bahamas|Freeport]], [[Grand Bahama]], [[Bahamas]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FPR || KFPR || [[St. Lucie County International Airport]] || [[Fort Pierce, Florida]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FPY ||      || [[Perry-Foley Airport]] (FAA: 40J) || [[Perry, Florida]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- FQD is FAA code (not IATA) for Rutherford County Airport (Marchman Field) in Rutherfordton, North Carolina, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FR&quot;/&gt;-FR-
+|-
+|    FRA || EDDF || [[Frankfurt Airport]] || [[Frankfurt]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FRB || YFBS || [[Forbes Airport]] || [[Forbes, New South Wales]], [[Australia]] || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    FRC || SIMK || [[Franca Airport]] || [[Franca]], [[São Paulo]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    FRD || KFHR || [[Friday Harbor Airport]] (FAA: FHR) || [[Friday Harbor, Washington]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    FRE || AGGF || [[Fera Airport]] (Fera/Maringe Airport) || [[Maringe]], [[Fera Island]], [[Isabel Province]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+|    FRF || EDOL || [[Oschersleben Airport]] || [[Oschersleben]], [[Saxony-Anhalt]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FRG || KFRG || [[Republic Airport]] || [[East Farmingdale, New York]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FRH || KFRH || [[French Lick Municipal Airport]] || [[French Lick, Indiana]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FRI || KFRI || [[Marshall Army Airfield]] ([[Fort Riley]]) || [[Junction City, Kansas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FRJ || LFTU || [[Frejus Saint-Raphael Airport]] || [[Fréjus]] / [[Saint-Raphaël, Var|Saint-Raphaël]], [[France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FRK || FSSF || [[Frégate Island Airport]] || [[Frégate Island]], [[Seychelles]] || [[Seychelles Time|UTC+04:00]] ||
+|-
+|    FRL || LIPK || [[Forlì Airport|Forlì &quot;Luigi Ridolfi&quot; Airport]] || [[Forlì]], [[Emilia-Romagna]], [[Italy]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FRM || KFRM || [[Fairmont Municipal Airport (Minnesota)|Fairmont Municipal Airport]] || [[Fairmont, Minnesota]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FRN || PAFR || [[Bryant Army Heliport]] / Bryant AAF || [[Fort Richardson (Alaska)|Fort Richardson]], [[Anchorage, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    FRO || ENFL || [[Florø Airport]] || [[Florø]], [[Sogn og Fjordane]], [[Norway]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FRQ || AYFE || [[Feramin Airport]] || [[Feramin]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    FRR || KFRR || [[Front Royal-Warren County Airport]] || [[Front Royal, Virginia]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FRS || MGTK || [[Mundo Maya International Airport]] || [[Flores, El Petén]], [[Guatemala]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    FRT || SCFI || [[Frutillar Airport]] || [[Frutillar]], [[Chile]] || [[Time in Chile|UTC−03:00]] ||
+|-
+|    FRU || UAFM || [[Manas International Airport]] || [[Bishkek]], [[Kyrgyzstan]] || [[Kyrgyzstan Time|UTC+06:00]] ||
+|-
+|    FRW || FBFT || [[Francistown Airport]] || [[Francistown]], [[Botswana]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    FRY || KIZG || [[Eastern Slopes Regional Airport]] (FAA: IZG) || [[Fryeburg, Maine]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FRZ || ETHF || [[Fritzlar Air Base]] || [[Fritzlar]], [[Hessen]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FS&quot;/&gt;-FS-
+|-
+|    FSC || LFKF || [[Sud Corse Airport]] || [[Figari]], [[Corsica]], [[France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    FSD || KFSD || [[Sioux Falls Regional Airport]] (Joe Foss Field) || [[Sioux Falls, South Dakota]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- FSE is FAA code (not IATA) for Fosston Municipal Airport in Fosston, Minnesota, United States --&gt;
+|-
+|    FSI || KFSI || [[Henry Post Army Airfield]] (Fort Sill) || [[Fort Sill, Oklahoma]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FSK || KFSK || [[Fort Scott Municipal Airport]] || [[Fort Scott, Kansas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FSL ||      || [[Fossil Downs Airport]] || [[Fossil Downs Station]], [[Western Australia]], [[Australia]] || [[Australian Time|UTC+08:00]] ||
+|-
+|    FSM || KFSM || [[Fort Smith Regional Airport]] || [[Fort Smith, Arkansas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- FSO is FAA code (not IATA) for Franklin County State Airport in Highgate, Vermont, United States --&gt;
+|-
+|    FSP || LFVP || [[Saint Pierre Airport]] || [[Saint-Pierre, Saint Pierre and Miquelon]], [[France]] || [[Time in France|UTC−03:00]] || Mar-Nov
+|-
+|    FSS || EGQK || [[RAF Kinloss]] || [[Forres]], [[Scotland]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    FST || KFST || [[Fort Stockton-Pecos County Airport]] || [[Fort Stockton, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FSU || KFSU || [[Fort Sumner Municipal Airport]] || [[Fort Sumner, New Mexico]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+&lt;!-- FSW is FAA code (IATA: FMS) for Fort Madison Municipal Airport in Fort Madison, Iowa, United States --&gt;
+|-
+|    FSZ || RJNS || [[Mt. Fuji Shizuoka Airport]] || [[Shizuoka, Shizuoka|Shizuoka]], [[Honshu]], [[Japan]] || [[Japan Standard Time|UTC+09:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FT&quot;/&gt;-FT-
+|-
+|    FTA || NVVF || [[Futuna Airport]] || [[Futuna Island, Vanuatu|Futuna Island]], [[Taféa]], [[Vanuatu]] || [[UTC+11:00]] ||
+|-
+|    FTE || SAWA || [[Comandante Armando Tola International Airport]] || [[El Calafate]], [[Santa Cruz Province, Argentina|Santa Cruz Province]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+&lt;!-- FTG is FAA code (not IATA) for Front Range Airport in Aurora, Colorado, United States --&gt;
+|-
+|    FTI || NSFQ || [[Fitiuta Airport]] (FAA: FAQ) || [[Fitiuta, American Samoa|Fiti‘uta]], [[American Samoa]], [[United States]] || [[Samoa Time Zone|UTC−11:00]] ||
+|-
+|    FTK || KFTK || [[Godman Army Airfield]] || [[Fort Knox, Kentucky]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- FTT is FAA code (not IATA) for Elton Hensley Memorial Airport in Fulton, Missouri, United States --&gt;
+|-
+|    FTU || FMSD || [[Tôlanaro Airport]] (Marillac Airport) || [[Tôlanaro]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    FTW || KFTW || [[Fort Worth Meacham International Airport]] || [[Fort Worth, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FTX || FCOO || [[Owando Airport]] || [[Owando]], [[Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    FTY || KFTY || [[Fulton County Airport (Georgia)|Fulton County Airport]] (Brown Field) || [[Atlanta, Georgia]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FU&quot;/&gt;-FU-
+|-
+|    FUB ||      || [[Fulleborn Airport]] || [[Fulleborn]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    FUE || GCFV || [[El Matorral Airport]] || [[Puerto del Rosario]], [[Fuerteventura]], [[Canary Islands]], [[Spain]] || [[Western European Time|UTC±00:00]] || Mar-Oct
+|-
+|    FUG || ZSFY || [[Fuyang Airport]] || [[Fuyang, Anhui|Fuyang]], [[Anhui]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    FUJ || RJFE || [[Fukue Airport]] (Gotō Fukue Airport)|| [[Gotō, Nagasaki|Gotō]], [[Nagasaki Prefecture|Nagasaki]], [[Japan]] || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    FUK || RJFF || [[Fukuoka Airport]] (Itazuke Air Base) || [[Fukuoka, Fukuoka|Fukuoka]], [[Japan]] || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    FUL || KFUL || [[Fullerton Municipal Airport]] || [[Fullerton, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    FUN || NGFU || [[Funafuti International Airport]] || [[Funafuti]], [[Tuvalu]] || [[UTC+12:00]] ||
+|-
+|    FUO || ZGFS || [[Foshan Airport]] || [[Foshan]], [[Guangdong]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    FUT || NLWF || [[Pointe Vele Airport]] || [[Futuna Island, Wallis and Futuna|Futuna Island]], [[Wallis and Futuna Islands]] || [[Time in France|UTC+12:00]] ||
+&lt;!-- FVE is FAA code (IATA: WFK) for Northern Aroostook Regional Airport in Frenchville, Maine, United States --&gt;
+&lt;!-- FVM is FAA code (IATA: FMC) for Five Mile Airport in Five Mile, Alaska, United States --&gt;
+&lt;!-- FVX is FAA code (not IATA) for Farmville Regional Airport in Farmville, Virginia, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FV&quot;/&gt;-FV-
+|-
+|    FVM || VRMF || [[Fuvahmulah Airport]] || [[Fuvahmulah]], [[Maldives]] || [[UTC+05:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FW&quot;/&gt;-FW-
+|-
+|    FWA || KFWA || [[Fort Wayne International Airport]] || [[Fort Wayne, Indiana]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- FWC is FAA code (not IATA) for Fairfield Municipal Airport in Fairfield, Illinois, United States --&gt;
+|-
+|    FWH || KNFW || [[Naval Air Station Joint Reserve Base Fort Worth|NAS JRB Fort Worth]] / Carswell Field (FAA: NFW) || [[Fort Worth, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FWL || PAFW || [[Farewell Airport]] || [[Farewell, Alaska|Farewell]], [[Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    FWM ||      || [[Fort William Heliport]] || [[Fort William, Scotland|Fort William]], [[Scotland]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+&lt;!-- FWN is FAA code (not IATA) for Sussex Airport in Sussex, New Jersey, United States --&gt;
+&lt;!-- FWQ is FAA code (not IATA) for Rostraver Airport in Rostraver Township, Pennsylvania, United States --&gt;
+&lt;!-- FWS is FAA code (not IATA) for Fort Worth Spinks Airport in Fort Worth, Texas, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FX&quot;/&gt;-FX-
+|-
+|    FXE || KFXE || [[Fort Lauderdale Executive Airport]] || [[Fort Lauderdale, Florida]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    FXO || FQCB || [[Cuamba Airport]] || [[Cuamba]], [[Mozambique]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    FXY || KFXY || [[Forest City Municipal Airport]] || [[Forest City, Iowa]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FY&quot;/&gt;-FY-
+&lt;!-- FYE is FAA code (not IATA) for Fayette County Airport in Somerville, Tennessee, United States --&gt;
+&lt;!-- FYG is FAA code (not IATA) for Washington Regional Airport in Washington, Missouri, United States --&gt;
+&lt;!-- FYJ is FAA code (not IATA) for Middle Peninsula Regional Airport in West Point, Virginia, United States --&gt;
+|-
+|    FYJ || ZYFY || [[Fuyuan Dongji Airport]] || [[Fuyuan County, Heilongjiang|Fuyuan]], [[Heilongjiang]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    FYM || KFYM || [[Fayetteville Municipal Airport (Tennessee)|Fayetteville Municipal Airport]] || [[Fayetteville, Tennessee]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    FYN || ZWFY || [[Fuyun Koktokay Airport]] || [[Fuyun]], [[Xinjiang]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    FYT || FTTY || [[Faya-Largeau Airport]] || [[Faya-Largeau]], [[Chad]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    FYU || PFYU || [[Fort Yukon Airport]] || [[Fort Yukon, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    FYV || KFYV || [[Drake Field]] || [[Fayetteville, Arkansas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;FZ&quot;/&gt;-FZ-
+&lt;!-- FZG is FAA code (not IATA) for Fitzgerald Municipal Airport in Fitzgerald, Georgia, United States --&gt;
+&lt;!-- FZI is FAA code (not IATA) for Fostoria Metropolitan Airport in Fostoria, Ohio, United States --&gt;
+|-
+|    FZO || EGTG || [[Bristol Filton Airport]] || [[Filton]], [[Bristol]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+&lt;!-- FZY is FAA code (not IATA) for Oswego County Airport in Fulton, New York, United States --&gt;
+
+|}
+∗ Morocco temporarily suspends DST for the month of Ramadan.
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = PDF | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|F]]</text>
+      <sha1>8p5i1etj6muntxze8dmys8zbipss3vy</sha1>
+    </revision>
+  </page>
+</mediawiki>

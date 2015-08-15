@@ -1,0 +1,689 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: I</title>
+    <ns>0</ns>
+    <id>317107</id>
+    <revision>
+      <id>656969729</id>
+      <parentid>654561542</parentid>
+      <timestamp>2015-04-17T23:54:35Z</timestamp>
+      <contributor>
+        <username>HankW512</username>
+        <id>16106831</id>
+      </contributor>
+      <comment>/* I */ added time zone info for all airports with IATA codes beginning with I</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="41899">{{Lists of airports by IATA code}}
+
+==I==
+{{AlphanumericTOC|prefixLink=I|prefixDesc=I|numbers=|sections=}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+! style=&quot;text-align:left;&quot; | Time
+! style=&quot;text-align:left;&quot; | DST
+&lt;!-- comments added to prevent addition of incorrect IATA codes --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IA&quot;/&gt;-IA-
+|-
+|    IAA || UOII || [[Igarka Airport]] || [[Igarka]], [[Russia]] || [[Krasnoyarsk Time|UTC+07:00]] ||
+|-
+|    IAB || KIAB || [[McConnell Air Force Base]] || [[Wichita, Kansas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    IAD || KIAD || [[Washington Dulles International Airport]] || [[Washington, D.C.]] / [[Virginia]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    IAG || KIAG || [[Niagara Falls International Airport]] || [[Niagara Falls, New York]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    IAH || KIAH || [[George Bush Intercontinental Airport]] || [[Houston, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    IAL || AYIU || [[Ialibu Airport]] || [[Ialibu]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    IAM || DAUZ || [[In Amenas Airport]] || [[In Amenas]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    IAN || PAIK || [[Bob Baker Memorial Airport]] || [[Kiana, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    IAQ ||      || [[Bahregan Airport]] || [[Bahregan]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    IAR || UUDL || [[Yaroslavl Airport]] || [[Yaroslavl]], [[Russia]] || [[Moscow Time|UTC+03:00]] ||
+|-
+|    IAS || LRIA || [[Iași International Airport]] || [[Iași]], [[Romania]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    IAU ||      || [[Iaura Airport]] || [[Iaura]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IB&quot;/&gt;-IB-
+|-
+|    IBA || DNIB || [[Ibadan Airport]] || [[Ibadan]], [[Nigeria]] || [[West Africa Time|UTC+01:00]] ||
+&lt;!-- IBB is not IATA code for Itbayat Airport (ICAO: RPLT) in Itbayat, Batanes, Philippines --&gt;
+|-
+|    IBE || SKIB || [[Perales Airport]] || [[Ibagué]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    IBI ||      || [[Iboki Airport]] || [[Iboki]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    IBL ||      || [[Indigo Bay Lodge Airport]] || [[Bazaruto Island]], [[Mozambique]] || [[Central Africa Time|UTC+02:00]] ||
+&lt;!-- IBM is FAA code (not IATA) for Kimball Municipal Airport in Kimball, Nebraska, United States --&gt;
+&lt;!-- IBN is FAA code (not IATA) for Devils Mountain Lodge Airport in Nabesna, Alaska, United States --&gt;
+|-
+|    IBO ||      || [[Ibo Airport]] || [[Ibo, Mozambique|Ibo]], [[Mozambique]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    IBP || SPBR || [[Iberia Airport]] || [[Iberia, Peru|Iberia]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+|-
+|    IBZ || LEIB || [[Ibiza Airport]] || [[Ibiza]], [[Spain]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IC&quot;/&gt;-IC-
+|-
+|    ICA || SVIC || [[Icabaru Airport]] || [[Icabaru]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+|    ICI || NFCI || [[Cicia Airport]] || [[Cicia]], [[Fiji]] || [[UTC+12:00]] || Nov-Jan
+|-
+|    ICK || SMNI || [[Nieuw-Nickerie Airport]] (Maj. Fernandes Airport) || [[Nieuw-Nickerie]], [[Suriname]] || [[UTC−03:00]] ||
+|-
+|    ICL || KICL || [[Schenck Field]] || [[Clarinda, Iowa]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ICN || RKSI || [[Incheon International Airport]] || [[Incheon]] (near [[Seoul]]), [[South Korea]] || [[Korea Standard Time|UTC+09:00]] ||
+|-
+|    ICO || RPSG || [[Sicogon Airport]] || [[Carles, Iloilo|Carles]], [[Iloilo]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    ICR || MUNC || [[Nicaro Airport]] || [[Nicaro]], [[Cuba]] || [[UTC−05:00]] || Mar-Nov
+|-
+|    ICT || KICT || [[Wichita Dwight D. Eisenhower National Airport]] || [[Wichita, Kansas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ICY ||      || [[Icy Bay Airport]] (FAA: 19AK) || [[Icy Bay]], [[Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ID&quot;/&gt;-ID-
+|-
+|    IDA || KIDA || [[Idaho Falls Regional Airport]] || [[Idaho Falls, Idaho]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    IDB || ESUE || [[Idre Airport]] || [[Idre]], [[Sweden]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    IDF || FZCB || [[Idiofa Airport]] || [[Idiofa]], [[Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    IDG || KIDG || [[Ida Grove Municipal Airport]] || [[Ida Grove, Iowa]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    IDI || KIDI || [[Indiana County Airport]] (Jimmy Stewart Field) || [[Indiana, Pennsylvania]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    IDK || YIDK || [[Indulkana Airport]] || [[Indulkana, South Australia]], [[Australia]] || [[Australian Time|UTC+09:30]] || Oct-Apr
+&lt;!-- IDL is FAA code (not IATA) for Indianola Municipal Airport in Indianola, Mississippi --&gt;
+|-
+|    IDN ||      || [[Indagen Airport]] || [[Indagen]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    IDO || SWIY || [[Santa Isabel do Morro Airport]] || [[Santa Isabel do Morro]], [[Tocantins]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    IDP || KIDP || [[Independence Municipal Airport (Kansas)|Independence Municipal Airport]] || [[Independence, Kansas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    IDR || VAID || [[Devi Ahilyabai Holkar International Airport]] || [[Indore]], [[Madhya Pradesh]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IDY || LFEY || [[Île d'Yeu Airport]] || [[Île d'Yeu]], [[France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IE&quot;/&gt;-IE-
+|-
+|    IEG || EPZG || [[Zielona Góra Airport]] (Babimost Air Base) || [[Zielona Góra]], [[Poland]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    IEJ || RORE || [[Iejima Airport]] || [[Iejima]], [[Japan]] || [[Japan Standard Time|UTC+09:00]] ||
+&lt;!-- IEM is FAA code (not IATA) for Whittier Airport in Whittier, Alaska, United States --&gt;
+&lt;!-- IEN is FAA code (IATA: XPR) for Pine Ridge Airport in Pine Ridge, South Dakota, United States --&gt;
+&lt;!-- IER is FAA code (not IATA) for Natchitoches Regional Airport in Natchitoches, Louisiana, United States --&gt;
+|-
+|    IES || EDAU || [[Göhlis Airport]] || [[Riesa]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    IEV || UKKK || [[Kiev International Airport]] || [[Kiev]], [[Ukraine]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IF&quot;/&gt;-IF-
+|-
+|    IFA || KIFA || [[Iowa Falls Municipal Airport]] || [[Iowa Falls, Iowa]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    IFF || YIFY || [[Iffley Airport]] || [[Iffley Station|Iffley]], [[Queensland]], [[Australia]] || [[Australian Time|UTC+10:00]] ||
+|-
+|    IFJ || BIIS || [[Ísafjörður Airport]] || [[Ísafjörður]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    IFL || YIFL || [[Innisfail Airport (Australia)|Innisfail Airport]] || [[Innisfail, Queensland]], [[Australia]] || [[Australian Time|UTC+10:00]] ||
+|-
+|    IFN || OIFM || [[Esfahan Shahid Beheshti International Airport]] || [[Isfahan]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    IFO || UKLI || [[Ivano-Frankivsk Airport]] || [[Ivano-Frankivsk]], [[Ukraine]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    IFP || KIFP || [[Laughlin/Bullhead International Airport]] || [[Bullhead City, Arizona]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IG&quot;/&gt;-IG-
+|-
+|    IGA || MYIG || [[Matthew Town Airport]] ([[Inagua Airport]]) || [[Matthew Town]], [[Great Inagua Island]], [[Bahamas]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    IGB || SAVJ || [[Ingeniero Jacobacci Airport|C. FAA H.R. Borden Airport]] (Ingeniero Jacobacci Airport) || [[Ingeniero Jacobacci]], [[Río Negro Province|Río Negro]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    IGE || FOOI || [[Iguela Airport]] || [[Iguela]], [[Gabon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    IGG || PAIG || [[Igiugig Airport]] || [[Igiugig, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    IGH || YIGM || [[Ingham Airport]] || [[Ingham, Queensland]], [[Australia]] || [[Australian Time|UTC+10:00]] ||
+&lt;!-- IGI is not Indira Gandhi International Airport in New Delhi, India (see DEL/VIDP) --&gt;
+|-
+|    IGL || LTBL || [[Çiğli Airport]] (Çiğli Air Base) || [[Çiğli]] / [[İzmir]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    IGM || KIGM || [[Kingman Airport (Arizona)|Kingman Airport]] || [[Kingman, Arizona]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+|    IGN || RPMI || [[Maria Cristina Airport]] (Iligan Airport) || [[Baloi, Lanao del Norte|Baloi]], [[Lanao del Norte]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    IGO || SKIG || [[Chigorodó Airport]] || [[Chigorodó]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+&lt;!-- IGQ is FAA code (not IATA) for Lansing Municipal Airport in Chicago, Illinois, United States --&gt;
+|-
+|    IGR || SARI || [[Cataratas del Iguazú International Airport]] || [[Puerto Iguazú]], [[Misiones]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    IGS || ETSI || [[Ingolstadt Manching Airport]] || [[Ingolstadt]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- IGT is FAA code (IATA: NME) for Nightmute Airport in Nightmute, Alaska, United States --&gt;
+|-
+|    IGT ||  || [[Magas Airport]] || [[Magas]], [[Republic of Ingushetia]], [[Russia]] || [[Moscow Time|UTC+03:00]] ||
+|-
+|    IGU || SBFI || [[Foz do Iguaçu International Airport]] || [[Foz do Iguaçu]], [[Paraná (state)|Paraná]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+&lt;!-- IGX is FAA code (not IATA) for Horace Williams Airport in Chapel Hill, North Carolina, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IH&quot;/&gt;-IH-
+|-
+|    IHA ||      || [[Niihama Airport]] || [[Niihama]], [[Shikoku]], [[Japan]] || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    IHN || OYQN || [[Qishn Airport]] || [[Qishn]], [[Yemen]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    IHO || FMSI || [[Ihosy Airport]] || [[Ihosy]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    IHU ||      || [[Ihu Airport]] || [[Ihu, Papua New Guinea|Ihu]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;II&quot;/&gt;-II-
+|-
+|    IIA || EIMN || [[Inishmaan Airport]] || [[Inishmaan]], [[Republic of Ireland|Ireland]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+&lt;!-- IIB is FAA code (not IATA) for Independence Municipal Airport in Independence, Iowa, United States --&gt;
+&lt;!-- IIK is FAA code (IATA: KPN) for Kipnuk Airport in Kipnuk, Alaska, United States --&gt;
+|-
+|    IIN ||      || [[Nishinoomote Airport]] || [[Nishinoomote]], [[Osumi Islands]], [[Japan]] || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    IIS ||      || [[Nissan Island Airport]] || [[Nissan Island]], [[Papua New Guinea]] || [[UTC+11:00]] ||
+&lt;!-- IIY is FAA code (not IATA) for Washington-Wilkes County Airport in Washington, Georgia, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IJ&quot;/&gt;-IJ-
+|-
+&lt;!-- IJD is FAA code (not IATA) for Windham Airport in Willimantic, Connecticut, United States --&gt;
+|-
+|    IJK || USII || [[Izhevsk Airport]] || [[Izhevsk]], [[Udmurt Republic]], [[Russia]] || [[Samara Time|UTC+04:00]] ||
+|-
+|    IJU || SSIJ || [[Ijuí Airport]] (J. Batista Bos Filho Airport) || [[Ijuí]], [[Rio Grande do Sul]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    IJX || KIJX || Jacksonville Municipal Airport (not [[Imeson Field]]) || [[Jacksonville, Illinois]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IK&quot;/&gt;-IK-
+|-
+|    IKA || OIIE || [[Tehran Imam Khomeini International Airport]] || [[Tehran]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    IKB || KUKF || [[Wilkes County Airport]] (FAA: UKF) || [[North Wilkesboro, North Carolina]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    IKE || BGIA || [[Ikerasak Heliport]] || [[Ikerasak]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+&lt;!-- IKG is FAA code (not IATA) for Kleberg County Airport in Kingsville, Texas --&gt;
+|-
+|    IKI || RJDB || [[Iki Airport]] || [[Iki, Nagasaki|Iki]], [[Iki Island]], [[Japan]] || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    IKK || KIKK || [[Greater Kankakee Airport]] || [[Kankakee, Illinois]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    IKL || FZGV || [[Ikela Airport]] || [[Ikela]], [[Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    IKO || PAKO || [[Nikolski Air Station]] || [[Nikolski, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    IKP || YIKM || [[Inkerman Airport]] || [[Inkerman, Queensland]], [[Australia]] || [[Australian Time|UTC+10:00]] ||
+|-
+|    IKS || UEST || [[Tiksi Airport]] || [[Tiksi]], [[Russia]] || [[Yakutsk Time|UTC+09:00]] ||
+|-
+|    IKT || UIII || [[Irkutsk International Airport]] || [[Irkutsk]], [[Russia]] || [[Irkutsk Time|UTC+08:00]] ||
+|-
+|    IKV || KIKV || [[Ankeny Regional Airport]] || [[Ankeny, Iowa]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- IKW is FAA code (not IATA) for Jack Barstow Airport in Midland, Michigan, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IL&quot;/&gt;-IL-
+|-
+|    ILA || WABL || [[Illaga Airport]] || [[Illaga]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    ILB ||      || [[Ilha Solteira Airport]] || [[Ilha Solteira]], [[São Paulo]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+&lt;!-- ILD is not IATA code for Lleida-Alguaire Airport (ICAO: LEDA) in Lleida, Spain --&gt;
+|-
+|    ILD || LEDA || [[Lleida-Alguaire Airport]] || [[Lleida]], [[Spain]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    ILE || KILE || [[Skylark Field]] || [[Killeen, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ILF || CZBD || [[Ilford Airport]] || [[Ilford, Manitoba]], [[Canada]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ILG || KILG || [[New Castle Airport]] || [[Wilmington, Delaware]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ILH || ETIK || [[Illisheim Army Airfield]] || [[Illisheim]], [[Bavaria]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    ILI || PAIL || [[Iliamna Airport]] || [[Iliamna, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    ILK || FMMQ || [[Atsinanana Airport]] (Ilaka Airport) || [[Ilaka]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    ILL || KBDH || [[Willmar Municipal Airport]] (John L. Rice Field) || [[Willmar, Minnesota]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- ILL is not IATA code for Illorsuit Heliport (ICAO: BGLL) in Illorsuit, Greenland --&gt;
+|-
+|    ILM || KILM || [[Wilmington International Airport]] || [[Wilmington, North Carolina]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ILN || KILN || [[Airborne Airpark]] || [[Wilmington, Ohio]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ILO || RPVI || [[Iloilo International Airport]] || [[Cabatuan, Iloilo|Cabatuan]] / [[Santa Barbara, Iloilo|Santa Barbara]], [[Iloilo]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    ILP || NWWE || [[Moué Airport]] (Île des Pins Airport) || [[Île des Pins]], [[New Caledonia]] || [[Time in France|UTC+11:00]] ||
+|-
+|    ILQ || SPLO || [[Ilo Airport]] || [[Ilo]], [[Moquegua Region]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+|-
+|    ILR || DNIL || [[Ilorin Airport]] || [[Ilorin]], [[Nigeria]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    ILU || HKKL || [[Kilaguni Airport]] || [[Kilaguni]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    ILX ||      || [[Ileg Airport]] || [[Ileg]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    ILY || EGPI || [[Port Ellen Airport]] (Glenegedale Airport) || [[Islay]], [[Scotland]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    ILZ || LZZI || [[Žilina Airport]] || [[Žilina]], [[Slovakia]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IM&quot;/&gt;-IM-
+|-
+|    IMA ||      || [[Iamalele Airport]] || [[Iamalele]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    IMB || SYIB || [[Imbaimadai Airport]] || [[Imbaimadai]], [[Guyana]] || [[UTC−04:00]] ||
+|-
+|    IMD ||      || [[Imonda Airport]] || [[Imonda]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    IMF || VEIM || [[Tulihal Airport]] || [[Imphal]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IMG ||      || [[Inhaminga Airport]] || [[Inhaminga]], [[Mozambique]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    IMI ||      || [[Ine Airport]] (FAA: N20) || Ine, [[Arno Atoll]], [[Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    IMK || VNST || [[Simikot Airport]] || [[Simikot]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    IML || KIML || [[Imperial Municipal Airport]] || [[Imperial, Nebraska]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    IMM || KIMM || [[Immokalee Airport]] || [[Immokalee, Florida]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    IMN || AYII || [[Imane Airport]] || [[Imane]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    IMO || FEFZ || [[Zemio Airport]] || [[Zemio]], [[Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    IMP || SBIZ || [[Imperatriz Airport]] || [[Imperatriz]], [[Maranhão]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+&lt;!-- IMS is FAA code (IATA: MDN) for Madison Municipal Airport in Madison, Indiana, United States --&gt;
+|-
+|    IMT || KIMT || [[Ford Airport (Iron Mountain)|Ford Airport]] || [[Iron Mountain, Michigan|Iron Mountain]] / [[Kingsford, Michigan]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    IMZ ||      || [[Nimroz Airport]] || [[Nimroz]], [[Afghanistan]] || [[Time in Afghanistan|UTC+04:30]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IN&quot;/&gt;-IN-
+|-
+|    INA || UUYI || [[Inta Airport]] || [[Inta]], [[Russia]] || [[Moscow Time|UTC+03:00]] ||
+|-
+|    INB ||      || [[Independence Airport (Belize)|Independence Airport]] || [[Independence and Mango Creek|Independence]], [[Belize]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    INC || ZLIC || [[Yinchuan Airport]] (Hedong Airport) || [[Yinchuan]], [[Ningxia]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    IND || KIND || [[Indianapolis International Airport]] || [[Indianapolis, Indiana]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    INE ||      || [[Chinde Airport]] || [[Chinde]], [[Mozambique]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    INF || DATG || [[In Guezzam Airport]] || [[In Guezzam]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+| &lt;s&gt;ING&lt;/s&gt; || &lt;s&gt;SAWA&lt;/s&gt; || &lt;s&gt;[[Lago Argentino Airport]]&lt;/s&gt; &lt;small&gt;(closed 2006)&lt;/small&gt; || &lt;s&gt;[[El Calafate]], [[Santa Cruz Province (Argentina)|Santa Cruz]], [[Argentina]]&lt;/s&gt;
+|-
+|    INH || FQIN || [[Inhambane Airport]] || [[Inhambane]], [[Mozambique]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    INI || LYNI || [[Niš Constantine the Great Airport]] || [[Niš]], [[Serbia]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    INJ || YINJ || [[Injune Airport]] || [[Injune, Queensland]], [[Australia]] || [[Australian Time|UTC+10:00]] ||
+&lt;!-- INJ is FAA code (not IATA) for Hillsboro Municipal Airport in Hillsboro, Texas, United States --&gt;
+|-
+|    INK || KINK || [[Winkler County Airport]] || [[Wink, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    INL || KINL || [[Falls International Airport]] || [[International Falls, Minnesota]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    INM || YINN || [[Innamincka Airport]] || [[Innamincka, South Australia]], [[Australia]] || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+|    INN || LOWI || [[Innsbruck Airport]] (Kranebitten Airport) || [[Innsbruck]], [[Austria]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    INO || FZBA || [[Inongo Airport]] || [[Inongo]], [[Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    INQ || EIIR || [[Inisheer Airport]] || [[Inisheer]], [[Republic of Ireland|Ireland]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+| &lt;s&gt;INR&lt;/s&gt; ||      || &lt;s&gt;[[Kincheloe Air Force Base]]&lt;/s&gt; &lt;small&gt;(closed 1977)&lt;/small&gt; || &lt;s&gt;[[Sault Ste. Marie, Michigan]], [[United States]]&lt;/s&gt;
+&lt;!-- INR is FAA code (IATA: MCL) for McKinley National Park Airport in McKinley Park, Alaska, United States --&gt;
+|-
+|    INS || KINS || [[Creech Air Force Base]] || [[Indian Springs, Nevada]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    INT || KINT || [[Smith Reynolds Airport]] || [[Winston-Salem, North Carolina]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    INU || ANYN || [[Nauru International Airport]] || [[Yaren District|Yaren]], [[Nauru]] || [[UTC+12:00]] ||
+|-
+|    INV || EGPE || [[Inverness Airport]] || [[Inverness]], [[Scotland]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    INW || KINW || [[Winslow-Lindbergh Regional Airport]] || [[Winslow, Arizona]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+|    INX || WASI || [[Inanwatan Airport]] || [[Inanwatan]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    INY ||      || [[Inyati Airport]] || [[Inyati]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    INZ || DAUI || [[In Salah Airport]] || [[In Salah]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IO&quot;/&gt;-IO-
+|-
+|    IOA || LGIO || [[Ioannina National Airport]] || [[Ioannina]], [[Greece]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+&lt;!-- IOB is FAA code (not IATA) for Mount Sterling-Montgomery County Airport in Mount Sterling, Kentucky, United States --&gt;
+|-
+|    IOK ||      || [[Iokea Airport]] || [[Iokea]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    IOM || EGNS || [[Isle of Man Airport]] || [[Ronaldsway]], [[Isle of Man]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    ION || FCOI || [[Impfondo Airport]] || [[Impfondo]], [[Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    IOP ||      || [[Ioma Airport]] || [[Ioma]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    IOQ || BGIS || [[Isortoq Heliport]] || [[Isortoq]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    IOR || EIIM || [[Inishmore Aerodrome]] (Kilronan Airport) || [[Kilronan]], [[Inishmore]], [[Republic of Ireland|Ireland]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    IOS || SBIL || [[Ilhéus Jorge Amado Airport]] || [[Ilhéus]], [[Bahia]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+&lt;!-- Abandoned airport: IOU || NWWO || [[Edmond Cané Airport]] || [[Île Ouen]], [[New Caledonia]] --&gt;
+|-
+|    IOW || KIOW || [[Iowa City Municipal Airport]] || [[Iowa City, Iowa]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IP&quot;/&gt;-IP-
+|-
+|    IPA || NVVI || [[Ipota Airport]] || [[Ipota]], [[Erromango]], [[Vanuatu]] || [[UTC+11:00]] ||
+|-
+|    IPC || SCIP || [[Mataveri International Airport]] || [[Easter Island]], [[Chile]] || [[Time in Chile|UTC−05:00]] ||
+|-
+|    IPE || RPMV || [[Ipil Airport]] || [[Ipil, Zamboanga Sibugay|Ipil]], [[Zamboanga Sibugay]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    IPG || SWII || [[Ipiranga Airport]] || [[Santo Antônio do Içá]], [[Amazonas (Brazilian state)|Amazonas]], [[Brazil]] || [[Time in Brazil|UTC−04:00]] ||
+|-
+|    IPH || WMKI || [[Sultan Azlan Shah Airport]] || [[Ipoh, Perak]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    IPI || SKIP || [[San Luis Airport (Colombia)|San Luis Airport]] || [[Ipiales]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+&lt;!-- IPJ is FAA code (not IATA) for Lincolnton-Lincoln County Regional Airport in Lincolnton, North Carolina --&gt;
+|-
+|    IPL || KIPL || [[Imperial County Airport]] || [[Imperial, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    IPN || SBIP || [[Usiminas Airport]] || [[Ipatinga]] / [[Santana do Paraiso]], [[Minas Gerais]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    IPT || KIPT || [[Williamsport Regional Airport]] || [[Williamsport, Pennsylvania]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    IPU || SNIU || [[Ipiaú Airport]] || [[Ipiaú]], [[Bahia]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+| &lt;s&gt;IPW&lt;/s&gt; || &lt;s&gt;EGSE&lt;/s&gt; || &lt;s&gt;[[Ipswich Airport]]&lt;/s&gt; &lt;small&gt;(closed 1996)&lt;/small&gt; || &lt;s&gt;[[Ipswich]], [[England]]&lt;/s&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IQ&quot;/&gt;-IQ-
+|-
+|    IQM || ZWCM || [[Qiemo Airport]] || [[Qiemo]], [[Xinjiang]], [[China]] || [[Time in China|UTC+06:00]] ||
+|-
+|    IQN || ZLQY || [[Qingyang Airport]] || [[Qingyang]], [[Gansu]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    IQQ || SCDA || [[Diego Aracena International Airport]] || [[Iquique]], [[Chile]] || [[Time in Chile|UTC−03:00]] ||
+|-
+|    IQT || SPQT || [[Crnl. FAP Francisco Secada Vignetta International Airport]] || [[Iquitos]], [[Loreto Region|Loreto]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IR&quot;/&gt;-IR-
+|-
+|    IRA || AGGK || [[Ngorangora Airport]] (Kirakira Airport) || [[Kirakira]], [[Makira Island]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+|    IRB ||      || [[Iraan Municipal Airport]] (FAA: 2F0) || [[Iraan, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    IRC || PACR || [[Circle City (New) Airport]] (FAA: CRC) || [[Circle, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    IRD || VGIS || [[Ishhurdi Airport]] || [[Ishhurdi]], [[Bangladesh]] || [[Bangladesh Standard Time|UTC+06:00]] ||
+|-
+|    IRE || SNIC || [[Irecê Airport]] || [[Irecê]], [[Bahia]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    IRG || YLHR || [[Lockhart River Airport]] || [[Lockhart River, Queensland]], [[Australia]] || [[Australian Time|UTC+10:00]] ||
+|-
+|    IRI || HTIR || [[Iringa Airport]] (Nduli Airport) || [[Iringa]], [[Tanzania]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    IRJ || SANL || [[Capitán Vicente Almandos Almonacid Airport]] || [[La Rioja, Argentina|La Rioja]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    IRK || KIRK || [[Kirksville Regional Airport]] || [[Kirksville, Missouri]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    IRN ||      || [[Iriona Airport]] || [[Iriona]], [[Honduras]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    IRO || FEFI || [[Birao Airport]] || [[Birao]], [[Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    IRP || FZJH || [[Matari Airport]] || [[Isiro]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    IRS || KIRS || [[Kirsch Municipal Airport]] || [[Sturgis, Michigan]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    IRU ||  || [[Iranamadu Waterdrome]] || [[Kilinochchi]], [[Sri Lanka]] || [[Indian Standard Time|UTC+05:30]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IS&quot;/&gt;-IS-
+|-
+|    ISA || YBMA || [[Mount Isa Airport]] || [[Mount Isa, Queensland]], [[Australia]] || [[Australian Time|UTC+10:00]] ||
+|-
+|    ISB || OPRN || [[Benazir Bhutto International Airport]] (Islamabad International) || [[Islamabad]] / [[Rawalpindi]], [[Pakistan]] || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    ISC || EGHE || [[St Mary's Airport (Isles of Scilly)|St Mary's Airport]] || [[St Mary's, Isles of Scilly]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    ISD ||      || [[Iscuande Airport]] || [[Iscuande]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    ISE || LTFC || [[Isparta Süleyman Demirel Airport|Suleyman Demirel Airport]] || [[Isparta]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    ISG || ROIG || [[Ishigaki Airport]] || [[Ishigaki, Okinawa|Ishigaki]], [[Okinawa Prefecture]], [[Japan]] || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    ISH ||      || [[Ischia Airport]] || [[Ischia]], [[Italy]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    ISI || YISF || [[Isisford Airport]] || [[Isisford, Queensland]], [[Australia]] || [[Australian Time|UTC+10:00]] ||
+|-
+|    ISJ || MMIM || [[Isla Mujeres Airport]] || [[Isla Mujeres]], [[Quintana Roo]], [[Mexico]] || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+|    ISK || VAOZ || [[Ozar Airport]] || [[Nashik]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    ISM || KISM || [[Kissimmee Gateway Airport]] || [[Orlando, Florida]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ISN || KISN || [[Sloulin Field International Airport]] || [[Williston, North Dakota]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ISO || KISO || [[Kinston Regional Jetport]] at Stallings Field || [[Kinston, North Carolina]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ISP || KISP || [[Long Island MacArthur Airport]] || [[Islip (town), New York|Islip, New York]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ISQ || KISQ || [[Schoolcraft County Airport]] || [[Manistique, Michigan]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ISS || KIWI || [[Wiscasset Airport]] (FAA: IWI) || [[Wiscasset, Maine]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    IST || LTBA || [[Istanbul Atatürk Airport]] (Yesilköy International) || [[Istanbul]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    ISU || ORSU || [[Sulaimaniyah International Airport]] || [[Sulaimaniyah]], [[Kurdistan]], [[Iraq]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    ISW || KISW || [[South Wood County Airport]] (Alexander Field) || [[Wisconsin Rapids, Wisconsin]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- ISZ is FAA code (not IATA) for Blue Ash Airport in Cincinnati, Ohio, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IT&quot;/&gt;-IT-
+|-
+|    ITA || SBIC || [[Itacoiatiara Airport]] || [[Itacoiatiara]], [[Amazonas (Brazilian state)|Amazonas]], [[Brazil]] || [[Time in Brazil|UTC−04:00]] ||
+|-
+|    ITB || SBIH || [[Itaituba Airport]] || [[Itaituba]], [[Pará]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    ITE || SNZW || [[Ituberá Airport]] || [[Ituberá]], [[Bahia]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    ITH || KITH || [[Ithaca Tompkins Regional Airport]] || [[Ithaca, New York]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ITI || SNYH || [[Itambacuri Airport]] || [[Itambacuri]], [[Minas Gerais]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    ITJ ||      || [[Itajaí Airport]] || [[Itajaí]], [[Santa Catarina (state)|Santa Catarina]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    ITK ||      || [[Itokama Airport]] || [[Itokama]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    ITM || RJOO || [[Osaka International Airport]] (Itami Airport) || [[Itami]] (near [[Osaka]]), [[Japan]] || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    ITN || SNHA || [[Itabuna Airport]] || [[Itabuna]], [[Bahia]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    ITO || PHTO || [[Hilo International Airport]] || [[Hilo, Hawaii]], [[United States]] || [[Hawaii–Aleutian Time Zone|UTC−10:00]] ||
+|-
+|    ITP || SDUN || [[Itaperuna Airport]] || [[Itaperuna]], [[Rio de Janeiro (state)|Rio de Janeiro]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    ITQ || SSIQ || [[Itaqui Airport]] || [[Itaqui]], [[Rio Grande do Sul]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    ITR || SBIT || [[Itumbiara Airport]] || [[Itumbiara]], [[Goiás]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+&lt;!-- ITR is FAA code (not IATA) for Kit Carson County Airport in Burlington, Colorado, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IU&quot;/&gt;-IU-
+|-
+|    IUD || OTBH || [[Al Udeid Air Base]] || [[Doha]], [[Qatar]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    IUE || NIUE || [[Hanan International Airport]] || [[Alofi]], [[Niue]] || [[Time in New Zealand|UTC−11:00]] ||
+|-
+|    IUI || BGIN || [[Innaarsuit Heliport]] || [[Innaarsuit]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    IUL ||      || [[Ilu Airport]] || [[Ilu, Indonesia|Ilu]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    IUM ||      || [[Summit Lake Airport]] || [[Summit Lake, British Columbia]], [[Canada]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    IUS ||      || [[Inus Airport]] || [[Inus]], [[Papua New Guinea]] || [[UTC+11:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IV&quot;/&gt;-IV-
+|-
+|    IVA || FMNJ || [[Ambanja Airport]] || [[Ambanja]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    IVC || NZNV || [[Invercargill Airport]] || [[Invercargill]], [[New Zealand]] || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|-
+|    IVG || LYBR || [[Berane Airport]] (Dolac Airport, Ivangrad) || [[Berane]], [[Montenegro]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    IVL || EFIV || [[Ivalo Airport]] || [[Ivalo]], [[Finland]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    IVO ||      || [[Chivolo Airport]] || [[Chivolo]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    IVR || YIVL || [[Inverell Airport]] || [[Inverell, New South Wales]], [[Australia]] || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    IVW || YINW || [[Inverway Airport]] || [[Inverway Station|Inverway]], [[Northern Territory]], [[Australia]] || [[Australian Time|UTC+09:30]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IW&quot;/&gt;-IW-
+|-
+|    IWA || UUBI || [[Ivanovo Yuzhny Airport|Yuzhny Airport]] || [[Ivanovo]], [[Russia]] || [[Moscow Time|UTC+03:00]] ||
+&lt;!-- ITR is FAA code (not IATA) for Phoenix-Mesa Gateway Airport in Phoenix, Arizona, United States --&gt;
+|-
+|    IWD || KIWD || [[Gogebic-Iron County Airport]] || [[Ironwood, Michigan]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- IWH is FAA code (not IATA) for Wabash Municipal Airport in Wabash, Indiana, United States --&gt;
+&lt;!-- IWI is FAA code (IATA: ISS) for Wiscasset Airport in Wiscasset, Maine, United States --&gt;
+|-
+|    IWJ || RJOW || [[Iwami Airport]] (Hagi-Iwami Airport) || [[Masuda, Shimane]], [[Japan]], [[Japan]] || [[Japan Standard Time|UTC+09:00]] ||
+&lt;!-- IWK is FAA code (IATA: WAA) for Wales Airport in Wales, Alaska, United States --&gt;
+|-
+|    IWO || RJAW || [[Iwo Jima Air Base]] || [[Iwo Jima]], [[Bonin Islands]], [[Japan]] || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    IWS || KIWS || [[West Houston Airport]] || [[Houston, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IX&quot;/&gt;-IX-
+|-
+|    IXA || VEAT || [[Agartala Airport]] (Singerbhil Airport) || [[Agartala]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXB || VEBD || [[Bagdogra Airport]] || [[Bagdogra]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXC || VICG || [[Chandigarh Airport]] || [[Chandigarh]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXD || VIAL || [[Allahabad Airport]] / [[Bamrauli Air Force Base]] || [[Allahabad]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXE || VOML || [[Mangalore International Airport]] || [[Mangalore]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXG || VABM || [[Belgaum Airport]] || [[Belgaum]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXH || VEKR || [[Kailashahar Airport]] || [[Kailashahar]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXI || VELR || [[Lilabari Airport]] (North Lakhimpur Airport) || [[Assam]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXJ || VIJU || [[Jammu Airport]] (Satwari Airport) || [[Jammu]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXK || VAKS || [[Junagadh Airport]] (Keshod Airport) || [[Keshod]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXL || VILH || [[Leh Kushok Bakula Rimpochee Airport]] || [[Leh]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXM || VOMD || [[Madurai Airport]] || [[Madurai]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXN || VEKW || [[Khowai Airport]] || [[Khowai]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXP || VIPK || [[Pathankot Airport]] || [[Pathankot]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXQ || VEKM || [[Kamalpur Airport]] || [[Kamalpur, India|Kamalpur]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXR || VERC || [[Birsa Munda Airport]] (Ranchi Airport) || [[Ranchi]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXS || VEKU || [[Silchar Airport]] (Kumbhirgram Airport) || [[Silchar]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXT || VEPG || [[Pasighat Airport]] (Passighat Airport) || [[Pasighat]] (Passighat), [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXU || VAAU || [[Aurangabad Airport]] (Chikkalthana Airport) || [[Aurangabad, Maharashtra]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXV || VEAN || [[Along Airport]] || [[Along, Arunachal Pradesh]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXW || VEJS || [[Sonari Airport]] || [[Jamshedpur]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXY || VAKE || [[Kandla Airport]] (Gandhidham Airport) || [[Gandhidham]] / [[Kandla]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    IXZ || VOPB || [[Vir Savarkar Airport]] (Port Blair Airport) || [[Port Blair]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IY&quot;/&gt;-IY-
+|-
+|    IYK || KIYK || [[Inyokern Airport]] || [[Inyokern, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+&lt;!-- IYS is FAA code (IATA: WWA, ICAO: PAWS) for Wasilla Airport in Wasilla, Alaska, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;IZ&quot;/&gt;-IZ-
+|-
+&lt;!-- IZA is FAA code (IATA: SQA) for Santa Ynez Airport in Santa Ynez, California, United States --&gt;
+&lt;!-- IZG is FAA code (IATA: FRY) for Eastern Slopes Regional Airport in Fryeburg, Maine, United States --&gt;
+|-
+|    IZA || SBZM || [[Zona da Mata Regional Airport]] || [[Juiz de Fora]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    IZO || RJOC || [[Izumo Airport]] || [[Izumo, Shimane]], [[Japan]] || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    IZT || MMIT || [[Ixtepec Airport]] || [[Ixtepec, Oaxaca]], [[Mexico]] || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|}
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = PDF | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|I]]</text>
+      <sha1>573u1m5hbxvpp8vzvkn254zngipiaqp</sha1>
+    </revision>
+  </page>
+</mediawiki>

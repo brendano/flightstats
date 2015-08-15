@@ -1,0 +1,1376 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: B</title>
+    <ns>0</ns>
+    <id>317099</id>
+    <revision>
+      <id>674187606</id>
+      <parentid>674187509</parentid>
+      <timestamp>2015-08-02T07:19:19Z</timestamp>
+      <contributor>
+        <username>Owennson</username>
+        <id>15370086</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="87131">{{Lists of airports by IATA code}}
+
+==B==
+{{AlphanumericTOC|prefixLink=B|prefixDesc=B|numbers=|sections=|}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+! style=&quot;text-align:left;&quot; | Time
+! style=&quot;text-align:left;&quot; | DST
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BA&quot;/&gt;-BA-
+|-
+|    BAA || AYBL || [[Bialla Airport]] || [[Bialla, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BAB || KBAB || [[Beale Air Force Base]] || [[Marysville, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BAC ||      || [[Barranca de Upia Airport]] || [[Barranca de Upia]], [[Department of Meta|Meta]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    BAD || KBAD || [[Barksdale Air Force Base]] || [[Bossier City, Louisiana]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BAE || LFMR || [[Barcelonnette - Saint-Pons Airport]] || [[Barcelonnette]] / [[Saint-Pons, Alpes-de-Haute-Provence]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BAF || KBAF || [[Barnes Municipal Airport]] || [[Westfield, Massachusetts|Westfield]] / [[Springfield, Massachusetts]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BAG || RPUB || [[Loakan Airport]] || [[Baguio City]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    BAH || OBBI || [[Bahrain International Airport]] || [[Al Muharraq]], [[Bahrain]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    BAI || MRBA || [[Buenos Aires Airport (Costa Rica)|Buenos Aires Airport]] || [[Buenos Aires, Costa Rica]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    BAJ ||      || [[Bali Airport]] || [[Bali]], [[West New Britain]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+&lt;!-- BAK is FAA code (IATA: CLU) for Columbus Municipal Airport in Columbus, Indiana, USA --&gt;
+|-
+|    BAL || LTCJ || [[Batman Airport]] || [[Batman, Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    BAM || KBAM || [[Battle Mountain Airport]] (Lander County Airport) || [[Battle Mountain, Nevada]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BAN || FZVR || [[Basongo Airport]] || [[Basongo, Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    BAO || VTED || [[Udon Air Base]] || [[Ban Mak Khaen]], [[Thailand]] || [[UTC+07:00]] ||
+|-
+|    BAP ||      || [[Baibara Airport]] || [[Baibara]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BAQ || SKBQ || [[Ernesto Cortissoz International Airport]] || [[Barranquilla]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    BAR ||      || Baker Army Airfield (abandoned) || [[Baker Island]], [[United States Minor Outlying Islands]] || [[UTC−12:00]] ||
+|-
+|    BAS || AGGE || [[Ballalae Airport]] || [[Ballalae]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+|    BAT || SBBT || [[Chafei Amsei Airport]] || [[Barretos]], [[São Paulo State|São Paulo]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    &lt;s&gt;BAU&lt;/s&gt; || SBBU || [[Bauru Airport]] || [[Bauru]], [[São Paulo State|São Paulo]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    BAV || ZBOW || [[Baotou Airport]] || [[Baotou]], [[Inner Mongolia]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    BAW ||      || [[Biawonque Airport]] || [[Biawonque]], [[Gabon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BAX || UNBB || [[Barnaul Airport]] || [[Barnaul]], [[Altai Krai]], Russia || [[Omsk Time|UTC+06:00]] ||
+&lt;!-- BAX is FAA code (not IATA) for Huron County Memorial Airport in Bad Axe, Michigan, USA --&gt;
+|-
+|    BAY || LRBM || [[Baia Mare Airport]] (Tautii-Magheraus Airport) || [[Baia Mare]], [[Romania]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    BAZ || SWBC || [[Barcelos Airport]] || [[Barcelos, Amazonas]], Brazil || [[Time in Brazil|UTC−04:00]] ||
+&lt;!-- BAZ is FAA code (not IATA) for New Braunfels Municipal Airport in New Braunfels, Texas, USA --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BB&quot;/&gt;-BB-
+|-
+|    BBA || SCBA || [[Balmaceda Airport]] (Teniente Vidal Airport) || [[Balmaceda, Chile]] || [[Time in Chile|UTC−03:00]] ||
+|-
+|    BBB || KBBB || [[Benson Municipal Airport (Minnesota)|Benson Municipal Airport]] || [[Benson, Minnesota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BBC || KBYY || [[Bay City Municipal Airport]] (FAA: BYY) || [[Bay City, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BBD || KBBD || [[Curtis Field]] || [[Brady, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|  &lt;s&gt;BBE&lt;/s&gt; ||      || [[Big Bell Airport]] || [[Big Bell, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    BBG || NGTU || [[Butaritari Atoll Airport]] || [[Butaritari Atoll]], [[Kiribati]] || [[UTC+12:00]] ||
+|-
+|    BBH || EDBH || [[Stralsund Barth Airport]] || [[Barth, Germany|Barth]], [[Mecklenburg-Vorpommern]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BBI || VEBS || [[Biju Patnaik Airport]] || [[Bhubaneswar]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    BBJ || EDRB || [[Bitburg Airport]] (former Bitburg Air Base) || [[Bitburg]], [[Rhineland-Palatinate]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BBK || FBKE || [[Kasane Airport]] || [[Kasane]], [[Botswana]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    BBL || YLLE || [[Ballera Airport]] || [[Ballera]], [[Queensland]], [[Australia]] || [[Australian Time|UTC+10:00]] ||
+|-
+|    BBM || VDBG || [[Battambang Airport]] || [[Battambang]], [[Cambodia]] || [[UTC+07:00]] ||
+|-
+|    BBN || WBGZ || [[Bario Airport]] || [[Bario]], [[Sarawak]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    BBO || HCMI || [[Berbera Airport]] || [[Berbera]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    BBP || EGHJ || [[Bembridge Airport]] || [[Bembridge]], [[Isle of Wight]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+&lt;!-- BBP is FAA code (not IATA) for Marlboro County Jetport in Bennettsville, South Carolina, USA --&gt;
+|-
+|    BBQ || TAPH || [[Codrington Airport]] || [[Codrington, Barbuda]], [[Antigua and Barbuda]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    BBR || TFFB || [[Baillif Airport]] || [[Basse-Terre]], [[Guadeloupe]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    BBS || EGLK || [[Blackbushe Airport]] || [[Yateley]], [[Hampshire]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    BBT || FEFT || [[Berbérati Airport]] || [[Berbérati]], [[Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BBU || LRBS || [[Aurel Vlaicu International Airport|Bucharest &quot;Aurel Vlaicu&quot; Airport]] (Baneasa Airport) || [[Bucharest]], [[Romania]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    BBV || DIGN || [[Bereby Airport]] || [[Bereby]], [[Côte d'Ivoire]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BBW || KBBW || [[Broken Bow Municipal Airport]] || [[Broken Bow, Nebraska]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BBX || KLOM || [[Wings Field]] (FAA: LOM) || [[Blue Bell, Pennsylvania]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BBY || FEFM || [[Bambari Airport]] || [[Bambari]], [[Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BBZ || FLZB || [[Zambezi Airport]] || [[Zambezi]], [[Zambia]] || [[Central Africa Time|UTC+02:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BC&quot;/&gt;-BC-
+|-
+|    BCA || MUBA || [[Gustavo Rizo Airport]] || [[Baracoa]], [[Cuba]] || [[UTC−05:00]] || Mar-Nov
+|-
+|    BCB || KBCB || [[Virginia Tech Montgomery Executive Airport]] || [[Blacksburg, Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BCC ||      || [[Bear Creek 3 Airport]] (FAA: Z48) || [[Bear Creek, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    BCD || RPVB || [[New Bacolod-Silay Airport]]&lt;br/&gt;(replaced [[Bacolod City Domestic Airport]]) || [[Bacolod City]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    BCE || KBCE || [[Bryce Canyon Airport]] || [[Bryce Canyon, Utah]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    BCF || FEGU || [[Bouca Airport]] || [[Bouca]], [[Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BCG ||      || [[Bemichi Airport]] || [[Bemichi]], [[Guyana]] || [[UTC−04:00]] ||
+|-
+|    BCH || WPEC || [[Cakung Airport]] || [[Baucau]], [[East Timor]] || [[Time in East Timor|UTC+09:00]] ||
+|-
+|    BCI || YBAR || [[Barcaldine Airport]] || [[Barcaldine, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    BCK ||      || [[Bolwarra Airport]] || [[Bolwarra, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+&lt;!-- BCK is FAA code (not IATA) for Black River Falls Area Airport in Black River Falls, Wisconsin, USA --&gt;
+|-
+|    BCL || MRBC || [[Barra del Colorado Airport]] || [[Barra del Colorado]], [[Costa Rica]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    BCM || LRBC || [[Bacău International Airport]] || [[Bacău]], [[Romania]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    BCN || LEBL || [[Barcelona El Prat Airport]] || [[El Prat de Llobregat]] (near [[Barcelona]]), Spain || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BCO || HABC || [[Baco Airport]] (Jinka Airport) || [[Jinka]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    BCP || AYBC || [[Bambu Airport]] || [[Bambu, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BCQ ||      || [[Brak Airport]] || [[Brak, Libya]] || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    BCR || SWNK || [[Novo Campo Airport]] || [[Boca do Acre]], [[Amazonas (Brazilian state)|Amazonas]], Brazil || [[Time in Brazil|UTC−05:00]] ||
+|-
+|    BCS ||      || [[Southern Seaplane Airport]] (FAA: 65LA) || [[Belle Chasse, Louisiana]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BCT || KBCT || [[Boca Raton Airport]] || [[Boca Raton, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BCU ||      || [[Bauchi Airport]] || [[Bauchi]], [[Nigeria]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BCV ||      || [[Belmopan Airport]] || [[Belmopan]], [[Belize]] || [[Central Time Zone|UTC−06:00]] ||
+&lt;!-- BCV is FAA code (not IATA) for Birchwood Airport in Birchwood, Alaska, USA --&gt;
+|-
+|    BCW ||      || [[Benguera Island Airport]] || [[Benguera Island]], [[Mozambique]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    BCX || UWUB || [[Beloretsk Airport]] || [[Beloretsk]], Russia || [[Yekaterinburg Time|UTC+05:00]] ||
+|-
+|    BCY || HABU || [[Bulchi Airport]] || [[Bulchi]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    BCZ ||      || [[Milyakburra Airport]] || [[Milyakburra, Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BD&quot;/&gt;-BD-
+|-
+|    BDA || TXKF || [[Bermuda International Airport]] (L.F. Wade Int'l Airport) || [[Ferry Reach, Bermuda|Ferry Reach]] (near [[Hamilton, Bermuda|Hamilton]]), [[Bermuda]] || [[Atlantic Time Zone|UTC−04:00]] || Mar-Nov
+|-
+|    BDB || YBUD || [[Bundaberg Airport]] || [[Bundaberg, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    BDC || SNBC || [[Barra do Corda Airport]] || [[Barra do Corda]], [[Maranhão]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    BDD || YBAU || [[Badu Island Airport]] || [[Badu Island, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    BDE || KBDE || [[Baudette International Airport]] || [[Baudette, Minnesota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BDF ||      || [[Rinkenberger RLA Airport]] (FAA: 3IS8) || [[Bradford, Illinois]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BDG || KBDG || [[Blanding Municipal Airport]] || [[Blanding, Utah]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    BDH || OIBL || [[Bandar Lengeh Airport]] || [[Bandar Lengeh]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    BDI || FSSB || [[Bird Island Airport]] || [[Bird Island, Seychelles]] || [[Seychelles Time|UTC+04:00]] ||
+|-
+|    BDJ || WRBB || [[Syamsudin Noor Airport]] || [[Banjarmasin]], [[South Kalimantan]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+&lt;!-- BDJ is FAA code (not IATA) for Boulder Junction Airport in Boulder Junction, Wisconsin, USA --&gt;
+|-
+|    BDK || DIBU || [[Soko Airport]] || [[Bondoukou]], [[Côte d'Ivoire]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BDL || KBDL || [[Bradley International Airport]] || [[Windsor Locks]] (near [[Hartford, Connecticut|Hartford]]), [[Connecticut]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BDM || LTBG || [[Bandırma Airport]] || [[Bandırma]], Turkey || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    BDN || OPTH || [[Talhar Airport]] || [[Badin]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+&lt;!-- BDN is FAA code (not IATA) for Bend Municipal Airport in Bend, Oregon, USA --&gt;
+|-
+|    BDO || WICC || [[Hussein Sastranegara Airport]] || [[Bandung]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|-
+|    BDP || VNCG || [[Bhadrapur Airport]] (Chandragadhi Airport) || [[Bhadrapur, Mechi|Bhadrapur]] / [[Chandragadhi]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    BDQ || VABO || [[Vadodara Airport]] || [[Vadodara]], India || [[Indian Standard Time|UTC+05:30]] ||
+&lt;!-- BDQ is FAA code (not IATA) for Morrilton Municipal Airport in Morrilton, Arkansas, USA --&gt;
+|-
+|    BDR || KBDR || [[Igor I. Sikorsky Memorial Airport]] || [[Bridgeport, Connecticut]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BDS || LIBR || [[Casale Airport]] || [[Brindisi]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BDT || FZFD || [[Gbadolite Airport]] || [[Gbadolite]], [[Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BDU || ENDU || [[Bardufoss Airport]] || [[Bardufoss]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BDV || FZRB || [[Moba Airport]] || [[Moba, Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    BDW || YBDF || [[Bedford Downs Airport]] || [[Bedford Downs Station]], Australia || [[Australian Time|UTC+08:00]] ||
+&lt;!-- BDX was Broadus Airport in Broadus, Montana, USA. Replaced by new airport with FAA ID: 00F --&gt;
+|-
+|    BDY ||      || [[Bandon State Airport]] (FAA: S05) || [[Bandon, Oregon]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BDZ || AYBG || [[Baindoung Airport]] || [[Baindoung]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BE&quot;/&gt;-BE-
+|-
+|    BEA ||      || [[Bereina Airport]] || [[Bereina]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BEB || EGPL || [[Benbecula Airport]] || [[Benbecula]], [[Scotland]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    BEC || KBEC || [[Beech Factory Airport]] || [[Wichita, Kansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BED || KBED || [[Hanscom Field|Laurence G. Hanscom Field]] || [[Bedford, Massachusetts]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BEE ||      || [[Beagle Bay Airport]] || [[Beagle Bay, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    BEF || MNBL || [[Bluefields Airport]] || [[Bluefields]], [[Nicaragua]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    BEG || LYBE || [[Belgrade Nikola Tesla Airport]] || [[Belgrade]], [[Serbia]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BEH || KBEH || [[Southwest Michigan Regional Airport]] || [[Benton Harbor, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BEI || HABE || [[Beica Airport]] || [[Beica]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    BEJ || WALK || [[Berau Airport]] (Kalimaru Airport) || [[Tanjung Redeb]], [[Berau Regency|Berau]], [[East Kalimantan]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    BEK || VIBY || [[Bareilly Airport]] || [[Bareilly]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    BEL || SBBE || [[Val de Cães International Airport]] || [[Belém]], [[Pará]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    BEM || FEFL || [[Bossembélé Airport]] || [[Bossembélé]], [[Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BEN || HLLB || [[Benina International Airport]] || [[Benghazi]], [[Libya]] || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    BEO || YPEC || [[Newcastle - Belmont Airport]] || [[Newcastle, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    BEP || VOBI || [[Bellary Airport]] || [[Bellary]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    BEQ || EGXH || [[RAF Honington]] || [[Bury St. Edmunds]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    BER || EDDB || All [[airports in Berlin]] (designated for new [[Berlin Brandenburg Airport]]) || Berlin, Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BES || LFRB || [[Brest Bretagne Airport]] || [[Brest, France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BET || PABE || [[Bethel Airport]] || [[Bethel, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    BEU || YBIE || [[Bedourie Airport]] || [[Bedourie, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    BEV || LLBS || [[Be'er Sheva (Teyman) Airport|Be'er Sheva Airport]] || [[Beersheba]], [[Israel]] || [[Israel Standard Time|UTC+02:00]] || Mar-Oct
+|-
+|    BEW || FQBR || [[Beira Airport]] || [[Beira, Mozambique]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    BEX || EGUB || [[RAF Benson]] || [[Benson, Oxfordshire]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    BEY || OLBA || [[Beirut Air Base]]/[[Beirut Rafic Hariri International Airport]] || [[Beirut]], [[Lebanon]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    BEZ || NGBR || [[Beru Airport]] || [[Beru Island|Beru]], [[Kiribati]] || [[UTC+12:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BF&quot;/&gt;-BF-
+&lt;!-- BFA is FAA code (not IATA) for Boyne Mountain Airport in Boyne Falls, Michigan, USA --&gt;
+|-
+|    BFC ||      || [[Bloomfield Airport]] || [[Bloomfield, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    BFD || KBFD || [[Bradford Regional Airport]] || [[Bradford, Pennsylvania]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BFE || EDLI || [[Bielefeld Airport]] || [[Bielefeld]], [[North Rhine-Westphalia]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- BFE is FAA code (not IATA) for Terry County Airport in Brownfield, Texas, USA --&gt;
+|-
+|    BFF || KBFF || [[Western Nebraska Regional Airport]] (William B. Heilig Field) || [[Scottsbluff, Nebraska]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    BFG ||      || [[Bullfrog Basin Airport]] (FAA: U07) || [[Glen Canyon National Recreation Area|Glen Canyon]], [[Utah]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    BFH || SBBI || [[Bacacheri Airport]] || [[Curitiba]], [[Paraná (state)|Paraná]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    BFI || KBFI || [[Boeing Field|Boeing Field/King County International Airport]] || [[Seattle, Washington]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BFJ || ZUBJ || [[Bijie Airport]] || [[Guizhou Province]], China || [[Time in China|UTC+08:00]] ||
+&lt;!-- BFK is FAA code (not IATA) for Buffalo Municipal Airport in Buffalo, Oklahoma, USA --&gt;
+|-
+|    BFL || KBFL || [[Meadows Field]] || [[Bakersfield, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BFM || KBFM || [[Mobile Downtown Airport]] || [[Mobile, Alabama]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BFN || FABL || [[Bloemfontein Airport]] || [[Bloemfontein]], [[Free State (South African province)|Free State]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    BFO || FVCZ || [[Buffalo Range Airport]] || [[Chiredzi]], [[Zimbabwe]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    BFP || KBVI || [[Beaver County Airport]] (FAA: BVI) || [[Beaver Falls, Pennsylvania]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BFQ ||      || [[Bahia de Piña Airport]] || [[Bahia de Piña]], [[Panamá]] || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+|    BFR || KBFR || [[Virgil I. Grissom Municipal Airport]] || [[Bedford, Indiana]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BFS || EGAA || [[Belfast International Airport]] || [[Belfast]], [[Northern Ireland]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    BFT || KARW || [[Beaufort County Airport]] (FAA: ARW) || [[Beaufort County, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BFU || ZSBB || [[Bengbu Airport]] || [[Bengbu]], [[Anhui]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    BFV || VTUO || [[Buriram Airport]] || [[Buriram]] (Buri Ram), [[Thailand]] || [[UTC+07:00]] ||
+&lt;!-- BFW is FAA code (not IATA) for Silver Bay Municipal Airport in Silver Bay, Minnesota, USA --&gt;
+|-
+|    BFW || DAOS || [[Sidi Bel Abbès Airport]] || [[Sidi Bel Abbès]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    BFX || FKKU || [[Bafoussam Airport]] || [[Bafoussam]], [[Cameroon]] || [[West Africa Time|UTC+01:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BG&quot;/&gt;-BG-
+|-
+|    BGA || SKBG || [[Palonegro Airport]] || [[Bucaramanga]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    BGB || FOGB || [[Booue Airport]] || [[Booue]], [[Gabon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BGC || LPBG || [[Bragança Airport]] || [[Bragança Municipality|Bragança]], Portugal || [[Western European Time|UTC±00:00]] || Mar-Oct
+|-
+|    BGD || KBGD || [[Hutchinson County Airport]] || [[Borger, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BGE || KBGE || [[Decatur County Industrial Air Park]] || [[Bainbridge, Georgia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BGF || FEFF || [[Bangui M'Poko International Airport]] || [[Bangui]], [[Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+&lt;!-- BGF is FAA code (not IATA) for Winchester Municipal Airport in Winchester, Tennessee, USA --&gt;
+|-
+|    BGH || GQNE || [[Abbaye Airport]] || [[Boghe, Mauritania|Boghe]] (Bogué), [[Mauritania]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BGI || TBPB || [[Grantley Adams International Airport]] || [[Bridgetown]], [[Barbados]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    BGJ || BIBF || [[Borgarfjörður Airport]] || [[Borgarfjörður]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BGK ||      || [[Big Creek Airport (Belize)|Big Creek Airport]] || [[Big Creek, Belize]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    BGL || VNBL || [[Baglung Airport]] || [[Baglung]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    BGM || KBGM || [[Greater Binghamton Airport]] (Edwin A. Link Field) || [[Binghamton, New York]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BGN || UESG || [[Belaya Gora Airport]] || [[Belaya Gora, Sakha Republic |Belaya Gora]], [[Sakha Republic]], [[Russia]] || [[Srednekolymsk Time|UTC+11:00]] ||
+&lt;!-- BGN is not the IATA code for [[RAF Bruggen]] (ICAO: ETUR), [[Brüggen, Germany]] --&gt;
+&lt;!-- BGN is not IATA code for Ben Gurion Airport in Tel Aviv, Israel --&gt;
+|-
+|    BGO || ENBR || [[Bergen Flesland Airport]] || [[Bergen, Norway]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BGP ||      || [[Bongo Airport]] || [[Bongo, Gabon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BGQ || PAGQ || [[Big Lake Airport]] || [[Big Lake, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    BGR || KBGR || [[Bangor International Airport]] || [[Bangor, Maine]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BGS ||      || &lt;s&gt;[[Webb Air Force Base]]&lt;/s&gt; (closed 1977) || &lt;s&gt;[[Big Spring, Texas]], United States&lt;/s&gt; ||  ||
+|-
+|    BGT ||      || [[Bagdad Airport]] (FAA: E51) || [[Bagdad, Arizona]], United States || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+|    BGU || FEFG || [[Bangassou Airport]] || [[Bangassou]], [[Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BGV ||      || [[Bento Gonçalves Airport]] || [[Bento Gonçalves, Rio Grande do Sul]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    BGW || ORBI || [[Baghdad International Airport]] || [[Baghdad]], [[Iraq]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    BGX || SBBG || [[Comandante Gustavo Kraemer Airport]] || [[Bagé]], [[Rio Grande do Sul]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    BGY || LIME || [[Orio al Serio Airport]] || [[Bergamo]] (near [[Milan]]), Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BGZ || LPBR || [[Braga Airport]] || [[Braga]], Portugal || [[Western European Time|UTC±00:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BH&quot;/&gt;-BH-
+|-
+|    BHA || SESV || [[Los Perales]] || [[Bahía de Caráquez]], [[Ecuador]] || [[Time in Ecuador|UTC−05:00]] ||
+|-
+|    BHB || KBHB || [[Hancock County-Bar Harbor Airport]] || [[Bar Harbor, Maine]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BHC ||      || [[Bhurban Heliport]] || [[Bhurban]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+&lt;!-- BHC is FAA code (not IATA) for Baxley Municipal Airport in Baxley, Georgia, USA --&gt;
+|-
+|    BHD || EGAC || [[George Best Belfast City Airport]] || [[Belfast]], [[Northern Ireland]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    BHE || NZWB || [[Woodbourne Airport]] || [[Blenheim, New Zealand]] || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|-
+|    BHF || SKCP || [[Bahía Cupica Airport]] || [[Bahía Cupica]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    BHG ||      || [[Brus Laguna Airport]] || [[Brus Laguna]], [[Honduras]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    BHH || OEBH || [[Bisha Airport]] || [[Bisha]], [[Saudi Arabia]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    BHI || SAZB || [[Comandante Espora Airport]] || [[Bahía Blanca]], [[Buenos Aires Province]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    BHJ || VABJ || [[Bhuj Airport]] / [[Bhuj Rudra Mata Air Force Base]] || [[Bhuj]], [[Kutch]], [[Gujarat]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    BHK || UTSB || [[Bukhara Airport]] || [[Bukhara]], [[Uzbekistan]] || [[Time in Uzbekistan|UTC+05:00]] ||
+&lt;!-- BHK is FAA code (not IATA) for Baker Municipal Airport in Baker, Montana, USA --&gt;
+|-
+|    BHL ||      || [[Bahía de los Ángeles Airport]] || [[Bahía de los Ángeles]], [[Baja California]], [[México]] || [[Pacific Time Zone|UTC−08:00]] || Apr-Oct
+|-
+|    BHM || KBHM || [[Birmingham–Shuttlesworth International Airport]] || [[Birmingham, Alabama]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BHN || OYBN || [[Beihan Airport]] || [[Beihan]], [[Yemen]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    BHO || VABP || [[Bhopal Airport]] || [[Bhopal]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    BHP || VNBJ || [[Bhojpur Airport]] || [[Bhojpur, Nepal|Bhojpur]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    BHQ || YBHI || [[Broken Hill Airport]] || [[Broken Hill, New South Wales]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+|    BHR || VNBP || [[Bharatpur Airport]] || [[Bharatpur, Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    BHS || YBTH || [[Bathurst Airport (Australia)|Bathurst Airport]] || [[Bathurst, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    BHT ||      || [[Brighton Downs Airport]] || [[Brighton Downs, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    BHU || VABV || [[Bhavnagar Airport]] || [[Bhavnagar]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    BHV || OPBW || [[Bahawalpur Airport]] || [[Bahawalpur]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    BHW ||      || [[Bhagatanwala Airport]] || [[Sargodha]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    BHX || EGBB || [[Birmingham Airport]] || [[Birmingham]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    BHY || ZGBH || [[Beihai Airport]] || [[Beihai]], [[Guangxi]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    BHZ ||      || All airports || [[Belo Horizonte]], [[Minas Gerais]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BI&quot;/&gt;-BI-
+|-
+|    BIA || LFKB || [[Bastia - Poretta Airport]] || [[Bastia]], [[Corsica]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BIB || HCMB || [[Baidoa Airport]] || [[Baidoa]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    BID || KBID || [[Block Island State Airport]] || [[Block Island, Rhode Island]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BIE || KBIE || [[Beatrice Municipal Airport]] || [[Beatrice, Nebraska]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BIF || KBIF || [[Biggs Army Airfield]] || [[Fort Bliss]], [[El Paso, Texas]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    BIG || PABI || [[Allen Army Airfield]] (formerly Big Delta Army Airfield) || [[Fort Greely, Alaska|Fort Greely]], [[Delta Junction, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    BIH || KBIH || [[Eastern Sierra Regional Airport]] || [[Bishop, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BII ||      || [[Bikini Atoll Airport]] || [[Bikini Atoll]], [[Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    BIJ ||      || [[Biliau Airport]] || [[Biliau]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BIK || WABB || [[Frans Kaisiepo Airport]] || [[Biak]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    BIL || KBIL || [[Billings Logan International Airport]] || [[Billings, Montana]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    BIM || MYBS || [[South Bimini Airport]] || [[Bimini]], [[Bahamas]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BIN || OABN || [[Bamyan Airport]] || [[Bamyan City|Bamyan]], [[Afghanistan]] || [[Time in Afghanistan|UTC+04:30]] ||
+|-
+|    BIO || LEBB || [[Bilbao Airport]] || [[Bilbao]], Spain || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BIP ||      || [[Bulimba Airport]] || [[Bulimba, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    BIQ || LFBZ || [[Biarritz - Anglet - Bayonne Airport]] || [[Biarritz]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BIR || VNVT || [[Biratnagar Airport]] || [[Biratnagar]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    BIS || KBIS || [[Bismarck Municipal Airport]] || [[Bismarck, North Dakota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BIT || VNBT || [[Baitadi Airport]] || [[Baitadi]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    BIU || BIBD || [[Bíldudalur Airport]] || [[Bíldudalur]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BIV || FEFR || [[Bria Airport]] || [[Bria]], [[Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+&lt;!-- BIV is FAA code (not IATA) for Tulip City Airport in Holland, Michigan, USA --&gt;
+|-
+|    BIW ||      || [[Billiluna Airport]] || [[Billiluna, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    BIX || KBIX || [[Keesler Air Force Base]] || [[Biloxi, Mississippi]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BIY || FABE || [[Bisho Airport]] || [[Bisho]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    BIZ ||      || [[Bimin Airport]] || [[Bimin]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BJ&quot;/&gt;-BJ-
+|-
+|    BJA || DAAE || [[Soummam Airport]] || [[Bejaia]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    BJB || OIMN || [[Bojnord Airport]] || [[Bojnord]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    BJC || KBJC || [[Rocky Mountain Metropolitan Airport]] || [[Denver, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    BJD || BIBK || [[Bakkafjörður Airport]] || [[Bakkafjörður]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BJF || ENBS || [[Båtsfjord Airport]] || [[Båtsfjord]], [[Finnmark]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BJG ||      || [[Bolaang Airport]] || [[Bolaang]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    BJH || VNBG || [[Bajhang Airport]] || [[Bajhang]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    BJI || KBJI || [[Bemidji Regional Airport]] || [[Bemidji, Minnesota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BJJ || KBJJ || [[Wayne County Airport (Ohio)|Wayne County Airport]] || [[Wooster, Ohio]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BJK || WAPK || [[Nangasuri Airport]] || [[Benjina]], [[Muluku, Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    BJL || GBYD || [[Banjul International Airport]] || [[Banjul]], [[The Gambia|Gambia]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BJM || HBBA || [[Bujumbura International Airport]] || [[Bujumbura]], [[Burundi]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    BJN ||      || [[Bajone Airport]] || [[Bajone, Mozambique]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    BJO || SLBJ || [[Bermejo Airport]] || [[Bermejo, Bolivia]] || [[UTC−04:00]] ||
+|-
+|    BJR || HABD || [[Bahir Dar Airport]] || [[Bahir Dar]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    BJS ||      || All Airports || [[Beijing]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    BJU || VNBR || [[Bajura Airport]] || [[Bajura]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    BJV || LTFE || [[Milas-Bodrum Airport]] || [[Muğla]], Turkey || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    BJW || WRKB || [[Bajawa Soa Airport|Bajawa Airport]] || [[Bajawa]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    BJX || MMLO || [[Del Bajío International Airport]] (Guanajuato Int'l Airport) || [[León, Guanajuato]], [[Mexico]] || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+|    BJY || LYBT || [[Batajnica Air Base]] || [[Batajnica]], [[Serbia]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BJZ || LEBZ || [[Badajoz Airport]] (Talavera la Real Air Base) || [[Badajoz]], Spain || [[Central European Time|UTC+01:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BK&quot;/&gt;-BK-
+|-
+|    BKA || UUBB || [[Bykovo Airport]] || [[Moscow]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    BKB || VIBK || [[Nal Airport]] || [[Bikaner]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    BKC || PABL || [[Buckland Airport]] (FAA: BVK) || [[Buckland, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    BKD || KBKD || [[Stephens County Airport]] || [[Breckenridge, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BKE || KBKE || [[Baker City Municipal Airport]] || [[Baker City, Oregon]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BKF ||      || [[Brooks Lake Sea Plane Base]] || [[Brooks Lake, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    BKG || KBBG || [[Branson Airport]] (FAA: BBG) || [[Branson, Missouri]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BKH || PHBK || [[Pacific Missile Range Facility|Barking Sands PMRF]] || [[Kekaha, Hawaii]], United States || [[Hawaii–Aleutian Time Zone|UTC−10:00]] ||
+|-
+|    BKI || WBKK || [[Kota Kinabalu International Airport]] || [[Kota Kinabalu]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    BKJ || GUOK || [[Boké Baralande Airport]] || [[Boké]], [[Guinea]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BKK || VTBS (&lt;s&gt;VTBD&lt;/s&gt;) || [[Suvarnabhumi Airport]](New Bangkok International Airport) (&lt;s&gt;[[Donmuang Airport]]&lt;/s&gt;) || [[Bangkok]], [[Thailand]] || [[UTC+07:00]] ||
+|-
+|    BKL || KBKL || [[Burke Lakefront Airport]] || [[Cleveland, Ohio]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BKM || WBGQ || [[Bakalalan Airport]] || [[Bakalalan]], [[Sarawak]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    BKN || DRRB || [[Birni Nkoni Airport]] || [[Birni Nkoni]], [[Niger]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BKO || GABS || [[Senou International Airport]] || [[Bamako]], [[Mali]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BKP || YBAW || [[Barkly Downs Airport]] || [[Barkly Downs, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    BKQ || YBCK || [[Blackall Airport]] || [[Blackall, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    BKR || FTTK || [[Bokoro Airport]] || [[Bokoro]], [[Chad]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BKS || WIPL || [[Padang Kemiling Airport]] (Fatmawati Soekarno Airport) || [[Bengkulu (city)|Bengkulu]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+&lt;!-- BKS is FAA code (not IATA) for Brooks County Airport in Falfurrias, Texas, USA --&gt;
+|-
+|    BKT || KBKT || [[Allen C. Perkinson Airport]] / [[Blackstone Army Airfield]] || [[Blackstone, Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BKU || FMSV || [[Betioky Airport]] || [[Betioky]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+&lt;!-- BKV is FAA code (not IATA) for Hernando County Airport in Brooksville, Florida, USA --&gt;
+|-
+|    BKW || KBKW || [[Raleigh County Memorial Airport]] || [[Beckley, West Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BKX || KBKX || [[Brookings Regional Airport]] || [[Brookings, South Dakota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BKY || FZMA || [[Kavumu Airport]] || [[Bukavu]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    BKZ || HTBU || [[Bukoba Airport]] || [[Bukoba]], [[Tanzania]] || [[East Africa Time|UTC+03:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BL&quot;/&gt;-BL-
+|-
+|    BLA || SVBC || [[Generál José Antonio Anzoátegui International Airport]] || [[Barcelona, Anzoátegui]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+|    BLB || MPHO || [[Howard Airport]] (private, former [[Howard AFB]]) || [[Balboa, Panama|Balboa]], [[Panamá]] || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+|    BLC || FKKG || [[Bali Airport]] || [[Bali, Cameroon|Bali]], [[Cameroon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BLD ||      || [[Boulder City Municipal Airport]] (FAA: 61B) || [[Boulder City, Nevada]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BLE || ESSD || [[Borlänge Airport]] (Dala Airport) || [[Borlänge]], [[Dalarna]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BLF || KBLF || [[Mercer County Airport (West Virginia)|Mercer County Airport]] || [[Bluefield, West Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BLG || WBGC || [[Belaga Airport]] || [[Belaga, Sarawak]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+&lt;!-- BLG is FAA code (IATA: BVU, ICAO: PABG) for Beluga Airport in Beluga, Alaska, USA --&gt;
+|-
+|    BLH || KBLH || [[Blythe Airport]] || [[Blythe, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BLI || KBLI || [[Bellingham International Airport]] || [[Bellingham, Washington]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BLJ || DABT || [[Batna Airport]] || [[Batna, Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    BLK || EGNH || [[Blackpool International Airport]] || [[Blackpool]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    BLL || EKBI || [[Billund Airport]] || [[Billund, Denmark]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BLM || KBLM || [[Monmouth Executive Airport]] || [[Belmar, New Jersey|Belmar]]/[[Farmingdale, New Jersey]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BLN || YBLA || [[Benalla Airport]] || [[Benalla, Victoria]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    BLO || BIBL || [[Hjaltabakki Airport]] || [[Blönduós]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BLP || SPBL || [[Huallaga Airport]] || [[Bellavista Province|Bellavista]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+|-
+|    BLQ || LIPE || [[Bologna Airport|Bologna-Borgo Panigale &quot;Guglielmo Marconi&quot; Airport]] || [[Bologna]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BLR || VOBL || [[Bengaluru International Airport]] (succeeding [[HAL Bangalore International Airport]]) || [[Bangalore]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    BLS || YBLL || [[Bollon Airport]] || [[Bollon, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    BLT || YBTR || [[Blackwater Airport]] || [[Blackwater, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    BLU || KBLU || [[Blue Canyon - Nyack Airport]] || [[Emigrant Gap, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BLV || KBLV || [[MidAmerica St. Louis Airport]] / [[Scott Air Force Base]] || [[Belleville, Illinois]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BLX || LIDB || [[Arturo dell'Oro Airport]] || [[Belluno]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BLY || EIBT || [[Belmullet Airport]] || [[Belmullet]], Ireland || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    BLZ || FWCL || [[Chileka International Airport]] || [[Blantyre, Malawi]] || [[Central Africa Time|UTC+02:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BM&quot;/&gt;-BM-
+|-
+|    BMA || ESSB || [[Stockholm-Bromma Airport]] || [[Stockholm]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BMB || FZFU || [[Bumbar Airport]] || [[Bumbar, Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BMC || KBMC || [[Brigham City Airport]] || [[Brigham City, Utah]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    BMD || FMML || [[Belo sur Tsiribihina Airport]] || [[Belo sur Tsiribihina]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    BME || YBRM || [[Broome International Airport]] || [[Broome, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    BMF || FEGM || [[Bakouma Airport]] || [[Bakouma]], [[Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BMG || KBMG || [[Monroe County Airport (Indiana)|Monroe County Airport]] || [[Bloomington, Indiana]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BMH || AYBO || [[Bomai Airport]] || [[Bomai, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BMI || KBMI || [[Central Illinois Regional Airport]] || [[Bloomington, Illinois]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BMJ || SYBR || [[Baramita Airport]] || [[Baramita]], [[Guyana]] || [[UTC−04:00]] ||
+|-
+|    BMK || EDWR || [[Borkum Airport]] || [[Borkum]], [[Lower Saxony]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BML || KBML || [[Berlin Regional Airport]] || [[Berlin, New Hampshire]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BMM || FOOB || [[Bitam Airport]] || [[Bitam]], [[Gabon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BMN || ORBB || [[Bamarni Airport]] || [[Bamarni]], [[Iraq]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    BMO || VYBM || [[Bhamo Airport]] || [[Bhamo]], [[Myanmar]] (Burma) || [[Myanmar Standard Time|UTC+06:30]] ||
+|-
+|    BMP || YBPI || [[Brampton Island Airport]] || [[Brampton Island, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    BMQ ||      || [[Bamburi Airport]] || [[Bamburi]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+&lt;!-- BMQ is FAA code (not IATA) for Burnet Municipal Airport in Burnet, Texas, USA --&gt;
+|-
+|    BMR || EDWZ || [[Baltrum Airport]] || [[Baltrum]], [[Lower Saxony]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BMS || SNBU || [[Socrates Mariani Bittencourt Airport]] || [[Brumado]], [[Bahia]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    BMT || KBMT || [[Beaumont Municipal Airport]] || [[Beaumont, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BMU || WADB || [[Bima Airport]] (aka Sultan Muhammad Salahuddin Airport) || [[Bima]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    BMV || VVBM || [[Phung-Duc Airport]] || [[Buon Me Thuot]], [[Vietnam]] || [[UTC+07:00]] ||
+|-
+|    BMW || DATM || [[Bordj Badji Mokhtar Airport]] || [[Bordj Badji Mokhtar]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    BMX || PABM || [[Big Mountain Air Force Station]] (FAA: 37AK) || [[Big Mountain, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    BMY || NWWC || [[Île Art - Waala Airport]] (Belep Islands Airport) || [[Waala]], [[Belep Islands]], [[New Caledonia]] || [[Time in France|UTC+11:00]] ||
+|-
+|    BMZ || AYBF || [[Bamu Airport]] || [[Bamu, Papua New Guinea]] || [[UTC+10:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BN&quot;/&gt;-BN-
+|-
+|    BNA || KBNA || [[Nashville International Airport]] || [[Nashville, Tennessee]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BNB || FZGN || [[Boende Airport]] || [[Boende]], [[Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BNC || FZNP || [[Beni Airport]] || [[Beni, Nord-Kivu]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    BND || OIKB || [[Bandar Abbas International Airport]] || [[Bandar Abbas]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    BNE || YBBN || [[Brisbane Airport]] || [[Brisbane]], [[Queensland]], [[Australia]] || [[Australian Time|UTC+10:00]] ||
+|-
+|    BNF ||      || [[Warm Springs Bay Seaplane Base]] || [[Baranof, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    BNG || KBNG || [[Banning Municipal Airport]] || [[Banning, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BNI || DNBE || [[Benin City Airport]] || [[Benin City]], [[Nigeria]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BNK || YBNA || [[Ballina Airport]] || [[Ballina, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    BNL || KBNL || [[Barnwell Regional Airport]] || [[Barnwell, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BNM || AYBD || [[Bodinumu Airport]] || [[Bodinumu]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BNN || ENBN || [[Brønnøysund Airport, Brønnøy]] || [[Brønnøysund]], [[Nordland]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BNO || KBNO || [[Burns Municipal Airport]] || [[Burns, Oregon]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BNP || OPBN || [[Bannu Airport]] || [[Bannu]], [[Khyber Pakhtunkhwa|North-West Frontier Province]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    BNQ ||      || [[Baganga Airport]] || [[Baganga]], [[Davao Oriental]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    BNR || DFOB || [[Banfora Airport]] || [[Banfora]], [[Burkina Faso]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BNS || SVBI || [[Barinas Airport]] || [[Barinas, Barinas|Barinas]], [[Barinas (state)|Barinas]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+|    BNT || AYDI || [[Bundi Airport]] || [[Bundi, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BNU || SSBL || [[Blumenau Airport]] || [[Blumenau]], [[Santa Catarina (state)|Santa Catarina]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    BNV ||      || [[Boana Airport]] || [[Boana]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BNW || KBNW || [[Boone Municipal Airport]] || [[Boone, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BNX || LQBK || [[Banja Luka International Airport]] || [[Banja Luka]], [[Bosnia and Herzegovina]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BNY || AGGB || [[Bellona/Anua Airport]] || [[Anua]], [[Bellona Island]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+|    BNZ ||      || [[Banz Airport]] || [[Banz, Papua New Guinea]] || [[UTC+10:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BO&quot;/&gt;-BO-
+|-
+|    BOA || FZAJ || [[Boma Airport]] || [[Boma, Kongo Central|Boma]], [[Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BOB || NTTB || [[Bora Bora Airport]] (Motu Mute Airport) || [[Bora Bora]], [[French Polynesia]] || [[Time in France|UTC−10:00]] ||
+|-
+|    BOC || MPBO || [[Bocas del Toro &quot;Isla Colón&quot; International Airport]] || [[Bocas Town, Bocas del Toro]], [[Panama]] || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+|    BOD || LFBD || [[Bordeaux - Mérignac Airport]] || [[Bordeaux]] / [[Mérignac, Gironde|Mérignac]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BOE || FCOB || [[Boundji Airport]] || [[Boundji]], [[Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BOF || KBOF || [[Bolling Air Force Base]] || Washington, D.C., United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BOG || SKBO || [[El Dorado International Airport]] || [[Bogotá]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    BOH || EGHH || [[Bournemouth Airport]] (formerly Hurn Airport) || [[Bournemouth]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    BOI || KBOI || [[Boise Airport|Boise Air Terminal]] (Gowen Field) || [[Boise, Idaho]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    BOJ || LBBG || [[Burgas Airport]] || [[Burgas]], [[Bulgaria]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    BOK || KBOK || [[Brookings Airport]] || [[Brookings, Oregon]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BOL || EGQB || [[Bally Kelly Airport]] || [[Bally Kelly]], [[Northern Ireland]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    BOM || VABB || [[Chhatrapati Shivaji International Airport]] || [[Mumbai]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    BON || TNCB || [[Flamingo International Airport]] || near [[Kralendijk]], [[Bonaire]], [[Caribbean Netherlands]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    BOO || ENBO || [[Bodø Airport]] || [[Bodø]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BOP || FEFO || [[Bouar Airport]] || [[Bouar]], [[Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BOQ ||      || [[Boku Airport]] || [[Boku, Papua New Guinea]] || [[UTC+11:00]] ||
+|-
+|    BOR || LFSQ || [[Belfort - Fontaine Airport]] || [[Belfort]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BOS || KBOS || [[Logan International Airport]] || [[Boston, Massachusetts]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BOT || AYET || [[Boset Airport]] || [[Boset, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BOU || LFLD || [[Bourges Airport]] || [[Bourges]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BOV ||      || [[Boang Airport]] || [[Boang]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BOW || KBOW || [[Bartow Municipal Airport]] || [[Bartow, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BOX || YBRL || [[Borroloola Airport]] || [[Borroloola, Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    BOY || DFOO || [[Bobo Dioulasso Airport]] || [[Bobo-Dioulasso]], [[Burkina Faso]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BOZ || FEGZ || [[Bozoum Airport]] || [[Bozoum]], [[Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BP&quot;/&gt;-BP-
+|-
+|    BPB ||      || [[Boridi Airport]] || [[Boridi]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BPC || FKKV || [[Bamenda Airport]] || [[Bamenda]], [[Cameroon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BPD || AYBP || [[Bapi Airport]] || [[Bapi, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BPF || AGBT || [[Batuna Airport]] || [[Batuna]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+|    BPG || SBBW || [[Barra do Garças Airport]] || [[Barra do Garças]], [[Mato Grosso]], Brazil || [[Time in Brazil|UTC−04:00]] || Oct-Feb
+&lt;!-- BPG is FAA code (not IATA) for Big Spring McMahon-Wrinkle Airport in Big Spring, Texas, USA --&gt;
+|-
+|    BPH || RPMF || [[Bislig Airport]] || [[Bislig City]], [[Surigao del Sur]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    BPI || KBPI || [[Big Piney-Marbleton Airport]] || [[Big Piney, Wyoming]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    BPK || AYBQ || [[Biangabip Airport]] || [[Biangabip]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+&lt;!-- BPK is FAA code (IATA: WMH) for Ozark Regional Airport in Mountain Home, Arkansas, USA --&gt;
+|-
+|    BPL || ZWBL || [[Bole Alashankou Airport]] || [[Bole, Xinjiang]], [[China]] || [[Time in China|UTC+06:00]] ||
+|-
+|    BPM || VOHY || [[Begumpet Airport]] || [[Hyderabad, India]] || [[Indian Standard Time|UTC+05:30]] ||
+&lt;!-- BPM is not IATA code for Bagram Air Base in Bagram, Afghanistan --&gt;
+|-
+|    BPN || WALL || [[Sultan Aji Muhamad Sulaiman Airport]] || [[Balikpapan]], [[East Kalimantan]] || [[Time in Indonesia|UTC+08:00]] ||
+&lt;!-- BPP is FAA code (IATA: BWM) for Bowman Municipal Airport in Bowman, North Dakota, USA --&gt;
+&lt;!-- BPR is not the IATA code of [[Borongan Airport]] (ICAO: RPVW), serving [[Borongan]] in [[Eastern Samar]], [[Philippines]] --&gt;
+|-
+|    BPS || SBPS || [[Porto Seguro Airport]] || [[Porto Seguro]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    BPT || KBPT || [[Southeast Texas Regional Airport]] || [[Beaumont, Texas|Beaumont]]/[[Port Arthur, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    &lt;s&gt;BPU&lt;/s&gt; ||      || [[Beppu Airport]] || [[Beppu]], [[Kyūshū]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    BPX || ZUBD || [[Qamdo Bangda Airport]] || [[Qamdo Prefecture]], [[Tibet Autonomous Region]], [[China]] || [[Time in China|UTC+06:00]] ||
+|-
+|    BPY || FMNQ || [[Besalampy Airport]] || [[Besalampy]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BQ&quot;/&gt;-BQ-
+|-
+|    BQA || RPUR || [[Baler Airport]] || [[Baler, Aurora|Baler]], [[Aurora (province)|Aurora]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    BQB || YBLN || [[Busselton Regional Airport]] || [[Busselton, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+&lt;!-- BQD is not the IATA code of [[Búðardalur Airport]] (ICAO: BIBR), serving [[Búðardalur]] in [[Iceland]] --&gt;
+|-
+|    BQE || GGBU || [[Bubaque Airport]] || [[Bubaque]], [[Guinea-Bissau]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BQH || EGKB || [[London Biggin Hill Airport]] || [[Biggin Hill]] / London, England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    BQJ ||      || [[Batagay Airport]] || [[Batagay]], [[Sakha Republic]], [[Russia]] || [[Vladivostok Time|UTC+10:00]] ||
+|-
+|    BQK || KBQK || [[Brunswick Golden Isles Airport]] || [[Brunswick, Georgia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BQL || YBOU || [[Boulia Airport]] || [[Boulia, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    BQN || TJBQ || [[Rafael Hernández Airport]] || [[Aguadilla, Puerto Rico]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    BQO || DIBN || [[Bouna Airport]] || [[Bouna, Côte d'Ivoire]] || [[Greenwich Mean Time|UTC±00:00]] ||
+&lt;!-- BQP is FAA code (not IATA) for Morehouse Memorial Airport in Bastrop, Louisiana, USA --&gt;
+|-
+|    BQQ || SNBX || [[Barra Airport (Brazil)|Barra Airport]] || [[Barra, Bahia]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+&lt;!-- BQR is FAA code (not IATA) for Buffalo-Lancaster Airport in Lancaster, New York, USA --&gt;
+|-
+|    BQS || UHBB || [[Ignatyevo Airport]] || [[Blagoveshchensk]], [[Amur Oblast]], Russia || [[Yakutsk Time|UTC+09:00]] ||
+|-
+|    BQT || UMBB || [[Brest Airport]] || [[Brest, Belarus]] || [[Further-eastern European Time|UTC+03:00]] ||
+|-
+|    BQU || TVSB || [[J.F. Mitchell Airport]] || [[Bequia]], [[Saint Vincent and the Grenadines]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    BQV ||      || [[Bartlett Cove Seaplane Base]] || [[Bartlett Cove, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    BQW || YBGO || [[Balgo Hill Airport]] || [[Balgo Hill, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BR&quot;/&gt;-BR-
+|-
+|    BRA || SNBR || [[Barreiras Airport]] || [[Barreiras]], [[Bahia]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    BRB || SBRR || [[Barreirinhas Airport]] || [[Barreirinhas]], [[Maranhão]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    BRC || SAZS || [[San Carlos de Bariloche Airport]] || [[San Carlos de Bariloche]], [[Río Negro Province]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    BRD || KBRD || [[Brainerd Lakes Regional Airport]] || [[Brainerd, Minnesota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BRE || EDDW || [[Bremen Airport]] || [[Bremen (city)|Bremen]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BRH ||      || [[Brahman Airport]] || [[Brahman, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BRI || LIBD || [[Bari International Airport|Bari &quot;Karol Wojtyła&quot; Airport]] || [[Bari]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BRJ ||      || [[Bright Airport]] || [[Bright, Victoria]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    BRK || YBKE || [[Bourke Airport]] || [[Bourke, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    BRL || KBRL || [[Southeast Iowa Regional Airport]] || [[Burlington, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BRM || SVBM || [[Jacinto Lara International Airport]] || [[Barquisimeto]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+|    BRN || LSZB || [[Bern Airport]] || [[Bern]], Switzerland || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BRO || KBRO || [[Brownsville/South Padre Island International Airport]] || [[Brownsville, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BRP || AYBR || [[Biaru Airport]] || [[Biaru]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BRQ || LKTB || [[Brno-Turany Airport]] || [[Brno]], [[Czech Republic]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BRR || EGPR || [[Barra Airport (Scotland)|Barra Airport]] (Northbay Airport) || [[Barra]], [[Scotland]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    BRS || EGGD || [[Bristol Airport]] || [[Bristol]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    BRT || YBTI || [[Bathurst Island Airport]] || [[Bathurst Island (Northern Territory)|Bathurst Island]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    BRU || EBBR || [[Brussels Airport]] (Zaventem Airport) || [[Brussels]], Belgium || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BRV || EDWB || [[Bremerhaven Airport]] || [[Bremerhaven]], [[Bremen]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BRW || PABR || [[Wiley Post–Will Rogers Memorial Airport]] || [[Barrow, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    BRX || MDBH || [[Maria Montez International Airport]] || [[Barahona (city)|Barahona]], [[Dominican Republic]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    BRY || KBRY || [[Samuels Field]] || [[Bardstown, Kentucky]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BRZ ||      || [[Borotou Airport]] || [[Borotou]], [[Côte d'Ivoire]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BS&quot;/&gt;-BS-
+|-
+|    BSA || HCMF || [[Bender Qassim International Airport]] || [[Boosaaso]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    BSB || SBBR || [[Brasília International Airport]] || [[Brasília]], [[Federal District (Brazil)|Distrito Federal]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    BSC || SKBS || [[José Celestino Mutis Airport]] || [[Bahía Solano]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    BSD || ZPBS || [[Baoshan Airport]] || [[Baoshan, Yunnan]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    BSE || WBGN || [[Sematan Airport]] || [[Sematan]], [[Sarawak]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    BSF || PHSF || [[Bradshaw Army Airfield]] || [[Camp Pohakuloa]], [[Hawaii]], United States || [[Hawaii–Aleutian Time Zone|UTC−10:00]] ||
+|-
+|    BSG || FGBT || [[Bata Airport]] || [[Bata, Equatorial Guinea]] || [[West Africa Time|UTC+01:00]] ||
+&lt;!-- BSH is not IATA code for Shoreham Airport in Shoreham-by-Sea, England, U.K. (IATA: ESH, ICAO: EGKA) --&gt;
+|-
+|    BSJ || YBNS || [[Bairnsdale Airport]] || [[Bairnsdale, Victoria]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    BSK || DAUB || [[Biskra Airport]] || [[Biskra]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    BSL || LFSB || [[EuroAirport Basel-Mulhouse-Freiburg]] || [[Basel]], Switzerland || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BSM || OINJ || [[Bishe Kola Air Base]] || [[Amol]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    BSN || FEFS || [[Bossangoa Airport]] || [[Bossangoa]], [[Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BSO || RPUO || [[Basco Airport]] || [[Basco, Batanes]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    BSP || AYBH || [[Bensbach Airport]] || [[Bensbach]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BSQ ||      || [[Bisbee Municipal Airport]] (FAA: P04) || [[Bisbee, Arizona]], United States || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+|    BSR || ORMM || [[Basrah International Airport]] || [[Basrah]], [[Iraq]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    BSS || SNBS || [[Balsas Airport]] || [[Balsas, Maranhão]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    BST || OABT || [[Bost Airport]] || [[Lashkar Gah]] (Bost), [[Afghanistan]] || [[Time in Afghanistan|UTC+04:30]] ||
+&lt;!-- BST is FAA code (not IATA) for Belfast Municipal Airport in Belfast, Maine, USA --&gt;
+|-
+|    BSU || FZEN || [[Basankusu Airport]] || [[Basankusu]], [[Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BSW ||      || [[Boswell Bay Airport]] (FAA: AK97) || [[Boswell Bay, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    BSX || VYPN || [[Bassein Airport]] || [[Pathein|Bassein]], [[Myanmar]] (Burma) || [[Myanmar Standard Time|UTC+06:30]] ||
+|-
+|    BSY || HCMD || [[Bardera Airport]] || [[Bardera]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BT&quot;/&gt;-BT-
+|-
+|    BTA || FKKO || [[Bertoua Airport]] || [[Bertoua]], [[Cameroon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BTB || FCOT || [[Betou Airport]] || [[Betou]], [[Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BTC || VCCB || [[Batticaloa Airport]] || [[Batticaloa]], [[Sri Lanka]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    BTD ||      || [[Brunette Downs Airport]] || [[Brunette Downs Station]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    BTE || GFBN || [[Sherbro International Airport]] || [[Bonthe]], [[Sierra Leone]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BTF || KBTF || [[Skypark Airport]] || [[Bountiful, Utah]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    BTG || FEGF || [[Batangafo Airport]] || [[Batangafo]], [[Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BTH || WIDD || [[Hang Nadim Airport]] || [[Batam]], [[Riau Islands]], [[Sumatra]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|-
+|    BTI || PABA || [[Barter Island LRRS Airport]] || [[Barter Island, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    BTJ || WITT || [[Sultan Iskandarmuda Airport]] || [[Banda Aceh]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|-
+|    BTK || UIBB || [[Bratsk Airport]] || [[Bratsk]], [[Irkutsk Oblast]], Russia || [[Irkutsk Time|UTC+08:00]] ||
+|-
+|    BTL || KBTL || [[W. K. Kellogg Airport]] || [[Battle Creek, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BTM || KBTM || [[Bert Mooney Airport]] || [[Butte, Montana]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    BTN || KBBP || [[Marlboro County Jetport]] (FAA: BBP) || [[Bennettsville, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- BTN is FAA code (not IATA) for Britton Municipal Airport in Britton, South Dakota, USA --&gt;
+|-
+|    BTO ||      || [[Botopasi Airport]] || [[Botopasi]], [[Suriname]] || [[UTC−03:00]] ||
+|-
+|    BTP || KBTP || [[Butler County Airport]] (K.W. Scholter Field) || [[Butler, Pennsylvania]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BTQ || HRYI || [[Butare Airport]] || [[Butare]], [[Rwanda]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    BTR || KBTR || [[Baton Rouge Metropolitan Airport]] (Ryan Field) || [[Baton Rouge, Louisiana]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BTS || LZIB || [[M. R. Štefánik Airport]] || [[Bratislava]], [[Slovakia]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BTT || PABT || [[Bettles Airport]] || [[Bettles, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    BTU || WBGB || [[Bintulu Airport]] || [[Bintulu]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    BTV || KBTV || [[Burlington International Airport]] || [[Burlington, Vermont]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BTW || WAOC || [[Batu Licin Airport]] || [[Batu Licin]], [[Kalimantan]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    BTX || YBEO || [[Betoota Airport]] || [[Betoota, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    BTY || KBTY || [[Beatty Airport]] || [[Beatty, Nevada]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BTZ || LTBE || [[Bursa Airport]] || [[Bursa]], Turkey || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BU&quot;/&gt;-BU-
+|-
+|    BUA || AYBK || [[Buka Island Airport]] || [[Buka Island]], [[Papua New Guinea]] || [[UTC+11:00]] ||
+|-
+|    BUB || KBUB || [[Cram Field]] || [[Burwell, Nebraska]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BUC || YBKT || [[Burketown Airport]] || [[Burketown, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    BUD || LHBP || [[Budapest Ferenc Liszt International Airport]] || [[Budapest]], Hungary || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BUE ||      || All Airports || [[Buenos Aires]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    BUF || KBUF || [[Buffalo Niagara International Airport]] || [[Buffalo, New York]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BUG || FNBG || [[Benguela Airport]] (Gen. V. Deslandes Airport) || [[Benguela]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BUH ||      || All Airports || [[Bucharest]], [[Romania]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    BUI || WAJB || [[Bokondini Airport]] || [[Bokondini]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    BUJ || DAAD || [[Bou Saada Airport]] || [[Bou Saada]], [[M'Sila Province|M'Sila]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    BUK ||      || [[Albuq Airport]] || [[Albuq]], [[Yemen]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    BUL || AYBU || [[Bulolo Airport]] || [[Bulolo]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BUM || KBUM || [[Butler Memorial Airport]] || [[Butler, Missouri]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BUN || SKBU || [[Gerardo Tobar López Airport]] || [[Buenaventura, Colombia|Buenaventura]], [[Valle del Cauca]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    BUO || HCMV || [[Burao Airport]] || [[Burao]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    BUP || VIBT || [[Bhisiana Air Force Base]] || [[Bathinda|Bhatinda]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    BUQ || FVBU || [[Joshua Mqabuko Nkomo International Airport]] || [[Bulawayo]], [[Zimbabwe]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    BUR || KBUR || [[Bob Hope Airport]] || [[Burbank, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BUS || UGSB || [[Batumi Airport]] (Chorokh Airport) || [[Batumi]], [[Georgia (country)|Georgia]] || [[Time in Georgia (country)|UTC+04:00]] ||
+|-
+|    BUT || VQBT || [[Bathpalathang Airport]] || [[Jakar]], [[Bumthang District|Bumthang]], [[Bhutan]] || [[Bhutan Time|UTC+06:00]] ||
+|-
+|    BUU ||      || [[Buyo Airport]] || [[Buyo, Côte d'Ivoire]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BUV || SUBU || [[Placeres Airport]] || [[Bella Unión]], [[Artigas Department|Artigas]], [[Uruguay]] || [[Time in Uruguay|UTC−03:00]] || Oct-Mar
+|-
+|    BUW || WAWB || [[Baubau Airport]] (Betoambari Airport) || [[Bau-Bau]], [[Buton]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    BUX || FZKA || [[Bunia Airport]] || [[Bunia]], [[Ituri Interim Administration|Ituri]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    BUY || YBUN || [[Bunbury Airport]] || [[Bunbury, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    BUZ || OIBB || [[Bushehr Airport]] || [[Bushehr]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BV&quot;/&gt;-BV-
+|-
+|    BVA || LFOB || [[Beauvais–Tillé Airport]] || [[Beauvais]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BVB || SBBV || [[Boa Vista International Airport]] || [[Boa Vista, Roraima]], Brazil || [[Time in Brazil|UTC−04:00]] ||
+|-
+|    BVC || GVBA || [[Rabil Airport]] || [[Boa Vista, Cape Verde]] || [[Cape Verde Time|UTC−01:00]] ||
+|-
+|    BVE || LFSL || [[Brive – Souillac Airport]] || [[Brive-la-Gaillarde]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BVF || NFNU || [[Dama Airport]] || [[Bua Province|Bua]], [[Fiji]] || [[UTC+12:00]] || Nov-Jan
+|-
+|    BVG || ENBV || [[Berlevåg Airport]] || [[Berlevåg]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BVH || SBVH || [[Vilhena Airport]] || [[Vilhena]], [[Rondônia]], Brazil || [[Time in Brazil|UTC−04:00]] ||
+|-
+|    BVI || YBDV || [[Birdsville Airport]] || [[Birdsville, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+&lt;!-- BVI is FAA code (not IATA) for Beaver County Airport in Beaver Falls, Pennsylvania, USA --&gt;
+|-
+|    BVK || SLHJ || [[Huacaraje Airport]] || [[Huacaraje]], [[Bolivia]] || [[UTC−04:00]] ||
+&lt;!-- BVK is FAA code (not IATA) for Buckland Airport in Buckland, Alaska USA --&gt;
+|-
+|    BVL || SLBU || [[Baures Airport]] || [[Baures]], [[Bolivia]] || [[UTC−04:00]] ||
+|-
+|    BVM || SNBL || [[Belmonte Airport]] || [[Belmonte, Bahia]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+&lt;!-- BVN is FAA code (not IATA) for Albion Municipal Airport in Albion, Nebraska, USA --&gt;
+|-
+|    BVO || KBVO || [[Bartlesville Municipal Airport]] || [[Bartlesville, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BVP ||      || [[Bolovip Airport]] || [[Bolovip]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BVR || GVBR || [[Esparadinha Airport]] || [[Esparadinha]], [[Brava, Cape Verde|Brava Island]], [[Cape Verde]] || [[Cape Verde Time|UTC−01:00]] ||
+|-
+|    BVS || SNVS || [[Breves Airport]] || [[Breves, Pará]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+&lt;!-- BVS is FAA code (not IATA) for Skagit Regional Airport in 	Burlington / Mount Vernon, Washington, USA --&gt;
+|-
+|    BVU || PABG || [[Beluga Airport]] (FAA: BLG) || [[Beluga, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    BVW ||      || [[Batavia Downs Airport]] || [[Batavia Downs, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    BVX || KBVX || [[Batesville Regional Airport]] || [[Batesville, Arkansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BVY || KBVY || [[Beverly Municipal Airport]] || [[Beverly, Massachusetts]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BVZ || YBYS || [[Beverley Springs Airport]] || [[Beverley Springs, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BW&quot;/&gt;-BW-
+|-
+|    BWA || VNBW || [[Bhairawa Airport]] || [[Bhairawa]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    BWB || YBWX || [[Barrow Island Airport]] || [[Barrow Island, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    BWC || KBWC || [[Brawley Municipal Airport]] || [[Brawley, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BWD || KBWD || [[Brownwood Regional Airport]] || [[Brownwood, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BWE || EDVE || [[Braunschweig-Wolfsburg Regional Airport]] || [[Braunschweig]], [[Lower Saxony]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BWF || EGNL || [[Barrow/Walney Island Airfield]] || [[Barrow-in-Furness]], [[Cumbria]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    BWG || KBWG || [[Bowling Green-Warren County Regional Airport]] || [[Bowling Green, Kentucky]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BWH || WMKB || [[RMAF Butterworth]] || [[Butterworth, Penang]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    BWI || KBWI || [[Baltimore–Washington International Airport|Baltimore/Washington International Thurgood Marshall Airport]] || between [[Baltimore, Maryland]], and [[Washington, D.C.]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    BWJ ||      || [[Bawan Airport]] || [[Bawan]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    BWK || LDSB || [[Bol Airport]] || [[Bol, Croatia]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BWL ||      || [[Earl Henry Airport]] (FAA: 6OK6) || [[Blackwell, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BWM || KBPP || [[Bowman Municipal Airport]] (FAA: BPP) || [[Bowman, North Dakota]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    BWN || WBSB || [[Brunei International Airport]] || [[Bandar Seri Begawan]], [[Brunei]] || [[UTC+08:00]] ||
+|-
+|    BWO || UWSB || [[Balakovo Airport]] || [[Balakovo]], [[Saratov Oblast]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    BWP || AYBI || [[Bewani Airport]] || [[Bewani]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+&lt;!-- BWP is FAA code (not IATA) for Harry Stern Airport in Wahpeton, North Dakota, USA --&gt;
+|-
+|    BWQ || YBRW || [[Brewarrina Airport]] || [[Brewarrina, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    BWS ||      || [[Blaine Municipal Airport]] (FAA: 4W6) || [[Blaine, Washington]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BWT || YWYY || [[Burnie Airport]] || [[Burnie, Tasmania]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    BWU || YSBK || [[Bankstown Airport]] || [[City of Bankstown|Bankstown]] (near [[Sydney]]), [[New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    BWX || WARB || [[Blimbingsari Airport]] || [[Banyuwangi Regency]], [[East Java]], [[Java Island]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BX&quot;/&gt;-BX-
+|-
+|    BXA || KBXA || [[George R. Carr Memorial Air Field]] || [[Bogalusa, Louisiana]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BXB || WASO || [[Babo Airport]] || [[Babo, Western New Guinea|Babo]], [[Western New Guinea]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    BXD || WAKE || [[Bade Airport]] || [[Bade, Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    BXE || GOTB || [[Bakel Airport]] || [[Bakel, Senegal]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BXG || YBDG || [[Bendigo Airport (Australia)|Bendigo Airport]] || [[Bendigo, Victoria]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+&lt;!-- BXG is FAA code (not IATA) for Burke County Airport in Waynesboro, Georgia, USA --&gt;
+|-
+|    BXH || UAAH || [[Balkhash Airport]] || [[Balkhash (city)|Balkhash]], [[Kazakhstan]] || [[Time in Kazakhstan|UTC+06:00]] ||
+|-
+|    BXI || DIBI || [[Boundiali Airport]] || [[Boundiali]], [[Côte d'Ivoire]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BXJ ||      || [[Almaty-Burundai Airport]] || [[Almaty]], [[Kazakhstan]] || [[Time in Kazakhstan|UTC+06:00]] ||
+|-
+|    BXK || KBXK || [[Buckeye Municipal Airport]] || [[Buckeye, Arizona]], United States || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+|    BXL ||      || [[Nanuya Lailai Airport]] || [[Nanuya Lailai]], [[Fiji]] || [[UTC+12:00]] || Nov-Jan
+|-
+|    BXM ||      || [[Batom Airport]] || [[Batom]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    BXN || LTBV || [[Bodrum-Imsik Airport]] || [[Bodrum]], Turkey || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    BXO || LSZC || [[Buochs Airport]] || [[Buochs]], Switzerland || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BXP || EPBP || [[Biała Podlaska Airport]] || [[Biała Podlaska]], Poland || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BXR || OIKM || [[Bam Airport]] || [[Bam, Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    BXS ||      || [[Borrego Valley Airport]] (FAA: L08) || [[Borrego Springs, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BXT || WRLC || [[Bontang Airport]] || [[Bontang]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    BXU || RPME || [[Butuan Airport]] || [[Butuan City]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    BXV || BIBV || [[Breiðdalsvík Airport]] || [[Breiðdalsvík]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BXX ||      || [[Borama Airport]] || [[Borama]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    BXZ || AYNS || [[Bunsil Airport]] || [[Bunsil]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BY&quot;/&gt;-BY-
+|-
+|    BYA ||      || [[Boundary Airport]] || [[Boundary, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    BYB ||      || [[Dibba Airport]] || [[Dibba Al-Baya|Dibba]], [[Oman]] || [[UTC+04:00]] ||
+|-
+|    BYC || SLYA || [[Yacuiba Airport]] || [[Yacuiba]], [[Bolivia]] || [[UTC−04:00]] ||
+|-
+|    BYD ||      || [[Beidah Airport]] || [[Beidah]], [[Yemen]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    BYG || KBYG || [[Johnson County Airport (Wyoming)|Johnson County Airport]] || [[Buffalo, Wyoming]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    BYH || KBYH || [[Arkansas International Airport]] || [[Blytheville, Arkansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    BYI || KBYI || [[Burley Municipal Airport]] || [[Burley, Idaho]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    BYJ || LPBJ || [[Beja Airport]] || [[Beja (Portugal)|Beja]], Portugal || [[Western European Time|UTC±00:00]] || Mar-Oct
+|-
+|    BYK || DIBK || [[Bouaké Airport]] || [[Bouaké]], [[Côte d'Ivoire]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BYL ||      || [[Bella Yella Airport]] || [[Bella Yella]], [[Liberia]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    BYM || MUBY || [[Carlos Manuel de Céspedes Airport]] || [[Bayamo]], [[Cuba]] || [[UTC−05:00]] || Mar-Nov
+|-
+|    BYN || ZMBH || [[Bayankhongor Airport]] || [[Bayankhongor]], [[Mongolia]] || [[Time in Mongolia|UTC+08:00]] ||
+|-
+|    BYP || YBRY || [[Barimunya Airport]] || [[Barimunya]], [[Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    BYQ || WALV || [[Bunyu Airport]] || [[Bunyu]], [[Kalimantan]] (Borneo), [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    BYR || EKLS || [[Læsø Airport]] || [[Læsø]], Denmark || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BYS || KBYS || [[Bicycle Lake Army Airfield]] (Fort Irwin) || [[Barstow, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BYT || EIBN || [[Bantry Airport]] || [[Bantry]], [[County Cork]], Ireland || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    BYU || EDQD || [[Bindlacher Berg Airport]] || [[Bayreuth]], [[Bavaria]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BYW ||      || [[Blakely Island Airport]] (FAA: 38WA) || [[Blakely Island, Washington]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    BYX ||      || [[Baniyala Airport]] || [[Baniyala, Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+&lt;!-- BYY is FAA code (IATA: BBC) for Bay City Municipal Airport in Bay City, Texas, USA --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;BZ&quot;/&gt;-BZ-
+|-
+|    BZA || MNBZ || [[Bonanza Airport]] || [[Bonanza, Región Autónoma del Atlántico Norte|Bonanza]], [[Región Autónoma del Atlántico Norte|RAAN]], [[Nicaragua]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    BZB ||      || [[Bazaruto Island Airport]] || [[Bazaruto Island]], [[Mozambique]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    BZC || SBBZ || [[Umberto Modiano Airport]] || [[Búzios]], [[Rio de Janeiro]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    BZD || YBRN || [[Balranald Airport]] || [[Balranald, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    BZE || MZBZ || [[Philip S. W. Goldson International Airport]] || [[Ladyville]] (near [[Belize City]]), [[Belize]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    BZG || EPBY || [[Bydgoszcz Ignacy Jan Paderewski Airport]] || [[Bydgoszcz]], Poland || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BZI || LTBF || [[Balıkesir Airport]] (Merkez Airport) || [[Balıkesir]], Turkey || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    BZK || UUBP || [[Bryansk Airport]] || [[Bryansk]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    BZL || VGBR || [[Barisal Airport]] || [[Barisal]], [[Bangladesh]] || [[Bangladesh Standard Time|UTC+06:00]] ||
+&lt;!-- BZM is listed by some references for Woensdrecht Air Base (ICAO: EHWO) in Bergen op Zoom, Netherlands, but correct IATA code appears to be WOE --&gt;
+|-
+|    BZN || KBZN || [[Gallatin Field Airport]] || [[Bozeman, Montana]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    BZO || LIPB || [[Bolzano Airport]] || [[Bolzano]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BZP ||      || [[Bizant Airport]] || [[Bizant, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    BZR || LFMU || [[Béziers Vias Airport]] || [[Béziers]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    BZU || FZKJ || [[Buta Zega Airport]] || [[Buta Zega]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    BZV || FCBB || [[Maya Maya Airport]] || [[Brazzaville]], [[Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    BZY || LUBL || [[Bălţi International Airport]] || [[Bălţi]], [[Moldova]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    BZZ || EGVN || [[RAF Brize Norton]] || [[Oxfordshire]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|}
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = PDF | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ IATA and ICAO airport codes] Aviation Safety Network
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|B]]</text>
+      <sha1>7e93kh1yvka81o7swui62ef5of1821a</sha1>
+    </revision>
+  </page>
+</mediawiki>

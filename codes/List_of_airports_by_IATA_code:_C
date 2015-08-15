@@ -1,0 +1,1296 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: C</title>
+    <ns>0</ns>
+    <id>317100</id>
+    <revision>
+      <id>676189314</id>
+      <parentid>676008068</parentid>
+      <timestamp>2015-08-15T08:53:36Z</timestamp>
+      <contributor>
+        <username>Owennson</username>
+        <id>15370086</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="84767">{{Lists of airports by IATA code}}
+
+==C==
+{{AlphanumericTOC|prefixLink=C|prefixDesc=C|numbers=|sections=|}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left;&quot; | IATA
+! style=&quot;text-align:left;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+! style=&quot;text-align:left;&quot; | Time
+! style=&quot;text-align:left;&quot; | DST
+&lt;!-- comments added to prevent addition of incorrect IATA codes --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CA&quot;/&gt;-CA-
+|-
+| CAA || MHCA || [[Catacamas Airport]] || [[Catacamas]], [[Honduras]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+| CAB || FNCA || [[Cabinda Airport]] || [[Cabinda (city)|Cabinda]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+|-
+| CAC || SBCA || [[Cascavel Airport]] || [[Cascavel]], [[Paraná (state)|Paraná]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+| CAD || KCAD || [[Wexford County Airport]] || [[Cadillac, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CAE || KCAE || [[Columbia Metropolitan Airport]] || [[West Columbia, South Carolina|West Columbia]] (near [[Columbia, South Carolina|Columbia]]), [[South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CAF || SWCA || [[Carauari Airport]] || [[Carauari]], [[Amazonas (Brazilian state)|Amazonas]], Brazil || [[Time in Brazil|UTC−05:00]] ||
+|-
+| CAG || LIEE || [[Cagliari Airport]] || [[Cagliari]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- CAG is FAA code (not IATA) for Craig-Moffat Airport in Craig,f Colorado, United States --&gt;
+|-
+| CAH || VVCM || [[Cà Mau Airport]] || [[Cà Mau Province]], [[Vietnam]] || [[UTC+07:00]] ||
+|-
+| CAI || HECA || [[Cairo International Airport]] || [[Cairo]], [[Egypt]] || [[Eastern European Time|UTC+02:00]] ||
+|-
+| CAJ || SVCN || [[Canaima Airport]] || [[Canaima, Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+| CAK || KCAK || [[Akron-Canton Regional Airport]] || [[Akron, Ohio|Akron]] / [[Canton, Ohio]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CAL || EGEC || [[Campbeltown Airport]] (RAF Machrihanish) || [[Campbeltown]], Scotland, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+| CAM || SLCA || [[Camiri Airport]] || [[Camiri]], [[Bolivia]] || [[UTC−04:00]] ||
+|-
+| CAN || ZGGG || [[Guangzhou Baiyun International Airport]] || [[Guangzhou]], [[Guangdong]], China || [[Time in China|UTC+08:00]] ||
+|-
+| CAO || KCAO || [[Clayton Municipal Airpark]] || [[Clayton, New Mexico]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+| CAP || MTCH || [[Cap-Haïtien International Airport]] || [[Cap-Haïtien]], [[Haiti]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CAQ || SKCU || [[Caucasia Airport]] || [[Caucasia, Antioquia]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+| CAR || KCAR || [[Caribou Municipal Airport]] || [[Caribou, Maine]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CAS || GMMC || [[Anfa Airport]] || [[Casablanca]], [[Morocco]] || [[Western European Time|UTC±00:00]] || Mar-Oct*
+|-
+| CAU || SNRU || [[Oscar Laranjeiras Airport]] || [[Caruaru]], [[Pernambuco]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+| CAV || FNCZ || [[Cazombo Airport]] || [[Cazombo]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+&lt;!-- CAV is FAA code (not IATA) for Clarion Municipal Airport in Clarion, Iowa, United States --&gt;
+|-
+| CAW || SBCP || [[Bartolomeu Lysandro Airport]] || [[Campos dos Goytacazes]], [[Rio de Janeiro]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+| CAX || EGNC || [[Carlisle Lake District Airport]] || [[City of Carlisle|Carlisle]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+| CAY || SOCA || [[Cayenne-Rochambeau Airport]] || [[Cayenne]], [[French Guiana]] || [[Time in France|UTC−03:00]] ||
+|-
+| CAZ || YCBA || [[Cobar Airport]] || [[Cobar, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CB&quot;/&gt;-CB-
+|-
+| CBB || SLCB || [[Jorge Wilstermann International Airport]] || [[Cochabamba]], [[Bolivia]] || [[UTC−04:00]] ||
+|-
+| CBC ||      || [[Cherrabun Airport]] || [[Cherrabun]], [[Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+| CBD || VOCX || [[Car Nicobar Air Force Base]] || [[Car Nicobar]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+| CBE || KCBE || [[Greater Cumberland Regional Airport]] || [[Cumberland, Maryland]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CBF || KCBF || [[Council Bluffs Municipal Airport]] || [[Council Bluffs, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CBG || EGSC || [[Cambridge Airport]] || [[Cambridge]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+&lt;!-- CBG is FAA code (not IATA) for Cambridge Municipal Airport in Cambridge, Minnesota, United States --&gt;
+|-
+| CBH || DAOR || [[Boudghene Ben Ali Lotfi Airport]] || [[Béchar]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+| CBI ||      || [[Cape Barren Island Airport]] || [[Cape Barren Island]], [[Tasmania]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+| CBJ || MDCR || [[Cabo Rojo Airport]] || [[Pedernales, Dominican Republic]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+| CBK || KCBK || [[Colby Municipal Airport]] (Shalz Field) || [[Colby, Kansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CBL || SVCB || [[Tomás de Heres Airport]] || [[Ciudad Bolívar]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+| CBM || KCBM || [[Columbus Air Force Base]] || [[Columbus, Mississippi]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CBN || WICD || [[Penggung Airport]] || [[Cirebon]], [[Java]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|-
+| CBO || RPMC || [[Awang Airport]] || [[Cotabato City]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+| CBP || LPCO || Coimbra Airport ([[Aeródromo Municipal Bissaya Barreto]]) || [[Coimbra]], Portugal || [[Western European Time|UTC±00:00]] || Mar-Oct
+|-
+| CBQ || DNCA || [[Calabar Airport]] || [[Calabar]], [[Nigeria]] || [[West Africa Time|UTC+01:00]] ||
+|-
+| CBR || YSCB || [[Canberra International Airport]] || [[Canberra]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+| CBS || SVON || [[Oro Negro Airport]] || [[Cabimas]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+| CBT || FNCT || [[Catumbela Airport]] || [[Catumbela]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+|-
+| CBU || EDCD || [[Cottbus-Drewitz Airport]] || [[Cottbus]], [[Brandenburg]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CBV || MGCB || [[Cobán Airport]] || [[Cobán]], [[Alta Verapaz Department|Alta Verapaz]], [[Guatemala]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+| CBW || SSKM || [[Campo Mourão Airport]] || [[Campo Mourão]], [[Paraná (state)|Paraná]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+| CBX || YCDO || [[Condobolin Airport]] || [[Condobolin, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+| CBY ||      || [[Canobie Airport]] || [[Canobie Station]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CC&quot;/&gt;-CC-
+&lt;!-- CCA is FAA code (not IATA) for Clinton Municipal Airport in Clinton, Arkansas, United States --&gt;
+|-
+| CCB || KCCB || [[Cable Airport]] || [[Upland, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| CCC || MUOC || [[Jardines del Rey Airport]] || [[Cayo Coco]], [[Cuba]] || [[UTC−05:00]] || Mar-Nov
+|-
+| CCD ||      || [[Century City Heliport]] (FAA: 84CL) || [[Los Angeles]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| CCE || TFFG || [[L'Espérance Airport]] (Grand Case Airport) || [[Collectivity of Saint Martin|Saint Martin]], [[Guadeloupe]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+| CCF || LFMK || [[Carcassonne Salvaza Airport]] || [[Carcassonne]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CCG ||      || [[Crane County Airport]] (FAA: E13) || [[Crane, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CCH || SCCC || [[Chile Chico Airport]] || [[Chile Chico]], [[Aisén Region]], [[Chile]] || [[Time in Chile|UTC−03:00]] ||
+|-
+| CCI || SSCK || [[Concórdia Airport]] || [[Concórdia]], [[Santa Catarina (state)|Santa Catarina]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+| CCJ || VOCL || [[Calicut Airport]] || [[Kozhikode]] (Calicut), India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+| CCK ||      || [[Cocos Islands Airport]] || [[Cocos Islands]], Australia || [[Australian Time|UTC+06:30]] ||
+|-
+| CCL || YCCA || [[Chinchilla Airport]] || [[Chinchilla, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+| CCM || SBCM || [[Forquilhinha Airport]] || [[Criciúma]], [[Santa Catarina (state)|Santa Catarina]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+| CCN || OACC || [[Chaghcharan Airport]] || [[Chaghcharan]], [[Afghanistan]] || [[Time in Afghanistan|UTC+04:30]] ||
+|-
+| CCO || SKCI || [[Carimagua Airport]] || [[Puerto López, Meta|Puerto López]], [[Department of Meta|Meta]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+&lt;!-- CCO is FAA code (not IATA) for Newnan-Coweta County Airport in Newnan, Georgia, United States --&gt;
+|-
+| CCP || SCIE || [[Carriel Sur International Airport]] || [[Concepción, Chile|Concepción]], [[Bío Bío Region]], [[Chile]] || [[Time in Chile|UTC−03:00]] ||
+|-
+| CCQ ||      || [[Cachoeira Airport]] || [[Cachoeira]], [[Bahia]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+| CCR || KCCR || [[Buchanan Field]] || [[Concord, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| CCS || SVMI || [[Simón Bolívar International Airport (Venezuela)|Simón Bolívar International Airport]] || [[Maiquetía]] (near [[Caracas]]), [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+| CCT ||      || [[Colonia Catriel Airport]] || [[Colonia Catriel]], [[Río Negro Province|Río Negro]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+| CCU || VECC || [[Netaji Subhas Chandra Bose International Airport]] || [[Dum Dum]] (near [[Kolkata, India|Kolkata]]), India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+| CCV || NVSF || [[Craig Cove Airport]] || [[Craig Cove]], [[Ambrym|Ambrym Island]], [[Malampa Province|Malampa]], [[Vanuatu]] || [[UTC+11:00]] ||
+|-
+| CCW || YCWL || [[Cowell Airport]] || [[Cowell, South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+| CCX || SWKC || [[Cáceres Airport]] || [[Cáceres, Mato Grosso|Cáceres]], [[Minas Gerais]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+| CCY || KCCY || [[Northeast Iowa Regional Airport]] || [[Charles City, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CCZ || MYBC || [[Chub Cay International Airport]] || [[Chub Cay]], [[Berry Islands]], [[Bahamas]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CD&quot;/&gt;-CD-
+|-
+| CDA || YCOO || [[Cooinda Airport]] || [[Cooinda]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+| CDB || PACD || [[Cold Bay Airport]] || [[Cold Bay, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CDC || KCDC || [[Cedar City Regional Airport]] || [[Cedar City, Utah]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+| CDD ||      || [[Cauquira Airport]] || [[Cauquira]], [[Honduras]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+| CDE || PACE || [[Cape Decision Coast Guard Heliport]] || [[Cape Decision]], [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CDF || LIDI || [[Fiames Airport]] || [[Cortina d'Ampezzo]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CDG || LFPG || [[Charles de Gaulle Airport]] (Roissy Airport) || Paris, France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CDH || KCDH || [[Harrell Field]] || [[Camden, Arkansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CDI ||      || [[Cachoeiro de Itapemirim Airport]] || [[Cachoeiro de Itapemirim]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+&lt;!-- CDI is FAA code (not IATA) for Cambridge Municipal Airport in Cambridge, Ohio, United States --&gt;
+|-
+| CDJ || SBAA || [[Conceição do Araguaia Airport]] || [[Conceição do Araguaia]], [[Pará]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+| CDK || KCDK || [[George T. Lewis Airport]] || [[Cedar Key, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CDL ||      || [[Candle 2 Airport]] (FAA: AK75) || [[Candle, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CDN || KCDN || [[Woodward Field (airport)|Woodward Field]] || [[Camden, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CDO || FACD || [[Cradock Airport]] || [[Cradock, Eastern Cape]], South Africa || [[South African Standard Time|UTC+02:00]] ||
+|-
+| CDP || VOCP || [[Cuddapah Airport]] || [[Cuddapah]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+| CDQ || YCRY || [[Croydon Airport (Australia)|Croydon Airport]] || [[Croydon, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+| CDR || KCDR || [[Chadron Municipal Airport]] || [[Chadron, Nebraska]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+| CDS || KCDS || [[Childress Municipal Airport]] || [[Childress, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CDT || LECS || [[Castellón Airport]] || [[Castellón de la Plana, Comunidad Valenciana]], Spain || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CDU || YSCN || [[Camden Airport (Sydney)|Camden Airport]] || [[Camden, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+
+|-
+| CDV || PACV || [[Merle K. (Mudhole) Smith Airport]] || [[Cordova, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CDW || KCDW || [[Essex County Airport]] || [[Caldwell, New Jersey]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CDY || RPMU || [[Cagayan de Tawi-Tawi Airport]] || [[Mapun]], [[Tawi-Tawi]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CE&quot;/&gt;-CE-
+|-
+| CEA || KCEA || [[Cessna Aircraft Field]] || [[Wichita, Kansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CEB || RPVM || [[Mactan-Cebu International Airport]] || [[Lapu-Lapu City]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+| CEC || KCEC || [[Jack McNamara Field]] || [[Crescent City, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| CED || YCDU || [[Ceduna Airport]] || [[Ceduna, South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+| CEE || ULWC || [[Cherepovets Airport]] || [[Cherepovets]], [[Vologda Oblast]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+| CEF || KCEF || [[Westover Air Reserve Base]]/[[Westover Metropolitan Airport]] || [[Springfield, Massachusetts|Springfield]]/[[Chicopee, Massachusetts]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CEG || EGNR || [[Hawarden Airport]] (Chester Airport) || [[Chester]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+| CEH || FWCD || [[Chelinda Airport]] || [[Chelinda]], [[Malawi]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+| CEI || VTCT || [[Mae Fah Luang International Airport]] || [[Chiang Rai]], [[Thailand]] || [[UTC+07:00]] ||
+|-
+| CEJ || UKKL || [[Chernihiv Shestovitsa Airport]] || [[Chernihiv]], [[Ukraine]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+| CEK || USCC || [[Chelyabinsk Balandino Airport]] || [[Chelyabinsk]], Russia || [[Yekaterinburg Time|UTC+05:00]] ||
+&lt;!-- CEK is FAA code (not IATA) for Crete Municipal Airport in Crete, Nebraska, United States --&gt;
+|-
+| CEL || MYEC || [[Cape Eleuthera Airport]] || [[Cape Eleuthera]], [[Eleuthera]], [[Bahamas]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CEM || PARL || [[Central Airport]] || [[Central, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CEN || MMCN || [[Ciudad Obregón International Airport]] || [[Ciudad Obregón]], [[Sonora]], Mexico || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+| CEO || FNWK || [[Waco Kungo Airport]] || [[Waco Kungo]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+|-
+| CEP || SLCP || [[Concepción Airport]] || [[Concepción, Santa Cruz]], [[Bolivia]] || [[UTC−04:00]] ||
+|-
+| CEQ || LFMD || [[Cannes - Mandelieu Airport]] || [[Cannes]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CER || LFRC || [[Cherbourg - Maupertus Airport]] || [[Cherbourg]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CES || YCNK || [[Cessnock Airport]] || [[Cessnock, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+| CET || LFOU || [[Cholet Le Pontreau Airport]] || [[Cholet]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CEU || KCEU || [[Oconee County Regional Airport]] || [[Clemson, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CEV || KCEV || [[Mettel Field]] || [[Connersville, Indiana]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CEW || KCEW || [[Bob Sikes Airport]] || [[Crestview, Florida]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CEX ||      || [[Chena Hot Springs Airport]] (FAA: AK13) || [[Chena Hot Springs, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CEY || KCEY || [[Murray-Calloway County Airport]] || [[Murray, Kentucky]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CEZ || KCEZ || [[Cortez Municipal Airport]] || [[Cortez, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CF&quot;/&gt;-CF-
+|-
+| CFB || SBCB || [[Cabo Frio International Airport]] || [[Cabo Frio]], [[Rio de Janeiro]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+| CFC || SBCD || [[Caçador Airport]] || [[Caçador]], [[Santa Catarina (state)|Santa Catarina]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+| CFD || KCFD || [[Coulter Field]] || [[Bryan, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CFE || LFLC || [[Clermont-Ferrand Auvergne Airport]] || [[Clermont-Ferrand]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- CFE is FAA code (not IATA) for Buffalo Municipal Airport in Buffalo, Minnesota --&gt;
+|-
+| CFF || FNCF || [[Cafunfo Airport]] || [[Cafunfo]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+|-
+| CFG || MUCF || [[Jaime González Airport]] || [[Cienfuegos]], [[Cuba]] || [[UTC−05:00]] || Mar-Nov
+|-
+| CFH ||      || [[Clifton Hills Airport]] || [[Clifton Hills]], [[South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+| CFI ||      || [[Camfield Airport]] || [[Camfield Station]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+&lt;!-- CFJ is FAA code (not IATA) for Crawfordsville Municipal Airport in Crawfordsville, Indiana, United States --&gt;
+|-
+| CFK || DAOI || [[Chlef International Airport]] || [[Chlef]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+&lt;!-- CFK is FAA code (IATA: CYF) for Chefornak Airport in Chefornak, Alaska, United States --&gt;
+|-
+| CFN || EIDL || [[Donegal Airport]] || [[Gweedore|Carrickfinn]], Ireland || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+| CFO ||      || [[Confreza Airport]] || [[Confreza]], [[Mato Grosso]], Brazil || [[Time in Brazil|UTC−04:00]] || Oct-Feb
+|-
+| CFP ||      || [[Carpentaria Downs Airport]] || [[Carpentaria Downs]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+| CFR || LFRK || [[Caen – Carpiquet Airport]] || [[Caen]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CFS || YCFS || [[Coffs Harbour Airport]] || [[Coffs Harbour, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+| CFT || KCFT || [[Greenlee County Airport]] || [[Clifton, Arizona|Clifton]]/[[Morenci, Arizona]], United States || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+| CFU || LGKR || [[Ioannis Kapodistrias International Airport]] (Corfu International Airport) || [[Corfu]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+| CFV || KCFV || [[Coffeyville Municipal Airport]] || [[Coffeyville, Kansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- CFX removed, sources do not list this as valid IATA code; was listed here as San Félix NAS in San Félix, Chile (ICAO: SCFX) --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CG&quot;/&gt;-CG-
+|-
+| CGA ||      || [[Craig Seaplane Base]] || [[Craig, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CGB || SBCY || [[Marechal Rondon Airport]] || [[Cuiabá]], [[Mato Grosso]], Brazil || [[Time in Brazil|UTC−04:00]] || Oct-Feb
+|-
+| CGC || AYCG || [[Cape Gloucester Airport]] || [[Cape Gloucester]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+&lt;!-- CGC is FAA code (not IATA) for Crystal River Airport in Crystal River, Florida, United States --&gt;
+|-
+| CGD || ZGCD || [[Changde Airport]] || [[Changde]], [[Hunan]], China || [[Time in China|UTC+08:00]] ||
+|-
+| CGE || KCGE || [[Cambridge–Dorchester Airport]] || [[Cambridge, Maryland]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CGF || KCGF || [[Cuyahoga County Airport]] || [[Cleveland, Ohio]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CGG ||      || [[Casiguran Airport]] || [[Casiguran, Aurora|Casiguran]], [[Aurora (province)|Aurora]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+| CGH || SBSP || [[Congonhas-São Paulo Airport|Congonhas/São Paulo National Airport]] || [[São Paulo (city)|São Paulo]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+| CGI || KCGI || [[Cape Girardeau Regional Airport]] || [[Cape Girardeau, Missouri]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CGJ ||      || [[Kasompe Airport]] || [[Chingola]], [[Zambia]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+| CGK || WIII || [[Soekarno–Hatta International Airport]] || [[Jakarta]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|-
+| CGM || RPMH || [[Camiguin Airport]] || [[Mambajao]], [[Camiguin]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+| CGN || EDDK || [[Cologne Bonn Airport]] (Köln/Bonn - Konrad Adenauer) || [[Cologne]], [[North Rhine-Westphalia]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CGO || ZHCC || [[Zhengzhou Xinzheng International Airport]] || [[Zhengzhou]], [[Henan]], China || [[Time in China|UTC+08:00]] ||
+|-
+| CGP || VGEG || [[Shah Amanat International Airport]] || [[Chittagong]], [[Bangladesh]] || [[Bangladesh Standard Time|UTC+06:00]] ||
+|-
+| CGQ || ZYCC || [[Changchun Longjia International Airport]] || [[Changchun]], [[Jilin]], China || [[Time in China|UTC+08:00]] ||
+|-
+| CGR || SBCG || [[Campo Grande International Airport]] || [[Campo Grande]], [[Mato Grosso do Sul]], Brazil || [[Time in Brazil|UTC−04:00]] || Oct-Feb
+|-
+| CGS || KCGS || [[College Park Airport]] || [[College Park, Maryland]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CGT ||      || [[Chinguitti Airport]] || [[Chinguitti]], [[Mauritania]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+| CGU || SVPR || [[General Manuel Carlos Piar Airport]] || [[Ciudad Guayana]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+| CGV || YCAG || [[Caiguna Airport]] || [[Caiguna, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+&lt;!-- CGX was IATA code for Meigs Field in Chicago, Illinois, USA (closed 2003) --&gt;
+|-
+| CGY || RPMY || [[Laguindingan International Airport]] || [[Cagayan de Oro City]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+| CGZ || KCGZ || [[Casa Grande Municipal Airport]] || [[Casa Grande, Arizona]], United States || [[Mountain Time Zone|UTC−07:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CH&quot;/&gt;-CH-
+|-
+| CHA || KCHA || [[Chattanooga Metropolitan Airport]] (Lovell Field) || [[Chattanooga, Tennessee]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CHB || OPCL || [[Chilas Airport]] || [[Chilas]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+| CHC || NZCH || [[Christchurch International Airport]] || [[Christchurch]], New Zealand || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+&lt;!-- CHD is FAA code (not IATA) for Chandler Municipal Airport in Chandler, Arizona, Florida, United States --&gt;
+&lt;!-- CHD is former IATA code for Phoenix-Mesa Gateway Airport (IATA:AZA,FAA:IWA) in Chandler, Arizona, Florida, United States --&gt;
+|-
+| CHE ||      || [[Reenroe Airport]] || [[Cahersiveen]], [[County Kerry]], Ireland || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+| CHF || RKPE || [[Chinhae Airport]] || [[Chinhae]], [[South Korea]] || [[Korea Standard Time|UTC+09:00]] ||
+|-
+| CHG || ZYCY || [[Chaoyang Airport]] || [[Chaoyang, Liaoning]], China || [[Time in China|UTC+08:00]] ||
+|-
+| CHH || SPPY || [[Chachapoyas Airport]] || [[Chachapoyas, Peru]] || [[Time in Peru|UTC−05:00]] ||
+|-
+| CHI ||      || [[List of airports in the Chicago area|All Airports]] || [[Chicago]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CHJ || FVCH || [[Chipinge Airport]] || [[Chipinge]], [[Zimbabwe]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+| CHK || KCHK || [[Chickasha Municipal Airport]] || [[Chickasha, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CHL || KLLJ || [[Challis Airport]] (FAA: LLJ) || [[Challis, Idaho]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+| CHM || SPEO || [[Tnte. FAP Jaime Montreuil Morales Airport]] || [[Chimbote]], [[Ancash Region]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+|-
+| CHN || RKJU || [[Chonju Airport]] || [[Chonju]], [[South Korea]] || [[Korea Standard Time|UTC+09:00]] ||
+|-
+| CHO || KCHO || [[Charlottesville-Albemarle Airport]] || [[Charlottesville, Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CHP ||      || [[Circle Hot Springs Airport]] || [[Circle Hot Springs]], [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CHQ || LGSA || [[Chania International Airport]] (&quot;Ioannis Daskalogiannis&quot;) || [[Chania]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+&lt;!-- CHQ is FAA code (not IATA) for Mississippi County Airport in Charleston, Missouri, United States --&gt;
+|-
+| CHR || LFLX || [[Châteauroux-Déols &quot;Marcel Dassault&quot; Airport]] || [[Châteauroux]] / [[Déols]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CHS || KCHS || [[Charleston International Airport]] / [[Charleston Air Force Base]] || [[Charleston, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CHT || NZCI || [[Chatham Islands / Tuuta Airport]] || [[Waitangi, Chatham Islands]], New Zealand || [[Chatham Standard Time Zone|UTC+12:45]] || Sep-Apr
+&lt;!-- CHT is FAA code (not IATA) for Chillicothe Municipal Airport in Chillicothe, Missouri, United States --&gt;
+|-
+| CHU ||      || [[Chuathbaluk Airport]] (FAA: 9A3) || [[Chuathbaluk, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+&lt;!-- CHU is FAA code (not IATA) for Houston County Airport in Caledonia, Minnesota, United States --&gt;
+|-
+| CHV || LPCH || [[Chaves Airport]] || [[Chaves (Portugal)|Chaves]], Portugal || [[Western European Time|UTC±00:00]] || Mar-Oct
+&lt;!-- CHW (Jiuquan Airport) is now JGN (Jiayuguan Airport) --&gt;
+|-
+| CHX || MPCH || [[Captain Manuel Niño International Airport]] || [[Changuinola]], [[Bocas del Toro Province|Bocas del Toro]], [[Panama]] || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+| CHY || AGGC || [[Choiseul Bay Airport]] || [[Choiseul Bay]], [[Taro Island]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+| CHZ ||      || [[Chiloquin State Airport]] (FAA: 2S7) || [[Chiloquin, Oregon]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CI&quot;/&gt;-CI-
+|-
+| CIA || LIRA || [[Rome Ciampino Airport]] (Giovan Battista Pastine Airport) || Rome, Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CIB || KAVX || [[Catalina Airport]] (FAA: AVX) || [[Avalon, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| CIC || KCIC || [[Chico Municipal Airport]] || [[Chico, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| CID || KCID || [[The Eastern Iowa Airport]] || [[Cedar Rapids, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CIE || YCOI || [[Collie Airport]] || [[Collie, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+| CIF || ZBCF || [[Chifeng Airport]] || [[Chifeng]], [[Inner Mongolia]], China || [[Time in China|UTC+08:00]] ||
+|-
+| CIG || KCAG || [[Craig–Moffat Airport]] (FAA: CAG) || [[Craig, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+| CIH || ZBCZ || [[Changzhi Airport]] || [[Changzhi]], [[Shanxi]], China || [[Time in China|UTC+08:00]] ||
+&lt;!-- CII is FAA code (not IATA) for Choteau Airport in Choteau, Montana, United States --&gt;
+|-
+| CIJ || SLCO || [[Capitan Anibal Arab Airport]] || [[Cobija]], [[Bolivia]] || [[UTC−04:00]] ||
+|-
+| CIK || PACI || [[Chalkyitsik Airport]] || [[Chalkyitsik, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CIL ||      || [[Council Airport]] (FAA: K29) || [[Council, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CIM || SKCM || [[Cimitarra Airport]] || [[Cimitarra]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+| CIN || KCIN || [[Arthur N. Neu Airport]] || [[Carroll, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CIO || SGCO || [[Teniente Coronel Carmelo Peralta Airport]] || [[Concepción, Paraguay]] || [[UTC−04:00]] || Oct-Mar
+|-
+| CIP || FLCP || [[Chipata Airport]] || [[Chipata]], [[Zambia]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+| CIQ ||      || [[Chiquimula Airport]] || [[Chiquimula]], [[Chiquimula Department|Chiquimula]], [[Guatemala]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+| CIR || KCIR || [[Cairo Regional Airport]] || [[Cairo, Illinois]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CIS || PCIS || [[Canton Island Airport]] || [[Canton Island]], [[Kiribati]] || [[UTC+13:00]] ||
+|-
+| CIT || UAII || [[Shymkent Airport]] || [[Shymkent]], [[Kazakhstan]] || [[Time in Kazakhstan|UTC+06:00]] ||
+|-
+| CIU || KCIU || [[Chippewa County International Airport]] || [[Sault Ste Marie, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CIW || TVSC || [[Canouan Island Airport]] || [[Canouan Island]], [[Saint Vincent and the Grenadines]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+| CIX || SPHI || [[Capitán FAP José A. Quiñones Gonzales International Airport]] || [[Chiclayo]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+|-
+| CIY || LICB || [[Comiso Airport]] || [[Comiso]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CIZ || SWKO || [[Coari Airport]] || [[Coari]], [[Amazonas (Brazilian state)|Amazonas]], Brazil || [[Time in Brazil|UTC−04:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CJ&quot;/&gt;-CJ-
+|-
+| CJA || SPJR || [[Major General FAP Armando Revoredo Iglesias Airport]] || [[Cajamarca]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+|-
+| CJB || VOCB || [[Coimbatore International Airport]] || [[Coimbatore]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+| CJC || SCCF || [[El Loa Airport]] || [[Calama, Chile|Calama]], [[Antofagasta Region]], [[Chile]] || [[Time in Chile|UTC−03:00]] ||
+|-
+| CJD ||      || [[Candilejas Airport]] || [[Candilejas]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+| CJF || YCWA || [[Coondewanna Airport]] || [[Coondewanna]], [[Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+| CJH ||      || [[Chilko Lake (Tsylos Park Lodge) Airport]] (TC: CAG3) || [[Chilko Lake]], [[British Columbia]], Canada || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| CJJ || RKTU || [[Cheong Ju International Airport]] || [[Cheong ju]], [[South Korea]] || [[Korea Standard Time|UTC+09:00]] ||
+&lt;!-- CJJ is FAA code (not IATA) for Ellen Church Field in Cresco, Iowa, United States --&gt;
+|-
+| CJL || OPCH || [[Chitral Airport]] || [[Chitral]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+| CJM || VTSE || [[Chumphon Airport]] || [[Chumphon]], [[Thailand]] || [[UTC+07:00]] ||
+&lt;!-- CJR is FAA code (not IATA) for Culpeper Regional Airport in Culpeper, Virginia, United States --&gt;
+|-
+| CJS || MMCS || [[Abraham González International Airport]] || [[Ciudad Juárez]], [[Chihuahua (state)|Chihuahua]], Mexico || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+| CJT || MMCO || [[Copalar Airport]] || [[Comitán, Chiapas]], Mexico || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+| CJU || RKPC || [[Jeju International Airport]] || [[Jeju City|Jeju]], South Korea || [[Korea Standard Time|UTC+09:00]] ||
+&lt;!-- CJX is FAA code (IATA: CKD) for Crooked Creek Airport in Crooked Creek, Alaska, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CK&quot;/&gt;-CK-
+|-
+| CKA || KCKA || [[Kegelman Air Force Auxiliary Field]] || [[Cherokee, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CKB || KCKB || [[North Central West Virginia Airport]] || [[Clarksburg, West Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CKC || UKKE || [[Cherkasy International Airport]] || [[Cherkasy]], [[Ukraine]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+&lt;!-- CKC is FAA code (IATA: GRM) for Grand Marais/Cook County Airport in Grand Marais, Minnesota, United States --&gt;
+|-
+| CKD ||      || [[Crooked Creek Airport]] (FAA: CJX) || [[Crooked Creek, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CKE ||      || [[Ferndale Resort Seaplane Base]] (FAA: CN20) || [[Kelseyville, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+&lt;!-- CKF is not the IATA code of [[Crisp County-Cordele Airport]] (ICAO: KCKF), serving [[Cordele, Georgia]] in the [[United States]] --&gt;
+|-
+| CKG || ZUCK || [[Chongqing Jiangbei International Airport]] || [[Chongqing]], China || [[Time in China|UTC+08:00]] ||
+|-
+| CKH || UESO || [[Chokurdah Airport]] || [[Chokurdakh]], Russia || [[Srednekolymsk Time|UTC+11:00]] ||
+|-
+| CKI || YCKI || [[Croker Island Airport]] || [[Croker Island, Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+&lt;!-- CKI is FAA code (not IATA) for Williamsburg Regional Airport in Kingstree, South Carolina, United States --&gt;
+|-
+| CKL || UUMU || [[Chkalovsky Airport]] || [[Shchyolkovo]] ([[Moscow Oblast]]), Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+| CKM || KCKM || [[Fletcher Field]] || [[Clarksdale, Mississippi]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CKN || KCKN || [[Crookston Municipal Airport]] (Kirkwood Field) || [[Crookston, Minnesota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CKO || SSCP || [[Cornélio Procópio Airport]] || [[Cornélio Procópio]], [[Paraná (state)|Paraná]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+&lt;!-- CKP is FAA code (not IATA) for Cherokee County Regional Airport in Cherokee, Iowa, United States --&gt;
+|-
+| CKS || SBCJ || [[Carajás Airport]] || [[Carajás, Pará]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+| CKT || OIMC || [[Sarakhs Airport]] || [[Sarakhs]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+| CKU ||      || [[Cordova Municipal Airport]] || [[Cordova, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CKV || KCKV || [[Outlaw Field]] || [[Clarksville, Tennessee]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CKX ||      || [[Chicken Airport]] || [[Chicken, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CKY || GUCY || [[Gbessia Airport]] || [[Conakry]], [[Guinea]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+| CKZ || LTBH || [[Çanakkale Airport]] || [[Çanakkale]], Turkey || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CL&quot;/&gt;-CL-
+|-
+| CLA || VGCM || [[Comilla Airport]] || [[Comilla]], [[Bangladesh]] || [[Bangladesh Standard Time|UTC+06:00]] ||
+&lt;!-- CLB is not the IATA code for [[Castlebar Airport]] (ICAO: EICB), serving [[Castlebar]] in [[County Mayo]], Ireland --&gt;
+|-
+| CLD || KCRQ || [[McClellan–Palomar Airport]] (FAA: CRQ) || [[Carlsbad, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| CLE || KCLE || [[Cleveland Hopkins International Airport]] || [[Cleveland, Ohio]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CLF ||      || [[Coltishall]] (IATA off-point) || [[Coltishall]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+| CLG ||      || [[New Coalinga Municipal Airport]] (FAA: C80) || [[Coalinga, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| CLH || YCAH || [[Coolah Airport]] || [[Coolah, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+| CLI || KCLI || [[Clintonville Municipal Airport]] || [[Clintonville, Wisconsin]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CLJ || LRCL || [[Cluj-Napoca International Airport]] || [[Cluj-Napoca]], [[Romania]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+| CLK || KCLK || [[Clinton Regional Airport]] || [[Clinton, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CLL || KCLL || [[Easterwood Airport]] (Easterwood Field) || [[College Station, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CLM || KCLM || [[William R. Fairchild International Airport]] || [[Port Angeles, Washington]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| CLN || SBCI || [[Carolina Airport]] || [[Carolina, Maranhão]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+| CLO || SKCL || [[Alfonso Bonilla Aragón International Airport]] || [[Cali]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+| CLP || PFCL || [[Clarks Point Airport]] || [[Clarks Point, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CLQ || MMIA || [[Lic. Miguel de la Madrid Airport|Licenciado Miguel de la Madrid Airport]] || [[Colima, Colima]], [[Mexico]] || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+| CLR ||  || All airports || [[Calipatria, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+&lt;!-- CLR is not the IATA code of [[Cliff Hatfield Memorial Airport]]; it is its FAA code --&gt;
+|-
+| CLS || KCLS || [[Chehalis-Centralia Airport]] || [[Chehalis, Washington]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| CLT || KCLT || [[Charlotte Douglas International Airport]] || [[Charlotte, North Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CLU || KBAK || [[Columbus Municipal Airport (Indiana)|Columbus Municipal Airport]] (FAA: BAK) || [[Columbus, Indiana]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CLV || SWKN || [[Caldas Novas Airport]] || [[Caldas Novas]], [[Goiás]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+| CLW || KCLW || [[Clearwater Air Park]] || [[Clearwater, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CLX || SATC || [[Clorinda Airport]] || [[Clorinda, Formosa]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+| CLY || LFKC || [[Calvi - Sainte-Catherine Airport]] || [[Calvi, Haute-Corse|Calvi]], [[Corsica]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CLZ || SVCL || [[Calabozo Airport]] || [[Calabozo]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CM&quot;/&gt;-CM-
+|-
+| CMA || YCMU || [[Cunnamulla Airport]] || [[Cunnamulla, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+&lt;!-- CMA is FAA code (not IATA) for Camarillo Airport in Camarillo, California, United States --&gt;
+|-
+| CMB || VCBI || [[Bandaranaike International Airport]] || [[Colombo]], [[Sri Lanka]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+| CMC || SNWC || [[Camocim Airport]] || [[Camocim]], [[Ceará]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+| CMD || YCTM || [[Cootamundra Airport]] || [[Cootamundra, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+| CME || MMCE || [[Ciudad del Carmen International Airport]] || [[Ciudad del Carmen]], [[Campeche]], Mexico || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+| CMF || LFLB || [[Chambéry-Savoie Airport]] || [[Chambéry]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CMG || SBCR || [[Corumbá International Airport]] || [[Corumbá]], [[Mato Grosso do Sul]], Brazil || [[Time in Brazil|UTC−04:00]] || Oct-Feb
+|-
+| CMH || KCMH || [[Port Columbus International Airport]] || [[Columbus, Ohio]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CMI || KCMI || [[University of Illinois Willard Airport]] || [[Champaign, Illinois]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CMJ || RCCM || [[Cimei Airport]] || [[Cimei]], [[Taiwan]] || [[Time in Taiwan|UTC+08:00]] ||
+|-
+| CMK || FWCM || [[Club Makokola Airport]] || [[Club Makokola]], [[Malawi]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+| CML || YCMW || [[Camooweal Airport]] || [[Camooweal, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+| CMM || MGCR || [[Carmelita Airport]] || [[Carmelita, Petén|Carmelita]], [[Petén Department|El Petén]], [[Guatemala]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+| CMN || GMMN || [[Mohammed V International Airport]] || [[Casablanca]], [[Morocco]] || [[Western European Time|UTC±00:00]] || Mar-Oct*
+|-
+| CMO || HCMO || [[Obbia Airport]] || [[Obbia]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+| CMP || SNKE || [[Campo Alegre Airport]] || [[Santana do Araguaia]], [[Pará]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+| CMQ || YCMT || [[Clermont Airport]] || [[Clermont, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+| CMR || LFGA || [[Colmar - Houssen Airport]] || [[Colmar]] / [[Houssen]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- CMR is FAA code (not IATA) for H.A. Clark Memorial Field in Williams, Arizona, United States --&gt;
+|-
+| CMS || HCMS || [[Scusciuban Airport]] || [[Scusciuban]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+| CMT ||      || [[Cameta Airport]] || [[Cameta]], [[Pará]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+| CMU || AYCH || [[Chimbu Airport]] || [[Kundiawa]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+| CMV || NZCX || [[Coromandel Airport]] || [[Coromandel, New Zealand|Coromandel]], New Zealand || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|-
+| CMW || MUCM || [[Camagüey-Ignacio Agramonte Airport]] || [[Camagüey]], [[Cuba]] || [[UTC−05:00]] || Mar-Nov
+|-
+| CMX || KCMX || [[Houghton County Memorial Airport]] || [[Hancock, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CMY || KCMY || [[Sparta/Fort McCoy Airport]] || [[Sparta, Wisconsin]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CN&quot;/&gt;-CN-
+|-
+| CNA || MMCA || [[Cananea Airport]] || [[Cananea]], [[Sonora]], Mexico || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+| CNB || YCNM || [[Coonamble Airport]] || [[Coonamble, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+| CNC || YCCT || [[Coconut Island Airport]] || [[Coconut Island (Queensland)|Coconut Island]] (Poruma Island), [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+&lt;!-- CMC is FAA code (not IATA) for Chariton Municipal Airport in Chariton, Iowa, United States --&gt;
+|-
+| CND || LRCK || [[Mihail Kogălniceanu International Airport]] || [[Constanța]], [[Romania]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+| CNE ||      || [[Fremont County Airport]] (FAA: 1V6) || [[Cañon City, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+| CNF || SBCF || [[Tancredo Neves International Airport]] (Confins Int'l) || [[Confins]] (near [[Belo Horizonte]]), [[Minas Gerais]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+| CNG || LFBG || [[Cognac - Châteaubernard Air Base]] || [[Cognac, France|Cognac]] / [[Châteaubernard]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CNH || KCNH || [[Claremont Municipal Airport]] || [[Claremont, New Hampshire]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CNI || ZYCH || [[Changhai Airport]] || [[Changhai]], China || [[Time in China|UTC+08:00]] ||
+|-
+| CNJ || YCCY || [[Cloncurry Airport]] || [[Cloncurry, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+| CNK || KCNK || [[Blosser Municipal Airport]] || [[Concordia, Kansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CNL || EKSN || [[Sindal Airport]] || [[Sindal]], Denmark || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CNM || KCNM || [[Cavern City Air Terminal]] || [[Carlsbad, New Mexico]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+&lt;!-- CNN is not the IATA code of [[Neryungri Airport]] (ICAO: UELL), serving [[Chulman]] in [[Sakha Republic|Yakutia]], Russia --&gt;
+|-
+| CNO || KCNO || [[Chino Airport]] || [[Chino, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| CNP || BGCO || [[Nerlerit Inaat Airport]] (Constable Pynt Airport) || [[Nerlerit Inaat]] (Constable Pynt), [[Greenland]] || [[Time in Denmark|UTC−01:00]] || Mar-Oct
+&lt;!-- CNP is FAA code (not IATA) for Billy G. Ray Field in Chappell, Nebraska, United States --&gt;
+|-
+| CNQ || SARC || [[Doctor Fernando Piragine Niveyro International Airport]] || [[Corrientes]], [[Corrientes Province|Corrientes]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+| CNR || SCRA || [[Chañaral Airport]] || [[Chañaral]], [[Atacama Region]], [[Chile]] || [[Time in Chile|UTC−03:00]] ||
+|-
+| CNS || YBCS || [[Cairns International Airport]] || [[Cairns, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+| CNT ||      || [[Charata Airport]] || [[Charata]], [[Chubut Province|Chubut]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+| CNU || KCNU || [[Chanute Martin Johnson Airport]] || [[Chanute, Kansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CNV || SNED || [[Canavieiras Airport]] || [[Canavieiras]], [[Bahia]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+| CNW || KCNW || [[TSTC Waco Airport]] || [[Waco, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CNX || VTCC || [[Chiang Mai International Airport]] || [[Chiang Mai]], [[Thailand]] || [[UTC+07:00]] ||
+|-
+| CNY || KCNY || [[Canyonlands Field]] || [[Moab, Utah]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+| CNZ ||      || [[Cangamba Airport]] || [[Cangamba]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CO&quot;/&gt;-CO-
+|-
+| COA ||      || [[Columbia Airport (California)|Columbia Airport]] (FAA: O22) || [[Columbia, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| COB ||      || [[Coolibah Airport]] || [[Coolibah Station]] [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+| COC || SAAC || [[Concordia Airport]] (Comodoro Pierrestegui Airport) || [[Concordia, Entre Ríos]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+| COD || KCOD || [[Yellowstone Regional Airport]] || [[Cody, Wyoming]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+| COE || KCOE || [[Coeur d'Alene Air Terminal]] || [[Coeur d'Alene, Idaho]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| COF || KCOF || [[Patrick Air Force Base]] || [[Cocoa Beach, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| COG || SKCD || [[Mandinga Airport]] || [[Condoto]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+| COH || VECO || [[Cooch Behar Airport]] || [[Cooch Behar]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+| COI || KCOI || [[Merritt Island Airport]] || [[Merritt Island, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| COJ || YCBB || [[Coonabarabran Airport]] || [[Coonabarabran, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+| COK || VOCI || [[Cochin International Airport]] (Nedumbassery Airport) || [[Nedumbassery]] near [[Kochi]] (Cochin), [[Kerala]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+| COL ||      || [[Coll Island Airport]] || [[Coll]], Scotland, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+| COM || KCOM || [[Coleman Municipal Airport]] || [[Coleman, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CON || KCON || [[Concord Municipal Airport]] || [[Concord, New Hampshire]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| COO || DBBB || [[Cadjehoun Airport]] || [[Cotonou]], [[Benin]] || [[West Africa Time|UTC+01:00]] ||
+|-
+| COP ||      || [[Cooperstown-Westville Airport]] (FAA: K23) || [[Cooperstown, New York]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| COQ || ZMCD || [[Choibalsan Airport]] || [[Choibalsan (city)|Choibalsan]], [[Mongolia]] || [[Time in Mongolia|UTC+08:00]] ||
+&lt;!-- COQ is FAA code (not IATA) for Cloquet Carlton County Airport in Cloquet, Minnesota, United States --&gt;
+|-
+| COR || SACO || [[Ingeniero Ambrosio L.V. Taravella International Airport]] (Pajas Blancas) || [[Córdoba, Argentina|Córdoba]], [[Córdoba Province, Argentina|Córdoba]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+| COS || KCOS || [[Colorado Springs Airport]] || [[Colorado Springs, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+| COT || KCOT || [[Cotulla–La Salle County Airport]] || [[Cotulla, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| COU || KCOU || [[Columbia Regional Airport]] || [[Columbia, Missouri]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| COV || LPCV || [[Covilhã Airport]] || [[Covilhã]], Portugal || [[Western European Time|UTC±00:00]] || Mar-Oct
+|-
+| COW || SCQB || [[Coquimbo Airport]] || [[Coquimbo]], [[Coquimbo Region]], [[Chile]] || [[Time in Chile|UTC−03:00]] ||
+|-
+| COY || YCWY || [[Coolawanyah Station Airport]] || [[Coolawanyah Station]], [[Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+| COZ || MDCZ || [[Constanza Airport]] || [[Constanza, Dominican Republic]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CP&quot;/&gt;-CP-
+|-
+| CPA || GLCP || [[Cape Palmas Airport]] ([[A. Tubman Airport]]) || [[Cape Palmas]], [[Liberia]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+| CPB || SKCA || [[Capurgana Airport]] || [[Capurganá]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+| CPC || SAZY || [[Aviador Carlos Campos Airport]] || [[San Martín de los Andes]], [[Neuquén Province|Neuquén]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+&lt;!-- CPC is FAA code (not IATA) for Columbus County Municipal in Whiteville, North Carolina, United States --&gt;
+|-
+| CPD || YCBP || [[Coober Pedy Airport]] || [[Coober Pedy, South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+| CPE || MMCP || [[Ing. Alberto Acuña Ongay International Airport]] || [[Campeche, Campeche]], Mexico || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+| CPF || WRSC || [[Ngloram Airport]] || [[Cepu]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|-
+| CPG ||      || [[Carmen de Patagones Airport]] || [[Carmen de Patagones]], [[Buenos Aires]], Argentina || [[Time in Argentina|UTC−03:00]] ||
+|-
+| CPH || EKCH || [[Copenhagen Airport]], Kastrup Airport || [[Copenhagen]] (København), Denmark || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- CPK is FAA code (not IATA) for Chesapeake Regional Airport in Norfolk, Virginia, United States --&gt;
+|-
+| CPL || SKHA || [[General Navas Pardo Airport]] || [[Chaparral]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+| CPM || KCPM || [[Compton/Woodley Airport]] || [[Compton, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| CPN ||      || [[Cape Rodney Airport]] || [[Cape Rodney]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+| CPO || SCAT|| [[Desierto de Atacama Airport]] || [[Copiapó]], [[Atacama Region]], [[Chile]] || [[Time in Chile|UTC−03:00]] ||
+|-
+| CPP || RPUK || [[Calapan Airport]] || [[Calapan City]], [[Oriental Mindoro]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+| CPQ || SDAM || [[Campo dos Amarais Airport]] || [[Campinas]], [[São Paulo]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+| CPR || KCPR || [[Natrona County International Airport]] || [[Casper, Wyoming]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+| CPS || KCPS || [[St. Louis Downtown Airport]] || [[Cahokia, Illinois]] (near St. Louis), United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CPT || FACT || [[Cape Town International Airport]] || [[Cape Town]], South Africa || [[South African Standard Time|UTC+02:00]] ||
+&lt;!-- CPT is FAA code (not IATA) for Cleburne Municipal Airport in Cleburne, Texas, United States --&gt;
+|-
+| CPU ||      || [[Cururupu Airport]] || [[Cururupu]], [[Maranhão]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+&lt;!-- CPU is FAA code (not IATA) for Calaveras County Airport (Maury Rasmussen Field) in San Andreas, California, United States --&gt;
+|-
+| CPV || SBKG || [[Campina Grande Airport]] (João Suassuna Airport) || [[Campina Grande]], [[Paraíba]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+| CPX || TJCP || [[Benjamín Rivera Noriega Airport]] || [[Isla de Culebra, Puerto Rico]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CQ&quot;/&gt;-CQ-
+|-
+| CQA ||      || [[Canarana Airport]] || [[Canarana]], [[Mato Grosso]], Brazil || [[Time in Brazil|UTC−04:00]] || Oct-Feb
+&lt;!-- CQA is FAA code (not IATA) for Lakefield Airport in Celina, Ohio, United States --&gt;
+&lt;!-- CQB is FAA code (not IATA) for Chandler Regional Airport in Chandler, Oklahoma, United States --&gt;
+|-
+| CQD || OIFS || [[Shahrekord Airport]] || [[Shahrekord]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+| CQF || LFAC || [[Calais–Dunkerque Airport]] || [[Calais]] / [[Dunkerque]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CQM || LERL || [[Ciudad Real Central Airport]] || [[Ciudad Real]], Spain || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CQP ||      || [[Cape Flattery Airport]] || [[Cape Flattery (Queensland)|Cape Flattery, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+| CQS || SWCQ || [[Costa Marques Airport]] || [[Costa Marques]], [[Rondônia]], Brazil || [[Time in Brazil|UTC−04:00]] ||
+|-
+| CQT ||      || [[Caquetania Airport]] || [[Caquetania]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+&lt;!-- CQW is FAA code (IATA: HCW) for Cheraw Municipal Airport in Cheraw, South Carolina, United States --&gt;
+&lt;!-- CQX is FAA code (not IATA) for Chatham Municipal Airport in Chatham, Massachusetts, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CR&quot;/&gt;-CR-
+|-
+| CRA || LRCV || [[Craiova Airport]] || [[Craiova]], [[Romania]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+| CRB || YCBR || [[Collarenebri Airport]] || [[Collarenebri, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+| CRC || SKGO || [[Santa Ana Airport (Colombia)|Santa Ana Airport]] || [[Cartago, Valle del Cauca|Cartago]], Colombia || [[Time in Colombia|UTC−05:00]] ||
+&lt;!-- CRC is FAA code (not IATA) for Circle City Airport in Circle, Alaska, United States --&gt;
+|-
+| CRD || SAVC || [[General Enrique Mosconi International Airport]] || [[Comodoro Rivadavia]], [[Chubut Province|Chubut]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+| CRE || KCRE || [[Grand Strand Airport]] || [[North Myrtle Beach, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CRF || FEFC || [[Carnot Airport]] || [[Carnot, Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+|-
+| CRG || KCRG || [[Craig Municipal Airport]] || [[Jacksonville, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CRH ||      || [[Cherribah Airport]] || [[Cherribah]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+| CRI || MYCI || [[Colonel Hill Airport]] (Crooked Island Airport) || [[Colonel Hill]], [[Crooked Island (Bahamas)|Crooked Island]], [[Bahamas]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CRJ ||      || [[Coorabie Airport]] || [[Coorabie]], [[South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+| CRK || RPLC || [[Clark International Airport]] || [[Clark Freeport Zone|Clark Special Economic Zone]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+| CRL || EBCI || [[Brussels South Charleroi Airport]] || [[Charleroi]], [[Wallonia]], Belgium || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CRM || RPVF || [[Catarman National Airport]] || [[Catarman, Northern Samar]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+| CRN ||      || [[Cromarty Airport]] || [[Cromarty]], [[Scotland]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+| CRO || KCRO || [[Corcoran Airport]] || [[Corcoran, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| CRP || KCRP || [[Corpus Christi International Airport]] || [[Corpus Christi, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CRQ || SBCV || [[Caravelas Airport]] || [[Caravelas]], [[Bahia]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+| CRR || SANW || [[Ceres Airport]] || [[Ceres, Argentina|Ceres]], [[Santa Fe Province|Santa Fe]], Argentina || [[Time in Argentina|UTC−03:00]] ||
+|-
+| CRS || KCRS || [[Corsicana Municipal Airport]] (C. David Campbell Field) || [[Corsicana, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CRT || KCRT || [[Z. M. Jack Stell Field]] || [[Crossett, Arkansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CRU ||      || [[Carriacou island airport]] || [[Carriacou Island]], [[Grenada]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+| CRV || LIBC || [[Crotone Airport]] || [[Crotone]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CRW || KCRW || [[Yeager Airport]] || [[Charleston, West Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CRX || KCRX || [[Roscoe Turner Airport]] || [[Corinth, Mississippi]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CRY ||      || [[Carlton Hill Airport]] || [[Carlton Hill Station]], [[Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+| CRZ || UTAV || [[Turkmenabat Airport]] || [[Türkmenabat]], [[Turkmenistan]] || [[UTC+05:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CS&quot;/&gt;-CS-
+|-
+| CSA ||      || [[Colonsay Airport]] || [[Colonsay]], [[Inner Hebrides]], Scotland, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+| CSB || LRCS || [[Caransebeş Airport]] || [[Caransebeş]], [[Romania]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+&lt;!-- CSB is FAA code (not IATA) for Cambridge Municipal Airport in Cambridge, Nebraska, United States --&gt;
+|-
+| CSC ||      || [[Canas Airport]] || [[Cañas, Costa Rica|Canas]], [[Costa Rica]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+| CSD ||      || [[Cresswell Downs Airport]] || [[Cresswell Downs]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+| CSE ||      || [[Buckhorn Ranch Airport]] (FAA: 0CO2) || [[Crested Butte, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+| CSF || LFPC || [[Creil Air Base]] || [[Creil]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CSG || KCSG || [[Columbus Airport (Georgia)|Columbus Airport]] || [[Columbus, Georgia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CSH || ULAS || [[Solovki Airport]] || [[Solovetsky Islands]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+| CSI || YCAS || [[Casino Airport]] || [[Casino, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+| CSJ ||      || [[Cape St. Jacques Airport]] || [[Cape St. Jacques]], [[Vietnam]] || [[UTC+07:00]] ||
+|-
+| CSK || GOGS || [[Cap Skirring Airport]] || [[Cap Skirring]], [[Senegal]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+| CSL || KCSL || [[O'Sullivan Army Heliport]] || [[Camp San Luis Obispo]], [[California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+&lt;!-- CSL is not IATA code for Cabo San Lucas International Airport (ICAO: MMSL) in Cabo San Lucas, Mexico --&gt;
+|-
+| CSM || KCSM || [[Clinton-Sherman Airport]] || [[Clinton, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CSN || KCXP || [[Carson Airport]] (FAA: CXP) || [[Carson City, Nevada]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| CSO || EDBC || [[Magdeburg–Cochstedt Airport]] || [[Magdeburg]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CSP || PACA || [[Cape Spencer Coast Guard Heliport]] || [[Cape Spencer, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CSQ || KCSQ || [[Creston Municipal Airport]] || [[Creston, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CSR ||      || [[Casuarito Airport]] || [[Casuarito]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+&lt;!-- CSR is FAA code (not IATA) for Campbell Airstrip in Anchorage, Alaska, United States --&gt;
+|-
+| CSS || SSCL || [[Cassilândia Airport]] || [[Cassilândia]], [[Mato Grosso do Sul]], Brazil || [[Time in Brazil|UTC−04:00]] || Oct-Feb
+|-
+| CST || NFCS || [[Castaway Island Resort Airport]] || [[Qalito]], [[Mamanuca Islands]], [[Fiji]] || [[UTC+12:00]] || Nov-Jan
+|-
+| CSV || KCSV || [[Crossville Memorial-Whitson Field]] || [[Crossville, Tennessee]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CSW ||      || [[Colorado do Oeste Airport]] || [[Colorado do Oeste]], [[Rondônia]], Brazil || [[Time in Brazil|UTC−04:00]] ||
+|-
+| CSX || ZGHA || [[Changsha Huanghua International Airport]] || [[Changsha]], [[Hunan]], China || [[Time in China|UTC+08:00]] ||
+|-
+| CSY || UWKS || [[Cheboksary Airport]] || [[Cheboksary]], [[Chuvashia Republic|Chuvashia]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+| CSZ || SAZC || [[Brigadier Hector Eduardo Ruiz Airport]] || [[Coronel Suárez]], [[Buenos Aires Province|Buenos Aires]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CT&quot;/&gt;-CT-
+|-
+| CTA || LICC || [[Catania–Fontanarossa Airport]] || [[Catania]], [[Sicily]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CTB || KCTB || [[Cut Bank Municipal Airport]] || [[Cut Bank, Montana]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+| CTC || SANC || [[Coronel Felipe Varela Airport]] || [[San Fernando del Valle de Catamarca|Catamarca]], [[Catamarca Province|Catamarca]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+| CTD || MPCE || [[Herrera Alonso Valderrama Airport]] || [[Chitré]], Panama || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+| CTE ||      || [[Carti Airport]] || [[Cartí Sugtupu|Cartí]], Panama || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+| CTF || MGCT || [[Coatepeque Airport]] || [[Coatepeque, Quetzaltenango]], [[Guatemala]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+| CTG || SKCG || [[Rafael Núñez International Airport]] || [[Cartagena, Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+| CTH || KMQS || [[Chester County G. O. Carlson Airport]] (FAA: MQS) || [[Coatesville, Pennsylvania]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CTI || FNCV || [[Cuito Cuanavale Airport]] || [[Cuito Cuanavale]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+&lt;!-- CTJ is FAA code (not IATA) for West Georgia Regional Airport in Carrollton, Georgia, United States --&gt;
+|-
+| CTK ||      || [[Canton Municipal Airport]] (FAA: 7G9) || [[Canton, South Dakota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- CTK is FAA code (not IATA) for Ingersoll Airport in Canton, Illinois, Georgia, United States --&gt;
+|-
+| CTL || YBCV || [[Charleville Airport]] || [[Charleville, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+| CTM || MMCM || [[Chetumal International Airport]] || [[Chetumal]], [[Quintana Roo]], Mexico || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+| CTN || YCKN || [[Cooktown Airport]] || [[Cooktown, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+| CTO ||      || [[Calverton Executive Airpark]] (FAA: 3C8) || [[Calverton, New York]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CTP || SNCP || [[Carutapera Airport]] || [[Carutapera]], [[Maranhão]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+| CTQ || SSVP || [[Do Palmar Airport]] || [[Santa Vitória do Palmar|Santa Vitória]], [[Rio Grande do Sul]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+| CTR ||      || [[Cattle Creek Airport]] || [[Cattle Creek]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+| CTS || RJCC || [[Chitose International Airport]] || [[Sapporo]], [[Hokkaido]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+| CTT || LFMQ || [[Le Castellet Airport]] || [[Le Castellet, Var|Le Castellet]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CTU || ZUUU || [[Chengdu Shuangliu International Airport]] || [[Chengdu]], [[Sichuan]], China || [[Time in China|UTC+08:00]] ||
+|-
+| CTW ||      || [[Cottonwood Airport]] (FAA: P52) || [[Cottonwood, Arizona]], United States || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+| CTX ||      || [[Cortland County Airport]] (Chase Field, FAA: N03) || [[Cortland, New York]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CTY || KCTY || [[Cross City Airport]] || [[Cross City, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CTZ || KCTZ || [[Sampson County Airport]] || [[Clinton, North Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CU&quot;/&gt;-CU-
+|-
+| CUA ||      || [[Ciudad Constitución Airport]] || [[Ciudad Constitución]], [[Baja California Sur]], Mexico || [[Mountain Time Zone|UTC−07:00]] || Apr-Oct
+|-
+| CUB || KCUB || [[Columbia Owens Downtown Airport]] || [[Columbia, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CUC || SKCC || [[Camilo Daza International Airport]] || [[Cúcuta]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+| CUD || YCDR || [[Caloundra Airport]] || [[Caloundra]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+| CUE || SECU || [[Mariscal Lamar Airport]] || [[Cuenca, Ecuador]] || [[Time in Ecuador|UTC−05:00]] ||
+|-
+| CUF || LIMZ || [[Levaldigi Airport]] || [[Cuneo]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CUG || YCUA || [[Cudal Airport]] || [[Cudal]], [[New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+| CUH || KCUH || [[Cushing Municipal Airport]] || [[Cushing, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CUI ||      || [[Curillo Airport]] || [[Curillo]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+| CUJ ||      || [[Culion Airport]] || [[Culion, Palawan]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+| CUK ||      || [[Caye Caulker Airport]] || [[Caye Caulker]], [[Belize]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+| CUL || MMCL || [[Federal de Bachigualato International Airport]] || [[Culiacán]], [[Sinaloa]], Mexico || [[Mountain Time Zone|UTC−07:00]] || Apr-Oct
+&lt;!-- CUL is FAA code (not IATA) for Carmi Municipal Airport in Carmi, Illinois, United States --&gt;
+|-
+| CUM || SVCU || [[Antonio José de Sucre Airport]] || [[Cumaná]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+| CUN || MMUN || [[Cancún International Airport]] || [[Cancún]], [[Quintana Roo]], Mexico || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+| CUO || SKCR || [[Caruru Airport]] || [[Caruru]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+| CUP || SVCP || [[General José Francisco Bermúdez Airport]] || [[Carúpano]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+| CUQ || YCOE || [[Coen Airport]] || [[Coen, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+| CUR || TNCC || [[Hato International Airport]] || [[Willemstad]], [[Curaçao]], [[Kingdom of the Netherlands]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+| CUS ||      || [[Columbus Municipal Airport (New Mexico)|Columbus Municipal Airport]] (FAA: 0NM0) || [[Columbus, New Mexico]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+| CUT || SAZW || [[Cutral Có Airport]] || [[Cutral Có]], [[Neuquén Province|Neuquén]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+&lt;!-- CUT is FAA code (not IATA) for Custer County Airport in Custer, South Dakota, United States --&gt;
+|-
+| CUU || MMCU || [[General Roberto Fierro Villalobos International Airport]] || [[Chihuahua, Chihuahua]], [[Mexico]] || [[Mountain Time Zone|UTC−07:00]] || Apr-Oct
+|-
+| CUV || SVCG || [[El Cubo Airport]] || [[Casigua]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+| CUX ||      || [[Cuddihy Field]] (FAA: 07TE) || [[Corpus Christi, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CUY || YCUE || [[Cue Airport]] || [[Cue, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+| CUZ || SPZO || [[Alejandro Velasco Astete International Airport]] || [[Cusco]], [[Cusco Region]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CV&quot;/&gt;-CV-
+|-
+| CVB || AYCB || [[Chungribu Airport]] || [[Chungribu]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+| CVC || YCEE || [[Cleve Airport]] || [[Cleve, South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+| CVE || SKCV || [[Coveñas Airport]] || [[Coveñas]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+| CVF || LFLJ || [[Courchevel Aerodrome]] || [[Courchevel]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CVG || KCVG || [[Cincinnati/Northern Kentucky International Airport]] || [[Hebron, Kentucky]] (near [[Cincinnati]]), United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CVH ||      || [[Caviahue Airport]] || [[Caviahue]], [[Neuquén Province|Neuquén]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+| CVI ||      || [[Caleta Olivia Airport]] || [[Caleta Olivia]], [[Santa Cruz Province, Argentina|Santa Cruz]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+| CVJ || MMCB || [[General Mariano Matamoros Airport]] || [[Cuernavaca, Morelos]], Mexico || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+&lt;!-- CVK is FAA code (not IATA) for Sharp County Regional Airport in Ash Flat, Arkansas, United States --&gt;
+|-
+| CVL ||      || [[Cape Vogel Airport]] || [[Cape Vogel]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+| CVM || MMCV || [[General Pedro J. Méndez National Airport]] || [[Ciudad Victoria, Tamaulipas]], Mexico || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+| CVN || KCVN || [[Clovis Municipal Airport]] || [[Clovis, New Mexico]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+| CVO || KCVO || [[Corvallis Municipal Airport]] || [[Corvallis, Oregon]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| CVQ || YCAR || [[Carnarvon Airport (Western Australia)|Carnarvon Airport]] || [[Carnarvon, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+| CVS || KCVS || [[Cannon Air Force Base]] || [[Clovis, New Mexico]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+| CVT || EGBE || [[Coventry Airport]] || [[Coventry]], [[West Midlands (county)|West Midlands]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+| CVU || LPCR || [[Corvo Airport]] || [[Corvo Island]], [[Azores]], Portugal || [[UTC−01:00]] || Mar-Oct
+&lt;!-- CVX is FAA code (not IATA) for Charlevoix Municipal Airport in Charlevoix, Michigan, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CW&quot;/&gt;-CW-
+|-
+| CWA || KCWA || [[Central Wisconsin Airport]] || [[Wausau, Wisconsin]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CWB || SBCT || [[Afonso Pena International Airport]] || [[Curitiba]], [[Paraná (state)|Paraná]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+| CWC || UKLN || [[Chernovtsy Airport]] || [[Chernivtsi]], [[Ukraine]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+| CWF || KCWF || [[Chennault International Airport]] || [[Lake Charles, Louisiana]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CWI || KCWI || [[Clinton Municipal Airport (Iowa)|Clinton Municipal Airport]] || [[Clinton, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CWL || EGFF || [[Cardiff Airport]] || [[Cardiff]], [[Wales]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+| CWP ||      || [[Campbellpore Airport]] || [[Campbellpore]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+| CWR || YCWI || [[Cowarie Airport]] || [[Cowarie]], [[South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+| CWS ||      || [[Center Island Airport]] (FAA: 78WA) || [[Center Island (Washington)|Center Island, Washington]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+&lt;!-- CWS is FAA code (not IATA) for Dennis F. Cantrell Field in Conway, Arkansas, United States --&gt;
+|-
+| CWT || YCWR || [[Cowra Airport]] || [[Cowra, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+&lt;!-- CWV is FAA code (not IATA) for Claxton-Evans County Airport in Claxton, Georgia, United States --&gt;
+|-
+| CWW || YCOR || [[Corowa Airport]] || [[Corowa, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CX&quot;/&gt;-CX-
+|-
+| CXA || SVCD || [[Caicara de Orinoco Airport]] || [[Caicara de Orinoco]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+| CXB || VGCB || [[Cox's Bazar Airport]] || [[Cox's Bazar]], [[Bangladesh]] || [[Bangladesh Standard Time|UTC+06:00]] ||
+|-
+| CXC ||      || [[Chitina Airport]] || [[Chitina, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+&lt;!-- CXE is FAA code (not IATA) for Chase City Municipal Airport in Chase City, Virginia, United States --&gt;
+|-
+| CXF || PACX || [[Coldfoot Airport]] || [[Coldfoot, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CXH || CYHC || [[Vancouver Harbour Water Aerodrome]] (Coal Harbour Seaplane Base) || [[Vancouver, British Columbia]], Canada || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| CXI || PLCH || [[Cassidy International Airport]] || [[Kiritimati|Christmas Island]], [[Kiribati]] || [[UTC+14:00]] ||
+|-
+| CXJ || SBCX || [[Aeroporto Hugo Cantergiani]] || [[Caxias do Sul]], [[Rio Grande do Sul]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+| CXL || KCXL || [[Calexico International Airport]] || [[Calexico, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+&lt;!-- CXM is not the IATA code of || FNCX || [[Camaxilo Airport]] || [[Camaxilo]], [[Angola]]. See  --&gt;
+| CXN || HCMC || [[Candala Airport]] || [[Qandala|Candala]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+| CXO || KCXO || [[Lone Star Executive Airport]] || [[Houston, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CXP || WIHL || [[Tunggul Wulung Airport]] || [[Cilacap]], [[Java Island]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+&lt;!-- CXP is FAA code (IATA: CSN) for Carson Airport in Carson City, Nevada, United States --&gt;
+|-
+| CXQ&lt;ref&gt;{{GCM|CXQ}}&lt;/ref&gt; || YCRK || [[Christmas Creek Airport]] || [[Christmas Creek Station]], [[Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+| CXR || VVCR || [[Cam Ranh International Airport]] || [[Cam Ranh]], [[Khánh Hòa Province|Khánh Hòa]], [[Vietnam]] || [[UTC+07:00]] ||
+|-
+| CXT || YCHT || [[Charters Towers Airport]] || [[Charters Towers, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+&lt;!-- CXU is FAA code (not IATA) for Camilla-Mitchell County Airport in Camilla, Georgia, United States --&gt;
+|-
+| CXY || MYCC || [[Cat Cay Airport]] || [[Cat Cay]], [[Bimini Islands]], [[Bahamas]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- CXY is FAA code (IATA: HAR) for Capital City Airport in Harrisburg, Pennsylvania, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CY&quot;/&gt;-CY-
+|-
+| CYA || MTCA || [[Les Cayes Airport]] || [[Les Cayes]], [[Haiti]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+| CYB || MWCB || [[Gerrard Smith International Airport]] || [[Cayman Brac]], [[Cayman Islands]] || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+| CYC ||      || [[Caye Chapel Airport]] || [[Caye Chapel]], [[Belize]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+| CYF || PACK || [[Chefornak Airport]] (FAA: CFK) || [[Chefornak, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CYG || YCRG || [[Corryong Airport]] || [[Corryong, Victoria]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+| CYI || RCKU || [[Chiayi Airport]] || [[Chiayi]], [[Taiwan]] || [[Time in Taiwan|UTC+08:00]] ||
+|-
+| CYL ||      || [[Coyoles Airport]] || [[Coyoles]], [[Honduras]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+| CYM ||      || [[Chatham Seaplane Base]] || [[Chatham, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CYO || MUCL || [[Vilo Acuña Airport]] || [[Cayo Largo del Sur]], [[Cuba]] || [[UTC−05:00]] || Mar-Nov
+&lt;!-- CYO is FAA code (not IATA) for Pickaway County Memorial Airport in Circleville, Ohio, United States --&gt;
+|-
+| CYP || RPVC || [[Calbayog Airport]] || [[Calbayog City]], [[Samar]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+| CYR || SUCA || [[Colonia Airport|Laguna de los Patos International Airport]] || [[Colonia del Sacramento]], [[Colonia Department|Colonia]], [[Uruguay]] || [[Time in Uruguay|UTC−03:00]] || Oct-Mar
+|-
+| CYS || KCYS || [[Cheyenne Regional Airport]] (Jerry Olson Field) || [[Cheyenne, Wyoming]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+| CYT || PACY || [[Yakataga Airport]] || [[Cape Yakataga, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CYU || RPLO || [[Cuyo Airport]] || [[Cuyo, Palawan]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+| CYW || MMCY || [[Captain Rogelio Castillo National Airport]] || [[Celaya]], [[Guanajuato]], Mexico || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+| CYX || UESS || [[Chersky Airport]] || [[Chersky (settlement)|Chersky]], [[Sakha Republic|Yakutia]], Russia || [[Srednekolymsk Time|UTC+11:00]] ||
+|-
+| CYZ || RPUY || [[Cauayan Airport]] || [[Cauayan City]], [[Isabela (province)|Isabela]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;CZ&quot;/&gt;-CZ-
+|-
+| CZA || MMCT || [[Kaua International Airport]] || [[Chichén Itzá]], [[Yucatán (state)|Yucatán]], Mexico || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+| CZB ||      || [[Carlos Ruhl Airport]] || [[Cruz Alta, Rio Grande do Sul]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+| CZC ||      || [[Copper Center 2 Airport]] (FAA: Z93) || [[Copper Center, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+&lt;!-- CZD is FAA code (not IATA) for Cozad Municipal Airport in Cozad, Nebraska, United States --&gt;
+|-
+| CZE || SVCR || [[José Leonardo Chirino Airport]] || [[Santa Ana de Coro]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+| CZF || PACZ || [[Cape Romanzof Long Range Radar Station]] || [[Cape Romanzof, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+&lt;!-- CZG is FAA code (not IATA) for Tri-Cities Airport in Endicott, New York, United States --&gt;
+|-
+| CZH ||      || [[Corozal Airport]] || [[Corozal Town|Corozal]], [[Belize]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+| CZJ ||      || [[Corazon de Jesus Airport]] || Corazon de Jesus, [[Panamá]] || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+| CZK || KCZK || [[Cascade Locks State Airport]] || [[Cascade Locks, Oregon]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+| CZL || DABC || [[Mohamed Boudiaf International Airport]] || [[Constantine, Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+| CZM || MMCZ || [[Cozumel International Airport]] || [[Cozumel, Quintana Roo]], Mexico || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+| CZN ||      || [[Chisana Airport]] || [[Chisana, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CZO ||      || [[Chistochina Airport]] || [[Chistochina, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CZP ||      || [[Cape Pole Seaplane Base]] (FAA: Z71) || [[Cape Pole, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+| CZS || SBCZ || [[Cruzeiro do Sul International Airport]] || [[Cruzeiro do Sul, Acre]], Brazil || [[Time in Brazil|UTC−05:00]] ||
+|-
+| CZT || KCZT || [[Dimmit County Airport]] || [[Carrizo Springs, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+| CZU || SKCZ || [[Las Brujas Airport (Colombia)|Las Brujas Airport]] || [[Corozal, Sucre|Corozal, Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+| CZW || EPCH || [[Rudniki Airport]] || [[Częstochowa]], Poland || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+| CZX || ZSCG || [[Changzhou Benniu Airport]] || [[Changzhou]], [[Jiangsu]], China || [[Time in China|UTC+08:00]] ||
+|-
+| CZY || YUNY || [[Cluny Airport]] || [[Cluny, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|}
+∗ Morocco temporarily suspends DST for the month of Ramadan.
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = PDF | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+===Footnotes===
+{{reflist}}
+
+[[Category:Lists of airports by IATA code|C]]</text>
+      <sha1>o2p83tl9r584dcebl4z93eomveitpnd</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1119 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: L</title>
+    <ns>0</ns>
+    <id>317111</id>
+    <revision>
+      <id>668524738</id>
+      <parentid>668524430</parentid>
+      <timestamp>2015-06-24T21:09:10Z</timestamp>
+      <contributor>
+        <username>CambridgeBayWeather</username>
+        <id>294180</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/CambridgeBayWeather|CambridgeBayWeather]] ([[User talk:CambridgeBayWeather|talk]]) to last version by RehmanK786</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="71318">{{Lists of airports by IATA code}}
+
+==L==
+{{AlphanumericTOC|prefixLink=L|prefixDesc=L|numbers=|sections=}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+! style=&quot;text-align:left;&quot; | Time
+! style=&quot;text-align:left;&quot; | DST
+&lt;!-- comments added to prevent addition of incorrect IATA codes --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LA&quot;/&gt;-LA-
+|-
+|    LAA || KLAA || [[Lamar Municipal Airport (Colorado)|Lamar Municipal Airport]] || [[Lamar, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    LAB ||      || [[Lablab Airport]] || [[Lablab, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    LAC ||      || [[Layang Layang Airport]] (Swallow Reef Airport) || [[Layang Layang]] (Swallow Reef), [[Sabah]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    LAD || FNLU || [[Quatro de Fevereiro Airport]] || [[Luanda]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    LAE || AYNZ || [[Lae Nadzab Airport]] || [[Lae, Papua New Guinea]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    LAF || KLAF || [[Purdue University Airport]] || [[West Lafayette, Indiana]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LAG ||      || [[La Guaira Airport]] || [[La Guaira]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+|    LAH ||      || [[Labuha Airport]] || [[Labuha]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    LAI || LFRO || [[Lannion - Côte de Granit Airport]] || [[Lannion]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LAJ || SBLJ || [[Lages Airport]] || [[Lages]], [[Santa Catarina (state)|Santa Catarina]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    LAK || CYKD || [[Aklavik Airport]] || [[Aklavik, Northwest Territories]], Canada || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    LAL || KLAL || [[Lakeland Linder Regional Airport]] || [[Lakeland, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LAM || KLAM || [[Los Alamos County Airport]] || [[Los Alamos, New Mexico]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    LAN || KLAN || [[Capital Region International Airport]] || [[Lansing, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LAO || RPLI || [[Laoag International Airport]] || [[Laoag City]], [[Ilocos Norte]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    LAP || MMLP || [[Manuel Márquez de León International Airport]] || [[La Paz, Baja California Sur]], [[Mexico]] || [[Mountain Time Zone|UTC−07:00]] || Apr-Oct
+|-
+|    LAQ || HLLQ || [[La Braq Airport]] || [[Bayda, Libya]] || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    LAR || KLAR || [[Laramie Regional Airport]] || [[Laramie, Wyoming]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    LAS || KLAS || [[McCarran International Airport]] || [[Paradise, Nevada|Las Vegas, Nevada]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    LAU || HKLU || [[Mwana Airport]] || [[Lamu]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    LAV ||      || [[Lalomalava Airport]] || [[Lalomalava]], [[Samoa]] || [[Time in Samoa|UTC+13:00]] || Sep-Apr
+|-
+|    LAW || KLAW || [[Lawton-Fort Sill Regional Airport]] || [[Lawton, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LAX || KLAX || [[Los Angeles International Airport]] || [[Los Angeles]], [[California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    LAY || FALY || [[Ladysmith Airport]] || [[Ladysmith, KwaZulu-Natal]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    LAZ || SBLP || [[Bom Jesus da Lapa Airport]] || [[Bom Jesus da Lapa]], [[Bahia]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LB&quot;/&gt;-LB-
+|-
+|    LBA || EGNM || [[Leeds Bradford International Airport]] || [[Leeds]] / [[Bradford]], [[West Yorkshire]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    LBB || KLBB || [[Lubbock Preston Smith International Airport]] || [[Lubbock, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LBC || EDHL || [[Lübeck Airport]] (Blankensee Airport) || [[Lübeck]] (near [[Hamburg]]), [[Schleswig-Holstein]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LBD || UTDL || [[Khujand Airport]] || [[Khujand]], [[Tajikistan]] || [[UTC+05:00]] ||
+|-
+|    LBE || KLBE || [[Arnold Palmer Regional Airport]] || [[Latrobe, Pennsylvania|Latrobe]] (near [[Pittsburgh, Pennsylvania|Pittsburgh]]), [[Pennsylvania]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LBF || KLBF || [[North Platte Regional Airport]] (Lee Bird Field) || [[North Platte, Nebraska]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LBG || LFPB || [[Paris - Le Bourget Airport]] || [[Le Bourget]] (near Paris), France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LBH ||      || [[Palm Beach Seaplane Base]] || [[Palm Beach, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    LBI || LFCI || [[Le Sequestre Airport]] || [[Albi]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LBJ || WATO || [[Komodo Airport]] (Mutiara II Airport) || [[Labuan Bajo]], [[Flores|Flores Island]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    LBK ||      || [[Liboi Airport]] || [[Liboi]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    LBL || KLBL || [[Liberal Municipal Airport]] || [[Liberal, Kansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LBM ||      || [[Luabo Airport]] || [[Luabo]], [[Mozambique]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    LBN ||      || [[Lake Baringo Airport]] || [[Lake Baringo]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    LBO || FZVI || [[Lusambo Airport]] || [[Lusambo]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+&lt;!-- LBO is FAA code (not IATA) for Floyd W. Jones Lebanon Airport in Lebanon, Missouri, United States --&gt;
+|-
+|    LBP ||      || [[Long Banga Airport]] || [[Long Banga]], [[Sarawak]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    LBQ || FOGR || [[Lambaréné Airport]] || [[Lambaréné]], [[Gabon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    LBR || SWLB || [[Lábrea Airport]] || [[Lábrea]], [[Amazonas (Brazilian state)|Amazonas]], Brazil || [[Time in Brazil|UTC−04:00]] ||
+&lt;!-- LBR is FAA code (not IATA) for Clarksville/Red River County Airport in Clarksville, Texas, United States --&gt;
+|-
+|    LBS || NFNL || [[Labasa Airport]] || [[Labasa]], [[Fiji]] || [[UTC+12:00]] || Nov-Jan
+|-
+|    LBT || KLBT || [[Lumberton Municipal Airport]] || [[Lumberton, North Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LBU || WBKL || [[Labuan Airport]] || [[Labuan Territory|Labuan]], [[Sabah]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    LBV || FOOL || [[Libreville International Airport]] || [[Libreville]], [[Gabon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    LBW || WRLB || [[Juvai Semaring Airport]] (Long Bawan Airport) || [[Long Bawan]], [[East Kalimantan]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    LBX || RPLU || [[Lubang Airport]] || [[Lubang, Occidental Mindoro]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    LBY || LFRE || [[La Baule-Escoublac Airport]] (Montoir Airport) || [[La Baule-Escoublac]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LBZ || FNLK || [[Lukapa Airport]] || [[Lukapa]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LC&quot;/&gt;-LC-
+|-
+|    LCA || LCLK || [[Larnaca International Airport]] || [[Larnaca]], [[Cyprus]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    LCB ||      || [[Pontes e Lacerda Airport]] || [[Pontes e Lacerda]], [[Mato Grosso]], Brazil || [[Time in Brazil|UTC−04:00]] || Oct-Feb
+|-
+|    LCC || LIBN || [[Lecce Galatina Airport]] || [[Lecce]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LCD || FALO || [[Louis Trichardt Airport]] || [[Louis Trichardt]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    LCE || MHLC || [[Golosón International Airport]] || [[La Ceiba]], [[Honduras]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    LCF ||      || [[Río Dulce Airport]] (Las Vegas Airport) || [[Río Dulce (Guatemala)|Río Dulce]], [[Izabal Department|Izabal]], [[Guatemala]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    LCG || LECO || [[A Coruña Airport]] || [[A Coruña]], Spain || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LCH || KLCH || [[Lake Charles Regional Airport]] || [[Lake Charles, Louisiana]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LCI || KLCI || [[Laconia Municipal Airport]] || [[Laconia, New Hampshire]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LCJ || EPLL || [[Łódź Władysław Reymont Airport]] || [[Łódź]], Poland || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LCK || KLCK || [[Rickenbacker International Airport]] || [[Columbus, Ohio]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LCL || MULM || [[La Coloma Airport]] || [[La Coloma]], [[Cuba]] || [[UTC−05:00]] || Mar-Nov
+|-
+|    LCM || SACC || [[La Cumbre Airport]] || [[La Cumbre, Córdoba]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    LCN || YBLC || [[Balcanoona Airport]] || [[Balcanoona]], [[South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+|    LCO || FCBL || [[Lague Airport]] || [[Lague]], [[Republic of Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    LCP ||      || [[Loncopué Airport]] || [[Loncopué]], [[Neuquén Province|Neuquén]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    LCQ || KLCQ || [[Lake City Gateway Airport (Florida)|Lake City Gateway Airport]] || [[Lake City, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LCR ||      || [[La Chorrera Airport]] || [[La Chorrera, Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    LCS ||      || [[Las Canas Airport]] || [[Las Canas]], [[Costa Rica]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    LCV || LIQL || [[Tassignano Airport]] || [[Lucca]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LCX || ZSLO || [[Longyan Guanzhishan Airport]] || [[Longyan]], [[Fujian]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    LCY || EGLC || [[London City Airport]] || London, England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LD&quot;/&gt;-LD-
+|-
+|    LDA || VEMH || [[Malda Airport]] || [[Malda]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    LDB || SBLO || [[Londrina Airport]] || [[Londrina]], [[Paraná (state)|Paraná]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    LDC || YLIN || [[Lindeman Island Airport]] || [[Lindeman Island]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    LDE || LFBT || [[Tarbes - Lourdes Pyrenees Airport]] || [[Lourdes]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LDG || ULAL || [[Leshukonskoye Airport]] || [[Leshukonskoye]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    LDH || YLHI || [[Lord Howe Island Airport]] || [[Lord Howe Island]], [[New South Wales]], Australia || [[Australian Time|UTC+10:30]] || Oct-Apr*
+|-
+|    LDI || HTLI || [[Kikwetu Airport]] || [[Lindi]], [[Tanzania]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    LDJ || KLDJ || [[Linden Airport]] || [[Linden, New Jersey]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LDK || ESGL || [[Lidköping-Hovby Airport]] || [[Lidköping]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LDM || KLDM || [[Mason County Airport (Michigan)|Mason County Airport]] || [[Ludington, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LDN || VNLD || [[Lamidanda Airport]] || [[Lamidanda]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    LDO ||      || [[Ladouanie Airport]] || [[Ladouanie]], [[Suriname]] || [[UTC−03:00]] ||
+|-
+|    LDR ||      || [[Lodar Airport]] || [[Lodar]], [[Yemen]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    LDU || WBKD || [[Lahad Datu Airport]] || [[Lahad Datu]], [[Sabah]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    LDV || LFRJ || [[Landivisiau Airport]] || [[Landivisiau]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LDW ||      || [[Lansdowne Airport (Australia)|Lansdowne Airport]] || [[Lansdowne, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    LDX || SOOM || [[St-Laurent du Maroni Airport]] || [[St-Laurent du Maroni]], [[French Guiana]] || [[Time in France|UTC−03:00]] ||
+|-
+|    LDY || EGAE || [[City of Derry Airport]] &lt;small&gt;(Londonderry Eglinton Airport)&lt;/small&gt; || [[Derry]], [[Northern Ireland]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    LDZ ||      || [[Londolozi Airport]] || [[Londolozi]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LE&quot;/&gt;-LE-
+|-
+|    LEA || YPLM || [[Learmonth Airport]] (RAAF Learmonth) || [[Exmouth, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    LEB || KLEB || [[Lebanon Municipal Airport (New Hampshire)|Lebanon Municipal Airport]] || [[Lebanon, New Hampshire]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LEC || SBLE || [[Chapada Diamantina Airport]] || [[Lençõis]], [[Bahia]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    LED || ULLI || [[Pulkovo Airport]] || [[Saint Petersburg]], Russia (formerly [[Leningrad]] between 1924 and 1991) || [[Moscow Time|UTC+03:00]] ||
+|-
+|    LEE || KLEE || [[Leesburg International Airport]] || [[Leesburg, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LEF || FXLK || [[Lebakeng Airport]] || [[Lebakeng]], [[Lesotho]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    LEG ||      || [[Aleg Airport]] || [[Aleg]], [[Mauritania]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    LEH || LFOH || [[Le Havre Octeville Airport]] || [[Le Havre]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LEI || LEAM || [[Almería International Airport]] || [[Almería]], Spain || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LEJ || EDDP || [[Leipzig/Halle Airport]] || [[Leipzig]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LEK || GULB || [[Tata Airport]] (Labé Airport) || [[Labé]], [[Guinea]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    LEL || YLEV || [[Lake Evella Airport]] || [[Gapuwiyak]] (Lake Evella), [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    LEM || KLEM || [[Lemmon Municipal Airport]] || [[Lemmon, South Dakota]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    LEN || LELN || [[León Airport]] || [[León, Spain]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LEO ||      || [[Lekoni Airport]] || [[Lekoni, Gabon|Lekoni]], [[Gabon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    LEP || SNDN || [[Leopoldina Airport]] || [[Leopoldina, Minas Gerais]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    LEQ || EGHC || [[Land's End Airport]] || [[Land's End]], [[Cornwall]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    LER || YLST || [[Leinster Airport]] || [[Leinster, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    LES || FXLS || [[Lesobeng Airport]] || [[Lesobeng]], [[Lesotho]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    LET || SKLT || [[Alfredo Vásquez Cobo International Airport]] || [[Leticia, Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    LEU || LESU || [[La Seu d'Urgell Airport]] || [[La Seu d'Urgell]], Spain || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LEV || NFNB || [[Levuka Airfield]] || [[Bureta]], [[Ovalau (Fiji)|Ovalau Island]], [[Fiji]] || [[UTC+12:00]] || Nov-Jan
+|-
+|    LEW || KLEW || [[Auburn/Lewiston Municipal Airport]] || [[Auburn, Maine|Auburn]]/[[Lewiston, Maine]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LEX || KLEX || [[Blue Grass Airport]] || [[Lexington, Kentucky]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LEY || EHLE || [[Lelystad Airport]] || [[Lelystad]], Netherlands || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LEZ || MHLE || [[La Esperanza Airport]] || [[La Esperanza, Honduras]] || [[Central Time Zone|UTC−06:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LF&quot;/&gt;-LF-
+&lt;!-- LFB is not IATA code for Lumbo Airport (ICAO: FQLU) in Lumbo, Mozambique --&gt;
+|-
+|    LFI || KLFI || [[Langley Air Force Base]] || [[Hampton, Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LFK || KLFK || [[Angelina County Airport]] || [[Lufkin, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LFN || KLHZ || [[Triangle North Executive Airport]] (Franklin County Airport) (FAA: LHZ) || [[Louisburg, North Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LFO || HAKL || [[Kelafo Airport]] (Kelafo Airport) || [[Kelafo]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    LFP || YLFD || [[Lakefield Airport]] || [[Lakefield National Park|Lakefield]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    LFR || SVLF || [[La Fria Airport]] || [[La Fria]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+|    LFT || KLFT || [[Lafayette Regional Airport]] || [[Lafayette, Louisiana]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LFW || DXXX || [[Lomé-Tokoin Airport]] || [[Lomé]], [[Togo]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LG&quot;/&gt;-LG-
+|-
+|    LGA || KLGA || [[LaGuardia Airport]] || New York City, [[New York]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LGB || KLGB || [[Long Beach Airport]] || [[Long Beach, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    LGC || KLGC || [[LaGrange-Callaway Airport]] || [[LaGrange, Georgia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LGD || KLGD || [[La Grande/Union County Airport]] || [[La Grande, Oregon]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    LGE ||      || [[Lake Gregory Airport]] || [[Lake Gregory (Western Australia)|Lake Gregory]], [[Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    LGF || KLGF || [[Laguna Army Airfield]] || [[Yuma Proving Ground, Arizona]], United States || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+|    LGG || EBLG || [[Liège Airport]] (Bierset Airport) || [[Liège]], [[Wallonia]], Belgium || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LGH || YLEC || [[Leigh Creek Airport]] || [[Leigh Creek, South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+|    LGI || MYLD || [[Deadman's Cay Airport]] || [[Deadman's Cay]], [[Long Island, Bahamas]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LGK || WMKL || [[Langkawi International Airport]] || [[Langkawi]], [[Kedah]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    LGL || WBGF || [[Long Lellang Airport]] || [[Long Lellang]], [[Sarawak]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    LGM ||      || [[Laiagam Airport]] || [[Laiagam]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    LGN ||      || [[Linga Linga Airport]] || [[Linga Linga]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    LGO || EDWL || [[Langeoog Airport]] || [[Langeoog]], [[Lower Saxony]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LGP || RPLP || [[Legazpi Airport]] || [[Legazpi City]], [[Albay]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    LGQ || SENL || [[Lago Agrio Airport]] || [[Nueva Loja]], [[Ecuador]] || [[Time in Ecuador|UTC−05:00]] ||
+|-
+|    LGR || SCHR || [[Cochrane Airport (Chile)|Cochrane Airport]] || [[Cochrane, Chile]] || [[Time in Chile|UTC−03:00]] ||
+|-
+|    LGS || SAMM || [[Comodoro D. Ricardo Salomón Airport]] (Malargüe Airport) || [[Malargüe]], [[Mendoza Province|Mendoza]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    LGT || SKGA || [[Gaviotas Airport]] || [[Gaviotas]], [[Vichada Department|Vichada]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    LGU || KLGU || [[Logan-Cache Airport]] || [[Logan, Utah]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    LGW || EGKK || [[London Gatwick Airport]] || London, England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    LGX || HCMJ || [[Lugh Ganane Airport]] || [[Lugh Ganane]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    LGY ||      || [[Lagunillas Airport]] || [[Lagunillas, Zulia]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+|    LGZ ||      || [[Leguizamo Airport]] || [[Puerto Leguizamo]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LH&quot;/&gt;-LH-
+|-
+|    LHA || EDTL || [[Black Forest Airport]] (Lahr Airport) || [[Lahr]], [[Baden-Württemberg]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- LHB is FAA code (not IATA) for Hearne Municipal Airport in Hearne, Texas, USA --&gt;
+&lt;!-- LHD is FAA code (not IATA) for Lake Hood Seaplane Base in Anchorage, Alaska, United States --&gt;
+|-
+|    LHE || OPLA || [[Allama Iqbal International Airport]] || [[Lahore]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    LHG || YLRD || [[Lightning Ridge Airport]] || [[Lightning Ridge, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    LHI || WAJL || [[Lereh Airport]] || [[Lereh]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    LHK || ZHGH || [[Guanghua Airport]] || [[Guanghua, Hubei]], China || [[Time in China|UTC+08:00]] ||
+&lt;!-- LHM is FAA code (not IATA) for Lincoln Regional Airport/Karl Harder Field in Lincoln, California, United States --&gt;
+|-
+|    LHN || RCLS || [[Lishan Airport]] || [[Lishan, Taiwan]] || [[Time in Taiwan|UTC+08:00]] ||
+|-
+|    LHP ||      || [[Lehu Airport]] || Lehu, [[Papua New Guinea]] || [[UTC+11:00]] ||
+&lt;!-- LHQ is FAA code (not IATA) for Fairfield County Airport in Lancaster, Ohio, United States --&gt;
+|-
+|    LHR || EGLL || [[London Heathrow Airport]] || London, England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    LHS || SAVH || [[Las Heras Airport]] || [[Las Heras, Santa Cruz]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    LHV || KLHV || [[William T. Piper Memorial Airport]] || [[Lock Haven, Pennsylvania]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LHW || ZLLL || [[Lanzhou Zhongchuan Airport]] || [[Lanzhou]], [[Gansu]], China || [[Time in China|UTC+08:00]] ||
+&lt;!-- LHW is FAA code (IATA: LIY) for MidCoast Regional Airport at Wright Army Airfield in Fort Stewart, Georgia, USA --&gt;
+&lt;!-- LHX is FAA code (not IATA) for La Junta Municipal Airport in La Junta, Colorado, United States --&gt;
+&lt;!-- LHZ is FAA code (IATA: LFN) for Franklin County Airport in Louisburg, North Carolina, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LI&quot;/&gt;-LI-
+|-
+|    LIA || ZULP || [[Liangping Airport]] || [[Liangping]], [[Chongqing]], [[China]] || [[Time in China|UTC+08:00]] ||
+&lt;!-- LIA is not IATA code for Lima Allen County Airport in Lima, Ohio, United States (IATA/FAA: AOH) --&gt;
+|-
+|    LIB ||      || [[Limbunya Airport]] || [[Limbunya]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    LIC || KLIC || [[Limon Municipal Airport]] || [[Limon, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    LID || EHVB || [[Valkenburg Airport]] || [[Leiden]], Netherlands || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LIE || FZFA || [[Libenge Airport]] || [[Libenge]], [[Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    LIF || NWWL || [[Ouanaham Airport]] || [[Lifou]], [[Loyalty Islands]], [[New Caledonia]] || [[Time in France|UTC+11:00]] ||
+|-
+|    LIG || LFBL || [[Bellegarde Airport]] || [[Limoges]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LIH || PHLI || [[Lihue Airport]] || [[Lihue, Hawaii]], United States || [[Hawaii–Aleutian Time Zone|UTC−10:00]] ||
+|-
+|    LII || WAJM || [[Mulia Airport]] || [[Mulia]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    LIK ||      || [[Likiep Airport]] || [[Likiep Atoll]], [[Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    LIL || LFQQ || [[Lille Lesquin International Airport]] || [[Lille]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LIM || SPIM || [[Jorge Chávez International Airport]] || [[Callao]] (near [[Lima, Peru|Lima]]), [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+|-
+|    LIN || LIML || [[Linate Airport]] || [[Milan]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LIO || MRLM || [[Puerto Limón International Airport]] || [[Puerto Limón]], [[Costa Rica]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    LIP || SBLN || [[Lins Airport]] || [[Lins, São Paulo]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    LIQ || FZGA || [[Lisala Airport]] || [[Lisala]], [[Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    LIR || MRLB || [[Daniel Oduber Quirós International Airport]] || [[Liberia, Costa Rica|Liberia]], [[Costa Rica]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    LIS || LPPT || [[Lisbon Portela Airport]] || [[Lisbon]], Portugal || [[Western European Time|UTC±00:00]] || Mar-Oct
+|-
+|    LIT || KLIT || [[Little Rock National Airport]] (Adams Field) || [[Little Rock, Arkansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LIU ||      || [[Linosa Heliport]] || [[Linosa]], [[Linosa Island]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- LIU is FAA code (not IATA) for Littlefield Municipal Airport in Littlefield, Texas, United States --&gt;
+|-
+|    LIV ||      || [[Livengood Camp Airport]] (FAA: 4AK) || [[Livengood, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    LIW || VYLK || [[Loikaw Airport]] || [[Loikaw]], [[Burma|Myanmar (Burma)]] || [[Myanmar Standard Time|UTC+06:30]] ||
+|-
+|    LIX || FWLK || [[Likoma Island Airport]] ([[Likoma Airport]]) || [[Likoma Island]], [[Malawi]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    LIY || KLHW || [[MidCoast Regional Airport at Wright Army Airfield]] (FAA: LHW) || [[Fort Stewart]], [[Hinesville, Georgia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LIZ ||      || [[Loring International Airport]] (was [[Loring AFB]]) (FAA: ME16) || [[Limestone, Maine]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LJ&quot;/&gt;-LJ-
+|-
+|    LJA || FZVA || [[Lodja Airport]] || [[Lodja]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+&lt;!-- LJF is FAA code (not IATA) for Litchfield Municipal Airport in Litchfield, Minnesota, United States --&gt;
+|-
+|    LJG || ZPLJ || [[Lijiang Sanyi Airport]] || [[Lijiang City]], [[Yunnan]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    LJN || KLBX || [[Brazoria County Airport]] (FAA: LBX) || [[Angleton, Texas|Angleton]] / [[Lake Jackson, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LJU || LJLJ || [[Ljubljana Jože Pučnik Airport]] (Brnik Airport) || [[Ljubljana]], [[Slovenia]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LK&quot;/&gt;-LK-
+|-
+|    LKA || WRKL || [[Gewayenta Airport]] || [[Larantuka]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    LKB || NFNK || [[Lakeba Island Airport]] || [[Lakeba Island]], [[Fiji]] || [[UTC+12:00]] || Nov-Jan
+|-
+|    LKC ||      || [[Lekana Airport]] || [[Lekana]], [[Republic of Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    LKD || YLND || [[Lakeland Downs Airport]] || [[Lakeland Downs]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    LKE ||      || [[Kenmore Air Harbor Seaplane Base]] (FAA: W55) || [[Seattle, Washington]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    LKG || HKLK || [[Lokichoggio Airport]] || [[Lokichoggio]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    LKK || PAKL || [[Kulik Lake Airport]] || [[Kulik Lake]], [[Bristol Bay Borough]], [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    LKL || ENNA || [[Lakselv Airport, Banak]] || [[Lakselv]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LKN || ENLK || [[Leknes Airport]] || [[Leknes]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LKO || VILK || [[Amausi Airport]] || [[Lucknow]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    LKP || KLKP || [[Lake Placid Airport]] || [[Lake Placid, New York]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LKR ||      || [[Las Khoreh Airport]] || [[Las Khoreh]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+&lt;!-- LKR is FAA code (not IATA) for Lancaster County Airport in Lancaster, South Carolina, United States --&gt;
+|-
+|    LKT ||      || [[Lakota Airport]] || [[Lakota, Côte d'Ivoire]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    LKU ||      || [[Lake Rudolf Airport]] || [[Lake Rudolf]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+&lt;!-- LKU is FAA code (IATA: LOW) for Louisa County Airport in Louisa, Virginia, United States --&gt;
+|-
+|    LKV || KLKV || [[Lake County Airport (Oregon)|Lake County Airport]] || [[Lakeview, Oregon]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    LKY || HTLM || [[Lake Manyara Airport]] || [[Lake Manyara]], [[Tanzania]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    LKZ || EGUL || [[RAF Lakenheath]] || [[Lakenheath]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LL&quot;/&gt;-LL-
+|-
+|    LLA || ESPA || [[Luleå Airport]] (Kallax Airport) || [[Luleå]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LLB || ZULB || [[Libo Airport]] || [[Libo County]], [[Guizhou]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    LLE || FAMN || [[Malelane Airport]] || [[Malelane]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    LLF || ZGLG || [[Yongzhou Lingling Airport]] || [[Yongzhou]], [[Hunan]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    LLG || YCGO || [[Chillagoe Airport]] || [[Chillagoe, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    LLH ||      || [[Las Limas Airport]] || [[Las Limas]], [[Honduras]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    LLI || HALL || [[Lalibela Airport]] || [[Lalibela]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    LLJ || VGLM || [[Lalmonirhat Airport]] || [[Lalmonirhat]], [[Bangladesh]] || [[Bangladesh Standard Time|UTC+06:00]] ||
+|-
+|    LLK || UBBL || [[Lankaran International Airport]] || [[Lankaran]], [[Azerbaijan]] || [[Time in Azerbaijan|UTC+04:00]] || Mar-Oct
+|-
+|    LLL ||      || [[Lissadell Airport]] || [[Lissadell, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+| &lt;s&gt;LLM&lt;/s&gt; ||      || &lt;s&gt;[[Long Lama Airport]]&lt;/s&gt; || &lt;s&gt;[[Long Lama]], [[Sarawak]], [[Malaysia]]&lt;/s&gt;
+|-
+|    LLN || WAJV || [[Kelila Airport]] || [[Kelila]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    LLO ||      || [[Palopo Lagaligo Airport]] || [[Palopo]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    LLP ||      || [[Linda Downs Airport]] || [[Linda Downs]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+&lt;!-- LLQ is FAA code (not IATA) for Monticello Municipal Airport in Monticello, Arkansas, United States --&gt;
+&lt;!-- LLR is FAA code (not IATA) for Little River Airport in Little River, California, United States --&gt;
+|-
+|    LLS || SATK || [[Alferez Armando Rodriguez]] || [[Las Lomitas]], [[Formosa Province|Formosa]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    LLU || BGAP || [[Alluitsup Paa Heliport]] || [[Alluitsup Paa]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    LLV || ZBLL || [[Lüliang Airport]] || [[Lüliang]], [[Shanxi]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    LLW || FWKI || [[Lilongwe International Airport]] (Kumuzu Airport) || [[Lilongwe]], [[Malawi]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    LLX || KCDA || [[Caledonia County Airport]] (FAA: CDA) || [[Lyndonville, Vermont]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LLY || KVAY || [[South Jersey Regional Airport]] (FAA: VAY) || [[Mount Holly, New Jersey]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LM&quot;/&gt;-LM-
+|-
+|    LMA ||      || [[Lake Minchumina Airport]] (FAA: MHM) || [[Lake Minchumina, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    LMB || FWSM || [[Salima Airport]] || [[Salima (township)|Salima]], [[Malawi]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    LMC ||      || [[La Macarena Airport]] || [[La Macarena, Meta|La Macarena]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    LMD ||      || [[Los Menucos Airport]] || [[Los Menucos]], [[Río Negro Province|Río Negro]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    LME || LFRM || [[Le Mans Arnage Airport]] || [[Le Mans]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LMG ||      || [[Lamassa Airport]] || [[Lamassa]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    LMH ||      || [[Limón Airport]] || [[Limón, Honduras|Limón]], [[Colón Department (Honduras)|Colón]], [[Honduras]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    LMI ||      || [[Lumi Airport]] || [[Lumi, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    LML ||      || [[Lae Airport]] || [[Lae Atoll]], [[Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    LMM || MMLM || [[Federal del Valle del Fuerte International Airport]] || [[Los Mochis]], [[Sinaloa]], [[Mexico]] || [[Mountain Time Zone|UTC−07:00]] || Apr-Oct
+|-
+|    LMN || WBGJ || [[Limbang Airport]] || [[Limbang]], [[Sarawak]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    LMO || EGQS || [[RAF Lossiemouth]] || [[Lossiemouth]], [[Scotland]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    LMP || LICD || [[Lampedusa Airport]] || [[Lampedusa]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LMQ || HLMB || [[Marsa Brega Airport]] || [[Brega]], [[Libya]] || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    LMR || FALC || [[Finsch Mine Airport]] || [[Lime Acres]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    LMS || KLMS || [[Louisville Winston County Airport]] || [[Louisville, Mississippi]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LMT || KLMT || [[Klamath Falls Airport]] || [[Klamath Falls, Oregon]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    LMX ||      || [[Lopez de Micay Airport]] || [[Lopez de Micay]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    LMY ||      || [[Lake Murray Airport]] || [[Lake Murray (Papua New Guinea)|Lake Murray]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    LMZ ||      || [[Palma Airport (Mozambique)|Palma Airport]] || [[Palma, Mozambique]] || [[Central Africa Time|UTC+02:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LN&quot;/&gt;-LN-
+|-
+|    LNA || KLNA || [[Palm Beach County Park Airport]] || [[West Palm Beach, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LNB || NVSM || [[Lamen Bay Airport]] || [[Lamen Bay]], [[Epi Island]], [[Shéfa Province]], [[Vanuatu]] || [[UTC+11:00]] ||
+|-
+|    LNC ||      || [[Lengbati Airport]] || [[Lengbati]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+&lt;!-- LNC is FAA code (not IATA) for Lancaster Airport in Lancaster, Texas, United States --&gt;
+|-
+|    LND || KLND || [[Hunt Field]] || [[Lander, Wyoming]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    LNE || NVSO || [[Lonorore Airport]] || [[Lonorore]], [[Pentecost Island]], [[Pénama Province]], [[Vanuatu]] || [[UTC+11:00]] ||
+|-
+|    LNF ||      || [[Munbil Airport]] || [[Munbil]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    LNG ||      || [[Lese Airport]] || [[Lese, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    LNH || YLKN || [[Lake Nash Airport]] || [[Lake Nash]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    LNI || PALN || [[Lonely Air Station]] (FAA: AK71) || [[Lonely, Alaska|Lonely]], [[North Slope Borough, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    LNJ || ZPLC || [[Lincang Airport]] || [[Lincang]], [[Yunnan]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    LNK || KLNK || [[Lincoln Airport (Nebraska)|Lincoln Airport]] || [[Lincoln, Nebraska]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- LNL is FAA code (not IATA) for Kings Land O' Lakes Airport in Land O' Lakes, Wisconsin, United States --&gt;
+|-
+|    LNM ||      || [[Langimar Airport]] || [[Langimar]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    LNN || KLNN || [[Willoughby Lost Nation Municipal Airport]] || [[Willoughby, Ohio]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LNO || YLEO || [[Leonora Airport]] || [[Leonora, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    LNP || KLNP || [[Lonesome Pine Airport]] || [[Wise, Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LNQ ||      || [[Loani Airport]] || [[Loani]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    LNR || KLNR || [[Tri-County Regional Airport]] || [[Lone Rock, Wisconsin]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LNS || KLNS || [[Lancaster Airport (Pennsylvania)|Lancaster Airport]] || [[Lancaster, Pennsylvania]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LNV || AYKY || [[Lihir Island Airport]] || [[Londolovit]], [[Lihir Island]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    LNX ||      || [[Smolensk Airport]] || [[Smolensk]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    LNY || PHNY || [[Lanai Airport]] || [[Lanai City, Hawaii]], United States || [[Hawaii–Aleutian Time Zone|UTC−10:00]] ||
+|-
+|    LNZ || LOWL || [[Linz Airport]] (Blue Danube Airport) || [[Linz]], Austria || [[Central European Time|UTC+01:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LO&quot;/&gt;-LO-
+|-
+|    LOA || YLOR || [[Lorraine Airport (Australia)|Lorraine Airport]] || [[Lorraine, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    LOB ||      || [[Los Andes Airport]] || [[Los Andes, Chile]] || [[Time in Chile|UTC−03:00]] ||
+|-
+|    LOC || YLOK || [[Lock Airport]] || [[Lock, South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+|    LOD || NVSG || [[Longana Airport]] (Ambae Airport) || [[Longana]], [[Ambae Island]], [[Pénama Province]], [[Vanuatu]] || [[UTC+11:00]] ||
+|-
+|    LOE || VTUL || [[Loei Airport]] || [[Loei]], [[Thailand]] || [[UTC+07:00]] ||
+|-
+|    LOF ||      || [[Loen Airport]] || [[Loen, Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    LOH || SETM || [[Camilo Ponce Enriquez Airport]] || [[Loja, Ecuador]] || [[Time in Ecuador|UTC−05:00]] ||
+|-
+|    LOI ||      || [[Helmuth Baungartem Airport]] || [[Lontras]], [[Santa Catarina (state)|Santa Catarina]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    LOK || HKLO || [[Lodwar Airport]] || [[Lodwar]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    LOL || KLOL || [[Derby Field]] || [[Lovelock, Nevada]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    LOM ||      || [[Francisco P.V. y R. Airport]] || [[Lagos de Moreno]], [[Jalisco]], [[Mexico]] || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+&lt;!-- LOM is FAA code (not IATA) for Wings Field in Philadelphia, Pennsylvania, United States --&gt;
+|-
+|    LON ||      || [[Airports of London|All airports]] || London, England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    LOO || DAUL || [[Laghouat Airport]] (L'Mekrareg Airport)|| [[Laghouat]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    LOP  || WADL || [[Lombok International Airport]] (''Bandara Internasional Lombok'') || [[Mataram (city)|Mataram]] (near [[Praya]]), [[Lombok]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    LOQ || FBLO || [[Lobatse Airport]] || [[Lobatse]], [[Botswana]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    LOR || KLOR || [[Lowe Army Heliport]] (Fort Rucker) || [[Fort Rucker]] / [[Ozark, Alabama]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LOS || DNMM || [[Murtala Muhammed International Airport]] || [[Lagos]], [[Nigeria]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    LOT || KLOT || [[Lewis University Airport]] || [[Chicago]] / [[Romeoville, Illinois]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LOU || KLOU || [[Bowman Field (airport)|Bowman Field]] || [[Louisville, Kentucky]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LOV || MMMV || [[Venustiano Carranza International Airport]] || [[Monclova]], [[Coahuila]], [[Mexico]] || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+|    LOW || KLKU || [[Louisa County Airport]] (Freeman Field) (FAA: LKU) || [[Louisa, Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LOX ||      || [[Los Tablones Airport]] || [[Los Tablones]], [[El Progreso]], [[Guatemala]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    LOY || HKLY || [[Loyangalani Airport]] || [[Loyangalani]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    LOZ || KLOZ || [[London-Corbin Airport]] (Magee Field) || [[London, Kentucky]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LP&quot;/&gt;-LP-
+|-
+|    LPA || GCLP || [[Gran Canaria International Airport]] || [[Las Palmas]], [[Canary Islands]], Spain || [[Western European Time|UTC±00:00]] || Mar-Oct
+|-
+|    LPB || SLLP || [[El Alto International Airport]] || [[La Paz]], [[Bolivia]] || [[UTC−04:00]] ||
+|-
+|    LPC || KLPC || [[Lompoc Airport]] || [[Lompoc, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    LPD || SKLP || [[La Pedrera Airport]] || [[La Pedrera]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    LPE ||      || [[La Primavera Airport]] || [[La Primavera, Vichada]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    LPG || SADL || [[La Plata Airport|La Plata International Airport]] || [[La Plata]], [[Buenos Aires]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    LPH ||      || [[Lochgilphead Heliport]] || [[Lochgilphead]], [[Scotland]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    LPI || ESSL || [[Linköping SAAB Airport|SAAB Airport]] || [[Linköping]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LPJ || SVAS || [[Armando Schwarck Airport]] || [[Pijiguaos]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+|    LPK || UUOL || [[Lipetsk Airport]] || [[Lipetsk]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    LPL || EGGP || [[Liverpool John Lennon Airport]] || [[Liverpool]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    LPM || NVSL || [[Malekoula Island Airport]] (Lamap Airport) || [[Lamap]], [[Malampa]], [[Vanuatu]] || [[UTC+11:00]] ||
+|-
+|    LPO || KPPO || [[La Porte Municipal Airport (Indiana)|La Porte Municipal Airport]] (FAA: PPO) || [[La Porte, Indiana]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LPP || EFLP || [[Lappeenranta Airport]] || [[Lappeenranta]], Finland || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    LPQ || VLLB || [[Luang Prabang International Airport]] || [[Luang Prabang]], [[Laos]] || [[UTC+07:00]] ||
+|-
+|    LPR || KLPR || [[Lorain County Regional Airport]] || [[Lorain, Ohio|Lorain]] / [[Elyria, Ohio]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LPS ||      || [[Fishermans Bay/LPS Seaplane Base]] || [[Lopez Island]], [[Washington (state)|Washington]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    LPT || VTCL || [[Lampang Airport]] || [[Lampang]], [[Thailand]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    LPU || WRLP || [[Long Apung Airport]] || [[Long Apung]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    LPX || EVLA || [[Liepāja International Airport]] || [[Liepāja]], [[Latvia]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    LPY || LFHP || [[Loudes Airport]] || [[Le Puy-en-Velay]] / [[Loudes]], [[Haute-Loire]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LQ&quot;/&gt;-LQ-
+|-
+|    LQK || KLQK || [[Pickens County Airport (South Carolina)|Pickens County Airport]] || [[Pickens, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LQM || SKLG || [[Caucayá Airport]] || [[Puerto Leguízamo]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    LQN || OAQN || [[Qala i Naw Airport]] || [[Qala i Naw (city)|Qala i Naw]], [[Afghanistan]] || [[Time in Afghanistan|UTC+04:30]] ||
+&lt;!-- LQR is FAA code (not IATA) for Larned-Pawnee County Airport in Larned, Kansas, United States --&gt;
+|-
+|    LQR || KLQR || [[Larned-Pawnee County Airport]] || [[Larned, Kansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LR&quot;/&gt;-LR-
+|-
+|    LRA || LGLR || [[Larisa Airport]] || [[Larisa]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    LRB || FXLR || [[Leribe Airport]] || [[Hlotse|Leribe]], [[Lesotho]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    LRD || KLRD || [[Laredo International Airport]] || [[Laredo, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LRE || YLRE || [[Longreach Airport]] || [[Longreach, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    LRF || KLRF || [[Little Rock Air Force Base]] || [[Jacksonville, Arkansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LRG || OPLL || [[Loralai Airport]] || [[Loralai]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+&lt;!-- LRG is FAA code (not IATA) for Lincoln Regional Airport in Lincoln, Maine, United States --&gt;
+|-
+|    LRH || LFBH || [[La Rochelle - Île de Ré Airport]] || [[La Rochelle]] / [[Île de Ré]], [[Charente-Maritime]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LRI ||      || [[Lorica Airport]] || [[Santa Cruz de Lorica|Lorica]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    LRJ || KLRJ || [[Le Mars Municipal Airport]] || [[Le Mars, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LRL || DXNG || [[Niamtougou International Airport]] || [[Niamtougou]], [[Togo]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    LRM || MDLR || [[La Romana International Airport]] (Casa de Campo International Airport) || [[La Romana, Dominican Republic]] || [[Atlantic Time Zone|UTC−04:00]] ||
+&lt;!-- LRO is FAA code (not IATA) for Mt. Pleasant Regional Airport-Faison Field in Mount Pleasant, South Carolina, United States --&gt;
+|-
+|    LRQ ||      || [[Laurie River Airport]] || [[Laurie River]], [[Manitoba]], Canada || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LRR || OISL || [[Lar Airport]] || [[Lar, Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    LRS || LGLE || [[Leros Island National Airport]] || [[Leros]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    LRT || LFRH || [[Lorient South Brittany Airport]] || [[Lorient]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LRU || KLRU || [[Las Cruces International Airport]] || [[Las Cruces, New Mexico]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    LRV || SVRS || [[Los Roques Airport]] || [[Los Roques]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+&lt;!-- LRY is FAA code (not IATA) for Lawrence Smith Memorial Airport in Harrisonville, Missouri, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LS&quot;/&gt;-LS-
+|-
+|    LSA || AYKA || [[Losuia Airport]] (Kiriwina Airfield) || [[Losuia]], [[Kiriwina Island]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    LSB || KLSB || [[Lordsburg Municipal Airport]] || [[Lordsburg, New Mexico]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    LSC || SCSE || [[La Florida Airport (Chile)|La Florida Airport]] || [[La Serena, Chile]] || [[Time in Chile|UTC−03:00]] ||
+|-
+|    LSE || KLSE || [[La Crosse Regional Airport]] || [[La Crosse, Wisconsin]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LSF || KLSF || [[Lawson Army Airfield]] || [[Fort Benning]], [[Columbus, Georgia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LSH || VYLS || [[Lashio Airport]] || [[Lashio]], [[Burma|Myanmar (Burma)]] || [[Myanmar Standard Time|UTC+06:30]] ||
+|-
+|    LSI || EGPB || [[Sumburgh Airport]] || [[Shetland]], [[Scotland]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    LSJ ||      || [[Long Island Airport (Papua New Guinea)|Long Island Airport]] || [[Long Island (Papua New Guinea)|Long Island]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    LSK || KLSK || [[Lusk Municipal Airport]] || [[Lusk, Wyoming]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    LSL || MRLC || [[Los Chiles Airport]] || [[Los Chiles]], [[Costa Rica]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    LSM || WBGD || [[Long Semado Airport]] || [[Long Semado]], [[Sarawak]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    LSN || KLSN || [[Los Banos Municipal Airport]] || [[Los Banos, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    LSO || LFOO || [[Talmont Airport]] || [[Les Sables d'Olonne]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LSP || SVJC || [[Josefa Camejo International Airport]] || [[Las Piedras, Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+|    LSQ || SCGE || [[Maria Dolores Airport]] || [[Los Ángeles, Bío Bío|Los Ángeles]], [[Biobío Province|Biobío]], [[Chile]] || [[Time in Chile|UTC−03:00]] ||
+|-
+| &lt;s&gt;LSR&lt;/s&gt; ||  || &lt;s&gt;[[Lost River 1 Airport]]&lt;/s&gt; &lt;small&gt;(closed 2009)&lt;/small&gt; || [[Lost River, Alaska]], United States
+|-
+|    LSS || TFFS || [[Terre-de-Haut Airport]] || [[Terre-de-Haut Island]], [[Les Saintes]], [[Guadeloupe]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    LST || YMLT || [[Launceston Airport]] || [[Launceston, Tasmania]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    LSU || WBGU || [[Long Sukang Airport]] || [[Long Sukang]], [[Sarawak]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    LSV || KLSV || [[Nellis Air Force Base]] || [[Las Vegas, Nevada]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    LSW || WITM || [[Malikus Saleh Airport]] || [[Lhoksumawe]], [[Sumatra]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|-
+|    LSX || WITL || [[Lhok Sukon Airport]] || [[Lhok Sukon]], [[Sumatra]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|-
+|    LSY || YLIS || [[Lismore Airport]] || [[Lismore, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    LSZ || LDLO || [[Mali Losinj Airport]] || [[Mali Lošinj]], [[Lošinj]], [[Croatia]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LT&quot;/&gt;-LT-
+|-
+|    LTA || FATZ || [[Tzaneen Airport]] (Letaba Airport) || [[Tzaneen]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    LTB ||      || [[Latrobe Airport]] || [[Latrobe, Tasmania]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    LTC || FTTH || [[Laï Airport]] || [[Laï]], [[Chad]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    LTD || HLTD || [[Ghadames Airport]] || [[Ghadames]], [[Libya]] || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    LTF ||      || [[Leitre Airport]] || [[Leitre]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    LTG || VNLT || [[Langtang Airport]] || [[Langtang]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    LTI || ZMAT || [[Altai Airport]] || [[Altai (city)|Altai]], [[Govi-Altai]], [[Mongolia]] || [[Time in Mongolia|UTC+08:00]] || Mar-Sep
+|-
+|    LTK || OSLK || [[Bassel Al-Assad International Airport]] || [[Latakia]], [[Syria]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    LTL || FOOR || [[Lastourville Airport]] || [[Lastourville]], [[Gabon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    LTM || SYLT || [[Lethem Airport]] || [[Lethem, Guyana]] || [[UTC−04:00]] ||
+|-
+|    LTN || EGGW || [[London Luton Airport]] || [[Luton]] (near [[London]]), England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    LTO || MMLT || [[Loreto International Airport]] || [[Loreto, Baja California Sur]], [[Mexico]] || [[Mountain Time Zone|UTC−07:00]] || Apr-Oct
+|-
+|    LTP || YLHS || [[Lyndhurst Airport]] || [[Lyndhurst, Queensland|Lyndhurst]], [[Shire of Etheridge]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    LTQ || LFAT || [[Le Touquet-Paris-Plage Airport]] || [[Le Touquet-Paris-Plage]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LTR || EILT || [[Letterkenny Airport]] || [[Letterkenny]], Ireland || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    LTS || KLTS || [[Altus Air Force Base]] || [[Altus, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LTT || LFTZ || [[La Môle - Saint-Tropez Airport]] || [[La Môle]] / [[Saint-Tropez]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LTU || VALT || [[Latur Airport]] || [[Latur]], [[Maharashtra]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    LTV || YLOV || [[Lotus Vale Station Airport]] || [[Lotus Vale Station]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    LTW ||      || [[St. Mary's County Regional Airport]] (FAA: 2W6) || [[Leonardtown, Maryland]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LTX ||      || [[Cotopaxi International Airport]]                    || [[Latacunga]], [[Ecuador]] || [[Time in Ecuador|UTC−05:00]] ||
+&lt;!-- LTX is not IATA code for Cotapaxi International Airport (ICAO: SELT) in Latacunga, Ecuador ==&gt; cf http://www.iata.org/ps/publications/Pages/code-search.aspx, you'll seen that it is !--&gt;
+&lt;!-- LTY is FAA code (not IATA) for Liberty County Airport in Chester, Montana, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LU&quot;/&gt;-LU-
+|-
+|    LUA || VNLK || [[Lukla Airport]] (Tenzing-Hillary Airport) || [[Lukla]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    LUB || SYLP || [[Lumid Pau Airport]] || [[Lumid Pau]], [[Guyana]] || [[UTC−04:00]] ||
+|-
+|    LUC || NFNH || [[Laucala Island Airport]] || [[Laucala Island]], [[Fiji]] || [[UTC+12:00]] || Nov-Jan
+|-
+|    LUD || FYLZ || [[Luderitz Airport]] (Diaz Point Airport) || [[Luderitz]], [[Namibia]] || [[West Africa Time|UTC+01:00]] || Sep-Apr
+&lt;!-- LUD is FAA code (not IATA) for Decatur Municipal Airport in Decatur, Texas, United States --&gt;
+|-
+|    LUE || LZLU || [[Lučenec Airport]] || [[Lučenec]], [[Slovakia]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LUF || KLUF || [[Luke Air Force Base]] || [[Glendale, Arizona]], United States || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+|    LUG || LSZA || [[Lugano Airport]] || [[Lugano]], [[Agno, Switzerland]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- LUG is FAA code (not IATA) for Ellington Airport in Lewisburg, Tennessee, United States --&gt;
+|-
+|    LUH || VILD || [[Ludhiana Airport]] || [[Ludhiana]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    LUI ||      || [[La Unión Airport (Honduras)|La Unión Airport]] || [[La Unión, Olancho|La Unión, Honduras]] || [[Central Time Zone|UTC−06:00]] ||
+&lt;!-- LUJ is not the IATA code of [[Lusikisiki Airport]] (ICAO: FALK), [[Lusikisiki]], [[South Africa]] --&gt;
+|-
+|    LUK || KLUK || [[Cincinnati Municipal Airport]] (Lunken Field) || [[Cincinnati, Ohio]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LUL || KLUL || [[Hesler-Noble Field]] || [[Laurel, Mississippi]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LUM || ZPMS &lt;!--was ZPLX--&gt; || [[Dehong Mangshi Airport]] || [[Mang City]], [[Yunnan]], China || [[Time in China|UTC+08:00]] ||
+&lt;!-- LUM is FAA code (not IATA) for Menomonie Municipal Airport in Menomonie, Wisconsin, USA --&gt;
+|-
+|    LUN || FLLS || [[Lusaka International Airport]] || [[Lusaka]], [[Zambia]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    LUO || FNUE || [[Luena Airport]] || [[Luena, Moxico Province]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    LUP || PHLU || [[Kalaupapa Airport]] || [[Kalaupapa, Hawaii]], United States || [[Hawaii–Aleutian Time Zone|UTC−10:00]] ||
+|-
+|    LUQ || SAOU || [[San Luis Airport (Argentina)|San Luis Airport]] || [[San Luis, Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    LUR || PALU || [[Cape Lisburne LRRS Airport]] || [[Cape Lisburne, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    LUS || FZCE || [[Lusanga Airport]] || [[Lusanga, Kwilu|Lusanga]], [[Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    LUT || YLRS || [[Laura Station Airport]] || [[Laura Station]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    LUU || YLRA || [[Laura Airport]] || [[Laura, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    LUV || WAPL || [[Dumatubin Airport]] || [[Langgur]], [[Kai Islands]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    LUW || WAMW || [[Syukuran Aminuddin Amir Airport]] || [[Luwuk]], [[Central Sulawesi]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    LUX || ELLX || [[Luxembourg Findel Airport]] || [[Luxembourg-Findel]], [[Luxembourg]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LUY ||      || [[Lugo Railway Station]] || [[Lugo]], [[Spain]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- LUY is no longer [[Lushoto]] airport (in [[Tanzania]]), as that latter could not be found. The code has been re-assigned in November 2012. --&gt;
+&lt;!-- LUZ (Lushan Airport) is now JIU (Jiujiang Lushan Airport) --&gt;
+|-
+|    LUZ || EPLB || [[Lublin Airport]] || [[Lublin]], [[Poland]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LV&quot;/&gt;-LV-
+|-
+|    LVA || LFOV || [[Laval Entrammes Airport]] || [[Laval, Mayenne|Laval]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LVB || SSLI || [[Dos Galpoes Airport]] || [[Santana do Livramento]], [[Rio Grande do Sul]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    LVD ||      || [[Lime Village Airport]] (FAA: 2AK) || [[Lime Village, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    LVI || FLLI || [[Livingstone Airport]] || [[Livingstone, Zambia]] || [[Central Africa Time|UTC+02:00]] ||
+&lt;!-- LVJ is FAA code (not IATA) for Pearland Regional Airport in Houston, Texas, United States --&gt;
+|-
+|    LVK || KLVK || [[Livermore Municipal Airport]] || [[Livermore, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    LVL || KLVL || [[Lawrenceville/Brunswick Municipal Airport]] || [[Lawrenceville, Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LVM || KLVM || [[Mission Field]] || [[Livingston, Montana]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+&lt;!-- LVN is FAA code (not IATA) for Airlake Airport in Minneapolis, Minnesota, United States --&gt;
+|-
+|    LVO || YLTN || [[Laverton Airport]] || [[Laverton, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    LVP || OIBV || [[Lavan Airport]] || [[Lavan Island]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    LVS || KLVS || [[Las Vegas Municipal Airport]] || [[Las Vegas, New Mexico]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LW&quot;/&gt;-LW-
+|-
+|    LWA ||      || [[Lebak Airport]] || [[Lebak, Sultan Kudarat|Lebak]], [[Sultan Kudarat (province)|Sultan Kudarat]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+&lt;!-- LWA is FAA code (not IATA) for South Haven Area Regional Airport in South Haven, Michigan, United States --&gt;
+|-
+|    LWB || KLWB || [[Greenbrier Valley Airport]] || [[Lewisburg, West Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LWC || KLWC || [[Lawrence Municipal Airport (Kansas)|Lawrence Municipal Airport]] || [[Lawrence, Kansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- LWD is FAA code (not IATA) for Lamoni Municipal Airport in Lamoni, Iowa, United States --&gt;
+|-
+|    LWE || WATW || [[Wonopito Airport]] || [[Lewoleba]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    LWH || YLAH || [[Lawn Hill Airport]] || [[Lawn Hill, Queensland|Lawn Hill]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    LWI ||      || [[Lowai Airport]] || [[Lowai]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    LWK || EGET || [[Tingwall Airport]] || [[Lerwick]], [[Scotland]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    LWL || KLWL || [[Wells Municipal Airport (Nevada)|Wells Municipal Airport]] (Harriet Field) || [[Wells, Nevada]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    LWM || KLWM || [[Lawrence Municipal Airport (Massachusetts)|Lawrence Municipal Airport]] || [[Lawrence, Massachusetts]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LWN || UDSG || [[Shirak Airport]] || [[Gyumri]], [[Armenia]] || [[Armenia Time|UTC+04:00]] ||
+|-
+|    LWO || UKLL || [[Lviv Danylo Halytskyi International Airport]] || [[Lviv]], [[Ukraine]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    LWR || EHLW || [[Leeuwarden Airport]] || [[Leeuwarden]], Netherlands || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LWS || KLWS || [[Lewiston-Nez Perce County Airport]] || [[Lewiston, Idaho]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    LWT || KLWT || [[Lewistown Municipal Airport]] || [[Lewistown, Montana]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    LWV || KLWV || [[Lawrenceville-Vincennes International Airport]] || [[Lawrenceville, Illinois]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LWY || WBGW || [[Lawas Airport]] || [[Lawas]], [[Sarawak]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LX&quot;/&gt;-LX-
+|-
+|    LXA || ZULS || [[Lhasa Gonggar Airport]] || [[Lhasa]], [[Tibet Autonomous Region]], China || [[Time in China|UTC+06:00]] ||
+|-
+|    LXG || VLLN || [[Luang Namtha Airport]] || [[Luang Namtha]], [[Laos]] || [[UTC+07:00]] ||
+|-
+|    LXI || ZBLX || [[Linxi Airport]] || [[Linxi County, Hebei|Linxi]], China || [[Time in China|UTC+08:00]] ||
+&lt;!-- LXL is FAA code (not IATA) for Little Falls/Morrison County Airport (Lindbergh Field) in Little Falls, Minnesota, USA --&gt;
+|-
+|    LXN || KLXN || [[Jim Kelly Field]] || [[Lexington, Nebraska]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LXR || HELX || [[Luxor International Airport]] || [[Luxor]], [[Egypt]] || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    LXS || LGLM || [[Lemnos Airport]] || [[Lemnos]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+&lt;!-- LXT is FAA code (not IATA) for Lee's Summit Municipal Airport in Lee's Summit, Missouri, United States --&gt;
+|-
+|    LXU || FLLK || [[Lukulu Airport]] || [[Lukulu]], [[Zambia]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    LXV || KLXV || [[Lake County Airport (Colorado)|Lake County Airport]] || [[Leadville, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+&lt;!-- LXY is FAA code (not IATA) for Mexia-Limestone County Airport in Mexia, Texas, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LY&quot;/&gt;-LY-
+|-
+|    LYA || ZHLY || [[Luoyang Beijiao Airport]] || [[Luoyang]], [[Henan]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    LYB || MWCL || [[Edward Bodden Airfield]] || [[Little Cayman]], [[Cayman Islands]] || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+|    LYC || ESNL || [[Lycksele Airport]] || [[Lycksele]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LYE || EGDL || [[RAF Lyneham]] || [[Wiltshire]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    LYG || ZSLG || [[Lianyungang Baitabu Airport]] || [[Lianyungang]], [[Jiangsu]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    LYH || KLYH || [[Lynchburg Regional Airport]] (Preston Glenn Field) || [[Lynchburg, Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    LYI || ZSLY || [[Linyi Shubuling Airport]] || [[Linyi]], [[Shandong]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    LYK ||      || [[Lunyuk Airport]] || [[Lunyuk]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    LYM || EGMK || [[Lympne Airport]] || [[Lympne]], [[Kent]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    LYN || LFLY || [[Lyon Bron Airport]] || [[Lyon]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LYO || KLYO || [[Lyons-Rice County Municipal Airport]] || [[Lyons, Kansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    LYP || OPFA || [[Faisalabad International Airport]] || [[Faisalabad]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    LYR || ENSB || [[Svalbard Airport, Longyear]] || [[Longyearbyen]], [[Svalbard]], Norway || [[Western European Time|UTC±00:00]] || Mar-Oct
+|-
+|    LYS || LFLL || [[Lyon-Saint Exupéry Airport]] (formerly Satolas Airport) || [[Lyon]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    LYT ||      || [[Lady Elliot Island Airport]] || [[Lady Elliot Island]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    LYU || KELO || [[Ely Municipal Airport]] (FAA: ELO) || [[Ely, Minnesota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- LYV is FAA code (not IATA) for Luverne Municipal Airport/Quentin Aanenson Field in Luverne, Minnesota, United States --&gt;
+|-
+|    LYX || EGMD || [[London Ashford International Airport]] (Ferryfield) || [[Lydd]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;LZ&quot;/&gt;-LZ-
+|-
+|    LZA || FZUG || [[Luiza Airport]] || [[Luiza]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    LZC || MMLC || [[Lázaro Cárdenas Airport]] || [[Lázaro Cárdenas, Michoacán]], [[Mexico]] || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+|    LZD || ZLLD || [[Lanzhou East Airport]] || [[Lanzhou]], [[Gansu]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    LZH || ZGZH || [[Liuzhou Bailian Airport]] || [[Liuzhou]], [[Guangxi]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    LZI || FZAL || [[Luozi Airport]] || [[Luozi]], [[Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+&lt;!-- LZI is not IATA code for Lizard Island Airport (ICAO: YLZI) in Lizard Island National Park, Australia --&gt;
+|-
+|    LZM || FNLZ || [[Luzamba Airport]] || [[Luzamba]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    LZN || RCFG || [[Matsu Nangan Airport]] || [[Nangan, Lienchiang|Nangan]], [[Matsu Islands]], [[Taiwan]] || [[Time in Taiwan|UTC+08:00]] ||
+|-
+|    LZO || ZULZ || [[Luzhou Lantian Airport]] || [[Luzhou]], [[Sichuan]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    LZR || YLZI || [[Lizard Island Airport]] || [[Lizard Island National Park|Lizard Island]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+&lt;!-- LZU is FAA code (not IATA) for Gwinnett County Airport-Briscoe Field in Lawrenceville, Georgia, United States --&gt;
+|-
+|    LZY || ZUNZ || [[Nyingchi Airport]] || [[Nyingchi Prefecture|Nyingchi]], [[Tibet Autonomous Region]], China || [[Time in China|UTC+06:00]] ||
+&lt;!-- LZZ is FAA code (not IATA) for Lampasas Airport in Lampasas, Texas, United States --&gt;
+|}
+∗ Clocks on Lord Howe Island are advanced only 30 minutes for Daylight Saving Time.
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = PDF | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|L]]</text>
+      <sha1>gkn7d6efa7lwil42zb8azo602jrpw8k</sha1>
+    </revision>
+  </page>
+</mediawiki>

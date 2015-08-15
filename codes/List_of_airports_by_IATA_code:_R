@@ -1,0 +1,611 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: R</title>
+    <ns>0</ns>
+    <id>317143</id>
+    <revision>
+      <id>663690886</id>
+      <parentid>662708745</parentid>
+      <timestamp>2015-05-23T17:00:18Z</timestamp>
+      <contributor>
+        <username>AlexanderFreud</username>
+        <id>12548493</id>
+      </contributor>
+      <comment>/* R */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27385">{{Lists of airports by IATA code}}
+
+==R==
+{{AlphanumericTOC|prefixLink=R|prefixDesc=R|numbers=|sections=|q=RQ&lt;!--no RQ section--&gt;}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RA&quot;/&gt;-RA-
+|-
+|    RAB || AYTK || [[Tokua Airport]] || [[Rabaul]], [[Papua New Guinea]]
+|-
+|    RAC || KRAC || [[John H. Batten Airport]] || [[Racine, Wisconsin]], [[United States]]
+|-
+|    RAF ||      || [[Ras an-Naqb Airport]] || [[Ras el Naqb (Sinai/Negev)|Ras el Naqb]], [[Egypt]]
+|-
+|    RAI || GVNP || [[Praia International Airport]] || [[Praia, Cape Verde]]
+|-
+|    RAJ || VARK || [[Rajkot Airport]] || [[Rajkot]], [[India]]
+|-
+|    RAK || GMMX || [[Menara International Airport]] || [[Marrakech]], [[Morocco]]
+|-
+|    RAL || KRAL || [[Riverside Municipal Airport]] || [[Riverside, California]], [[United States]]
+|-
+|    RAO || SBRP || [[Leite Lopes Airport]] || [[Ribeirão Preto]], [[São Paulo (state)|São Paulo]], [[Brazil]]
+|-
+|    RAP || KRAP || [[Rapid City Regional Airport]] || [[Rapid City, South Dakota]], [[United States]]
+|-
+|    RAR || NCRG || [[Rarotonga International Airport]] || [[Avarua]], [[Cook Islands]]
+&lt;!-- RAS is FAA code (not IATA) for Mustang Beach Airport in Port Aransas, Texas, United States --&gt;
+|-
+|    RAT || USNR || [[Raduzhny Airport]] || [[Raduzhny, Khanty-Mansi Autonomous Okrug]], Russia
+|-
+&lt;!-- RAW is FAA code (not IATA) for Warsaw Municipal Airport in Warsaw, Missouri, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RB&quot;/&gt;-RB-
+|-
+|    RBA || GMME || [[Sale Airport]] || [[Rabat]], [[Morocco]]
+|-
+|    RBB || SWBR || [[Borba Airport]] || [[Borba, Amazonas]], [[Brazil]]
+|-
+|    RBC || YROI || [[Robinvale Airport]] || [[Robinvale]], [[Victoria (Australia)|Victoria]], [[Australia]]
+|-
+|    RBD || KRBD || [[Dallas Executive Airport]] || [[Dallas, Texas]], [[United States]]
+|-
+|    RBE || VDRK || [[Ratanakiri Airport]] || [[Ratanakiri]], [[Cambodia]]
+|-
+|    RBG || KRBG || [[Roseburg Regional Airport]] || [[Roseburg, Oregon]], [[United States]]
+|-
+|    RBL || KRBL || [[Red Bluff Municipal Airport]] || [[Red Bluff, California]], [[United States]]
+|-
+|    RBM || EDMS || [[Straubing Wallmuhle Airport]] || [[Straubing]], [[Bavaria]], [[Germany]]
+&lt;!-- RBM is FAA code (not IATA) for Robinson Army Airfield (Camp Robinson) in Little Rock, Arkansas, United States --&gt;
+&lt;!-- RBO is FAA code (not IATA) for Nueces County Airport in Robstown, Texas, United States --&gt;
+|-
+|    RBQ || SLRQ || [[Rurrenabaque Airport]] || [[Rurrenabaque]], [[Bolivia]]
+|-
+|    RBR || SBRB || [[Rio Branco International Airport]] (Presidente Medici Airport) || [[Rio Branco]], [[Acre]], [[Brazil]]
+|-
+|    RBW || KRBW || [[Lowcountry Regional Airport]] || [[Walterboro, South Carolina]], [[United States]]
+|-
+|    RBY || PARY || [[Ruby Airport]] || [[Ruby, Alaska]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RC&quot;/&gt;-RC-
+|-
+|    RCA || KRCA || [[Ellsworth Air Force Base]] || [[Rapid City, South Dakota]], [[United States]]
+|-
+|    RCB || FARB || [[Richards Bay Airport]] || [[Richards Bay, KwaZulu-Natal]], [[South Africa]]
+|- 
+|    RCE ||      || [[Roche Harbor Seaplane Base]] || [[San Juan Island]], [[Washington (U.S. State)|Washington]], [[United States]]
+|-
+|    RCH || SKRH || [[Almirante Padilla Airport]] || [[Riohacha]], [[Colombia]]
+|-
+|    RCK || KRCK || [[H. H. Coffield Regional Airport]] || [[Rockdale, Texas]], [[United States]]
+|-
+|    RCM || YRMD || [[Richmond Airport]] || [[Richmond, Queensland]], [[Australia]]
+|-
+|    RCQ || SATR || [[Reconquista Airport]] || [[Reconquista, Santa Fe]], [[Argentina]]
+|-
+|    RCR || KRCR || [[Fulton County Airport (Indiana)|Fulton County Airport]] || [[Rochester, Indiana]], [[United States]]
+|-
+|    RCS || EGTO || [[Rochester Airport (England)|Rochester Airport]] || [[Rochester, Kent]], [[England]], [[United Kingdom]]
+|-
+|    RCT || KRCT || [[Nartron Field]] || [[Reed City, Michigan]], [[United States]]
+|-
+|    RCU || SAOC || [[Aeropuerto de Río Cuarto]] || [[Río Cuarto, Córdoba]], [[Argentina]]
+&lt;!-- RCX is FAA code (not IATA) for Rusk County Airport in Ladysmith, Wisconsin, United States --&gt;
+&lt;!-- RCZ is FAA code (not IATA) for Richmond County Airport in Rockingham, North Carolina, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RD&quot;/&gt;-RD-
+|-
+|    RDA &lt;ref name=&quot;IATA&quot;/&gt; || || [[Rockhampton Downs Airport]] || [[Rockhampton Downs]], [[Northern Territory]], [[Australia]]
+|-
+|    RDB || PADG || [[Red Dog Airport]] || [[Red Dog, Alaska]], [[United States]]
+|-
+|    RDD || KRDD || [[Redding Municipal Airport]] || [[Redding, California]], [[United States]]
+|-
+|    RDG || KRDG || [[Reading Regional Airport]] (Carl A. Spaatz Field) || [[Reading, Pennsylvania]], [[United States]]
+&lt;!-- RDK is FAA code (not IATA) for Red Oak Municipal Airport in Red Oak, Iowa, United States --&gt;
+|-
+|    RDM || KRDM || [[Roberts Field]] || [[Redmond, Oregon]], [[United States]]
+|-
+|    RDR || KRDR || [[Grand Forks Air Force Base]] || [[Grand Forks, North Dakota]], [[United States]]
+|-
+|    RDT || GOSR || [[Richard Toll Airport]] || [[Richard Toll]], [[Senegal]]
+|-
+|    RDU || KRDU || [[Raleigh–Durham International Airport]] || [[Raleigh, North Carolina|Raleigh]] / [[Durham, North Carolina]], [[United States]]
+|-
+|    RDV ||      || [[Red Devil Airport]] || [[Red Devil, Alaska]], [[United States]]
+|-
+|    RDZ || LFCR || [[Rodez-Marcillac Airport]] || [[:fr:Salles-la-Source|Salles-La-Source]], [[Aveyron]], [[France]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RE&quot;/&gt;-RE-
+|-
+|    REC || SBRF || [[Guararapes International Airport]] || [[Recife]], [[Brazil]]
+|-
+|    RED || KRVL || [[Mifflin County Airport]] (FAA: RVL) || [[Reedsville, Pennsylvania]], [[United States]]
+&lt;!-- RED is FAA code (not IATA) for Red Lodge Airport in Red Lodge, Montana, United States --&gt;
+|-
+|    REG || LICR || [[Reggio Calabria Airport]] || [[Reggio di Calabria]], [[Italy]]
+|-
+|    REK ||      || [[Reykjavík Metropolitan Area]] || [[Reykjavík]], [[Iceland]]
+|-
+|    REL || SAVT || [[Almirante Marco Andrés Zar Airport]] || [[Trelew]], [[Chubut Province|Chubut]], [[Argentina]]
+|-
+|    REN || UWOO || [[Orenburg Tsentralny Airport]] || [[Orenburg]], [[Russia]]
+|-
+|    REO || KREO || [[Rome State Airport]] || [[Rome, Oregon]], [[United States]]
+|-
+|    REP || VDSR || [[Angkor International Airport]] || [[Siem Reap]], [[Cambodia]]
+|-
+|    RER || MGRT || [[Retalhuleu Airport]] || [[Retalhuleu]], [[Guatemala]]
+|-
+|    RES || SARE || [[Resistencia International Airport]] || [[Resistencia, Chaco]], [[Argentina]]
+|-
+|    RET || ENRS || [[Røst Airport]] || [[Røst]], [[Nordland]], [[Norway]]
+|-
+|    REU || LERS || [[Reus Airport]] || [[Reus]] (near [[Tarragona]]), [[Spain]]
+|-
+|    REX || MMRX || [[General Lucio Blanco International Airport]] || [[Reynosa]], [[Mexico]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RF&quot;/&gt;-RF-
+|-
+|    RFD || KRFD || [[Chicago Rockford International Airport]] (Greater Rockford Airport) || [[Rockford, Illinois]], [[United States]]
+|-
+|    RFG || KRFG || [[Rooke Field]] || [[Refugio, Texas]], [[United States]]
+&lt;!-- RFI is FAA code (not IATA) for Rusk County Airport in Henderson, Texas, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RG&quot;/&gt;-RG-
+|-
+|    RGA || SAWE || [[Hermes Quijada International Airport]] || [[Río Grande, Tierra del Fuego]], [[Argentina]]
+|-
+|    RGL || SAWG || [[Piloto Civil Norberto Fernández International Airport]] || [[Río Gallegos, Santa Cruz]], [[Argentina]]
+&lt;!-- RGK is FAA code (not IATA) for Red Wing Regional Airport in Red Wing, Minnesota, United States --&gt;
+|-
+|    RGN || VYYY || [[Yangon International Airport]] || [[Yangon]], [[Myanmar]]
+|-
+|    RGO || ZKHM || [[Chongjin Airport]] || [[Chongjin]], [[North Korea]], [[China]]
+|-
+|    RGS || LEBG || [[Burgos Airport]] || [[Burgos]], [[Spain]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RH&quot;/&gt;-RH-
+|-
+|    RHE || LFSR || [[Reims Champagne Airport]] || [[Reims]], [[France]]
+|-
+|    RHI || KRHI || [[Rhinelander-Oneida County Airport]] || [[Rhinelander, Wisconsin]], [[United States]]
+|-
+|    RHO || LGRP || [[Rhodes International Airport]] || [[Rhodes]], [[Greece]]
+|-
+|    RHP || VNRC || [[Ramechhap Airport]] || [[Ramechhap]], [[Nepal]]
+&lt;!-- RHP is FAA code (not IATA) for Andrews-Murphy Airport in Andrews, North Carolina, United States --&gt;
+|-
+|    RHT ||      || [[Alxa Right Banner Badanjilin Airport]] || [[Alxa Right Banner]], [[Inner Mongolia]], China
+|-
+|    RHV || KRHV || [[Reid-Hillview Airport of Santa Clara County]] || [[San Jose, California]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RI&quot;/&gt;-RI-
+|-
+|    RIA || SBSM || [[Santa Maria Airport (Rio Grande do Sul)|Santa Maria Airport]] || [[Santa Maria, Rio Grande do Sul]], [[Brazil]]
+|-
+|    RIB || SLRI || [[Riberalta Airport]] || [[Riberalta]], [[Bolivia]]
+|-
+|    RIC || KRIC || [[Richmond International Airport]] || [[Richmond, Virginia]], [[United States]]
+|-
+|    RID || KRID || [[Richmond Municipal Airport]] || [[Richmond, Indiana]], [[United States]]
+|-
+|    RIE || KRPD || [[Rice Lake Regional Airport]] (Carl's Field) (FAA: RPD) || [[Rice Lake, Wisconsin]], [[United States]]
+|-
+|    RIF || KRIF || [[Richfield Municipal Airport]] || [[Richfield, Utah]], [[United States]]
+|-
+|    RIG || SBRG || [[Rio Grande Airport]] || [[Rio Grande]], [[Brazil]]
+|-
+|    RIH || MPSM || [[Río Hato Airport]] || [[Rio Hato|Cocle]], [[Panama]]
+|-
+|    RIK || MRCR || [[Carrillo Airport]] || [[Puerto Carrillo|Carrillo]], [[Costa Rica]]
+|-
+|    RIL || KRIL || [[Garfield County Regional Airport]] || [[Rifle, Colorado]], [[United States]]
+|-
+|    RIO ||      || All Airports || [[Rio de Janeiro]], [[Brazil]]
+|-
+|    RIR || KRIR || [[Flabob Airport]] || [[Riverside, California|Riverside]]/[[Rubidoux, California]], [[United States]]
+&lt;!-- RIU is FAA code (not IATA) for Rancho Murieta Airport in Rancho Murieta, California, United States --&gt;
+|-
+|    RIV || KRIV || [[March Air Reserve Base]] || [[Riverside, California]], [[United States]]
+|-
+|    RIW || KRIW || [[Riverton Regional Airport]] || [[Riverton, Wyoming]], [[United States]]
+|-
+|    RIX || EVRA || [[Riga International Airport]] || [[Riga]], [[Latvia]]
+|-
+|    RIZ ||      || [[Rizhao Airport]] || [[Rizhao]], [[Shandong]], [[China]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RJ&quot;/&gt;-RJ-
+&lt;!-- RJD is FAA code (not IATA) for Ridgely Airpark in Ridgely, Maryland, United States --&gt;
+|-
+|    RJA || VORY || [[Rajahmundry Airport]] || [[Rajahmundry]], [[India]]
+|-
+|    RJH || VGRJ || [[Shah Makhdum Airport]] || [[Rajshahi]], [[Bangladesh]]
+|-
+|    RJK || LDRI || [[Rijeka Airport]] || [[Rijeka]], [[Croatia]]
+|-
+|    RJL || LELO || [[Logroño-Agoncillo Airport]] || [[Logroño]], [[Spain]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RK&quot;/&gt;-RK-
+|-
+|    RKC ||      || [[Montague Airport (California)|Montague Airport]] (Yreka Rohrer Field) (FAA: 1O5) || [[Montague, California]], [[United States]]
+|-
+|    RKD || KRKD || [[Knox County Regional Airport]] || [[Rockland, Maine]], [[United States]]
+|-
+|    RKE || EKRK || [[Roskilde Airport]] || [[Roskilde]] (near [[Copenhagen]]), [[Denmark]]
+|-
+|    RKI || WIBR || [[Rokot Airport]] || [[Sipura]], [[Indonesia]]
+|-
+|    RKP || KRKP || [[Aransas County Airport]] || [[Rockport, Texas]], [[United States]]
+|-
+|    RKR || KRKR || [[Robert S. Kerr Airport]] || [[Poteau, Oklahoma]], [[United States]]
+|-
+|    RKS || KRKS || [[Rock Springs – Sweetwater County Airport]] || [[Rock Springs, Wyoming]], [[United States]]
+|-
+|    RKT || OMRK || [[Ras Al Khaimah International Airport]] || [[Ras Al Khaimah]], [[United Arab Emirates]]
+|-
+|    RKV || BIRK || [[Reykjavík Airport]] || [[Reykjavík]], [[Iceland]]
+|-
+|    RKW || KRKW || [[Rockwood Municipal Airport]] || [[Rockwood, Tennessee]], [[United States]]
+|-
+|    RKZ || ZURK || [[Shigatse Peace Airport]] || [[Shigatse]], [[Tibet Autonomous Region]], [[China]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RL&quot;/&gt;-RL-
+&lt;!-- RLA is not Rolla Downtown Airport (FAA: K07) in Rolla, Missouri, United States--&gt;
+|-
+|    RLD || KRLD || [[Richland Airport (Washington)|Richland Airport]] || [[Richland, Washington]], [[United States]]
+|-
+|    RLG || ETNL || [[Rostock Laage Airport]] || [[Rostock]], [[Germany]]
+|-
+|    RLT || DRZL || [[Arlit Airport]] || [[Arlit]], [[Niger]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RM&quot;/&gt;-RM-
+|-
+|    RMA || YROM || [[Roma Airport]] || [[Roma, Queensland|Roma]], [[Queensland]], [[Australia]]
+|-
+|    RMD || VORG || [[Ramagundam Airport]] || [[Ramagundam]], [[Andhra Pradesh]], [[India]]
+|-
+|    RME || KRME || [[Griffiss Airpark]] || [[Rome, New York]], [[United States]]
+|-
+|    RMF || HEMA || [[Marsa Alam]] || [[Marsa Alam]], [[Egypt]]
+|-
+|    RMG || KRMG || [[Richard B. Russell Airport]] || [[Rome, Georgia]], [[United States]]
+|-
+|    RMI || LIPR || [[Federico Fellini International Airport]] || [[Rimini]], [[Italy]]
+|-
+|    RMK || YREN || [[Renmark Airport]] || [[Renmark, South Australia]], [[Australia]]
+|-
+|    RML || VCCC || [[Ratmalana Airport]] || [[Ratmalana]], [[Sri Lanka]]
+|-
+|    RMN ||      || [[Rumginae Airport]] || [[Rumginae]], [[Papua New Guinea]]
+&lt;!-- RMN is FAA code (not IATA) for Stafford Regional Airport in Stafford, Virginia, United States --&gt;
+|-
+|    RMP ||      || [[Rampart Airport]] || [[Rampart, Alaska]], [[United States]]
+|-
+|    RMQ || RCMQ || [[Taichung Ching Chuan Kang Airport]] || [[Taichung, Taiwan]], [[Taiwan]]
+|-
+|    RMS || ETAR || [[Ramstein Air Base]] || [[Ramstein-Miesenbach|Ramstein]], [[Germany]]
+&lt;!-- RMY is FAA code (not IATA) for Brooks Field in Marshall, Michigan, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RN&quot;/&gt;-RN-
+|-
+|    RNA || AGAR || [[Ulawa Airport]] || [[Arona, Solomon Islands|Arona]], [[Ulawa Island]], [[Solomon Islands]]
+|-
+|    RNB || ESDF || [[Ronneby Airport]] || [[Ronneby]], [[Sweden]]
+|-
+|    RNC || KRNC || [[Warren County Memorial Airport]] || [[McMinnville, Tennessee]], [[United States]]
+|-
+|    RND || KRND || [[Randolph Air Force Base]] || [[Universal City, Texas]], [[United States]]
+|-
+|    RNE ||      || [[Renaison Airport]] || [[Renaison]], [[France]]
+|-
+|    RNH || KRNH || [[New Richmond Regional Airport]] || [[New Richmond, Wisconsin]], [[United States]]
+|-
+|    RNI || MNCI || [[Corn Island Airport]] || [[Corn Island]], [[Nicaragua]]
+&lt;!-- RNM is FAA code (not IATA) for Ramona Airport in Ramona, California, United States --&gt;
+|-
+|    RNN || EKRN || [[Bornholm Airport]] || [[Rønne]], [[Denmark]]
+|-
+|    RNO || KRNO || [[Reno-Tahoe International Airport]] || [[Reno, Nevada]], [[United States]]
+|-
+|    RNP ||      || [[Rongelap Airport]] || [[Rongelap Atoll]], [[Marshall Islands]]
+|-
+|    RNS || LFRN || [[St. Jacques Airport]] || [[Rennes]], [[France]]
+|-
+|    RNT || KRNT || [[Renton Municipal Airport]] || [[Renton, Washington]], [[United States]]
+&lt;!-- RNV is FAA code (not IATA) for Cleveland Municipal Airport in Cleveland, Mississippi, United States --&gt;
+|-
+|    RNZ || KRZL || [[Jasper County Airport (Indiana)|Jasper County Airport]] (FAA: RZL) || [[Rensselaer, Indiana]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RO&quot;/&gt;-RO-
+|-
+|    ROA || KROA || [[Roanoke Regional Airport]] (Woodrum Field) || [[Roanoke, Virginia]], [[United States]]
+|-
+|    ROB || GLRB || [[Roberts International Airport]] || [[Monrovia]], [[Liberia]]
+|-
+|    ROC || KROC || [[Greater Rochester International Airport]] || [[Rochester, New York]], [[United States]]
+|-
+|    ROG || KROG || [[Rogers Municipal Airport]] (Carter Field) || [[Rogers, Arkansas]], [[United States]]
+|-
+|    ROI || VTUV || [[Roi Et Airport]] || [[Roi Et]], [[Thailand]]
+|-
+|    ROK || YBRK || [[Rockhampton Airport]] || [[Rockhampton, Queensland]], [[Australia]]
+|-
+|    ROL ||      || [[Roosevelt Municipal Airport]] || [[Roosevelt, Utah]], [[United States]]
+|-
+|    ROM ||      || All Airports || [[Rome]], [[Italy]]
+|-
+|    ROP || PGRO || [[Rota International Airport]] (FAA: GRO) || [[Rota Island]], [[Northern Mariana Islands]]
+|-
+|    ROR || PTRO || [[Babelthuap Airport]] || [[Koror]], [[Palau]]
+|-
+|    ROS || SAAR || [[Rosario - Islas Malvinas International Airport]] || [[Rosario]], [[Argentina]]
+|-
+|    ROT || NZRO || [[Rotorua Airport]] || [[Rotorua]], [[New Zealand]]
+|-
+|    ROU || LBRS || [[Rousse Airport]] || [[Rousse]], [[Bulgaria]]
+|-
+|    ROV || URRR || [[Rostov-on-Don Airport]] || [[Rostov-on-Don]], [[Russia]]
+|-
+|    ROW || KROW || [[Roswell International Air Center]] || [[Roswell, New Mexico]], [[United States]]
+|-
+|    ROX || KROX || [[Roseau Municipal Airport]] (Rudy Billberg Field) || [[Roseau, Minnesota]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RP&quot;/&gt;-RP-
+|-
+|    RPB || YRRB || [[Roper Bar Airport]] || [[Roper Bar, Northern Territory]], [[Australia]]
+&lt;!-- RPB is FAA code (not IATA) for Belleville Municipal Airport in Belleville, Kansas, United States --&gt;
+&lt;!-- RPD is FAA code (IATA: RIE) for Rice Lake Regional Airport (Carl's Field) in Rice Lake, Wisconsin, United States --&gt;
+&lt;!-- RPH is FAA code (not IATA) for Graham Municipal Airport in Graham, Texas, United States --&gt;
+&lt;!-- RPJ is FAA code (not IATA) for Rochelle Municipal Airport (Koritz Field) in Rochelle, Illinois, United States --&gt;
+|-
+|    RPN || LLIB || [[Ben Ya'aqov Airport|Rosh Pina Airport]] || [[Rosh Pina]], [[Israel]]
+|-
+|    RPR || VARP || [[Raipur Airport]] || [[Raipur]], [[India]]
+|-
+|    RPX || KRPX || [[Roundup Airport]] || [[Roundup, Montana]], [[United States]]
+&lt;!-- RQB is FAA code (IATA: WBR) for Roben-Hood Airport in Big Rapids, Michigan, United States --&gt;
+&lt;!-- RQE is FAA code (not IATA) for Window Rock Airport in Window Rock, Arizona, United States --&gt;
+&lt;!-- RQO is FAA code (not IATA) for El Reno Regional Airport in El Reno, Oklahoma, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RR&quot;/&gt;-RR-
+|-
+|    RRG || FIMR || [[Sir Gaëtan Duval Airport]] || [[Rodrigues Island]], [[Mauritius]]
+|-
+|    RRK || VERK || [[Rourkela Airport]] || [[Rourkela]], [[India]]
+|-
+|    RRL || KRRL || [[Merrill Municipal Airport]] || [[Merrill, Wisconsin]], [[United States]]
+&lt;!-- RRQ is FAA code (not IATA) for Rock Rapids Municipal Airport in Rock Rapids, Iowa, United States --&gt;
+|-
+|    RRR || NTKO || [[Raroia Airport]] || [[Raroia]], [[French Polynesia]]
+|-
+|    RRS || ENRO || [[Røros Airport]] || [[Røros]], [[Norway]]
+|-
+|    RRT || KRRT || [[Warroad International Airport]] (Swede Carlson Field) || [[Warroad, Minnesota]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RS&quot;/&gt;-RS-
+|-
+|    RSA || SAZR || [[Santa Rosa Airport (Argentina)|Santa Rosa Airport]] || [[Santa Rosa, Argentina]]
+|-
+|    RSH || PARS || [[Russian Mission Airport]] || [[Russian Mission, Alaska]], [[United States]]
+|-
+|    RSJ ||      || [[Rosario Seaplane Base]] || [[Orcas Island]], [[Washington (U.S. State)|Washington]], [[United States]]
+|-
+|    RSL || KRSL || [[Russell Municipal Airport]] || [[Russell, Kansas]], [[United States]]
+|-
+|    RSN || KRSN || [[Ruston Regional Airport]] || [[Ruston, Louisiana]], [[United States]]
+|-
+|    RST || KRST || [[Rochester International Airport]] || [[Rochester, Minnesota]], [[United States]]
+&lt;!-- RSV is FAA code (not IATA) for Robinson Municipal Airport in Robinson, Illinois, United States --&gt;
+|-
+|    RSW || KRSW || [[Southwest Florida International Airport]] || [[Fort Myers, Florida]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RT&quot;/&gt;-RT-
+|-
+|    RTB || MHRO || [[Juan Manuel Gálvez International Airport]] || [[Roatán]], [[Honduras]]
+|-
+|    RTC || VARG || [[Ratnagiri Airport]] || [[Ratnagiri]], [[India]]
+|-
+|    RTM || EHRD || [[Rotterdam The Hague Airport]] || [[Rotterdam]], [[Netherlands]]
+|-
+|    RTN || KRTN || [[Raton Municipal Airport]] (Crews Field) || [[Raton, New Mexico]], [[United States]]
+|-
+|    RTS || YRTI || [[Rottnest Island Airport]] || [[Rottnest Island]], [[Western Australia]], [[Australia]]
+|-
+|    RTW || UWSS || [[Saratov Tsentralny Airport]] || [[Saratov]], [[Russia]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RU&quot;/&gt;-RU-
+|-
+|    RUA || HUAR || [[Arua Airport]] || [[Arua]], [[Uganda]]
+&lt;!-- RUE is FAA code (not IATA) for Russellville Regional Airport in Russellville, Arkansas, United States --&gt;
+|-
+|    RUG || ZSRG || [[Rugao Air Base]] || [[Rugao]], [[Jiangsu]], [[China]]
+&lt;!-- RUG is FAA code (not IATA) for Rugby Municipal Airport in Rugby, North Dakota, United States --&gt;
+|-
+|    RUH || OERK || [[King Khalid International Airport]] || [[Riyadh]], [[Saudi Arabia]]
+|-
+|    RUK || VNRK || [[Rukumkot Airport]] || [[Rukumkot]], [[Nepal]]
+|-
+|    RUM || VNRT || [[Rumjatar Airport]] || [[Rumjatar]], [[Nepal]]
+|-
+|    RUN || FMEE || [[Roland Garros Airport]] || [[Saint-Denis, Réunion|St Denis]], [[Réunion]], [[France]]
+|-
+|    RUP || VERU || [[Rupsi Airport]] || [[Rupsi]], [[Meghalaya]], [[India]]
+&lt;!-- RUQ is FAA code (IATA: SRW) for Rowan County Airport in Salisbury, North Carolina, United States --&gt;
+|-
+|    RUR || NTAR || [[Rurutu Airport]] || [[Rurutu]], [[French Polynesia]]
+|-
+|    RUS ||      || [[Marau Sound Airport]] || [[Marau Sound]], [[Solomon Islands]]
+|-
+|    RUT || KRUT || [[Rutland State Airport]] || [[Rutland (city), Vermont|Rutland, Vermont]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RV&quot;/&gt;-RV-
+|-
+|    RVE || SKSA || [[Los Colonizadores Airport]] || [[Saravena]], [[Colombia]]
+|-
+|    RVH || ULSS || [[Rzhevka Airport]] || [[Saint Petersburg]], [[Russia]]
+|-
+&lt;!-- RVJ is FAA code (not IATA) for Reidsville Municipal Airport (Swinton Smith Field) in Reidsville, Georgia, United States --&gt;
+|-
+|    RVK || ENRM || [[Rørvik Airport, Ryum]] || [[Rørvik]], [[Norway]]
+&lt;!-- RVL is FAA code (IATA: RED) for Mifflin County Airport in Reedsville, Pennsylvania, United States --&gt;
+|-
+|    RVN || EFRO || [[Rovaniemi Airport]] || [[Rovaniemi]], [[Finland]]
+|-
+|    RVS || KRVS || [[Richard Lloyd Jones Jr. Airport]] || [[Tulsa, Oklahoma]], [[United States]]
+|-
+|    RVV ||      || [[Raivavae Airport]] || [[Rairua]], [[French Polynesia]]
+|-
+|    RVY || SURV || [[Rivera International Airport|Pte. Gral. Óscar D. Gestido International Airport]] || [[Rivera]], [[Rivera Department|Rivera]], [[Uruguay]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RW&quot;/&gt;-RW-
+|-
+|    RWF || KRWF || [[Redwood Falls Municipal Airport]] || [[Redwood Falls, Minnesota]], [[United States]]
+|-
+|    RWI || KRWI || [[Rocky Mount-Wilson Regional Airport]] || [[Rocky Mount, North Carolina]], [[United States]]
+|-
+|    RWL || KRWL || [[Rawlins Municipal Airport]] (Harvey Field) || [[Rawlins, Wyoming]], [[United States]]
+|-
+|    RWN || UKLR || [[Rovno Airport]] || [[Rivne]], [[Ukraine]]
+&lt;!-- RWN is FAA code (not IATA) for Arens Field in Winamac, Indiana, United States --&gt;
+&lt;!-- RWV is FAA code (not IATA) for Caldwell Municipal Airport in Caldwell, Texas, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RX&quot;/&gt;-RX-
+|-
+|    RXE &lt;ref name=&quot;IATA&quot;/&gt; || KRXE || [[Rexburg-Madison County Airport]] || [[Rexburg, Idaho]], [[United States]]
+|-
+|    RXS || RPVR || [[Roxas Airport]] || [[Roxas City]], [[Capiz]], [[Philippines]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RY&quot;/&gt;-RY-
+|-
+|    RYB || UUBK || [[Staroselye Airport]] || [[Rybinsk]], [[Yaroslavl Oblast]], Russia
+|-
+|    RYG || ENRY || [[Moss Airport, Rygge]] / [[Rygge Air Station]] || [[Rygge]] (near [[Moss, Norway|Moss]]), [[Norway]]
+&lt;!-- RYM is FAA code (not IATA) for Ray S. Miller Army Airfield in Camp Ripley, Minnesota, United States --&gt;
+|-
+|    RYN || LFCY || [[Medis Airport]] || [[Royan]], [[France]]
+&lt;!-- RYN is FAA code (not IATA) for Ryan Field in Tucson, Arizona, United States --&gt;
+&lt;!-- RYV is FAA code (not IATA) for Watertown Municipal Airport in Watertown, Wisconsin, United States --&gt;
+&lt;!-- RYW is FAA code (not IATA) for Rusty Allen Airport in Lago Vista, Texas, United States --&gt;
+&lt;!-- RYY is FAA code (not IATA) for Cobb County Airport (McCollum Field) in Atlanta, Georgia, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;RZ&quot;/&gt;-RZ-
+|-
+|    RZE || EPRZ || [[Rzeszów-Jasionka Airport]] || [[Rzeszów]], [[Poland]]
+&lt;!-- RZL is FAA code (IATA: RNZ) for Jasper County Airport in Rensselaer, Indiana, United States --&gt;
+|-
+|    RZN || UUWR || [[Turlatovo Airport]] || [[Ryazan]], [[Russia]]
+&lt;!-- RZL is FAA code (not IATA) for Burnett County Airport in Siren, Wisconsin, United States --&gt;
+|-
+|    RZP || RPSD || [[Taytay Airport|Cesar Lim Rodriguez (Taytay-Sandoval) Airport]] || [[Taytay, Palawan|Taytay]], [[Palawan]], [[Philippines]]
+&lt;!-- RZT is FAA code (not IATA) for Ross County Airport in Chillicothe, Ohio, United States --&gt;
+|-
+|    RZZ || KRZZ || [[Halifax County Airport]] || [[Roanoke Rapids, North Carolina]], [[United States]]
+
+|}
+
+==References==
+;General references:
+* {{cite web | url = http://www.iata.org/publications/Pages/code-search.aspx | title = IATA Airline and Airport Code Search | publisher = [[International Air Transport Association]]}}
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = [[PDF]] | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+;Specific citations
+{{reflist|refs=
+&lt;ref name=&quot;IATA&quot;&gt;
+ {{cite web
+ | url = http://www.iata.org/publications/Pages/code-search.aspx
+ | title = IATA Airport Code Search
+ | publisher = [[International Air Transport Association]]
+ | accessdate = June 13, 2013
+ }}
+&lt;/ref&gt;
+}}
+
+[[Category:Lists of airports by IATA code|R]]</text>
+      <sha1>8prh4mmlco6kroh41lvv1x32nwu0edp</sha1>
+    </revision>
+  </page>
+</mediawiki>

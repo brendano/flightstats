@@ -1,0 +1,620 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: J</title>
+    <ns>0</ns>
+    <id>317108</id>
+    <revision>
+      <id>661001712</id>
+      <parentid>657152638</parentid>
+      <timestamp>2015-05-05T20:36:48Z</timestamp>
+      <contributor>
+        <username>R'n'B</username>
+        <id>2300502</id>
+      </contributor>
+      <minor/>
+      <comment>Disambiguate link to [[Qianjiang]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="36035">{{Lists of airports by IATA code}}
+
+==J==
+{{AlphanumericTOC|prefixLink=J|prefixDesc=J|numbers=|sections=}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+! style=&quot;text-align:left;&quot; | Time
+! style=&quot;text-align:left;&quot; | DST
+&lt;!-- comments added to prevent addition of incorrect IATA codes --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JA&quot;/&gt;-JA-
+|-
+|    JAA || OAJL || [[Jalalabad Airport]] || [[Jalalabad]], [[Afghanistan]] || [[Time in Afghanistan|UTC+04:30]] ||
+|-
+|    JAB || YJAB || [[Jabiru Airport]] || [[Jabiru, Northern Territory]], [[Australia]] || [[Australian Time|UTC+09:30]] ||
+|-
+|    JAC || KJAC || [[Jackson Hole Airport]] || [[Jackson, Wyoming]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    JAD || YPJT || [[Jandakot Airport]] || [[Jandakot, Western Australia]], [[Australia]] || [[Australian Time|UTC+08:00]] ||
+|-
+|    JAF || VCCJ || [[Jaffna Airport]] || [[Jaffna]], [[Sri Lanka]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    JAG || OPJA || [[Jacobabad Airbase|Jacobabad Air Base]] (Shahbaz Air Base) || [[Jacobabad]], [[Pakistan]] || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    JAH ||      || [[Agora Helipad]] || [[Aubagne]], [[France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    JAI || VIJP || [[Jaipur Airport]] (Sanganer Airport) || [[Jaipur]] / [[Sanganer]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    JAK || MTJA || [[Jacmel Airport]] || [[Jacmel]], [[Haiti]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    JAL || MMJA || [[El Lencero Airport]] || [[Xalapa, Veracruz|Jalapa]], [[Veracruz]], [[Mexico]] || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+|    JAM ||      || [[Bezmer Air Base]] || [[Yambol]] (Jambol), [[Bulgaria]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    JAN || KJAN || [[Jackson-Evers International Airport]] || [[Jackson, Mississippi]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    JAQ ||      || [[Jacquinot Bay Airport]] || [[Jacquinot Bay]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    JAS || KJAS || [[Jasper County Airport (Texas)|Jasper County Airport]] (Bell Field) || [[Jasper, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    JAT ||      || [[Jabot Airport]] || [[Jabat Island]], [[Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    JAU || SPJJ || [[Francisco Carle Airport]] || [[Jauja]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+&lt;!-- JAU is FAA code (not IATA) for Campbell County Airport in Jacksboro, Tennessee, United States --&gt;
+|-
+|    JAV || BGJN || [[Ilulissat Airport]] || [[Ilulissat]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    JAX || KJAX || [[Jacksonville International Airport]] || [[Jacksonville, Florida]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JB&quot;/&gt;-JB-
+|-
+|    JBB ||      || [[Jember Noto Hadinegoro Airport]] || [[Jember]], [[Jember Regency]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|-
+|    JBP ||      || [[Commerce Business Park Heliport]] (FAA: 2CL0) || [[Commerce, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    JBQ || MDJB || [[La Isabela International Airport]] || [[La Isabela]], [[Dominican Republic]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    JBR || KJBR || [[Jonesboro Municipal Airport]] || [[Jonesboro, Arkansas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    JBT ||      || [[Bethel Seaplane Base]] (FAA: Z59) || [[Bethel, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JC&quot;/&gt;-JC-
+|-
+|    JCA ||      || [[Croisette Heliport]] || [[Cannes]], [[Côte d'Azur]], [[France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    JCB || SSJA || [[Joaçaba Airport]] || [[Joaçaba]], [[Santa Catarina (state)|Santa Catarina]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    JCE ||      || [[Oakland Convention Center Heliport]] (FAA: CL41) || [[Oakland, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    JCH || BGCH || [[Qasigiannguit Heliport]] || [[Qasigiannguit]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    JCI || KIXD || [[New Century AirCenter]] (FAA: IXD) || [[Olathe, Kansas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    JCK || YJLC || [[Julia Creek Airport]] || [[Julia Creek, Queensland]], [[Australia]] || [[Australian Time|UTC+10:00]] ||
+|-
+|    JCM || SNJB || [[Jacobina Airport]] || [[Jacobina]], [[Bahia]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    JCO ||      || [[Comino Heliport]] || [[Comino]], [[Malta]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    JCR || SBEK || [[Jacareacanga Airport]] || [[Jacareacanga]], [[Pará]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    JCT || KJCT || [[Kimble County Airport]] || [[Junction, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    JCU || GECE || [[Ceuta Heliport]] || [[Ceuta]], [[Spain]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    JCY ||      || [[LBJ Ranch Airport]] (FAA: 0TE7) || [[Johnson City, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JD&quot;/&gt;-JD-
+|-
+|    JDA || KGCD || [[Grant County Regional Airport]] (Ogilvie Field) (FAA: GCD) || [[John Day, Oregon]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    JDB ||      || [[Dallas CBD Vertiport]] (Dallas Downtown Heliport) (FAA: 49T) || [[Dallas, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- JDD is FAA code (not IATA) for Wood County Airport in Mineola/Quitman, Texas, United States --&gt;
+|-
+|    JDF || SBJF || [[Francisco Alvares de Assis Airport]] ||  [[Juiz de Fora]], [[Minas Gerais]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    JDG || RKPD || [[Jungseok Airport]] || [[Jeju-do |Jeju province]], [[South Korea]] || [[Korea Standard Time|UTC+09:00]] ||
+|-
+|    JDH || VIJO || [[Jodhpur Airport]] ||  [[Jodhpur]], [[Rajasthan]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    JDM ||      || [[Miami Downtown Heliport]] (FAA: X48) || [[Miami, Florida]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    JDN || KJDN || [[Jordan Airport]] || [[Jordan, Montana]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    JDO || SBJU || [[Cariri Regional Airport]] || [[Juazeiro do Norte]], [[Ceará]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    JDP || LFPI || [[Paris - Issy-les-Moulineaux Heliport]] || [[Issy-les-Moulineaux]] / [[Paris]], [[France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    JDT ||      || [[Minneapolis Downtown Heliport]] || [[Minneapolis, Minnesota]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    JDX ||      || [[Houston Central Business District Heliport]] || [[Houston, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    JDY ||      || [[Downey Heliport]] || [[Downey, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    JDZ || ZSJD || [[Jingdezhen Airport]] || [[Jingdezhen]], [[Jiangxi]], [[China]] || [[Time in China|UTC+08:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JE&quot;/&gt;-JE-
+|-
+|    JED || OEJN || [[King Abdulaziz International Airport]] || [[Jeddah]], [[Saudi Arabia]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    JEE || MTJE || [[Jérémie Airport]] || [[Jérémie]], [[Haiti]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    JEF || KJEF || [[Jefferson City Memorial Airport]] || [[Jefferson City, Missouri]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    JEG || BGAA || [[Aasiaat Airport]] || [[Aasiaat]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    JEJ ||      || [[Jeh Airport]] || [[Ailinglaplap Atoll]], [[Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    JEM ||      || [[Emeryville Heliport]] || [[Emeryville, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    JEQ || SNJK || [[Jequié Airport]] || [[Jequié]], [[Bahia]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    JER || EGJJ || [[Jersey Airport]] || [[Jersey]], [[Channel Islands]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+&lt;!-- JES is FAA code (not IATA) for Jesup-Wayne County Airport in Jesup, Georgia, United States --&gt;
+|-
+|    JEV ||      || [[Évry Heliport]] || [[Évry, Essonne]], [[France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JF&quot;/&gt;-JF-
+|-
+|    JFK || KJFK || [[John F. Kennedy International Airport]] || [[New York City]], [[New York]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    JFM ||      || [[Fremantle Heliport]] || [[Fremantle, Western Australia]], [[Australia]] || [[Australian Time|UTC+08:00]] ||
+|-
+|    JFN || KHZY || [[Ashtabula County Airport]] (FAA: HZY) || [[Ashtabula, Ohio]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    JFR || BGPT || [[Paamiut Airport]] || [[Paamiut]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+&lt;!-- JFX is FAA code (not IATA) for Walker County Airport (Bevill Field) in Jasper, Alabama, United States --&gt;
+&lt;!-- JFZ is FAA code (not IATA) for Tazewell County Airport in Richlands, Virginia, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JG&quot;/&gt;-JG-
+|-
+|    JGA || VAJM || [[Jamnagar Airport]] || [[Jamnagar]], [[Gujurat]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    JGB ||      || [[Jagdalpur Airport]] || [[Jagdalpur]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    JGC ||      || [[Grand Canyon Heliport]] || [[Grand Canyon]], [[Arizona]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+|    JGD || ZYJD || [[Jiagedaqi Airport]] || [[Jiagedaqi]], [[Heilongjiang]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    JGE ||      || [[Geoje Airport]] || [[Geoje]], [[South Korea]] || [[Korea Standard Time|UTC+09:00]] ||
+&lt;!-- JGG is FAA code (not IATA) for Williamsburg-Jamestown Airport in Williamsburg, Virginia, United States --&gt;
+|-
+|    JGL ||      || [[Galleria Heliport]] (FAA: 16GA) || [[Marietta, Georgia]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    JGN || ZLJQ || [[Jiayuguan Airport]] || [[Jiayuguan (city)|Jiayuguan]], [[Gansu]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    JGO || BGGN || [[Qeqertarsuaq Heliport]] || [[Qeqertarsuaq]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    JGP ||      || [[Greenway Plaza Heliport]] || [[Houston, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    JGQ ||      || [[Transco Tower Garage Heliport]] (FAA: TS31) || [[Houston, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    JGR || BGGD || [[Kangilinnguit Heliport]] (Grønnedal Heliport) || [[Kangilinnguit]] (Grønnedal), [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    JGS || ZSJA || [[Jinggangshan Airport]] || [[Ji'an]], [[Jiangxi]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    JGX ||      || [[Glendale Heliport]] || [[Glendale, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JH&quot;/&gt;-JH-
+|-
+|    JHB || WMKJ || [[Sultan Ismail International Airport]] || [[Johor Bahru]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    JHC ||      || [[Island Heliport]] || [[Garden City, New York]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    JHE || ESHH || [[Hamnen Heliport]] || [[Helsingborg]], [[Sweden]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    JHG || ZPJH || [[Xishuangbanna Gasa Airport]] || [[Jinghong]], [[Xishuangbanna]], [[Yunnan]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    JHM || PHJH || [[Kapalua Airport]] || [[Lahaina, Hawaii]], [[United States]] || [[Hawaii–Aleutian Time Zone|UTC−10:00]] ||
+&lt;!-- JHQ is no longer the IATA code of the [[Shute Harbour Airport]] (ICAO: YSHR), [[Shute Harbour]], [[Queensland]], [[Australia]]. See [[Whitsunday Airport]] --&gt;
+|-
+|    JHS || BGSS || [[Sisimiut Airport]] || [[Sisimiut]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    JHW || KJHW || [[Chautauqua County-Jamestown Airport]] || [[Jamestown, New York]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JI&quot;/&gt;-JI-
+|-
+|    JIA || SWJN || [[Juina Airport]] || [[Juina]], [[Mato Grosso]], [[Brazil]] || [[Time in Brazil|UTC−04:00]] || Oct-Feb
+|-
+|    JIB || HDAM || [[Ambouli Airport]] || [[Djibouti]], [[Djibouti]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    JIC || ZLJC || [[Jinchang Jinchuan Airport]] || [[Jinchang]], [[Gansu]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    JID ||      || [[Recreation and Conference Center Heliport]] (FAA: 9CA3) || [[City of Industry, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    JIJ || HAJJ || [[Jijiga Airport]] || [[Jijiga]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    JIK || LGIK || [[Ikaria Airport]] || [[Ikaria]], [[Greece]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    JIL || ZYJL || [[Jilin Ertaizi Airport]] || [[Jilin City]], [[Jilin]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    JIM || HAJM || [[Aba Segud Airport]] || [[Jimma]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    JIN || HUJI || [[Jinja Airport]] || [[Jinja, Uganda|Jinja]], [[Uganda]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    JIO ||      || [[Ontario International Heliport]] || [[Ontario, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    JIP || SEJI || [[Jipijapa Airport]] || [[Jipijapa, Ecuador|Jipijapa]], [[Ecuador]] || [[Time in Ecuador|UTC−05:00]] ||
+|-
+|    JIQ ||      || [[Qianjiang Zhoubai Airport]] || [[Qianjiang, Chongqing]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    JIR || VNJI || [[Jiri Airport]] || [[Jiri]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    JIU || ZSJJ || [[Jiujiang Lushan Airport]] || [[Jiujiang]], [[Jiangxi]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    JIW || OPJI || [[Jiwani Airport]] || [[Jiwani]], [[Pakistan]] || [[Time in Pakistan|UTC+05:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JJ&quot;/&gt;-JJ-
+|-
+|    JJC || MMJC || [[Jorge Jiménez Cantú National Airport]] || [[Atizapán de Zaragoza]], [[Mexico]] || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+|    JJI || SPJI || [[Juanjuí Airport]] || [[Juanjuí]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+|-
+|    JJN || ZSQZ || [[Quanzhou Jinjiang Airport]] || [[Jinjiang City]], [[Quanzhou]], [[Fujian]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    JJU || BGJH || [[Qaqortoq Heliport]] || [[Qaqortoq]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JK&quot;/&gt;-JK-
+&lt;!-- JKA is FAA code (IATA: GUF) for Jack Edwards Airport in Gulf Shores, Alabama, United States --&gt;
+|-
+|    JKG || ESGJ || [[Jönköping Airport]] || [[Jönköping]], [[Sweden]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    JKH || LGHI || [[Chios Island National Airport]] || [[Chios Island]], [[Greece]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+&lt;!-- JKJ is FAA code (not IATA) for Moorhead Municipal Airport in Moorhead, Minnesota, United States --&gt;
+|-
+|    JKL &lt;ref&gt;[http://www.hcaa-eleng.gr/kalymnosdat.htm Kalymnos National Airport (IATA: JKL)]&lt;/ref&gt; || LGKY || [[Kalymnos National Airport]] || [[Kalymnos]], [[Greece]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+&lt;!-- JKL is FAA code (not IATA) for Julian Carroll Airport in Jackson, Kentucky, United States --&gt;
+|-
+|    JKR || VNJP || [[Janakpur Airport]] || [[Janakpur]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    JKT ||      || All Airports  || [[Jakarta]], [[Java]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|-
+|    JKV || KJSO || [[Cherokee County Airport (Texas)|Cherokee County Airport]] (FAA: JSO) || [[Jacksonville, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JL&quot;/&gt;-JL-
+|-
+|    JLA ||      || [[Quartz Creek Airport]] || [[Cooper Landing, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    JLB ||      || [[Long Beach Heliport]] || [[Long Beach, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    JLD || ESML || [[Landskrona Heliport]] || [[Landskrona]], [[Sweden]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    JLN || KJLN || [[Joplin Regional Airport]] || [[Joplin, Missouri]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    JLO ||      || [[Jesolo Airport]] || [[Jesolo]], [[Italy]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    JLP ||      || [[Juan-les-Pins Airport]] || [[Juan-les-Pins]], [[France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    JLR || VAJB || [[Jabalpur Airport]] || [[Jabalpur]], [[Madhya Pradesh]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    JLS ||      || [[Jales Airport]] || [[Jales]], [[São Paulo (state)|São Paulo]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    JLX ||      || [[Los Angeles Union Station Heliport]] (FAA: 54L) || [[Los Angeles, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JM&quot;/&gt;-JM-
+|-
+|    JMB ||      || [[Jamba Airport]] || [[Jamba, Huíla]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    JMC || KJMC || [[Commodore Center Heliport]] || [[Sausalito, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    JMD ||      || [[Market Centre Heliport]] || [[Dallas, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    JMK || LGMK || [[Mykonos Island National Airport]] || [[Mykonos Island]], [[Greece]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    JMM || ESHM || [[Malmö Harbour Heliport]] || [[Malmö]], [[Sweden]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    JMN ||      || [[Mankato Municipal Heliport]] || [[Mankato, Minnesota]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    JMO || VNJS || [[Jomsom Airport]] || [[Jomsom]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+&lt;!-- JMR is FAA code (not IATA) for Mora Municipal Airport in Mora, Minnesota, United States --&gt;
+|-
+|    JMS || KJMS || [[Jamestown Regional Airport]] || [[Jamestown, North Dakota]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    JMU || ZYJM || [[Jiamusi Dongjiao Airport]] || [[Jiamusi]], [[Heilongjiang]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    JMY ||      || [[Mammy Yoko Heliport]] || [[Freetown]], [[Sierra Leone]] || [[Greenwich Mean Time|UTC±00:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JN&quot;/&gt;-JN-
+|-
+|    JNA || SNJN || [[Januária Airport]] || [[Januária]], [[Minas Gerais]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    JNB || FAOR || [[OR Tambo International Airport]] || [[Johannesburg]], [[Gauteng]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    JNG || ZLJN || [[Jining Airport]] || [[Jining, Shandong]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    JNI || SAAJ || [[Junín Airport]] || [[Junín, Buenos Aires]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    JNJ ||  || [[Duqm Jaaluni Airport]] || [[Duqm]], [[Oman]] || [[UTC+04:00]] ||
+|-
+|    JNN || BGNN || [[Nanortalik Heliport]] || [[Nanortalik]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    JNP ||      || [[Newport Beach Heliport]] || [[Newport Beach, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    JNS || BGNS || [[Narsaq Heliport]] || [[Narsaq]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    JNU || PAJN || [[Juneau International Airport]] || [[Juneau, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    JNX || LGNX || [[Naxos Island National Airport]] || [[Naxos Island]], [[Greece]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    JNZ || ZYJZ || [[Jinzhou Airport]] || [[Jinzhou]], [[Liaoning]], [[China]] || [[Time in China|UTC+08:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JO&quot;/&gt;-JO-
+|-
+|    JOE || EFJO || [[Joensuu Airport]] || [[Joensuu]], [[Finland]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    JOG || WIIJ || [[Adisucipto International Airport]] || [[Yogyakarta (city)|Yogyakarta]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|-
+|    JOH || FAPJ || [[Port Saint Johns Airport]] || [[Port Saint Johns]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    JOI || SBJV || [[Joinville Airport]] (Cubatao Airport) || [[Joinville]], [[Santa Catarina (state)|Santa Catarina]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    JOK || UWKJ || [[Yoshkar-Ola Airport]] || [[Yoshkar-Ola]], [[Russia]] || [[Moscow Time|UTC+03:00]] ||
+|-
+|    JOL || RPMJ || [[Jolo Airport]] || [[Jolo, Sulu|Jolo]], [[Sulu Province|Sulu]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    JOM || HTNJ || [[Njombe Airport]] || [[Njombe]], [[Tanzania]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    JON || PJON || [[Johnston Atoll Airport]] || [[Johnston Atoll]], [[U.S. Minor Outlying Islands]] || [[Hawaii–Aleutian Time Zone|UTC−10:00]] ||
+|-
+|    JOP ||      || [[Josephstaal Airport]] || [[Josephstaal]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    JOR ||      || [[Choc Heliport]] (FAA: 4CA5) || [[Orange, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    JOS || DNJO || [[Jos Airport]] (Yakubu Gowon Airport) || [[Jos]], [[Nigeria]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    JOT || KJOT || [[Joliet Regional Airport]] || [[Joliet, Illinois]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JP&quot;/&gt;-JP-
+|-
+|    JPA || SBJP || [[Presidente Castro Pinto International Airport]] || [[João Pessoa, Paraíba|João Pessoa]], [[Paraíba]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    JPD ||      || [[Pasadena Heliport]] || [[Pasadena, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    JPN || KJPN || [[Pentagon Army Heliport]] || [[Washington, D.C.]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    JPR || SWJI || [[Ji-Paraná Airport]] || [[Ji-Paraná]], [[Rondônia]], [[Brazil]] || [[Time in Brazil|UTC−04:00]] ||
+|-
+|    JPU ||      || [[La Défense Heliport]] || [[Paris]], [[France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JQ&quot;/&gt;-JQ-
+|-
+|    JQA || BGUQ || [[Qaarsut Airport]] (Uummannaq Airport) || [[Qaarsut]] / [[Uummannaq]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    JQE || MPJE || [[Jaqué Airport]] || [[Jaqué]], [[Panama]] || [[Eastern Time Zone|UTC−05:00]] ||
+&lt;!-- JQF is FAA code (not IATA) for Concord Regional Airport in Concord, North Carolina, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JR&quot;/&gt;-JR-
+|-
+|    JRA || KJRA || [[West 30th Street Heliport]] || [[New York City]], [[New York]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    JRB || KJRB || [[Downtown Manhattan Heliport]] (Wall St. Heliport) || [[New York City]], [[New York]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    JRC ||      || [[Rochester Municipal Heliport]] || [[Rochester, Minnesota]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    JRD ||      || [[Riverside Metro Center Heliport]] (FAA: CA81) || [[Riverside, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    JRE ||      || [[East 60th Street Heliport]] || [[New York City]], [[New York]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- JRF is FAA code (not IATA) for Kalaeloa Airport (John Rodgers Field) in Kapolei, Hawaii, United States --&gt;
+|-
+|    JRH || VEJT || [[Jorhat Airport]] || [[Jorhat]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    JRK || BGAR || [[Arsuk Airport]] || [[Arsuk]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    JRN || SWJU || [[Juruena Airport]] || [[Juruena]], [[Mato Grosso]], [[Brazil]] || [[Time in Brazil|UTC−04:00]] || Oct-Feb
+|-
+|    JRO || HTKJ || [[Kilimanjaro International Airport]] || [[Kilimanjaro]], [[Tanzania]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    JRS || OJJR || [[Atarot Airport]] (Jerusalem International Airport)  || [[Jerusalem]], [[Israel]] || [[Israel Standard Time|UTC+02:00]] || Mar-Oct
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JS&quot;/&gt;-JS-
+|-
+|    JSA || VIJR || [[Jaisalmer Airport]] || [[Jaisalmer]], [[India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    JSD || KJSD || [[Sikorsky Heliport]] || [[Stratford, Connecticut]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    JSG ||      || [[San Rafael Heliport]] || [[San Rafael, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    JSH || LGST || [[Sitia Public Airport]] || [[Sitia]], [[Crete]], [[Greece]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    JSI || LGSK || [[Skiathos Island National Airport]] || [[Skiathos Island, Greece]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    JSK ||      || [[St. Cloud Municipal Heliport]] || [[St. Cloud, Minnesota]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    JSL ||      || [[Steel Pier Taj Mahal Heliport]] (FAA: 28NJ) || [[Atlantic City, New Jersey]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    JSM || SAWS || [[José de San Martín Airport]] || [[José de San Martín]], [[Chubut Province|Chubut]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    JSN ||      || [[Sherman Oaks Community Hospital Heliport]] (FAA: CL80) || [[Sherman Oaks, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    JSO ||      || [[Södertälje Heliport]] || [[Södertälje]], [[Sweden]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- JSO is FAA code (IATA: JKV) for Cherokee County Airport in Jacksonville, Texas, United States --&gt;
+|-
+|    JSP ||      || [[Sogwipo Heliport]] || [[Sogwipo]] (Seogwipo), [[Jeju-do|Cheju]] (Jeju), [[South Korea]] || [[Korea Standard Time|UTC+09:00]] ||
+|-
+|    JSR || VGJR || [[Jessore Airport]] || [[Jessore]], [[Bangladesh]] || [[Bangladesh Standard Time|UTC+06:00]] ||
+|-
+|    JSS ||      || [[Spetses Heliport]] || [[Spetses]], [[Greece]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    JST || KJST || [[John Murtha Johnstown-Cambria County Airport]] || [[Johnstown, Pennsylvania]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    JSU || BGMQ || [[Maniitsoq Airport]] || [[Maniitsoq]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+&lt;!-- JSV is FAA code (not IATA) for Sallisaw Municipal Airport in Sallisaw, Oklahoma, United States --&gt;
+|-
+|    JSY || LGSO || [[Syros Island Airport]] || [[Syros Island]], [[Greece]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    JSZ ||      || [[Saint-Tropez Heliport]] || [[Saint-Tropez]], [[France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JT&quot;/&gt;-JT-
+&lt;!-- JTC is not IATA code for Bauru-Arealva Airport (ICAO: SJTC) in Bauru / Arealva, São Paulo, Brazil --&gt;
+|-
+|    JTI ||      || [[Jatai Airport]] || [[Jatai]], [[Goiás]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    JTO ||      || [[Thousand Oaks Heliport]] || [[Thousand Oaks, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    JTR || LGSR || [[Santorini Airport]] || [[Santorini]], [[Thira]], [[Greece]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    JTY || LGPL || [[Astypalaia Airport]] || [[Astypalaia Island]], [[Greece]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JU&quot;/&gt;-JU-
+|-
+|    JUA || SIZX || [[Juara Airport]] || [[Juara]], [[Mato Grosso]], [[Brazil]] || [[Time in Brazil|UTC−04:00]] || Oct-Feb
+|-
+|    JUB || HSSJ || [[Juba Airport]] || [[Juba, South Sudan|Juba]], [[South Sudan]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    JUH ||     || [[Chizhou Jiuhuashan Airport]] || [[Chizhou]] and [[Tongling]], [[Anhui]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    JUI || EDWJ || [[Juist Airport]] || [[Juist]], [[Lower Saxony]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    JUJ || SASJ || [[Gobernador Horacio Guzmán International Airport]] || [[San Salvador de Jujuy]], [[Jujuy Province|Jujuy]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    JUK || BGUT || [[Ukkusissat Heliport]] || [[Ukkusissat]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    JUL || SPJL || [[Inca Manco Capac Airport]] || [[Juliaca]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+|-
+|    JUM || VNJL || [[Jumla Airport]] || [[Jumla (town)|Jumla]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    JUN || YJDA || [[Jundah Airport]] || [[Jundah]], [[Queensland]], [[Australia]] || [[Australian Time|UTC+10:00]] ||
+|-
+|    JUO ||      || [[Juradó Airport]] || [[Juradó]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    JUR || YJNB || [[Jurien Bay Airport]] || [[Jurien Bay, Western Australia]], [[Australia]] || [[Australian Time|UTC+08:00]] ||
+|-
+|    JUT || MHJU || [[Juticalpa Airport]] || [[Juticalpa]], [[Honduras]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    JUU || BGNQ || [[Nuugaatsiaq Heliport]] || [[Nuugaatsiaq]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    JUV || BGUK || [[Upernavik Airport]] || [[Upernavik]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    JUZ || ZSJU || [[Quzhou Airport]] || [[Quzhou]], [[Zhejiang]], [[China]] || [[Time in China|UTC+08:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JV&quot;/&gt;-JV-
+|-
+|    JVA || FMMK || [[Ankavandra Airport]] || [[Ankavandra]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    JVI ||      || [[Central Jersey Regional Airport]] (FAA: 47N) || [[Manville, New Jersey]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    JVL || KJVL || [[Southern Wisconsin Regional Airport]] || [[Janesville, Wisconsin]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- JVM is FAA code (not IATA) for Jonesville Mine Airport (ICAO: PAJV) in Sutton, Alaska, United States --&gt;
+&lt;!-- JVY is FAA code (not IATA) for Clark Regional Airport in Jeffersonville, Indiana, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JW&quot;/&gt;-JW-
+|-
+|    JWA || FBJW || [[Jwaneng Airport]] || [[Jwaneng]], [[Botswana]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    JWC ||      || [[Warner Center Plaza One Heliport]] (FAA: 96CA) || [[Woodland Hills, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    JWH ||      || [[Westchase Hilton Heliport]] (FAA: TS24) || [[Houston, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- JWN is FAA code (not IATA) for John C. Tune Airport in Nashville, Tennessee, United States --&gt;
+&lt;!-- JWY is FAA code (not IATA) for Mid-Way Regional Airport in Midlothian/Waxahachie, Texas, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JX&quot;/&gt;-JX-
+&lt;!-- JXI is FAA code (not IATA) for Gilmer Municipal Airport (Fox Stephens Field) in Gilmer, Texas, United States --&gt;
+|-
+|    JXA || ZYJX || [[Jixi Xingkaihu Airport]] || [[Jixi]], [[Heilongjiang]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    JXN || KJXN || [[Jackson County Airport (Michigan)|Jackson County Airport]] (Reynolds Field) || [[Jackson, Michigan]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JY&quot;/&gt;-JY-
+&lt;!-- JYG is FAA code (not IATA) for St. James Municipal Airport in St. James, Minnesota, United States --&gt;
+&lt;!-- JYL is FAA code (not IATA) for Plantation Airpark in Sylvania, Georgia, United States --&gt;
+&lt;!-- JYM is FAA code (not IATA) for Hillsdale Municipal Airport in Hillsdale, Michigan, United States --&gt;
+|-
+|    JYO || KJYO || [[Leesburg Executive Airport]] || [[Leesburg, Virginia]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- JYR is FAA code (not IATA) for York Municipal Airport in York, Nebraska, United States --&gt;
+|-
+|    JYV || EFJY || [[Jyväskylä Airport]] || [[Jyväskylä]], [[Finland]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;JZ&quot;/&gt;-JZ-
+|-
+|    JZH || ZUJZ || [[Jiuzhaigou Huanglong Airport]] || [[Songpan County]], [[Sichuan]], [[China]] || [[Time in China|UTC+08:00]] ||
+&lt;!-- JZI is FAA code (not IATA) for Charleston Executive Airport in Charleston, South Carolina, United States --&gt;
+&lt;!-- JZP is FAA code (not IATA) for Pickens County Airport in Jasper, Georgia, United States --&gt;
+&lt;!-- JZZ is FAA code (IATA: KGK) for Koliganek Airport in Koliganek, Alaska, United States --&gt;
+
+|}
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = [[PDF]] | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+==Footnotes==
+{{reflist}}
+
+[[Category:Lists of airports by IATA code|J]]</text>
+      <sha1>fp02b369nmzzpi4c943m6slvgy8695y</sha1>
+    </revision>
+  </page>
+</mediawiki>

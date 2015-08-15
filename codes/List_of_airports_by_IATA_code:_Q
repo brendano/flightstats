@@ -1,0 +1,309 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: Q</title>
+    <ns>0</ns>
+    <id>317142</id>
+    <revision>
+      <id>667244623</id>
+      <parentid>661675257</parentid>
+      <timestamp>2015-06-16T19:54:32Z</timestamp>
+      <contributor>
+        <username>TimDierks</username>
+        <id>5438409</id>
+      </contributor>
+      <comment>Correct reference to QNY, including comment and cite.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11848">{{Lists of airports by IATA code}}
+
+==Q==
+{{AlphanumericTOC|prefixLink=Q|prefixDesc=Q|numbers=|sections=|e=QE|q=QQ&lt;!--no QE or QQ section--&gt;}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QA&quot;/&gt;-QA-
+|-
+|    QAJ ||      || [[Ajman International Airport]] (under construction) || [[Ajman]], [[United Arab Emirates]]
+|-
+|    QAM || LFAY || [[Amiens-Glisy Airport]] || [[Amiens]], [[France]]
+&lt;!-- QAP is not IATA code per references, was here as Apapa Airport in Apapa, Nigeria --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QB&quot;/&gt;-QB-
+&lt;!-- QBA is not IATA code per references, was here as All Airports in San Francisco Bay Area --&gt;
+|-
+|    QBC || CYBD || [[Bella Coola Airport]] || [[Bella Coola, British Columbia]], [[Canada]]
+|-
+|    QBQ || LFQM || [[Besançon - La Vèze Aerodrome]] || [[Besançon]] / [[La Vèze]], [[France]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QC&quot;/&gt;-QC-
+&lt;!-- QCN is not IATA code per references, was here as All Airports in Canela, Rio Grande do Sul, Brasil --&gt;
+|-
+|    QCY || EGXC || [[RAF Coningsby]] || [[Coningsby]], [[England]], [[United Kingdom]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QD&quot;/&gt;-QD-
+&lt;!-- QDP is not IATA code per references, was here as Dom Pedrito Airport in Dom Pedrito, Rio Grande do Sul, Brasil --&gt;
+|-
+|    QDF || SNKF || [[Conselheiro Lafaiete Airport]] || [[Conselheiro Lafaiete]], [[Minas Gerais]], [[Brazil]]
+
+&lt;cite id=&quot;QE&quot;/&gt;
+&lt;!-- QEF is not IATA code per references, was here as Frankfurt Egelsbach Airport in Frankfurt/Main, Germany --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QF&quot;/&gt;-QF-
+&lt;!-- QFB is not IATA code per references, was here as Freiburg Airport in Freiburg, Germany --&gt;
+|-
+|    QFD || DAAK || [[Boufarik Airport]] || [[Boufarik]], [[Algeria]]
+|-
+|    QFG || BGET || [[Eqalugaarsuit Heliport]] || [[Eqalugaarsuit]], [[Greenland]]
+|-
+|    QFN || BGFD || [[Narsaq Kujalleq Heliport]] || [[Narsaq Kujalleq]], [[Greenland]]
+|-
+|    QFO || EGSU || [[Duxford Airport]] || [[Duxford]], [[England]], [[United Kingdom]]
+|-
+|    QFR || LIRH || [[Frosinone Airport]] || [[Frosinone]], [[Italy]]
+|-
+|    QFX ||      || [[Igaliku Heliport]] || [[Igaliku]], [[Greenland]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QG&quot;/&gt;-QG-
+|-
+|    QGA || SSGY || [[Guaira Airport]] || [[Guaíra, Paraná]], [[Brazil]]
+&lt;!-- QGP is not IATA code per references, was here as Garanhuns Airport in Garanhuns, Pernambuco, Brazil --&gt;
+|-
+|    QGQ || BGAT || [[Attu Heliport]] || [[Attu Island]], [[Greenland]]
+|-
+|    QGU || RJNG || [[Gifu Airport]] || [[Gifu, Gifu|Gifu]], [[Japan]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QH&quot;/&gt;-QH-
+|-
+|    QHA || EBZH || [[Kiewit Airport]] || [[Hasselt]], [[Belgium]]
+&lt;!-- QHD is not IATA code per references, was here as Heidelberg AAF in Heidelberg, Germany --&gt;
+|-
+|    QHI ||      || [[Chonburi Sattahip Airport]] || [[Sattahip]], [[Chonburi Province]], [[Thailand]]
+&lt;!-- QHO is not IATA code per references, was here as All Airports in Houston, Texas, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QI&quot;/&gt;-QI-
+|-
+|    QIE || LFMI || [[Istres-Le Tubé Air Base]] || [[Istres]], [[France]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QJ&quot;/&gt;-QJ-
+|-
+|    QJB || OEJB || [[Jubail Airport]] || [[Jubail]], [[Saudi Arabia]]
+|-
+|    QJE || BGKT || [[Kitsissuarsuit Heliport]] || [[Kitsissuarsuit]], [[Greenland]]
+|-
+|    QJH || BGQT || [[Qassimiut Heliport]] || [[Qassimiut]], [[Greenland]]
+|-
+|    QJI || BGIT || [[Ikamiut Heliport]] || [[Ikamiut]], [[Greenland]]
+|-
+|    QJX || VTUM || [[Nong Khai Airport]] || [[Nong Khai]], [[Thailand]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QK&quot;/&gt;-QK-
+&lt;!-- QKF is not IATA code per references, was here as Krefeld-Egelsberg Airport in Krefeld, Germany --&gt;
+|-
+|    QKN || DTTK || [[Kairouan Airport]] || [[Kairouan]], [[Tunisia]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QL&quot;/&gt;-QL-
+|-
+|    QLA || EGHL || [[Lasham Airfield]] || [[Lasham]], [[England]], [[United Kingdom]]
+|-
+|    QLD || DAAB || [[Blida Airport]] || [[Blida]], [[Algeria]]
+&lt;!-- QLI is not IATA code per references, was here as Limassol Airport in Limassol, Cyprus --&gt;
+|-
+|    QLS || LSGL || [[Lausanne Airport|Lausanne-La Blécherette Airport]] || [[Lausanne]], [[Switzerland]]
+|-
+|    QLT || LIRL || [[Latina Airport]] || [[Latina, Lazio|Latina]] (near [[Rome]]), [[Italy]]
+&lt;!-- QLY is not the IATA code of [[Pratica di Mare Airport]], [[Pratica di Mare, Italy]] (near [[Rome]]), [[Italy]] --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QM&quot;/&gt;-QM-
+|-
+|    QMJ || OIAI || [[Shahid Asyaee Airport]] || [[Masjed Soleyman|Masjed Soleiman]], [[Iran]]
+|-
+|    QMK || BGNK || [[Niaqornaarsuk Heliport]] || [[Niaqornaarsuk]], [[Greenland]]
+|-
+|    QMM ||      || [[Cinquale Airport]] || [[Marina di Massa]], [[Italy]]
+|-
+|    QMZ || EDFZ || [[Mainz-Finthen Airport]] || [[Mainz]], [[Rhineland-Palatinate]], [[Germany]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QN&quot;/&gt;-QN-
+&lt;!-- QNB is not IATA code per references, was here as Anand Airport in Anand, India --&gt;
+|-
+|    QND || LYNS || [[Novi Sad Airport]] || [[Novi Sad]], [[Serbia]]
+|-
+|    QNJ || LFLI || [[Annemasse Airport]] || [[Annemasse]], [[France]]
+|-
+|    QNY ||      || [[Marine Air Terminal]] || [[New York City]], [[New York]], [[United States]]
+&lt;!-- Some sources describe QNY as an alias for 6N7, the New York Skyports Inc Seaplane Base, but IATA reports that QNY is the code for the Marine Air Terminal (at LGA) --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QO&quot;/&gt;-QO-
+|-
+|    QOQ || BGSO || [[Saarloq Heliport]] || [[Saarloq]], [[Greenland]]
+|-
+|    QOW || DNIM || [[Sam Mbakwe Airport]] || [[Owerri]], [[Nigeria]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QP&quot;/&gt;-QP-
+|-
+|    QPA || LIPU || [[Padua Airport]] || [[Padua]], [[Italy]]
+|-
+|    QPG || WSAP || [[Paya Lebar Air Base]] || [[Paya Lebar]], [[Singapore]]
+|-
+|    QPK || EDAY || [[Strausberg Airport]] || [[Strausberg]], [[Brandenburg]], [[Germany]]
+|-
+|    QPS || SBYS || [[Campo Fontenelle]] (military) || [[Piraçununga]], [[São Paulo (state)|São Paulo]], [[Brazil]]
+|-
+|    QPZ || LIMS || [[Piacenza Airport]] || [[Piacenza]], [[Italy]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QQ&quot;/&gt;&lt;cite id=&quot;QR&quot;/&gt;-QR-
+&lt;!-- QQT is not IATA code for Qeqertaq Heliport (ICAO: BGQE) in Qeqertaq, Greenland--&gt;
+|-
+|    QRA || FAGM || [[Rand/Germiston Airport]] || [[Johannesburg]], [[South Africa]]
+|-
+|    QRE || EDFB || [[Reichelsheim Airport]] || [[Reichelsheim (Wetterau)]], [[Hesse]], [[Germany]]
+|-
+|    QRO || MMQT || [[Querétaro International Airport]] || [[Querétaro]], [[Mexico]]
+|-
+|    QRV || LFQD || [[Arras - Roclincourt Airport]] || [[Arras]] / [[Roclincourt]], [[France]]
+|-
+|    QRY || BGIK || [[Ikerasaarsuk Heliport]] || [[Ikerasaarsuk]], [[Greenland]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QS&quot;/&gt;-QS-
+|-
+|    QSA || LELL || [[Sabadell Airport]] || [[Sabadell]], [[Barcelona (state)|Catalonia]], [[Spain]]
+|-
+|    QSC || SDSC || [[São Carlos Airport]] || [[São Carlos]], [[São Paulo (state)|São Paulo]], [[Brazil]]
+|-
+|    QSF || DAAS || [[Ain Arnat Airport]] || [[Setif]], [[Algeria]]
+&lt;!-- QSF is not IATA code for All Airports in San Francisco Bay Area, California, United States --&gt;
+|-
+|    QSI || HTMS || [[Moshi Airport]] || [[Moshi, Kilimanjaro|Moshi]], [[Tanzania]]
+|-
+|    QSR || LIRI || [[Salerno Costa d'Amalfi Airport]] || [[Salerno]], [[Italy]]
+&lt;!-- QSX is not IATA code per references, was here as New Amsterdam Airport (ICAO: SYNA) in New Amsterdam, Guyana --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QT&quot;/&gt;-QT-
+|-
+|    QTJ || LFOR || [[Chartres-Champhol Airport]] || [[Chartres]], [[France]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QU&quot;/&gt;-QU-
+|-
+|    QUG || EGHR || [[Chichester/Goodwood Airport|Goodwood Airfield]] || [[Chichester]], [[England]], [[United Kingdom]]
+|-
+|    QUD ||      ||                   || [[Damanhur]], [[Egypt]]
+|-
+|    QUO || DNAI || [[Akwa Ibom International Airport]] || [[Uyo]], [[Akwa Ibom State]], [[Nigeria]]
+&lt;!-- QUP is not IATA code per references, was here as Saqqaq Heliport (ICAO:  BGSQ) in Saqqaq, Greenland --&gt;
+|-
+|    QUS || DNGU || [[Gusau Airport]] || [[Gusau]], [[Nigeria]]
+|-
+|    QUT || RJTU || [[Utsunomiya Airport]] || [[Nikkō, Tochigi|Nikkō]] / [[Utsunomiya, Tochigi|Utsunomiya]], [[Tochigi Prefecture]], [[Japan]]
+|-
+|    QUV || BGAQ || [[Aappilattoq Heliport (Kujalleq)]] || [[Aappilattoq, Kujalleq]], [[Greenland]]
+|-
+|    QUW || BGAS || [[Ammassivik Heliport]] || [[Ammassivik]], [[Greenland]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QV&quot;/&gt;-QV-
+|-
+|    QVB || SSUV || [[União da Vitória Airport]] || [[União da Vitória]], [[Paraná (state)|Paraná]], [[Brazil]]
+&lt;!-- QVP is not IATA code per references, was here as Avaré Airport (ICAO: SDRR) in Avaré, São Paulo, Brazil --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QW&quot;/&gt;-QW-
+|-
+|    QWG ||      || [[Wilgrove Air Park]] (FAA: 8A6) || [[Charlotte, North Carolina]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QX&quot;/&gt;-QX-
+|-
+|    QXB || LFMA || [[Aix Les Milles Airport]] || [[Aix-en-Provence]] / [[Les Milles]], [[France]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QY&quot;/&gt;-QY-
+|-
+|    QYD || EPOK || [[Gdynia-Babie Doły Airport]] || [[Gdynia]], [[Poland]]
+|-
+|    QYR || LFQB || [[Barberey Airport]] || [[Troyes]], [[France]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;QZ&quot;/&gt;-QZ-
+|-
+|    QZN || DAAZ || [[Relizane Airport]] || [[Relizane]], [[Algeria]]
+|-
+|    QZO || LIQB || [[Molin Bianco Airport]] || [[Arezzo]], [[Italy]]
+
+|}
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = [[PDF]] | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* {{cite web | url = http://www.iata.org/publications/Pages/code-search.aspx | title = IATA Airline and Airport Code Search | date = 16 June 2015 }}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|Q]]</text>
+      <sha1>pkfem0q0rzuvpz38nnfx440klzx9br2</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,388 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: U</title>
+    <ns>0</ns>
+    <id>317146</id>
+    <revision>
+      <id>646667322</id>
+      <parentid>630360498</parentid>
+      <timestamp>2015-02-11T16:49:40Z</timestamp>
+      <contributor>
+        <ip>217.121.35.45</ip>
+      </contributor>
+      <comment>Added UTC (Soesterberg Air Base)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17228">{{Lists of airports by IATA code}}
+
+==U==
+{{AlphanumericTOC|prefixLink=U|prefixDesc=U|numbers=|sections=|q=UQ|x=UX&lt;!--no UQ or UX sections--&gt;}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+&lt;!-- comments added to prevent addition of incorrect IATA codes --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UA&quot;/&gt;-UA-
+|-
+|    UAK || BGBW || [[Narsarsuaq Airport]] || [[Narsarsuaq]], [[Greenland]]
+|-
+|    UAL || FNUA || [[Luau Airport]] || [[Luau, Moxico]], [[Angola]]
+|-
+|    UAM || PGUA || [[Andersen Air Force Base]] || [[Agana]], [[Guam]]
+&lt;!-- UAO is FAA code (not IATA) for Aurora State Airport in Aurora, Oregon, United States --&gt;
+|-
+|    UAQ || SANU || [[Domingo Faustino Sarmiento Airport]] || [[San Juan Province (Argentina)|San Juan Province]], [[Argentina]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UB&quot;/&gt;-UB-
+|-
+|    UBA || SBUR || [[Mário de Almeida Franco Airport]] || [[Uberaba]], [[Minas Gerais]], Brazil
+&lt;!-- UBE is FAA code (not IATA) for Cumberland Municipal Airport in Cumberland, Wisconsin, United States --&gt;
+|-
+|    UBJ || RJDC || [[Yamaguchi Ube Airport]] || [[Ube, Yamaguchi|Ube]], [[Yamaguchi Prefecture]], Japan
+|-
+|    UBP || VTUU || [[Ubon Ratchathani Airport]] || [[Ubon Ratchathani]], [[Thailand]]
+|-
+|    UBS || KUBS || [[Columbus-Lowndes County Airport]] || [[Columbus, Mississippi]], United States
+&lt;!-- UBW is FAA code (IATA: UUK, ICAO: PAKU) for Ugnu-Kuparuk Airport in Kuparuk, Alaska, United States --&gt;
+&lt;!-- UBX is FAA code (not IATA) for Cuba Municipal Airport in Cuba, Missouri, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UC&quot;/&gt;-UC-
+|-
+|    UCA || KUCA || [[Oneida County Airport]] || [[Utica, New York]], United States
+|-
+|    UCC || KUCC || [[Yucca Airstrip]] (FAA: NV11) || [[Mercury, Nevada]], United States
+|-
+|    UCE ||      || [[Eunice Airport]] (FAA: 4R7) || [[Eunice, Louisiana]], United States
+|-
+|    UCN || GLBU || [[Buchanan Airport]] || [[Buchanan, Liberia]]
+&lt;!-- UCP is FAA code (not IATA) for New Castle Municipal Airport in New Castle, Pennsylvania, United States --&gt;
+|-
+|    UCT || UUYH || [[Ukhta Airport]] || [[Ukhta]] / [[Sosnogorsk]], [[Komi Republic]], [[Russia]]
+|-
+|    UCY || KUCY || [[Everett-Stewart Airport]] || [[Union City, Tennessee]], United States
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UD&quot;/&gt;-UD-
+|-
+|    UDD || KUDD || [[Bermuda Dunes Airport]] || [[Palm Springs, California]], United States
+&lt;!-- UDG is FAA code (not IATA) for Darlington County Jetport in Darlington, South Carolina, United States --&gt;
+|-
+|    UDE || EHVK || [[Volkel Air Base]] || [[Uden]], [[Noord-Brabant]], Netherlands
+|-
+|    UDI || SBUL || [[Uberlandia Airport]] || [[Uberlândia]], [[Minas Gerais]], Brazil
+|-
+|    UDR || VAUD || [[Udaipur Airport]] || [[Udaipur]], India
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UE&quot;/&gt;-UE-
+|-
+|    UEL || FQQL || [[Quelimane Airport]] || [[Quelimane]], [[Mozambique]]
+|-
+|    UES || KUES || [[Waukesha County Airport]] || [[Waukesha, Wisconsin]], United States
+|-
+|    UET || OPQT || [[Quetta International Airport]] || [[Quetta]], Pakistan
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UF&quot;/&gt;-UF-
+|-
+|    UFA || UWUU || [[Ufa Airport]] || [[Ufa]], [[Bashkortostan]], Russia
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UG&quot;/&gt;-UG-
+|-
+|    UGA || ZMBN || [[Bulgan Airport]] || [[Bulgan Province|Bulgan]], [[Mongolia]]
+|-
+|    UGB ||      || [[Ugashik Bay Airport]] || [[Pilot Point, Alaska]], [[United States]]
+|-
+|    UGC || UTNU || [[Urgench International Airport]] || [[Urgench]], [[Uzbekistan]]
+|-
+|    UGI ||      || [[Uganik Airport]] || [[Uganik Island]], [[United States]]
+|-
+|    UGN || KUGN || [[Waukegan Regional Airport]] || [[Chicago, Illinois|Chicago]] / [[Waukegan, Illinois]], United States
+|-
+|    UGS ||      || [[Ugashik Airport]] (FAA: 9A8) || [[Ugashik, Alaska]], United States
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UH&quot;/&gt;-UH-
+|-
+|    UHE || LKKU || [[Kunovice Airport]] || [[Uherské Hradiště]], [[Czech Republic]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UI&quot;/&gt;-UI-
+|-
+|    UIB || SKUI || [[El Caraño Airport]] || [[Quibdó]], [[Colombia]]
+|-
+|    UIH || VVPC || [[Phu Cat Airport]] || [[Qui Nhơn]], [[Binh Dinh]], [[Vietnam]]
+|-
+|    UIK || UIBS || [[Ust-Ilimsk Airport]] || [[Ust-Ilimsk]], [[Irkutsk Oblast]], Russia
+|-
+|    UIL || KUIL || [[Quillayute Airport]] || [[Forks, Washington]], United States
+|-
+|    UIN || KUIN || [[Quincy Regional Airport]] (Baldwin Field) || [[Quincy, Illinois]], United States
+|-
+|    UIO || SEQM || [[Mariscal Sucre International Airport]] || [[Quito]], [[Ecuador]]
+|-
+|    UIP || LFRQ || [[Quimper - Cornouaille Airport]] || [[Quimper, Finistère|Quimper]], France
+|-
+|    UIQ || NVVQ || [[Quoin Hill Airport]] || [[Quoin Hill]], [[Vanuatu]]
+|-
+|    UIT ||      || [[Jaluit Airport]] (FAA: N55) || [[Jaluit Atoll]], [[Marshall Islands]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UJ&quot;/&gt;-UJ-
+|-
+|    UJE ||      || [[Ujae Airport]] || [[Ujae Atoll]], [[Marshall Islands]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UK&quot;/&gt;-UK-
+|-
+|    UKB || RJBE || [[Kobe Airport]] || [[Kobe]], [[Hyōgo Prefecture]], Japan
+&lt;!-- UKF is FAA code (IATA: IKB) for Wilkes County Airport in North Wilkesboro, North Carolina, United States --&gt;
+|-
+|    UKG ||      || [[Ust-Kuyga Airport]] || [[Ust-Kuyga]], [[Sakha Republic]], [[Russia]]
+|-
+|    UKI || KUKI || [[Ukiah Municipal Airport]] || [[Ukiah, California]], United States
+|-
+|    UKK || UASK || [[Oskemen Airport]] || [[Oskemen]] (Ust-Kamenogorsk), [[Kazakhstan]]
+&lt;!-- UKL is FAA code (not IATA) for Coffey County Airport in Burlington, Kansas, United States --&gt;
+|-
+|    UKN ||      || [[Waukon Municipal Airport]] (FAA: Y01) || [[Waukon, Iowa]], United States
+&lt;!-- UKS is not IATA code for Belbek Airport (IATA: BQB, ICAO: UKFB) in Sevastopol, Ukraine --&gt;
+|-
+|    UKT || KUKT || [[Quakertown Airport]] || [[Quakertown, Pennsylvania]], United States
+|-
+|    UKX || UITT || [[Ust-Kut Airport]] || [[Ust-Kut]], [[Irkutsk Oblast]], [[Russia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UL&quot;/&gt;-UL-
+|-
+|    ULG || ZMUL || [[Ölgii Airport]] || [[Bayan-Ölgii Province]], [[Mongolia]]
+|-
+|    ULI ||      || [[Falalop Airfield|Falalop Island Airport]] (FAA: TT02) || [[Falalop Island]], [[Yap]], [[Federated States of Micronesia]]
+|-
+|    ULM || KULM || [[New Ulm Municipal Airport]] || [[New Ulm, Minnesota]], United States
+|-
+|    ULN || ZMUB || [[Chinggis Khaan International Airport]] || [[Ulan Bator]], [[Mongolia]]
+|-
+|    ULO || ZMUG || [[Ulaangom Airport]] || [[Ulaangom]], [[Uvs Province]], [[Mongolia]]
+|-
+|    ULS ||      || [[Mulatos Airport]] || [[Mulatos, Colombia]]
+&lt;!-- ULS is FAA code (not IATA) for Ulysses Airport in Ulysses, Kansas, United States --&gt;
+|-
+|    ULV || UWLL || [[Ulyanovsk Baratayevka Airport]] || [[Ulyanovsk]], Russia
+|-
+|    ULY || UWLW || [[Ulyanovsk Vostochny Airport]] || [[Ulyanovsk]], Russia
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UM&quot;/&gt;-UM-
+|-
+|    UMA ||      || [[Punta de Maisi Airport]] || [[Maisí]], [[Guantánamo Province]], [[Cuba]]
+|-
+|    UMD || BGUM || [[Uummannaq Heliport]] || [[Uummannaq]], [[Greenland]]
+|-
+|    UME || ESNU || [[Umeå City Airport]] || [[Umeå]], Sweden
+|-
+|    UMM || PAST || [[Summit Airport (Alaska)|Summit Airport]] || [[Summit, Alaska]], United States
+&lt;!-- UMP is FAA code (not IATA) for Indianapolis Metropolitan Airport in Indianapolis, Indiana, United States --&gt;
+|-
+|    UMS ||      || [[Ust-Maya Airport]] || [[Ust-Maya]], [[Ust-Maysky District]], [[Sakha Republic]], [[Russia]]
+|-
+|    UMT || PAUM || [[Umiat Airport]] || [[Umiat, Alaska]], United States
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UN&quot;/&gt;-UN-
+|-
+|    UNC ||      || [[Unguía Airport]] || [[Unguía]], [[Colombia]]
+|-
+|    UND || OAUZ || [[Kunduz Airport]] || [[Kunduz]], [[Afghanistan]]
+|-
+|    UNI || TVSU || [[Union Island Airport]] || [[Union Island]], [[Saint Vincent and the Grenadines]]
+&lt;!-- UNV is FAA code (IATA: ATO) for Ohio University Airport (Snyder Field) in Athens / Albany, Ohio, United States --&gt;
+|-
+|    UNK || PAUN || [[Unalakleet Airport]] || [[Unalakleet, Alaska]], United States
+|-
+|    UNN || VTSR || [[Ranong Airport]] || [[Ranong]], [[Thailand]]
+&lt;!-- UNO is FAA code (not IATA) for West Plains Municipal Airport in West Plains, Missouri, United States --&gt;
+|-
+|    UNR || ZMUH || [[Öndörkhaan Airport]] || [[Öndörkhaan]], [[Khentii Province|Khentii]], [[Mongolia]]
+|-
+|    UNU || KUNU || [[Dodge County Airport]] || [[Juneau, Wisconsin]], United States
+&lt;!-- UNV is FAA code (IATA: SCE) for University Park Airport in State College, Pennsylvania, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UO&quot;/&gt;-UO-
+|-
+|    UOL ||      || [[Buol Airport]] || [[Buol (city)|Buol]], [[Indonesia]]
+|-
+|    UOS || KUOS || [[Franklin County Airport (Tennessee)|Franklin County Airport]] || [[Sewanee, Tennessee]], United States
+|-
+|    UOX || KUOX || [[University-Oxford Airport]] || [[Oxford, Mississippi]], United States
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UP&quot;/&gt;-UP-
+|-
+|    UPG || WAAA || [[Sultan Hasanuddin International Airport]] || [[Makassar]], [[Indonesia]]
+&lt;!-- UPK is not IATA code for Upernavik Kujalleq Heliport (ICAO: BGKL) in [[Upernavik Kujalleq]], Greenland --&gt;
+|-
+|    UPL || MRUP || [[Upala Airport]] || [[Upala]], [[Costa Rica]]
+|-
+|    UPN || MMPN || [[Uruapan International Airport|Lic. y Gen. Ignacio López Rayón International Airport]] || [[Uruapan]], [[Michoacán]], [[Mexico]]
+|-
+|    UPP || PHUP || [[Upolu Airport]] || [[Hawi, Hawaii]], United States
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UR&quot;/&gt;-UR-
+|-
+|    URA || UARR || [[Oral Ak Zhol Airport]] || [[Oral, Kazakhstan|Oral]] (Uralsk), [[Kazakhstan]]
+|-
+|    URC || ZWWW || [[Ürümqi Diwopu International Airport]] || [[Ürümqi]], [[Xinjiang]], China
+|-
+|    URE || EEKE || [[Kuressaare Airport]] || [[Kuressaare]], [[Saaremaa]], [[Estonia]]
+|-
+|    URG || SBUG || [[Rubem Berta International Airport]] || [[Uruguaiana]], [[Rio Grande do Sul]], Brazil
+|-
+|    URI ||      || [[Uribe Airport]] || [[Uribe, Colombia]]
+|-
+|    URJ || USHU || [[Uray Airport]] || [[Uray]], [[Khanty–Mansi Autonomous Okrug]], Russia
+|-
+|    URO || LFOP || [[Rouen Vallée de Seine Airport]] || [[Rouen]], France
+|-
+|    URS || UUOK || [[Kursk Vostochny Airport]] || [[Kursk]], [[Russia]]
+|-
+|    URT || VTSB || [[Surat Thani Airport]] || [[Surat Thani]], [[Thailand]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;US&quot;/&gt;-US-
+|-
+|    USA || KJQF || [[Concord Regional Airport]] || [[Concord, North Carolina]], United States
+&lt;!-- USC is not IATA code for Union County Airport/Troy Shelton Field (FAA: 35A) in Union, South Carolina, United States --&gt;
+&lt;!-- USE is FAA code (not IATA) for Fulton County Airport in Wauseon, Ohio, United States --&gt;
+|-
+|    USH || SAWH || [[Ushuaia - Malvinas Argentinas International Airport]] || [[Ushuaia]], [[Tierra del Fuego Province (Argentina)|Tierra del Fuego]], [[Argentina]]
+|-
+|    USI || SYMB || [[Mabaruma Airport]] || [[Mabaruma]], [[Guyana]]
+|-
+|    USM || VTSM || [[Samui Airport]] || [[Ko Samui]], [[Surat Thani Province|Surat Thani]], [[Thailand]]
+|-
+|    USQ || LTBO || [[Usak Airport]] || [[Uşak|Usak]], Turkey
+|-
+|    USR ||      || [[Ust-Nera Airport]] || [[Ust-Nera]], [[Sakha Republic]], [[Russia]]
+|-
+|    UST || KSGJ || [[St. Augustine Airport]] (FAA: SGJ) || [[St. Augustine, Florida]], United States
+|-
+|    USU || RPVV || [[Busuanga Airport]] || [[Coron, Palawan|Coron]], [[Palawan]], [[Philippines]]
+&lt;!-- USW is FAA code (not IATA) for Boggs Field in Spencer, West Virginia, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UT&quot;/&gt;-UT-
+|-
+|    UTA || FVMU || [[Mutare Airport]] || [[Mutare]], [[Zimbabwe]]
+&lt;!-- UTA is FAA code (not IATA) for Tunica Municipal Airport in Tunica, Mississippi, United States --&gt;
+|-
+|    UTC || EHSB || [[Soesterberg Air Base]] || [[Soesterberg]], [[Utrecht (province)|Utrecht]], The Netherlands
+|-
+|    UTE || FABU || [[Butterworth Airport]] || [[Butterworth, Penang|Butterworth]], [[Malaysia]]
+|-
+|    UTH || VTUD || [[Udon Thani International Airport]] || [[Udon Thani]], [[Thailand]]
+|-
+|    UTI || EFUT || [[Utti Airport]] || [[Utti]] / [[Valkeala]], Finland
+|-
+|    UTK ||      || [[Utirik Airport]] (FAA: 03N) || [[Utirik Island]], [[Marshall Islands]]
+|-
+|    UTM || KUTA || [[Tunica Municipal Airport]] (FAA: UTA) || [[Tunica, Mississippi]], United States
+|-
+|    UTN || FAUP || [[Upington Airport]] || [[Upington]], [[South Africa]]
+|-
+|    UTO || PAIM || [[Indian Mountain LRRS Airport]] || [[Utopia Creek, Alaska]], United States
+|-
+|    UTP || VTBU || [[U-Tapao International Airport]] || [[Rayong]], [[Thailand]]
+&lt;!-- UTS is FAA code (IATA: HTV) for Huntsville Municipal Airport in Huntsville, Texas, United States --&gt;
+|-
+|    UTT || FAUT || [[Mthatha Airport]] || [[Mthatha]], [[South Africa]]
+|-
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UU&quot;/&gt;-UU-
+|-
+|    UUA || UWKB || [[Bugulma Airport]] || [[Bugulma]], [[Republic of Tatarstan]], Russia
+|-
+|    UUD || UIUU || [[Ulan-Ude Airport]] || [[Ulan-Ude]], [[Republic of Buryatia]], [[Russia]]
+|-
+|    UUK || PAKU || [[Ugnu-Kuparuk Airport]] (FAA: UBW) || [[Kuparuk, Alaska]], United States
+&lt;!-- UUO is FAA code (IATA: WOW, ICAO: PAUO) for Willow Airport in Willow, Alaska, United States --&gt;
+|-
+|    UUS || UHSS || [[Yuzhno-Sakhalinsk Airport]] || [[Yuzhno-Sakhalinsk]], [[Sakhalin Island]], Russia
+|-
+|    UUU ||      || [[Manumu Airport]] || [[Manumu]], [[Papua New Guinea]]
+&lt;!-- UUU is FAA code (not IATA) for Newport State Airport in Newport, Rhode Island, United States --&gt;
+&lt;!-- UUV is FAA code (not IATA) for Sullivan Regional Airport in Sullivan, Missouri, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UV&quot;/&gt;-UV-
+|-
+|    UVA || KUVA || [[Garner Field]] || [[Uvalde, Texas]], United States
+|-
+|    UVF || TLPL || [[Hewanorra International Airport]] || [[Vieux-Fort]], [[Saint Lucia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UW&quot;/&gt;-UW-
+|-
+|    UWA ||      || [[Ware Airport]] (FAA: MA53) || [[Ware, Massachusetts]], United States
+&lt;!-- UWL is FAA code (not IATA) for New Castle-Henry County Municipal Airport in New Castle, Indiana, United States --&gt;
+&lt;!-- UXL is FAA code (not IATA) for Southland Field in Sulphur, Louisiana, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UY&quot;/&gt;-UY-
+&lt;!-- UYF is FAA code (not IATA) for Madison County Airport in London, Ohio, United States --&gt;
+|-
+|    UYL || HSNN || [[Nyala Airport]] || [[Nyala, Sudan|Nyala]], [[South Darfur]], [[Sudan]]
+|-
+|    UYU || SLUY || [[Joya Andina Airport]] || [[Uyuni]], [[Potosí Department|Potosí]], [[Bolivia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;UZ&quot;/&gt;-UZ-
+&lt;!-- UZA is FAA code (IATA: RKH) for Rock Hill/York County Airport (Bryant Field) in Rock Hill, South Carolina, United States --&gt;
+|-
+|    UZC || LYUZ || [[Užice-Ponikve Airport]] || [[Užice]], [[Serbia]]
+|-
+|    UZR ||      || [[Urzhar Airport]] || [[Urzhar]], [[East Kazakhstan Province]], [[Kazakhstan]]
+|-
+|    UZU || SATU || [[Curuzú Cuatiá Airport]] || [[Curuzú Cuatiá]], [[Corrientes Province|Corrientes]], [[Argentina]]
+|}
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = [[PDF]] | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|U]]</text>
+      <sha1>tg7rmgwkw4b7n4gvn40nnfrxkgwjjks</sha1>
+    </revision>
+  </page>
+</mediawiki>

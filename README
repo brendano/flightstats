@@ -1,0 +1,28 @@
+On-time flight performance - very simple historical analysis and website.
+http://brenocon.com/flightstats
+
+To access the calculated data (which gets turned into the website), see the
+summary_data/ directory.
+
+To re-run the analysis and build the website:
+
+1. Manually download CSVs from the BTS website. About 50-100MB per month (unzipped).
+2. install the right R libraries
+3. ./build.sh  ==>  results in summary_data/ and html/.
+
+Flights CSVs from BTS are in the data/ directory (~1 GB total)
+
+In the rank_*.csv files, the "_raw" columns are the simple averages;
+without the "_raw" is the Agresti-Coull upper-bound estimate.
+
+
+Updating the data:
+
+Each month was manually downloaded from
+http://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236
+into the data/ directory.
+need to select the columns that stuff.r uses.
+
+i added year/months to the CSV spreadsheet names, though that's not important
+for the analyzer.
+

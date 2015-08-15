@@ -1,0 +1,431 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: V</title>
+    <ns>0</ns>
+    <id>317147</id>
+    <revision>
+      <id>600345745</id>
+      <parentid>599875301</parentid>
+      <timestamp>2014-03-19T19:06:32Z</timestamp>
+      <contributor>
+        <username>AlphaPyro</username>
+        <id>4069104</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17879">{{Lists of airports by IATA code}}
+
+==V==
+{{AlphanumericTOC|prefixLink=V|prefixDesc=V|numbers=|sections=|w=VW|z=VZ&lt;!--no VW or VZ section--&gt;}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+&lt;!-- comments added to prevent addition of incorrect IATA codes --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VA&quot;/&gt;-VA-
+|-
+|    VAA || EFVA || [[Vaasa Airport]] || [[Vaasa]], [[Finland]]
+|-
+|    VAD || KVAD || [[Moody Air Force Base]] || [[Valdosta, Georgia]], [[United States]]
+|-
+|    VAF || LFLU || [[Valence-Chabeuil Airport]] || [[Valence, Drôme|Valence]], [[France]]
+|-
+|    VAG || SBVG || [[Varginha Airport|Major Brigadeiro Trompowsky Airport]] || [[Varginha|Varginha, Minas Gerais]], [[Brazil]]
+|-
+|    VAK || PAVA || [[Chevak Airport]] || [[Chevak, Alaska]], [[United States]]
+|-
+|    VAM || VRMV || [[Maamigili Airport]] || [[Maamigili (Alif Dhaal Atoll)|Maamigili]], [[Maldives]]
+|-
+|    VAN || LTCI || [[Ferit Melen Airport]] || [[Van, Turkey|Van]], [[Turkey]]
+|-
+|    VAR || LBWN || [[Varna Airport]] || [[Varna]], [[Bulgaria]]
+|-
+|    VAS || LTAR || [[Sivas Airport]] || [[Sivas]], [[Turkey]]
+|-
+|    VAW || ENSS || [[Vardø Airport, Svartnes]] || [[Vardø]], [[Norway]]
+&lt;!-- VAY is FAA code (IATA: LLY) for South Jersey Regional in Mount Holly, New Jersey, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VB&quot;/&gt;-VB-
+|-
+|    VBG || KVBG || [[Vandenberg Air Force Base]] || [[Lompoc, California]], [[United States]]
+|-
+|    VBS || LIPO || [[Brescia Airport|Brescia Montichiari International Airport]] || [[Brescia]], [[Italy]]
+&lt;!-- VBT is FAA code (not IATA) for Bentonville Municipal Airport in Bentonville, Arkansas, United States --&gt;
+|-
+|    VBY || ESSV || [[Visby Airport]] || [[Visby]], [[Sweden]]
+&lt;!-- VBW is FAA code (not IATA) for Bridgewater Air Park in Bridgewater, Virginia, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VC&quot;/&gt;-VC-
+|-
+|    VCA || VVCT || [[Tra Noc International Airport]] || [[Can Tho]], [[Vietnam]]
+|-
+|    VCB || KVCB || [[Nut Tree Airport]] || [[Vacaville, California]], [[United States]]
+|-
+|    VCC ||      || [[Limbe Airport]] || [[Limbe, Cameroon|Limbe]], [[Cameroon]]
+|-
+|    VCE || LIPZ || [[Venice Marco Polo Airport]] || [[Venice]], [[Italy]]
+|-
+|    VCH || SUVO || [[Vichadero Airport]] || [[Vichadero]], [[Rivera Department|Rivera]], [[Uruguay]]
+|-
+|    VCL ||      || [[Chu Lai Airport]] || [[Chu Lai]], [[Quang Nam]], [[Vietnam]]
+|-
+|    VCP || SBKP || [[Viracopos-Campinas International Airport]] || [[Campinas]], [[São Paulo State]], [[Brazil]]
+|-
+|    VCS || VVCS || [[Co Ong Airport]] || [[Con Son]], [[Con Dao]], [[Ba Ria - Vung Tau]], [[Vietnam]]
+|-
+|    VCT || KVCT || [[Victoria Regional Airport]] || [[Victoria, Texas]], [[United States]]
+|-
+|    VCV || KVCV || [[Southern California Logistics Airport]] || [[Victorville, California]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VD&quot;/&gt;-VD-
+|-
+|    VDA || LLOV || [[Ovda International Airport]] || [[Ovda (Israel)|Ovda]], [[Israel]]
+|-
+|    VDB || ENFG || [[Fagernes Airport, Leirin]] || [[Fagernes]], [[Norway]]
+|-
+|    VDC || SBQV || [[Vitória da Conquista Airport]] || [[Vitória da Conquista]], [[Brazil]]
+&lt;!-- VDF is FAA code (not IATA) for Tampa Executive Airport in Tampa, Florida, United States --&gt;
+|-
+|    VDI || KVDI || [[Vidalia Regional Airport]] || [[Vidalia, Georgia]], [[United States]]
+|-
+|    VDM || SAVV || [[Gobernador Edgardo Castello Airport]] || [[Viedma]], [[Argentina]]
+|-
+|    VDP || SVVP || [[Valle de la Pascua Airport]] || [[Valle de la Pascua]], [[Guárico]], [[Venezuela]]
+&lt;!-- VDP is not IATA code for Vamdrup Airport (ICAO: EKVD) in Vamdrup, Kolding, Denmark--&gt;
+|-
+|    VDR || SAOD || [[Villa Dolores Airport]] || [[Villa Dolores]], [[Córdoba Province, Argentina|Córdoba]], [[Argentina]]
+|-
+|    VDS || ENVD || [[Vadsø Airport]] || [[Vadsø]], [[Finnmark]], [[Norway]]
+|-
+|    VDZ || PAVD || [[Valdez Airport]] (Pioneer Field) || [[Valdez, Alaska]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VE&quot;/&gt;-VE-
+|-
+|    VEE || PAVE || [[Venetie Airport]] || [[Venetie, Alaska]], [[United States]]
+|-
+|    VEL || KVEL || [[Vernal Airport]] || [[Vernal, Utah]], [[United States]]
+|-
+|    VER || MMVR || [[General Heriberto Jara International Airport]] || [[Veracruz, Veracruz]], [[Mexico]]
+&lt;!-- VER is FAA code (not IATA) for Jesse Viertel Memorial Airport in Boonville, Missouri, United States --&gt;
+&lt;!-- VES is FAA code (not IATA) for Darke County Airport in Versailles, Ohio, United States --&gt;
+|-
+|    VEY || BIVM || [[Vestmannaeyjar Airport]] || [[Vestmannaeyjar]], [[Iceland]]
+|-
+|    VEX ||      || [[Tioga Municipal Airport]] (FAA: D60) || [[Tioga, North Dakota]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VF&quot;/&gt;-VF-
+|-
+|    VFA || FVFA || [[Victoria Falls Airport]] || [[Victoria Falls]], [[Zimbabwe]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VG&quot;/&gt;-VG-
+&lt;!-- VGC is FAA code (not IATA) for Hamilton Municipal Airport in Hamilton, New York, United States --&gt;
+|-
+|    VGA || VBOZ || [[Vijayawada Airport]] || [[Vijayawada]], [[Andhra Pradesh]], [[India]]
+|-
+|    VGD || ULWW || [[Vologda Airport]] || [[Vologda]], Russia
+|-
+|    VGO || LEVX || [[Vigo-Peinador Airport]] || [[Vigo]], [[Galicia (Spain)|Galicia]], [[Spain]]
+|-
+|    VGT || KVGT || [[North Las Vegas Airport]] || [[North Las Vegas, Nevada]], [[United States]]
+|-
+|    VGZ || SKVG || [[Villa Garzón Airport]] &lt;!--or La Jagua Airport (ICAO: SKGZ)--&gt; || [[Villa Garzón]], [[Colombia]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VH&quot;/&gt;-VH-
+|-
+|    VHM || ESNV || [[Vilhelmina Airport]] || [[Vilhelmina]], [[Sweden]]
+|-
+|    VHN || KVHN || [[Culberson County Airport]] || [[Van Horn, Texas]], [[United States]]
+|-
+|    VHV ||      || [[Verkhnevilyuysk Airport]] || [[Verkhnevilyuysk]], [[Woehee Bueluue District]], [[Sakha Republic]], [[Russia]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VI&quot;/&gt;-VI-
+|-
+|    VIA || SSVI || [[Videira Airport]] || [[Videira]], [[Santa Catarina (state)|Santa Catarina]], [[Brazil]]
+|-
+|    VIC || LIPT || [[Vicenza Airport]] || [[Vicenza]], [[Italy]]
+|-
+|    VID || LBVD || [[Vidin Airport]] || [[Vidin]], [[Bulgaria]]
+|-
+|    VIE || LOWW || [[Vienna International Airport]] || [[Vienna]], [[Austria]]
+|-
+|    VIF ||      || [[Vieste Airport]] || [[Vieste]], [[Italy]]
+|-
+|    VIG || SVVG || [[Juan Pablo Perez Alfonso Airport]] || [[El Vigía]], [[Venezuela]]
+|-
+|    VIH || KVIH || [[Rolla National Airport]] || [[Rolla, Missouri]], [[United States]]
+|-
+|    VII || VVVH || [[Vinh Airport]] || [[Vinh]], [[Nghe An]], [[Vietnam]]
+|-
+|    VIJ || TUPW || [[Virgin Gorda Airport]] || [[Virgin Gorda]], [[British Virgin Islands]]
+|-
+|    VIL || GMMH || [[Dakhla Airport]] || [[Dakhla, Western Sahara|Dakhla]], [[Western Sahara]]
+|-
+|    VIN || UKWW || [[Gavryshivka International]] || [[Vinnytsia]], [[Ukraine]]
+|-
+|    VIQ || WPVQ || [[Viqueque Airport]] || [[Viqueque]], [[East Timor]]
+&lt;!-- VIQ is FAA code (not IATA) for Neillsville Municipal Airport in Neillsville, Wisconsin, United States --&gt;
+|-
+|    VIS || KVIS || [[Visalia Municipal Airport]] || [[Visalia, California]], [[United States]]
+|-
+|    VIT || LEVT || [[Vitoria Foronda International Airport]] || [[Vitoria-Gasteiz]], [[Spain]]
+|-
+|    VIV ||      || [[Vivigani Airfield]] || [[Vivigani]], [[Goodenough Island]], [[Papua New Guinea]]
+|-
+|    VIX || SBVT || [[Eurico de Aguiar Salles Airport]] || [[Vitória, Brazil|Vitória]], [[Espírito Santo]], [[Brazil]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VJ&quot;/&gt;-VJ-
+|-
+|    VJB || FQXA || [[Xai Xai Airport]] || [[Xai Xai]], [[Mozambique]]
+|-
+|    VJI || KVJI || [[Virginia Highlands Airport]] || [[Abingdon, Virginia]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VK&quot;/&gt;-VK-
+|-
+|    VKG || VVRG || [[Rach Gia Airport]] || [[Rach Gia]], [[Kien Giang]], [[Vietnam]]
+|-
+|    VKO || UUWW || [[Vnukovo International Airport]] || [[Moscow]], [[Russia]]
+|-
+|    VKS || KVKS || [[Vicksburg Municipal Airport]] || [[Vicksburg, Mississippi]], [[United States]]
+&lt;!-- VKX is FAA code (not IATA) for Potomac Airfield in Friendly, Maryland, United States --&gt;
+|-
+|    VKT || UUYW || [[Vorkuta Airport]] || [[Vorkuta]], [[Russia]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VL&quot;/&gt;-VL-
+|-
+|    VLA || KVLA || [[Vandalia Municipal Airport]] || [[Vandalia, Illinois]], [[United States]]
+|-
+|    VLC || LEVC || [[Valencia Airport]] || [[Valencia (city in Spain)|Valencia]], [[Valencian Community]], [[Spain]]
+|-
+|    VLD || KVLD || [[Valdosta Regional Airport]] || [[Valdosta, Georgia]], [[United States]]
+|-
+|    VLE ||      || [[Valle Airport]] (FAA: 40G) || [[Grand Canyon, Arizona]], [[United States]]
+|-
+|    VLG || SAZV || [[Villa Gesell - Pinamar International Airport]] || [[Villa Gesell]], [[Buenos Aires]], [[Argentina]]
+|-
+|    VLI || NVVV || [[Bauerfield International Airport]] || [[Port Vila]], [[Vanuatu]]
+|-
+|    VLL || LEVD || [[Valladolid Airport]] || [[Valladolid]], [[Spain]]
+|-
+|    VLN || SVVA || [[Arturo Michelena International Airport]] || [[Valencia, Venezuela|Valencia]], [[Carabobo]], [[Venezuela]]
+|-
+|    VLU || ULOL || [[Velikiye Luki Airport]] || [[Velikiye Luki]], [[Pskov Oblast]], Russia
+|-
+|    VLV || SVVL || [[Dr. Antonio Nicolás Briceno Airport]] || [[Valera]], [[Venezuela]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VM&quot;/&gt;-VM-
+|-
+|    VME || SAOR || [[Pringles Airport]] || [[Villa Mercedes]], [[San Luis, Argentina|San Luis]], [[Argentina]]
+&lt;!-- VMR is FAA code (not IATA) for Harold Davidson Field in Vermillion, South Dakota, United States --&gt;
+|-
+|    VMU ||      || [[Baimuru Airport]] || [[Baimuru]], [[Papua New Guinea]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VN&quot;/&gt;-VN-
+|-
+|    VNC || KVNC || [[Venice Municipal Airport]] || [[Venice, Florida]], [[United States]]
+|-
+|    VNE || LFRV || [[Vannes-Meucon Airport]] || [[Vannes]], [[France]]
+|-
+|    VNO || EYVI || [[Vilnius International Airport]] || [[Vilnius]], [[Lithuania]]
+|-
+|    VNS || VIBN || [[Varanasi Airport]] || [[Varanasi]], [[Uttar Pradesh]], [[India]]
+&lt;!-- VNW is FAA code (not IATA) for Van Wert County Airport in Van Wert, Ohio, United States --&gt;
+|-
+|    VNT || EVVA || [[Ventspils International Airport]] || [[Ventspils]], [[Latvia]]
+|-
+|    VNX || FQVL || [[Vilankulo Airport]] || [[Vilanculos]], [[Mozambique]]
+|-
+|    VNY || KVNY || [[Van Nuys Airport]] || [[Van Nuys, California]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VO&quot;/&gt;-VO-
+|-
+|    VOD || LKVO || [[Vodochody Airport]] || [[Vodochody]], [[Czech republic]]
+|-
+|    VOG || URWW || [[Gumrak Airport]] || [[Volgograd]], [[Russia]]
+|-
+|    VOI || GLVA || [[Voinjama Airport]] || [[Voinjama]], [[Liberia]]
+|-
+|    VOK || KVOK || [[Volk Field]] || [[Camp Douglas, Wisconsin]], [[United States]]
+|-
+|    VOL || LGBL || [[International Airport of Central Greece]] || [[Volos]], [[Greece]]
+|-
+|    VOZ || UUOO || [[Voronezh International Airport]] || [[Voronezh]], [[Russia]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VP&quot;/&gt;-VP-
+&lt;!-- VPC is FAA code (not IATA) for Cartersville Airport in Cartersville, Georgia, United States --&gt;
+|-
+|    VPN || BIVO || [[Vopnafjörður Airport]] || [[Vopnafjörður]], [[Iceland]]
+|-
+|    VPS || KVPS || [[Northwest Florida Regional Airport]] / [[Eglin Air Force Base]] || [[Valparaiso, Florida|Valaparaiso]] (near [[Fort Walton Beach, Florida|Fort Walton Beach]]), [[Florida]], [[United States]]
+|-
+|    VPY || FQCH || [[Chimoio Airport]] || [[Chimoio]], [[Mozambique]]
+|-
+|    VPZ || KVPZ || [[Porter County Regional Airport]] || [[Valparaiso, Indiana]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VQ&quot;/&gt;-VQ-
+&lt;!-- VQQ is FAA code (IATA: NZC) for Cecil Field in Jacksonville, Florida, United States --&gt;
+|-
+|    VQS || TJVQ || [[Antonio Rivera Rodriguez Airport]] || [[Vieques, Puerto Rico]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VR&quot;/&gt;-VR-
+|-
+|    VRA || MUVR || [[Juan Gualberto Gómez Airport]] || [[Varadero]], [[Matanzas Province]], [[Cuba]]
+|-
+|    VRB || KVRB || [[Vero Beach Municipal Airport]] || [[Vero Beach, Florida]], [[United States]]
+|-
+|    VRC || RPUV || [[Virac Airport]] || [[Virac, Catanduanes|Virac]], [[Catanduanes]], [[Philippines]]
+|-
+|    VRI ||      || [[Varandey Airport]] || [[Nenets Autonomous Okrug]], [[Russia]]
+|-
+|    VRK || EFVR || [[Varkaus Airport]] || [[Joroinen]], [[Finland]]
+|-
+|    VRL || LPVR || [[Vila Real Airport]] || [[Vila Real, Portugal]]
+|-
+|    VRN || LIPX || [[Verona Airport]] || [[Verona]], [[Italy]]
+|-
+|    VRO || MUKW || [[Kawama Airport]] || [[Varadero]], [[Matanzas Province]], [[Cuba]]
+|-
+|    VRS ||      || [[Roy Otten Memorial Airfield]] (FAA: 3VS) || [[Versailles, Missouri]], [[United States]]
+|-
+|    VRY || ENVR || [[Værøy Heliport]] || [[Værøy]], [[Nordland]], [[Norway]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VS&quot;/&gt;-VS-
+|-
+|    VSA || MMVA || [[Carlos Rovirosa Pérez International Airport]] || [[Villahermosa]], [[Tabasco]], [[Mexico]]
+|-
+|    VSF || KVSF || [[Hartness State Airport]] || [[Springfield, Vermont]], [[United States]]
+|-
+|    VSG || UKCW || [[Luhansk Airport]] || [[Luhansk]] (Lugansk), [[Ukraine]]
+|-
+|    VST || ESOW || [[Stockholm-Västerås Airport]] || [[Stockholm]], [[Sweden]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VT&quot;/&gt;-VT-
+|-
+|    VTA ||      || [[Victoria Airport (Honduras)|Victoria Airport]] || [[Victoria, Yoro|Victoria]], [[Honduras]]
+&lt;!-- VTA is FAA code (not IATA) for Newark-Heath Airport in Newark, Ohio, United States --&gt;
+|-
+|    VTE || VLVT || [[Wattay International Airport]] || [[Vientiane]], [[Laos]]
+|-
+|    VTG || VVVT || [[Vung Tau Airport]] || [[Vung Tau]], [[Ba Ria - Vung Tau]], [[Vietnam]]
+&lt;!-- VTI is FAA code (not IATA) for Vinton Veterans Memorial Airpark in Vinton, Iowa, United States --&gt;
+|-
+|    VTN || KVTN || [[Miller Field (airport)|Miller Field]] || [[Valentine, Nebraska]], [[United States]]
+|-
+|    VTZ || VEVZ || [[Visakhapatnam Airport]] || [[Visakhapatnam]], [[Andhra Pradesh]], [[India]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VU&quot;/&gt;-VU-
+&lt;!-- VUJ is FAA code (not IATA) for Stanly County Airport in Albemarle, North Carolina, United States --&gt;
+&lt;!-- VUO is FAA code (not IATA) for Pearson Field in Vancouver, Washington, United States --&gt;
+|-
+|    VUP || SKVP || [[Alfonso López Pumarejo Airport]] || [[Valledupar]], [[Colombia]]
+|-
+|    VUS ||      || [[Velikiy Ustyug Airport]] || [[Veliky Ustyug]], [[Vologda]], [[Russia]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VV&quot;/&gt;-VV-
+|-
+|    VVI || SLVR || [[Viru Viru International Airport]] || [[Santa Cruz, Bolivia|Santa Cruz]], [[Bolivia]]
+&lt;!-- VVL is not IATA code for Saanen Airport in Saanen, Switzerland --&gt;
+|-
+|    VVO || UHWW || [[Vladivostok International Airport]] (Knevichi Airport) || [[Vladivostok]], [[Russia]]
+&lt;!-- VVS is FAA code (not IATA) for Joseph A. Hardy Connellsville Airport in Connellsville, Pennsylvania, United States --&gt;
+&lt;!-- VVV is FAA code (not IATA) for Ortonville Municipal-Martinson Field in Ortonville, Minnesota, United States --&gt;
+&lt;!-- VWU is FAA code (not IATA) for Waskish Municipal Airport in Waskish, Minnesota, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VX&quot;/&gt;-VX-
+|-
+|    VXC || FQLC || [[Lichinga Airport]] || [[Lichinga]], [[Mozambique]]
+|-
+|    VXE || GVSV || [[Sao Pedro Airport]] || [[São Vicente, Cape Verde|São Vicente]], [[Cape Verde]]
+|-
+|    VXO || ESMX || [[Växjö Airport]] (Kronoberg Airport) || [[Växjö]], [[Sweden]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;VY&quot;/&gt;-VY-
+|-
+|    VYD || FAVY || [[Vryheid Airport]] || [[Vryheid]], [[South Africa]]
+|-
+|    VYI || UENW || [[Vilyuysk Airport]] || [[Vilyuysk]], [[Sakha Republic]], [[Russia]]
+|-
+|    VYS || KVYS || [[Illinois Valley Regional Airport]] (Walter A. Duncan Field) || [[Peru, Illinois]], [[United States]]
+
+|}
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = PDF | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|V]]</text>
+      <sha1>iuph8t5u071mk9u43vpvx8y9kukchwj</sha1>
+    </revision>
+  </page>
+</mediawiki>

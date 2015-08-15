@@ -1,0 +1,746 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: T</title>
+    <ns>0</ns>
+    <id>317145</id>
+    <revision>
+      <id>668602463</id>
+      <parentid>667980451</parentid>
+      <timestamp>2015-06-25T11:24:59Z</timestamp>
+      <contributor>
+        <username>R'n'B</username>
+        <id>2300502</id>
+      </contributor>
+      <minor/>
+      <comment>Disambiguating links to [[Tehuacán]] (link changed to [[Tehuacán, Puebla]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="34427">{{Lists of airports by IATA code}}
+
+==T==
+{{AlphanumericTOC|prefixLink=T|prefixDesc=T|numbers=|sections=}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+&lt;!-- comments added to prevent addition of incorrect IATA codes --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TA&quot;/&gt;-TA-
+|-
+|    TAB || TTCP || [[Crown Point International Airport|A.N.R. Robinson International Airport (formerly, Crown Point International Airport)]] || [[Scarborough, Tobago]], [[Trinidad and Tobago]]
+|-
+|    TAC || RPVA || [[Daniel Z. Romualdez Airport]] (Tacloban Airport) || [[Tacloban City]], [[Philippines]]
+|-
+|    TAD || KTAD || [[Perry Stokes Airport]] || [[Trinidad, Colorado]], United States
+|-
+|    TAE || RKTN || [[Daegu International Airport]] || [[Daegu]], [[South Korea]]
+|-
+|    TAF || DAOL || [[Oran Tafaraoui Airport]] || [[Oran]], [[Algeria]]
+|-
+|    TAG || RPVT || [[Tagbilaran Airport]] || [[Tagbilaran City]], [[Bohol]], [[Philippines]]
+|-
+|    TAH || NVVW || [[Whitegrass Airport]] || [[Tanna]], [[Vanuatu]]
+|-|    TAI || OYTZ || [[Ta'izz International Airport]] || [[Ta'izz]], [[Yemen]]
+|-
+|    TAJ ||      || [[Tadji Airport]] || [[Aitape]], [[Papua New Guinea]]
+|-
+|    TAK || RJOT || [[Takamatsu Airport]] || [[Takamatsu, Kagawa|Takamatsu]], [[Kagawa Prefecture|Kagawa]], [[Japan]]
+|-
+|    TAL || PATA || [[Ralph M. Calhoun Memorial Airport]] || [[Tanana, Alaska]], United States
+|-
+|    TAM || MMTM || [[General Francisco Javier Mina International Airport]] || [[Tampico]], [[Tamaulipas]], Mexico
+|-
+|    TAN&lt;ref&gt;TAN is FAA code (not IATA) for Taunton Municipal Airport in [[Taunton, Massachusetts]], United States&lt;/ref&gt; || YTGA || [[Tangalooma Airport]] || [[Tangalooma, Queensland]], Australia
+|-
+|    TAO || ZSQD || [[Qingdao Liuting International Airport]] || [[Qingdao]], [[Shandong]], [[China]]
+|-
+|    TAP || MMTP || [[Tapachula International Airport]] || [[Tapachula]], [[Chiapas]], Mexico
+|-
+|    TAR || LIBG || [[Taranto-Grottaglie Airport]] || [[Grottaglie]], [[Apulia]], Italy
+&lt;!-- TAR is FAA code (not IATA) for Collin County Regional Airport in McKinney, Texas, United States --&gt;
+|-
+|    TAS || UTTT || [[Tashkent International Airport]] || [[Tashkent]], [[Uzbekistan]]
+|-
+|    TAT || LZTT || [[Poprad-Tatry Airport]] || [[Poprad]], [[Slovakia]]
+|-
+|    TAX || WAPT || [[Taliabu Island Airport]] || [[Taliabu]], [[Indonesia]]
+|-
+|    TAV ||      || [[Tau Airport]] || [[Tau, American Samoa|Tau]], [[American Samoa]]
+|-
+|    TAW || SUTB || [[Tacuarembó Airport]] || [[Tacuarembó]], [[Tacuarembó Department|Tacuarembó]], [[Uruguay]]
+|-
+|    TAY || EETU || [[Tartu Airport|Tartu-Ülenurme Airport]] || [[Tartu]], [[Estonia]]
+|-
+|    TAZ || UTAT || [[Dashoguz Airport]] || [[Daşoguz]], [[Turkmenistan]]
+&lt;!-- TAZ is FAA code (not IATA) for Taylorville Municipal Airport in Taylorville, Illinois, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TB&quot;/&gt;-TB-
+|-
+|    TBH || RPVU || [[Tugdan Airport|Romblon Airport]] (Tablas Airport) || [[Alcantara, Romblon]], [[Philippines]]
+|-
+|    TBI || MYCB || [[New Bight Airport]] || [[New Bight]], [[Cat Island (Bahamas)|Cat Island]], [[Bahamas]]
+|-
+|    TBJ || DTKA || [[Tabarka–Ain Draham International Airport]] || [[Tabarka]], [[Tunisia]]
+|-
+|    TBN || KTBN || [[Waynesville-St. Robert Regional Airport]] (Forney Field) || [[Fort Leonard Wood, Missouri]], United States
+|-
+|    TBP || SPME || [[Cap. FAP Pedro Canga Rodríguez Airport]] || [[Tumbes (city)|Tumbes]], [[Peru]]
+|-
+|    TBR || KTBR || [[Statesboro-Bulloch County Airport]] || [[Statesboro, Georgia]], United States
+|-
+|    TBS || UGTB || [[Tbilisi International Airport]] || [[Tbilisi]], [[Georgia (country)|Georgia]]
+|-
+|    TBT || SBTT || [[Tabatinga International Airport]] || [[Tabatinga]], [[Amazonas (Brazilian state)|Amazonas]], Brazil
+|-
+|    TBU || NFTF || [[Fuaʻamotu International Airport|Fua{{Okina}}amotu International Airport]] || [[Nukuʻalofa|Nuku{{Okina}}alofa]], [[Tongatapu]], [[Tonga]]
+|-
+|    TBW || UUOT || [[Tambov Donskoye Airport]] || [[Tambov]], Russia
+|-
+|    TBZ || OITT || [[Tabriz International Airport]] || [[Tabriz]], [[Iran]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TC&quot;/&gt;-TC-
+|-
+|    TCA || YTNK || [[Tennant Creek Airport]] || [[Tennant Creek]], [[Northern Territory]], [[Australia]]
+|-
+|    TCB || MYAT || [[Treasure Cay Airport]] || [[Treasure Cay]], [[Abaco Islands]], [[Bahamas]]
+|-
+|    TCC || KTCC || [[Tucumcari Municipal Airport]] || [[Tucumcari, New Mexico]], United States
+|-
+|    TCI ||      || All Airports || [[Tenerife]], [[Canary Islands]], Spain
+|-
+|    TCL || KTCL || [[Tuscaloosa Regional Airport]] || [[Tuscaloosa, Alabama]], United States
+|-
+|    TCM || KTCM || [[McChord Air Force Base]] || [[Tacoma, Washington]], United States
+|-
+|    TCN || MMHC || [[Tehuacán Airport]] || [[Tehuacán, Puebla|Tehuacán]], [[Puebla]], Mexico
+|-
+|    TCP || HETB || [[Taba International Airport]] || [[Taba (Egypt)|Taba]], [[Egypt]]
+|-
+|    TCS || KTCS || [[Truth or Consequences Municipal Airport]] || [[Truth or Consequences, New Mexico]], United States
+|-
+|    TCT ||      || [[Takotna Airport]] || [[Takotna, Alaska]], United States
+|-
+|    TCV ||      || [[Chingozi Airport]] || [[Tete]], [[Mozambique]]
+|-
+|    TCX || OIMT || [[Tabas Airport]] || [[Tabas]], [[Iran]]
+&lt;!-- TCY is FAA code (not IATA) for Tracy Municipal Airport in Tracy, California, United States --&gt;
+|-
+|    TCZ || ZUTC || [[Tengchong Tuofeng Airport]] || [[Tengchong]], [[Yunnan]], [[China]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TD&quot;/&gt;-TD-
+|-
+|    TDD || SLTR || [[Teniente Jorge Henrich Arauz Airport]] || [[Trinidad, Bolivia]]
+&lt;!-- TDF is FAA code (not IATA) for Person County Airport in Roxboro, North Carolina, United States --&gt;
+|-
+|    TDG || RPMW || [[Tandag Airport]] || [[Tandag]], [[Surigao del Sur]], [[Philippines]]
+|-
+|    TDK ||      || [[Taldykorgan Airport]] || [[Taldykorgan]], [[Kazakhstan]]
+|-
+|    TDL || SAZT || [[Tandil Airport]] || [[Tandil]], [[Argentina]]
+|-
+|    TDO || KTDO || [[South Lewis County Airport]] (Ed Carlson Memorial Field) || [[Toledo, Washington]], United States
+|-
+|    TDS ||      || [[Sasereme Airport]] || [[Sasereme]], [[Papua New Guinea]]
+|-
+|    TDW || KTDW || [[Tradewind Airport]] || [[Amarillo, Texas]], United States
+|-
+|    TDX || VTBO || [[Trat Airport]] || [[Trat]], [[Thailand]]
+|-
+|    TDZ || KTDZ || [[Metcalf Field]] || [[Toledo, Ohio]], United States
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TE&quot;/&gt;-TE-
+|-
+|    TEB || KTEB || [[Teterboro Airport]] || [[Teterboro, New Jersey]], United States
+|-
+|    TED || EKTS || [[Thisted Airport]] || [[Thisted]], Denmark
+|-
+|    TEG || DFET || [[Tenkodogo Airport]] || [[Tenkodogo]], [[Burkina Faso]]
+|-
+|    TEI || VETJ || [[Tezu Airport]] || [[Tezu]], [[Arunachal Pradesh]], India
+|-
+|    TEK ||      || [[Tatitlek Airport]] (FAA: 7KA) || [[Tatitlek, Alaska]], United States
+&lt;!-- TEL is FAA code (not IATA) for Perry County Municipal Airport in Tell City, Indiana, United States --&gt;
+|-
+|    TEN || ZUTR || [[Tongren Fenghuang Airport]] || [[Tongren, Guizhou|Tongren]], [[Guizhou]], [[China]]
+|-
+|    TEQ || LTBU || [[Çorlu Airport]] || [[Tekirdag]], Turkey
+|-
+|    TER || LPLA || [[Lajes Field]] || [[Lajes (Praia da Vitória)|Lajes]], [[Azores]], Portugal
+|-
+|    TET || FQTT || [[Chingozi Airport]] || [[Tete]], [[Mozambique]]
+&lt;!-- TEW is FAA code (not IATA) for Mason Jewett Field in Mason, Michigan, United States --&gt;
+|-
+|    TEX || KTEX || [[Telluride Regional Airport]] || [[Telluride, Colorado]], United States
+|-
+|    TEZ || VETZ || [[Tezpur Airport]] || [[Tezpur]], [[Assam]], India
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TF&quot;/&gt;-TF-
+|-
+|    TFF || SBTF || [[Tefé Airport]] || [[Tefé]], [[Amazonas (Brazilian state)|Amazonas]], Brazil
+|-
+|    TFN || GCXO || [[Tenerife North Airport]] (Los Rodeos Airport) || [[Tenerife]], [[Canary Islands]], Spain
+&lt;!-- TFP is FAA code (not IATA) for T. P. McCampbell Airport in Ingleside, Texas, United States --&gt;
+|-
+|    TFS || GCTS || [[Tenerife South Airport]] (Reina Sofia Airport) || [[Tenerife]], [[Canary Islands]], Spain
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TG&quot;/&gt;-TG-
+|-
+|    TGA || WSAT || [[Tengah Air Base]] || [[Tengah]], [[Singapore]]
+|-
+|    TGB ||      || [[Tagbita Airport]] || [[Rizal, Palawan]], [[Philippines]]
+&lt;!-- TGC is FAA code (not IATA) for Gibson County Airport in Trenton, Tennessee, United States --&gt;
+|-
+|    TGD || LYPG || [[Podgorica Airport]] || [[Golubovci]] (near [[Podgorica]]), [[Montenegro]]
+|-
+|    TGE ||      || [[Sharpe Field]] (FAA: AL73) || [[Tuskegee, Alabama]], United States
+|-
+|    TGG || WMKN || [[Sultan Mahmud Airport]] || [[Kuala Terengganu]], Malaysia
+|-|    TGH || NVST || [[Tongoa Airport]] || [[Tongoa]], [[Shefa Province]], [[Vanuatu]]
+|-
+|    TGI || SPGM || [[Tingo María Airport]] || [[Tingo María]], [[Peru]]
+&lt;!-- TGI is FAA code (not IATA) for Tangier Island Airport in Tangier, Virginia, United States --&gt;
+|-
+|    TGM || LRTM || [[Târgu Mureş International Airport]] || [[Târgu-Mureş]], [[Romania]]
+|-
+|    TGP || UNIP || [[Podkamennaya Tunguska Airport]] || [[Podkamennaya Tunguska (rural locality)|Podkamennaya Tunguska]], [[Krasnoyarsk]], [[Russia]]
+|-
+|    TGU || MHTG || [[Toncontín International Airport]] || [[Tegucigalpa]], [[Honduras]]
+|-
+|    TGZ || MMTG || [[Angel Albino Corzo International Airport]] || [[Tuxtla Gutiérrez]], [[Chiapas]], Mexico
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TH&quot;/&gt;-TH-
+|-
+|    THA || KTHA || [[Tullahoma Regional Airport]] (William Northern Field) || [[Tullahoma, Tennessee]], United States
+|-
+|    THC || GLTN || [[Tchien Airport]] || [[Tchien]], [[Liberia]]
+|-
+|    THD ||      || [[Tho Xuan Airport]] || [[Thanh Hoa]], [[Vietnam]]
+|-
+|    THE || SBTE || [[Teresina Airport]] || [[Teresina]], [[Piauí]], Brazil
+|-
+| &lt;s&gt;THF&lt;/s&gt; || &lt;s&gt;EDDI&lt;/s&gt; || &lt;s&gt; [[Tempelhof International Airport]] &lt;/s&gt; (closed 2008) || &lt;s&gt; Berlin, Germany&lt;/s&gt;
+|-
+|    THI || GQNC || [[Tichitt Airport]] || [[Tichitt]], [[Mauritania]]
+|-
+|    THL || VYTL || [[Tachilek Airport]] || [[Tachilek]], [[Myanmar]] (Burma)
+&lt;!-- THM is FAA code (not IATA) for Thompson Falls Airport in Thompson Falls, Montana, United States --&gt;
+|-
+|    THN || ESGT || [[Trollhättan-Vänersborg Airport]] || [[Trollhättan]] / [[Vänersborg]], Sweden
+|-
+|    THO || BITN || [[Thorshofn Airport]] || [[Þórshöfn]], [[Iceland]]
+|-
+|    THP || KTHP || [[Hot Springs County-Thermopolis Municipal Airport]] || [[Thermopolis, Wyoming]], United States
+|-
+|    THR || OIII || [[Mehrabad International Airport]] || [[Tehran]], [[Iran]]
+|-
+|    THS || VTPO || [[Sukhothai Airport]] || [[Sukhothai (town)|Sukhothai]], [[Thailand]]
+|-
+|    THT || GQNT || [[Tamchakett Airport]] || [[Tamchakett]], [[Mauritania]]
+|-
+|    THU || BGTL || [[Thule Air Base]] || [[Pituffik]], [[Greenland]]
+|-
+|    THV || KTHV || [[York Airport (Pennsylvania)|York Airport]] || [[York, Pennsylvania]], United States
+|-
+|    THX || UOTT || [[Turukhansk Airport]] || [[Turukhansk]], [[Russia]]
+|-
+|    THZ || DRRT || [[Tahoua Airport]] || [[Tahoua]], [[Niger]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TI&quot;/&gt;-TI-
+|-
+|    TIA || LATI || [[Tirana International Airport Nënë Tereza]] || [[Tirana]], [[Albania]]
+|-
+|    TIC ||      || [[Tinak Airport]] (FAA: N18) || [[Tinak]], [[Arno Atoll]], [[Marshall Islands]]
+|-
+|    TIF || OETF || [[Ta'if Airport]] || [[Ta'if]], [[Saudi Arabia]]
+|-
+|    TII || OATN || [[Tarin Kowt Airport]] || [[Tarin Kowt]], [[Afghanistan]]
+|-
+|    TIJ || MMTJ || [[General Abelardo L. Rodríguez International Airport]] || [[Tijuana]], [[Baja California]], Mexico
+|-
+|    TIK || KTIK || [[Tinker Air Force Base]] || [[Oklahoma City, Oklahoma]], United States
+|-
+|    TIM || WABP || [[Mozes Kilangin Airport]] || [[Timika]], [[Papua (province)|Papua]], Indonesia
+|-
+|    TIP || HLLT || [[Tripoli International Airport]] || [[Tripoli]], [[Libya]]
+&lt;!-- TIP is FAA code (not IATA) for Rantoul National Aviation Center (Frank Elliott Field) in Rantoul, Illinois, United States --&gt;
+|-
+|    TIQ || PGWT || [[Tinian International Airport]] (West Tinian) (FAA: TNI) || [[Tinian Island]], [[Northern Mariana Islands]]
+|-
+|    TIR || VOTP || [[Tirupati Airport]] || [[Tirumala - Tirupati|Tirupati]], [[Andhra Pradesh]], India
+|-
+|    TIU || NZTU || [[Richard Pearse Airport]] || [[Timaru]], New Zealand
+|-
+|    TIV || LYTV || [[Tivat Airport]] || [[Tivat]], [[Montenegro]]
+|-
+|    TIW || KTIW || [[Tacoma Narrows Airport]] || [[Tacoma, Washington]], United States
+|-
+|    TIX || KTIX || [[Space Coast Regional Airport]] || [[Titusville, Florida]], United States
+|-
+|    TIY || GQND || [[Tidjikja Airport]] || [[Tidjikja]], [[Mauritania]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TJ&quot;/&gt;-TJ-
+|-
+|    TJA || SLTJ || [[Capitán Oriel Lea Plaza Airport]] || [[Tarija, Bolivia|Tarija]], [[Bolivia]]
+|-
+|    TJL || SSTL || [[Tres Lagoas Regional Airport]] || [[Tres Lagoas]], Brazil
+|-
+|    TJK || LTAW || [[Tokat Airport]] || [[Tokat]], Turkey
+|-
+|    TJM || USTR || [[Roschino Airport]] || [[Tyumen]], Russia
+|-
+|    TJQ || WIKD || [[Buluh Tumbang Airport]] || [[Tanjung Pandan]], [[Bangka-Belitung]], [[Indonesia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TK&quot;/&gt;-TK-
+|-
+|    TKA || PATK || [[Talkeetna Airport]] || [[Talkeetna, Alaska]], United States
+&lt;!-- TKC is FAA code (not IATA) for Tracy Municipal Airport in Tracy, Minnesota, United States --&gt;
+|-
+|    TKD || DGTK || [[Takoradi Airport]] || [[Sekondi-Takoradi]], [[Ghana]]
+|-
+|    TKF || KTRK || [[Truckee-Tahoe Airport]] (FAA: TRK) || [[Truckee, California]], United States
+|-
+|    TKG || WICT || [[Radin Inten II Airport]]  || [[Bandar Lampung]], [[Sumatra]], Indonesia
+|-
+|    TKI ||      || [[Tokeen Seaplane Base]] (FAA: 57A) || [[Tokeen, Alaska]], United States
+&lt;!-- TKI is FAA code (not IATA) for Collin County Regional Airport in McKinney, Texas, United States --&gt;
+|-
+|    TKJ || PATJ || [[Tok Airport]] || [[Tok, Alaska]], United States
+|-
+|    TKK || PTKK || [[Chuuk International Airport]] || [[Weno]], [[Federated States of Micronesia]]
+&lt;!-- TKO is FAA code (not IATA) for Mankato Airport in Mankato, Kansas, United States --&gt;
+|-
+|    TKQ || HTKA || [[Kigoma Airport]] || [[Kigoma]], [[Tanzania]]
+|-
+|    TKT || VTPT || [[Tak Airport]] || [[Tak (town)|Tak]], [[Thailand]]
+|-
+|    TKU || EFTU || [[Turku Airport]] || [[Turku]], Finland
+&lt;!-- TKV is FAA code (not IATA) for Tomahawk Regional Airport in Tomahawk, Wisconsin, United States --&gt;
+&lt;!-- TKX is FAA code (IATA: KNT) for Kennett Memorial Airport in Kennett, Missouri, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TL&quot;/&gt;-TL-
+|-
+|    TLA || PATE || [[Teller Airport]] (FAA: TER) || [[Teller, Alaska]], United States
+|-
+|    TLC || MMTO || [[Lic. Adolfo López Mateos International Airport]] || [[Toluca]], [[Mexico (state)|Estado de México]], Mexico
+|-
+|    TLF ||      || [[Telida Airport]] (FAA: 2K5) || [[Telida, Alaska]], United States
+|-
+|    TLH || KTLH || [[Tallahassee Regional Airport]] || [[Tallahassee, Florida]], United States
+|-
+|    TLJ || PATL || [[Tatalina LRRS Airport]] || [[Takotna, Alaska]], United States
+|-
+|    TLK || UECT || [[Talakan Airport]] || [[Talakan]], [[Bureysky District]], Russia
+|-
+|    TLL || EETN || [[Lennart Meri Tallinn Airport]] || [[Tallinn]], [[Estonia]]
+|-
+|    TLN || LFTH || [[Toulon-Hyères Airport]] || [[Toulon]], France
+|-
+|    TLQ || ZWTP || [[Turpan Jiaohe Airport]] || [[Turpan]], [[Xinjiang]], [[China]]
+|-
+|    TLR || KTLR || [[Mefford Field]] || [[Tulare, California]], United States
+|-
+|    TLS || LFBO || [[Toulouse Blagnac International Airport]] || [[Toulouse]], France
+|-
+|    TLT ||      || [[Tuluksak Airport]] || [[Tuluksak, Alaska]], United States
+|-
+|    TLV || LLBG || [[Ben Gurion International Airport]] || [[Lod]] (near [[Tel Aviv]]), [[Israel]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TM&quot;/&gt;-TM-
+|-
+|    TMA || KTMA || [[Henry Tift Myers Airport]] || [[Tifton, Georgia]], United States
+|-
+|    TMB || KTMB || [[Kendall-Tamiami Executive Airport]] || [[Miami, Florida]], United States
+|-
+|    TMD || GQNH || [[Timbedra Airport]] || [[Timbedra]], [[Mauritania]]
+|-
+|    TME || SKTM || [[Gabriel Vargas Santos Airport]] || [[Tame, Arauca]], [[Colombia]]
+|-
+|    TMF ||      || [[Thimarafushi Airport]] || [[Thimarafushi (Thaa Atoll)|Thimarafushi]], [[Thaa Atoll]], [[Maldives]]
+|-
+|    TMJ || UTST || [[Termez Airport]] || [[Termez]], [[Uzbekistan]]
+|-
+|    TML || DGLE || [[Tamale Airport]] || [[Tamale, Ghana|Tamale]], [[Northern Region, Ghana|Northern Region]], [[Ghana]]
+|-
+|    TMM || FMMT || [[Toamasina Airport]] || [[Toamasina]], [[Madagascar]]
+|-
+|    TMP || EFTP || [[Tampere-Pirkkala Airport]] || [[Tampere]] / [[Pirkkala]], Finland
+|-
+|    TMQ || DFEM || [[Tambao Airport]] || [[Tambao]], [[Burkina Faso]]
+|-
+|    TMR || DAAT || [[Tamanrasset Airport]] || [[Tamanrasset]], [[Algeria]]
+|-
+|    TMS || FPST || [[São Tomé International Airport]] || [[São Tomé]], [[São Tomé and Príncipe]]
+|-
+|    TMT || SBTB || [[Porto Trombetas Airport]] || [[Porto Trombetas]], [[Oriximiná]], [[Pará]], Brazil
+|-
+|    TMU || MRTR || [[Tambor Airport]] || [[Tambor, Costa Rica|Tambor]], [[Costa Rica]]
+|-
+|    TMW || YSTW || [[Tamworth Airport]] || [[Tamworth, New South Wales]], Australia
+|-
+|    TMZ || NZTH || [[Thames Aerodrome]] || [[Thames, New Zealand]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TN&quot;/&gt;-TN-
+|-
+|    TNA || ZSJN || [[Jinan Yaoqiang International Airport]] || [[Jinan]], [[Shandong]], [[China]]
+|-
+|    TNC || PATC || [[Tin City LRRS Airport]] || [[Tin City]], [[Alaska]], United States
+|-
+|    TNF || LFPN || [[Toussus-le-Noble Airport]] || [[Toussus-le-Noble]], France
+|-
+|    TNG || GMTT || [[Ibn Batouta International Airport]] || [[Tangier]], [[Morocco]]
+|-
+|    TNH || ZYTN || [[Tonghua Sanyuanpu Airport]] || [[Tonghua]], [[Jilin]], [[China]]
+|-
+|    TNI || VIST || [[Satna Airport]] || [[Satna]], [[India]]
+|-
+|    TNJ || WIDN || [[Kijang Airport|Raja Haji Fisabilillah International Airport]] || [[Tanjung Pinang]], [[Riau Islands]], [[Indonesia]]
+|-
+|    TNK ||      || [[Tununak Airport]] (FAA: 4KA) || [[Tununak, Alaska]], United States
+|-
+|    TNL || UKLT || [[Ternopil Airport]] || [[Ternopil]], [[Ukraine]]
+|-
+|    TNM || SCRM || [[Teniente R. Marsh Airport]] || [[Villa Las Estrellas]], [[Antarctica]]
+|-
+|    TNN || RCNN || [[Tainan Airport]] || [[Tainan City]], [[Taiwan]], [[Republic of China]]
+|-
+|    TNO || MRTM || [[Tamarindo Airport]] || [[Tamarindo, Costa Rica]]
+|-
+|    TNP || KTNP || [[Twentynine Palms Airport]] || [[Twentynine Palms, California]], United States
+|-
+|    TNQ ||      || [[Teraina Airport]] || [[Teraina]], [[Kiribati]]
+|-
+|    TNR || FMMI || [[Ivato Airport]] || [[Antananarivo]], [[Madagascar]]
+|-
+|    TNT || KTNT || [[Dade-Collier Training and Transition Airport]] || [[Miami, Florida]], United States
+|-
+|    TNU || KTNU || [[Newton Municipal Airport (Iowa)|Newton Municipal Airport]] || [[Newton, Iowa]], United States
+&lt;!-- TNW is FAA code (not IATA) for Tin Creek Airport in Farewell Lake, Alaska, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TO&quot;/&gt;-TO-
+|-
+|    TOA || KTOA || [[Zamperini Field]] || [[Torrance, California]], United States
+|-
+|    TOB || HLGN || [[Gamal Abdel Nasser Airport]] || [[Tobruk]], [[Libya]]
+&lt;!-- TOB is FAA code (not IATA) for Dodge Center Airport in Dodge Center, Minnesota, United States --&gt;
+|-
+|    TOC || KTOC || [[Toccoa Airport]] (R.G. LeTourneau Field) || [[Toccoa, Georgia]], United States
+|-
+|    TOD || WMBT || [[Tioman Airport]] || [[Tioman Island]], [[Malaysia]]
+|-
+|    TOE || DTTZ || [[Tozeur, Tunisia]] (Aeroport International Tozeur Nefta) || [[Tozeur, Tunisia]], Tunisia
+|-
+|    TOF || UNTT || [[Bogashevo Airport]] || [[Tomsk]], Russia
+|-
+|    TOG || PATG || [[Togiak Airport]] || [[Togiak Village, Alaska]], United States
+|-
+|    TOI || KTOI || [[Troy Municipal Airport]] || [[Troy, Alabama]], United States
+|-
+|    TOJ || LETO || [[Madrid-Torrejón Airport]] || [[Torrejón de Ardoz]], Spain
+|-
+|    TOL || KTOL || [[Toledo Express Airport]] || [[Toledo, Ohio]], United States
+|-
+|    TOM || GATB || [[Timbuktu Airport]] || [[Timbuktu]], [[Mali]]
+|-
+|    TOP || KTOP || [[Philip Billard Municipal Airport]] || [[Topeka, Kansas]], United States
+|-
+|    TOR || KTOR || [[Torrington Municipal Airport]] || [[Torrington, Wyoming]], United States
+|-
+|    TOS || ENTC || [[Tromsø Airport]] || [[Tromsø]], Norway
+|-
+|    TOT || SMCO || [[Coronie Airport]] || [[Totness, Suriname|Totness]], [[Coronie]], [[Suriname]]
+|-
+|    TOY || RJNT || [[Toyama Airport]] || [[Toyama, Toyama]], Japan
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TP&quot;/&gt;-TP-
+|-
+|    TPA || KTPA || [[Tampa International Airport]] || [[Tampa, Florida]], United States
+|-
+|    TPE || RCTP || [[Taiwan Taoyuan International Airport]] || [[Taoyuan City]] (near [[Taipei]]), [[Taiwan]], [[Republic of China]]
+|-
+|    TPF || KTPF || [[Peter O. Knight Airport]] || [[Tampa, Florida]], United States
+|-
+|    TPH || KTPH || [[Tonopah Airport]] || [[Tonopah, Nevada]], United States
+|-
+|    TPL || KTPL || [[Draughon-Miller Central Texas Regional Airport]] || [[Temple, Texas]], United States
+&lt;!-- TPO is FAA code (IATA: PTA, ICAO: PALJ) for Port Alsworth Airport in Port Alsworth, Alaska, United States --&gt;
+|-
+|    TPQ || MMEP || [[Amado Nervo National Airport]] || [[Tepic]], [[Nayarit]], Mexico
+|-
+|    TPR ||      || [[Tom Price Airport]] || [[Tom Price, Western Australia]], Australia
+|-
+|    TPS || LICT || [[Trapani-Birgi Airport]] || [[Trapani]], Italy
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TQ&quot;/&gt;-TQ-
+&lt;!-- TQE is FAA code (not IATA) for Tekamah Municipal Airport in Tekamah, Nebraska, United States --&gt;
+&lt;!-- TQH is FAA code (not IATA) for Tahlequah Municipal Airport in Tahlequah, Oklahoma, United States --&gt;
+&lt;!-- TQK is FAA code (not IATA) for Scott City Municipal Airport in Scott City, Kansas, United States --&gt;
+|-
+|    TQA || BGTA || [[Tasiusaq Heliport (Qaasuitsup)]] || [[Tasiusaq, Qaasuitsup]], [[Greenland]]
+|-
+|    TQI || BGTN || [[Tiniteqilaaq Heliport]] || [[Tiniteqilaaq]], [[Greenland]]
+|-
+|    TQN || OATQ || [[Taloqan Airport]] || [[Taloqan]], [[Afghanistan]]
+|-
+|    TQP || YTEE || [[Trepell Airport]] || [[Trapell]], [[Queensland]], [[Australia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TR&quot;/&gt;-TR-
+|-
+|    TRC || MMTC || [[Francisco Sarabia International Airport]] (Torreón Int'l) || [[Torreón]], [[Coahuila]], Mexico
+|-
+|    TRD || ENVA || [[Trondheim Airport, Værnes]] || [[Trondheim]], [[Sør-Trøndelag]], Norway
+|-
+|    TRE || EGPU || [[Tiree Airport]] || [[Tiree]], [[Scotland]], [[United Kingdom]]
+|-
+|    TRF || ENTO || [[Sandefjord Airport, Torp]] || [[Sandefjord]] / [[Stokke]], Norway
+|-
+|    TRG || NZTG || [[Tauranga Airport]] || [[Tauranga]], New Zealand
+|-
+|    TRH ||      || [[Trona Airport]] (FAA: L72) || [[Trona, Inyo County, California|Trona, California]], United States
+|-
+|    TRI || KTRI || [[Tri-Cities Regional Airport]] || [[Blountville, Tennessee]] ([[Tri-Cities, Tennessee|Tri-Cities]] area), United States
+|-
+|    TRK || WALR || [[Juwata Airport]] || [[Tarakan, East Kalimantan]], [[Indonesia]]
+&lt;!-- TRK is FAA code (IATA: TKF) for Truckee-Tahoe Airport in Truckee, California, United States --&gt;
+|-
+|    TRL || KTRL || [[Terrell Municipal Airport]] || [[Terrell, Texas]], United States
+|-
+|    TRM || KTRM || [[Jacqueline Cochran Regional Airport]] || [[Palm Springs, California]], United States
+|-
+|    TRN || LIMF || [[Turin International Airport]] || [[Turin]], Italy
+|-
+|    TRR || VCCT || [[China Bay Airport]] || [[Trincomalee]], [[Sri Lanka]]
+|-
+|    TRS || LIPQ || [[Friuli Venezia Giulia Airport]] || [[Trieste]], Italy
+|-
+|    TRU || SPRU || [[Cap. FAP Carlos Martínez de Pinillos International Airport]] || [[Trujillo, Peru]]
+|-
+|    TRV || VOTV || [[Trivandrum International Airport]] || [[Trivandrum]], [[Kerala]], India
+|-
+|    TRW || NGTA || [[Bonriki International Airport]] || [[Tarawa]], [[Kiribati]]
+|-
+|    TRX || KTRX || [[Trenton Municipal Airport (Missouri)|Trenton Municipal Airport]] || [[Trenton, Missouri]], United States
+|-
+|    TRZ || VOTR || [[Tiruchirapalli international Airport]] || [[Tiruchirapalli]] (Trichy), [[Tamil Nadu]], India
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TS&quot;/&gt;-TS-
+|-
+|    TSA || RCSS || [[Taipei Songshan Airport]] || [[Taipei City]], [[Taiwan]], [[Republic of China]]
+|-
+|    TSE || UACC || [[Astana Airport]] || [[Astana]], [[Kazakhstan]]
+|-
+|    TSF || LIPH || [[Treviso Airport]] || [[Treviso]], Italy
+|-
+|    TSG ||      || [[Tanacross Airport]] || [[Tanacross, Alaska]], United States
+|-
+|    TSL || MMTN || [[Tamuín National Airport]] || [[Tamuín]], [[San Luis Potosí]], Mexico
+|-
+|    TSM || KSKX || [[Taos Regional Airport]] (FAA: SKX) || [[Taos, New Mexico]], United States
+|-
+|    TSN || ZBTJ || [[Tianjin Binhai International Airport]] || [[Tianjin]], [[China]]
+|-
+|    TSO || EGHT || [[Tresco Heliport]] || [[Tresco, Isles of Scilly]], United Kingdom
+&lt;!-- TSO is FAA code (not IATA) for Truckee-Tahoe Airport in Carrollton, Ohio, United States --&gt;
+|-
+|    TSP || KTSP || [[Tehachapi Municipal Airport]] || [[Tehachapi, California]], United States
+|-
+|    TSR || LRTR || [[Traian Vuia International Airport]] || [[Timişoara]], [[Romania]]
+|-
+|    TSS ||      || [[East 34th Street Heliport]] (FAA: 6N5) || [[New York City]], United States
+|-
+|    TST || VTST || [[Trang Airport]] || [[Trang, Trang|Trang]], [[Thailand]]
+|-
+|    TSV || YBTL || [[Townsville Airport]] || [[Townsville]], [[Queensland]], Australia
+|-
+|    TSY || WICM || [[Tasikmalaya Airport]] || [[Tasikmalaya]], [[West Java]], [[Indonesia]]
+|-
+|    TSZ || ZMTG || [[Tsetserleg Airport]] || [[Tsetserleg (city)|Tsetserleg]], [[Arkhangai]], [[Mongolia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TT&quot;/&gt;-TT-
+|-
+|    TTA || GMAT || [[Tan Tan Airport]] (Plage Blanche Airport) || [[Tan-Tan]], [[Morocco]]
+|-
+|    TTB || LIET || [[Tortolì Airport]] || [[Sardinia]], Italy
+|-
+|    TTD || KTTD || [[Portland-Troutdale Airport]] || [[Portland, Oregon]], United States
+&lt;!-- TTF is FAA code (not IATA) for Custer Airport in Monroe, Michigan, United States --&gt;
+|-
+|    TTG || SAST || [[Tartagal Airport]] || [[Tartagal, Salta]], [[Argentina]]
+|-
+|    TTM ||      || [[Tablón de Tamara Airport]] || [[Tablón de Tamara]], [[Colombia]]
+|-
+|    TTN || KTTN || [[Trenton-Mercer Airport]] || [[Trenton, New Jersey]], United States
+|-
+|    TTO || KBTN || [[Britton Municipal Airport]] (FAA: BTN) || [[Britton, South Dakota]], United States
+|-
+|    TTQ || MRAO || [[Tortuguero Airport]] || [[Tortuguero, Costa Rica|Tortuguero]], [[Costa Rica]]
+|-
+|    TTS ||      || [[Tsaratanana Airport]] || [[Tsaratanana]], [[Madagascar]].
+|-
+|    TTT ||      || [[Taitung Airport]] || [[Taitung City|Taitung]], [[Taiwan]], [[Republic of China]]
+|-
+|    TTU ||      || [[Sania Ramel Airport]] || [[Tétouan]], [[Morocco]]
+&lt;!-- TTW is FAA code (IATA: none, ICAO: PATW) for Cantwell Airport in Cantwell, Alaska, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TU&quot;/&gt;-TU-
+|-
+|    TUA || SETU || [[Teniente Coronel Luis a Mantilla International Airport]] || [[Tulcán]], [[Ecuador]]
+|-
+|    TUC || SANT || [[Teniente General Benjamín Matienzo International Airport]] || [[San Miguel de Tucumán]], [[Argentina]]
+|-
+|    TUD || GOTT || [[Tambacounda Airport]] || [[Tambacounda]], [[Senegal]]
+|-
+|    TUF || LFOT || [[Tours Val de Loire Airport]] || [[Tours]], France
+|-
+|    TUG || RPUT || [[Tuguegarao Airport]] || [[Tuguegarao City]], [[Cagayan]], [[Philippines]]
+|-
+|    TUL || KTUL || [[Tulsa International Airport]] || [[Tulsa, Oklahoma]], United States
+|-
+|    TUN || DTTA || [[Tunis–Carthage International Airport]] || [[Tunis]] / [[Carthage]], [[Tunisia]]
+|-
+|    TUO || NZAP || [[Taupo Airport]] || [[Taupo]], New Zealand
+|-
+|    TUP || KTUP || [[Tupelo Regional Airport]] || [[Tupelo, Mississippi]], United States
+|-
+|    TUQ || DFOT || [[Tougan Airport]] || [[Tougan]], [[Burkina Faso]]
+|-
+|    TUS || KTUS || [[Tucson International Airport]] || [[Tucson, Arizona]], United States
+|-
+|    TUU || OETB || [[Tabuk Regional Airport]] || [[Tabuk, Saudi Arabia|Tabuk]], [[Saudi Arabia]]
+|-
+|    TUY ||      || [[Tulum Airport]] || [[Tulum]], [[Quintana Roo]], Mexico
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TV&quot;/&gt;-TV-
+&lt;!-- TVB is FAA code (not IATA) for Cabool Memorial Airport in Cabool, Missouri, United States --&gt;
+|-
+|    TVC || KTVC || [[Cherry Capital Airport]] || [[Traverse City, Michigan]], United States
+|-
+|    TVF || KTVF || [[Thief River Falls Regional Airport]] || [[Thief River Falls, Minnesota]], United States
+|-
+|    TVI || KTVI || [[Thomasville Regional Airport]] || [[Thomasville, Georgia]], United States
+&lt;!-- TVK is FAA code (not IATA) for Centerville Municipal Airport in Centerville, Iowa, United States --&gt;
+|-
+|    TVL || KTVL || [[Lake Tahoe Airport]] || [[South Lake Tahoe, California]], United States
+&lt;!-- TVR is FAA code (not IATA) for Vicksburg Tallulah Regional Airport in Tallulah, Louisiana, United States --&gt;
+|-
+|    TVS ||      || [[Tangshan Sannühe Airport]] || [[Tangshan]], [[Hebei]], [[China]]
+|-
+|    TVY || VYDW || [[Dawei Airport]] || [[Dawei]], [[Myanmar]] (Burma)
+&lt;!-- TVY is FAA code (not IATA) for Tooele Valley Airport (Bolinder Field) in Tooele, Utah, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TW&quot;/&gt;-TW-
+|-
+|    TWA ||      || [[Twin Hills Airport]] (FAA: A63) || [[Twin Hills, Alaska]], United States
+|-
+|    TWD ||      || [[Jefferson County International Airport]] (FAA: 0S9) || [[Port Townsend, Washington]], United States
+|-
+|    TWE ||      || [[Taylor Airport (Alaska)|Taylor Airport]] (FAA: AK49) || [[Taylor, Alaska]], United States
+|-
+|    TWF || KTWF || [[Magic Valley Regional Airport]] (Joslin Field) || [[Twin Falls, Idaho]], United States
+&lt;!-- TWM is FAA code (not IATA) for Richard B. Helgeson Airport in Two Harbors, Minnesota, United States --&gt;
+|-
+|    TWT || RPMN || [[Sanga-Sanga Airport]] || [[Bongao]], [[Tawi-Tawi]], [[Philippines]]
+|-
+|    TWU || WBKW || [[Tawau Airport]] || [[Tawau]], [[Sabah]], [[Malaysia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TX&quot;/&gt;-TX-
+|-
+|    TXK || KTXK || [[Texarkana Regional Airport]] (Webb Field) || [[Texarkana, Arkansas]], United States
+|-
+|    TXL || EDDT || [[Berlin Tegel Airport]] || [[Tegel]] / Berlin, Germany
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TY&quot;/&gt;-TY-
+|-
+|    TYA || LTBP || [[Yalova Airport]] || [[Yalova]], Turkey
+|-
+|    TYD || UHBW || [[Tynda Airport]] || [[Tynda]], [[Amur Oblast]], [[Russia]]
+|-
+|    TYE ||      || [[Tyonek Airport]] || [[Tyonek, Alaska]], United States
+|-
+|    TYL || SPYL || [[Cap. FAP Víctor Montes Arias Airport]] || [[Talara, Peru]]
+|-
+|    TYN || ZBYN || [[Taiyuan Wusu International Airport]] || [[Taiyuan]], [[Shanxi]], [[China]]
+|-
+|    TYO ||      || All Airports || [[Tokyo]], [[Japan]]
+&lt;!-- TYQ is FAA code (not IATA) for Indianapolis Executive Airport in Indianapolis, Indiana, United States --&gt;
+|-
+|    TYR || KTYR || [[Tyler Pounds Regional Airport]] || [[Tyler, Texas]], United States
+|-
+|    TYS || KTYS || [[McGhee Tyson Airport]] || [[Knoxville, Tennessee]], United States
+|-
+|    TYT || SUTR || [[Treinta y Tres Airport]] || [[Treinta y Tres]], [[Treinta y Tres Department|Treinta y Tres]], [[Uruguay]]
+|-
+|    TYZ || KTYL || [[Taylor Airport (Arizona)|Taylor Airport]] (FAA: TYL) || [[Taylor, Arizona]], United States
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;TZ&quot;/&gt;-TZ-
+|-
+|    TZA ||      || [[Belize City Municipal Airport]] || [[Belize City]], [[Belize]]
+|-
+|    TZL || LQTZ || [[Tuzla International Airport]] || [[Tuzla]], [[Bosnia and Herzegovina]]
+|-
+|    TZM ||      || [[Cupul National Airport]] || [[Tizimín]], [[Yucatán (state)|Yucatán State]], [[Mexico]]
+|-
+|    TZN || MYAK || [[South Andros Airport]] || [[Congo Town]], [[Andros Island]], [[Bahamas]]
+&lt;!-- TZR is FAA code (not IATA) for Bolton Field in Columbus, Ohio, United States --&gt;
+&lt;!-- TZT is FAA code (not IATA) for Belle Plaine Municipal Airport in Belle Plaine, Iowa, United States --&gt;
+&lt;!-- TZV is FAA code (not IATA) for Tompkinsville-Monroe County Airport in Tompkinsville, Kentucky, United States --&gt;
+|-
+|    TZX || LTCG || [[Trabzon Airport]] || [[Trabzon]], Turkey
+|}
+
+==References==
+{{Reflist}}
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = [[PDF]] | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|T]]</text>
+      <sha1>r61um0nc9gfpfxfcb01mpg1alom4mv4</sha1>
+    </revision>
+  </page>
+</mediawiki>

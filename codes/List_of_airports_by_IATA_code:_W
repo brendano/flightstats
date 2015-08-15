@@ -1,0 +1,422 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: W</title>
+    <ns>0</ns>
+    <id>317148</id>
+    <revision>
+      <id>670801936</id>
+      <parentid>642718240</parentid>
+      <timestamp>2015-07-10T09:03:13Z</timestamp>
+      <contributor>
+        <username>T3dbundy</username>
+        <id>24747656</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16746">{{Lists of airports by IATA code}}
+
+==W==
+{{AlphanumericTOC|prefixLink=W|prefixDesc=W|numbers=|sections=|q=WQ|z=WZ&lt;!--no WQ OR WZ section--&gt;}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+&lt;!-- comments added to prevent addition of incorrect IATA codes --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WA&quot;/&gt;-WA-
+|-
+|    WAA || PAIW || [[Wales Airport (Alaska)|Wales Airport]] (FAA: IWK) || [[Wales, Alaska]], [[United States]]
+|-
+|    WAD ||      || [[Andriamena Airport]] || [[Andriamena]], [[Madagascar]]
+|-
+|    WAG || NZWU || [[Wanganui Airport]] || [[Wanganui]], [[New Zealand]]
+|-
+|    WAH || KBWP || [[Harry Stern Airport]] (FAA: BWP) || [[Wahpeton, North Dakota]], [[United States]]
+|-
+|    WAL || KWAL || [[Wallops Flight Facility Airport]] || [[Wallops Island, Virginia]], [[United States]]
+|-
+|    WAS ||      || All airports || [[Washington, D.C.]], [[United States]]
+|-
+|    WAT || EIWF || [[Waterford Airport]] || [[Waterford]], [[Republic of Ireland|Ireland]]
+|-
+|    WAW || EPWA || [[Warsaw Chopin Airport|Frederic Chopin International Airport]] || [[Warsaw]], [[Poland]]
+|-
+|    WAY || KWAY || [[Greene County Airport (Pennsylvania)|Greene County Airport]] || [[Waynesburg, Pennsylvania]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WB&quot;/&gt;-WB-
+|-
+|    WBB ||      || [[Stebbins Airport]] || [[Stebbins, Alaska]], [[United States]]
+|-
+|    WBG || ETNS || [[Fliegerhorst Schleswig]] || [[Schleswig]], [[Germany]]
+|-
+|    WBQ || PAWB || [[Beaver Airport]] || [[Beaver, Alaska]], [[United States]]
+|-
+|    WBR || KRQB || [[Roben-Hood Airport]] (FAA: RQB) || [[Big Rapids, Michigan]], [[United States]]
+|-
+|    WBU || KBDU || [[Boulder Municipal Airport]] (FAA: BDU) || [[Boulder, Colorado]], [[United States]]
+|-
+|    WBW || KWBW || [[Wilkes-Barre Wyoming Valley Airport]] || [[Wilkes-Barre, Pennsylvania]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WC&quot;/&gt;-WC-
+|-
+|    WCA || SCST || [[Gamboa Airport]] || [[Castro, Chile|Castro]], [[Chile]]
+|-
+|    WCH || SCTN || [[Chaitén Airport]] || [[Chaitén]], [[Los Lagos Region|Los Lagos]], [[Chile]]
+|-
+|    WCR || PALR || [[Chandalar Lake Airport]] || [[Chandalar Lake]], [[Alaska]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WD&quot;/&gt;-WD-
+|-
+|    WDA ||      || [[Wadi Ain Airport]] || [[Wadi Ain]], [[Yemen]]
+|-
+|    WDG || KWDG || [[Enid Woodring Regional Airport]] || [[Enid, Oklahoma]], [[United States]]
+|-
+|    WDH || FYWH || [[Windhoek Hosea Kutako International Airport]] || [[Windhoek]], [[Namibia]]
+|-
+|    WDR || KWDR || [[Barrow County Airport]] || [[Winder, Georgia]], [[United States]]
+|-
+|    WDS ||      || [[Wudangshan Airport]] || [[Shiyan]], [[Hubei]], [[China]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WE&quot;/&gt;-WE-
+|-
+|    WEA || KWEA || [[Parker County Airport]] || [[Weatherford, Texas]], [[United States]]
+|-
+|    WEF || ZSWF || [[Weifang Airport]] || [[Weifang]], [[Shandong]], [[China]]
+|-
+|    WEH || ZSWH || [[Weihai Dashuibo Airport]] || [[Weihai]], [[Shandong]], [[China]]
+|-
+|    WEI || YBWP || [[Weipa Airport]] || [[Weipa, Queensland]], [[Australia]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WF&quot;/&gt;-WF-
+|-
+|    WFB ||      || [[Ketchikan Harbor Seaplane Base]] (FAA: 5KE) || [[Ketchikan, Alaska]], [[United States]]
+|-
+|    WFI || FMSF || [[Fianarantsoa Airport]] || [[Fianarantsoa]], [[Madagascar]]
+|-
+|    WFK || KFVE || [[Northern Aroostook Regional Airport]] (FAA: FVE) || [[Frenchville, Maine]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WG&quot;/&gt;-WG-
+|-
+|    WGA || YSWG || [[Wagga Wagga Airport]] || [[Wagga Wagga, New South Wales]], [[Australia]]
+|-
+|    WGB || OPBR || [[Bahawalnagar Airport]] || [[Bahawalnagar]], [[Pakistan]]
+|-
+|    WGO || KOKV || [[Winchester Regional Airport]] (FAA: OKV) || [[Winchester, Virginia]], [[United States]]
+|-
+|    WGP || WADW || [[Mau Hau Airport]] (former ICAO: WRRW) || [[Waingapu]], [[Sumba]], [[East Nusa Tenggara]], [[Indonesia]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WH&quot;/&gt;-WH-
+|-
+|    WHD ||      || [[Hyder Seaplane Base]] (FAA: 4Z7) || [[Hyder, Alaska]], [[United States]]
+|-
+|    WHF || HWHF || [[Wadi Halfa Airport]] || [[Wadi Halfa]], [[Sudan]]
+|-
+|    WHK || NZWK || [[Whakatane Airport]] || [[Whakatane]], [[New Zealand]]
+|-
+|    WHP || KWHP || [[Whiteman Airport]] || [[Los Angeles, California]], [[United States]]
+|-
+|    WHT || KARM || [[Wharton Regional Airport]] (FAA: ARM) || [[Wharton, Texas]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WI&quot;/&gt;-WI-
+|-
+|    WIC || EGPC || [[Wick Airport]] || [[Wick, Highland|Wick]], [[Scotland]], [[United Kingdom]]
+|-
+|    WIE || ETOU || [[Wiesbaden Army Airfield]] || [[Wiesbaden]], [[Hessen]], [[Germany]]
+|-
+|    WIL || HKNW || [[Wilson Airport (Kenya)|Wilson Airport]] || [[Nairobi]], [[Kenya]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WJ&quot;/&gt;-WJ-
+|-
+|    WJA ||      || [[Woja Airport]] || [[Woja]], [[Marshall Islands]]
+|-
+|    WJF || KWJF || [[General William J. Fox Airfield]] || [[Lancaster, California]], [[United States]]
+|-
+|    WJU || RKNW || [[Wonju Airport]] || [[Wonju]], [[South Korea]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WK&quot;/&gt;-WK-
+|-
+|    WKA || NZWF || [[Wanaka Airport]] || [[Wanaka]], [[New Zealand]]
+|-
+|    WKJ || RJCW || [[Wakkanai Airport]] || [[Wakkanai]], [[Hokkaido]], [[Japan]]
+|-
+|    WKK ||      || [[Aleknagik Airport]] (FAA: 5A8) || [[Aleknagik, Alaska]], [[United States]]
+|-
+|    WKL ||      || [[Waikoloa Heliport]] (FAA: HI07) || [[Waikoloa Village, Hawaii]], [[United States]]
+|-
+|    WKN ||      || [[Wakunai Airport]] || [[Wakunai]], [[Papua New Guinea]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WL&quot;/&gt;-WL-
+|-
+|    WLD || KWLD || [[Strother Field]] || [[Winfield, Kansas|Winfield]]/[[Arkansas City, Kansas]], [[United States]]
+|-
+|    WLE || YMLS || [[Miles Airport]] || [[Miles, Queensland]], [[Australia]]
+|-
+|    WLG || NZWN || [[Wellington International Airport]] || [[Wellington, New Zealand|Wellington]], [[New Zealand]]
+|-
+|    WLK || PASK || [[Selawik Airport]] || [[Selawik, Alaska]], [[United States]]
+|-
+|    WLL || YWOR || [[Wollogorang Airport]] || [[Wollogorang Station]], [[Northern Territory]], [[Australia]]
+|-
+|    WLM ||      || [[Prospect Hill Heliport]] (FAA: MA92) || [[Waltham, Massachusetts]], [[United States]]
+|-
+|    WLO || YWTL || [[Waterloo Airport (Australia)|Waterloo Airport]] || [[Waterloo, Northern Territory|Waterloo]], [[Northern Territory]], [[Australia]]
+|-
+|    WLR ||      || [[Loring Seaplane Base]] (FAA: 13Z) || [[Loring, Alaska|Loring]], [[Alaska]], [[United States]]
+|-
+|    WLS || NLWW || [[Wallis Island]] || [[Wallis and Futuna Islands]]
+|-
+|    WLW || KWLW || [[Willows-Glenn County Airport]] || [[Willows, California]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WM&quot;/&gt;-WM-
+|-
+|    WMA || FMNX || [[Mandritsara Airport]] || [[Mandritsara]], [[Madagascar]]
+|-
+|    WMB || YWBL || [[Warrnambool Airport]] || [[Warrnambool, Victoria]], [[Australia]]
+|-
+|    WMC || KWMC || [[Winnemucca Municipal Airport]] || [[Winnemucca, Nevada]], [[United States]]
+|-
+|    WME || YMNE || [[Mount Keith Airport]] || [[Mount Keith, Western Australia]], [[Australia]]
+|-
+|    WMH || KBPK || [[Ozark Regional Airport]] (FAA: BPK) || [[Mountain Home, Arkansas]], [[United States]]
+|-
+|    WMI || EPMO || [[Modlin Airport]] || [[Warsaw]], [[Poland]]
+|-
+|    WMK ||      || [[Meyers Chuck Seaplane Base]] (FAA: 84K) || [[Meyers Chuck, Alaska]], [[United States]]
+|-
+|    WML || FMMC || [[Malaimbandy Airport]] || [[Malaimbandy]], [[Madagascar]]
+|-
+|    WMO || PAWM || [[White Mountain Airport]] || [[White Mountain, Alaska]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WN&quot;/&gt;-WN-
+|-
+|    WNA || PANA || [[Napakiak Airport]] || [[Napakiak, Alaska]], [[United States]]
+|-
+|    WNC ||      || [[Naukati Bay Seaplane Base]] (FAA: AK62) || [[Tuxekan Island]], [[Alaska]], [[United States]]
+|-
+|    WNH || ZPWS || [[Wenshan Airport]] || [[Wenshan]], [[Yunnan]], [[China]]
+|-
+|    WNP || RPUN || [[Naga Airport]] (Pili Airport) || [[Pili, Camarines Sur|Pili]], [[Camarines Sur]], [[Philippines]]
+|-
+|    WNZ || ZSWZ || [[Wenzhou Yongqiang Airport]] || [[Wenzhou]], [[Zhejiang]], [[China]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WO&quot;/&gt;-WO-
+|-
+|    WOE || EHWO || [[Woensdrecht Air Base]] || [[Woensdrecht]], [[Netherlands]]
+|-
+|    WOL || YWOL || [[Illawarra Regional Airport]] (Wollongong Airport) || [[Shellharbour]], [[Wollongong, New South Wales]], [[Australia]]
+|-
+|    WOT || RCWA || [[Wang-an Airport]] || [[Wang-an, Penghu|Wang-an]], [[Penghu]] (Pescadores), [[Republic of China]]
+|-
+|    WOW || PAUO || [[Willow Airport]] (FAA: UUO) || [[Willow, Alaska]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WP&quot;/&gt;-WP-
+|-
+|    WPA || SCAS || [[Puerto Aisén Airport]] || [[Puerto Aisén]], [[Chile]]
+|-
+|    WPB || FMNG || [[Port Bergé Airport]] || [[Port Bergé]], [[Madagascar]]
+|-
+|    WPC || CZPC || [[Pincher Creek Airport]] || [[Pincher Creek]], [[Alberta]], [[Canada]]
+|-
+|    WPO ||      || [[North Fork Valley Airport]] (FAA: 7V2) || [[Paonia, Colorado]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WR&quot;/&gt;-WR-
+|-
+|    WRB || KWRB || [[Robins Air Force Base]] || [[Warner Robins, Georgia]], [[United States]]
+|-
+|    WRE || NZWR || [[Whangarei Airport]] || [[Whangarei]], [[New Zealand]]
+|-
+|    WRG || PAWG || [[Wrangell Airport]] || [[Wrangell, Alaska]], [[United States]]
+|-
+|    WRI || KWRI || [[McGuire Air Force Base]] || [[Wrightstown, New Jersey]], [[United States]]
+|-
+|    WRL || KWRL || [[Worland Municipal Airport]] || [[Worland, Wyoming]], [[United States]]
+|-
+|    WRN ||  || [[Windarling Airport]] || [[Windarling]], [[Australia]]
+|-
+|    WRO || EPWR || [[Copernicus Airport Wroclaw]] || [[Wroclaw]], [[Poland]]
+|-
+|    WRT || EGNO || [[Warton Aerodrome]] || [[Warton, Fylde|Warton]], [[Lancashire]], [[England]], [[United Kingdom]]
+|-
+|    WRW ||      || All airports in [[Warsaw]] || [[Warsaw]], [[Poland]]
+|-
+|    WRZ || VCCW || [[Weerawila Airport]] || [[Weerawila]], [[Sri Lanka]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WS&quot;/&gt;-WS-
+|-
+|    WSD || KWSD || [[Condron Army Airfield]] || [[White Sands, New Mexico]], [[United States]]
+|-
+|    WSG || KAFJ || [[Washington County Airport (Pennsylvania)|Washington County Airport]] (FAA: AFJ) || [[Washington, Pennsylvania]], [[United States]]
+|-
+|    WSH || KHWV || [[Brookhaven Airport]] (FAA: HWV) || [[Shirley, New York]], [[United States]]
+|-
+|    WSM ||      || [[Wiseman Airport]] || [[Wiseman, Alaska]], [[United States]]
+|-
+|    WSN || PFWS || [[South Naknek Nr 2 Airport]] || [[South Naknek, Alaska]], [[United States]]
+|-
+|    WSO ||      || [[Washabo Airport]] || [[Washabo]], [[Suriname]]
+|-
+|    WSP || MNWP || [[Waspam Airport]] || [[Waspam]], [[Nicaragua]]
+|-
+|    WST || KWST || [[Westerly Airport]] || [[Westerly, Rhode Island|Westerly]], [[Rhode Island]], [[United States]]
+|-
+|    WSY || YWHI || [[Whitsunday Airport]] || [[Airlie Beach]], [[Australia]] 
+|-
+|    WSX ||      || [[Westsound/WSX Seaplane Base]] (FAA: WA83) || [[Westsound, Washington|Westsound]], [[Orcas Island]], [[Washington (U.S. state)|Washington]], [[United States]]
+|-
+|    WSZ || NZWS || [[Westport Airport (New Zealand)|Westport Airport]] || [[Westport, New Zealand|Westport]], [[New Zealand]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WT&quot;/&gt;-WT-
+|-
+|    WTA || FMMU || [[Tambohorano Airport]] || [[Tambohorano]], [[Madagascar]]
+|-
+|    WTB || YBWW || [[Brisbane West Wellcamp Airport]] || [[Toowoomba]], [[Queensland]], [[Australia]]
+|-
+|    WTD || MYGW || [[West End Airport]] || [[Grand Bahama]], [[Bahamas]]
+|-
+|    WTE ||      || [[Wotje Airport]] (FAA: N36) || [[Wotje]] (Wotje Atoll), [[Marshall Islands]]
+|-
+|    WTK || PAWN || [[Noatak Airport]] || [[Noatak, Alaska]], [[United States]]
+|-
+|    WTL ||      || [[Tuntutuliak Airport]] (FAA: A61) || [[Tuntutuliak, Alaska]], [[United States]]
+|-
+|    WTO ||      || [[Wotho Airport]] || [[Wotho]], [[Marshall Islands]]
+|-
+|    WTR ||      || [[Whiteriver Airport]] (FAA: E24) || [[Whiteriver, Arizona]], [[United States]]
+|-
+|    WTS || FMMK || [[Tsiroanomandidy Airport]] || [[Tsiroanomandidy]], [[Madagascar]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WU&quot;/&gt;-WU-
+|-
+|    WUA || ZBUH || [[Wuhai Airport]] || [[Wuhai]], [[Inner Mongolia]], [[China]]
+|-
+|    WUH || ZHHH || [[Wuhan Tianhe International Airport]] || [[Wuhan]], [[Hubei]], [[China]]
+|-
+|    WUI ||      || [[Murrin Murrin Airport]] || [[Murrin Murrin Joint Venture]], [[Western Australia]], [[Australia]]
+|-
+|    WUU || HSWW || [[Wau Airport]] || [[Wau, Sudan|Wau]], [[Sudan]]
+|-
+|    WUX || ZSWX || [[Sunan Shuofang International Airport]] || [[Wuxi]]/[[Suzhou]], [[Jiangsu]], [[China]]
+|-
+|    WUZ || ZGWZ || [[Wuzhou Changzhoudao Airport]] || [[Wuzhou]], [[Guangxi]], [[China]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WV&quot;/&gt;-WV-
+|-
+|    WVB || FYWB || [[Walvis Bay Airport]] || [[Walvis Bay]], [[Namibia]]
+|-
+|    WVI || KWVI || [[Watsonville Municipal Airport]] || [[Watsonville, California]], [[United States]]
+|-
+|    WVL || KWVL || [[Waterville Robert LaFleur Airport]] || [[Waterville, Maine]], [[United States]]
+|-
+|    WVN || EDWI || [[JadeWeser Airport]] || [[Wilhelmshaven]], [[Lower Saxony]], [[Germany]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WW&quot;/&gt;-WW-
+|-
+|    WWA || PAWS || [[Wasilla Airport]] (FAA: IYS) || [[Wasilla, Alaska]], [[United States]]
+|-
+|    WWD || KWWD || [[Cape May Airport]] || [[Wildwood, New Jersey]], [[United States]]
+|-
+|    WWP ||      || [[North Whale Seaplane Base]] (FAA: 96Z) || [[North Whale Pass, Alaska]], [[United States]]
+|-
+|    WWR || KWWR || [[West Woodward Airport]] || [[Woodward, Oklahoma]], [[United States]]
+|-
+|    WWT || PAEW || [[Newtok Airport]] (FAA: EWU) || [[Newtok, Alaska]], [[United States]]
+|-
+|    WWY || YWWL || [[West Wyalong Airport]] || [[West Wyalong]], [[New South Wales]], [[Australia]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WX&quot;/&gt;-WX-
+|-
+|    WXF || EGVT || [[MDPGA Wethersfield]] || [[Braintree, Essex|Braintree]], [[England]], [[United Kingdom]]
+|-
+|    WXN || ZUWX || [[Wanzhou Wuqiao Airport]] || [[Wanzhou]], [[Chongqing]], [[China]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;WY&quot;/&gt;-WY-
+|-
+|    WYA || YWHA || [[Whyalla Airport]] || [[Whyalla]], [[South Australia]], [[Australia]]
+|-
+|    WYB ||      || [[Yes Bay Lodge Seaplane Base]] (FAA: 78K) || [[Yes Bay]], [[Alaska]], [[United States]]
+|-
+|    WYE || GFYE || [[Yengema Airport]] || [[Yengema]], [[Kono District]], [[Sierra Leone]]
+|-
+|    WYS || KWYS || [[Yellowstone Airport]] || [[West Yellowstone, Montana]], [[United States]]
+
+|}
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = PDF | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|W]]</text>
+      <sha1>s41e91upocpw7lkv190c8q2di18lboq</sha1>
+    </revision>
+  </page>
+</mediawiki>

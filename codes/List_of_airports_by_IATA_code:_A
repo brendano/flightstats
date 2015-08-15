@@ -1,0 +1,1310 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: A</title>
+    <ns>0</ns>
+    <id>37063427</id>
+    <revision>
+      <id>674938851</id>
+      <parentid>674929956</parentid>
+      <timestamp>2015-08-07T04:12:02Z</timestamp>
+      <contributor>
+        <username>Owennson</username>
+        <id>15370086</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="82385">{{Lists of airports by IATA code}}
+
+==A==
+
+The DST column shows the months in which Daylight Saving Time, a.k.a. Summer Time, begins and ends.  A blank DST box usually indicates that the location stays on Standard Time all year, although in some cases the location stays on Summer Time all year.  If a location is currently on DST, add one hour to the time in the Time column.
+
+To determine how much and in which direction you will need to adjust your watch, first adjust the time offsets of your source and destination for DST if applicable, then subtract the offset of your departure city from the offset of your destination.  For example, if you were flying from Houston (UTC−6) to South Africa (UTC+2) in June, first you would add an hour to the Houston time for DST, making it UTC−5, then you would subtract -5 from +2.  +2 - (-5) = +2 + (+5) = +7, so you would need to advance your watch by seven hours.  If you were going in the opposite direction, you would subtract 2 from -5, giving you -7, indicating that you would need to turn your watch back seven hours.
+
+{{AlphanumericTOC|prefixLink=A|prefixDesc=A|numbers=|sections=|}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+! style=&quot;text-align:left;&quot; | Time
+! style=&quot;text-align:left;&quot; | DST
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AA&quot;/&gt;-AA-
+|-
+|    AAA || NTGA || [[Anaa Airport]] || [[Anaa]], [[Tuamotus]], [[French Polynesia]] || [[UTC−10:00]] ||
+&lt;!-- AAA is FAA code (not IATA) for Logan County Airport in Lincoln, Illinois, United States --&gt;
+|-
+|    AAB || YARY || [[Arrabury Airport]] || [[Arrabury]], Queensland, Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    AAC || HEAR || [[El Arish International Airport]] || [[Al Arish|El Arish]], [[Egypt]] || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    AAD || || [[Ad-Dabbah Airport]] || [[Al Dabbah, Sudan]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    AAE || DABB || [[Rabah Bitat Airport]] (Les Salines Airport) || [[Annaba]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    AAF || KAAF || [[Apalachicola Regional Airport]] || [[Apalachicola, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    AAG || SSYA || [[Arapoti Airport]] || [[Arapoti]], [[Paraná (state)|Paraná]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    AAH || EDKA || [[Merzbrück Airport]] || [[Aachen]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    AAI || SWRA || [[Arraias Airport]] || [[Arraias]], [[Tocantins]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    AAJ || SMCA || [[Cayana Airstrip]] || [[Awaradam]], [[Suriname]] || [[UTC−03:00]] ||
+|-
+|    AAK || NGUK || [[Aranuka Airport]] || [[Aranuka]], [[Kiribati]] || [[UTC+12:00]] ||
+|-
+|    AAL || EKYT || [[Aalborg Airport]] || [[Aalborg]], Denmark || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    AAM || FAMD || [[Mala Mala Airport]] || [[Mala Mala]], South Africa || [[South Africa Standard Time|UTC+02:00]] ||
+|-
+|    AAN || OMAL || [[Al Ain International Airport]] || [[Al Ain]], [[United Arab Emirates]] || [[UTC+04:00]] ||
+|-
+|    AAO || SVAN || [[Anaco Airport]] || [[Anaco]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+&lt;!-- AAO is FAA code (not IATA) for Colonel James Jabara Airport in Wichita, Kansas, United States --&gt;
+|-
+|    AAP || KAAP || [[Andrau Airpark]] || [[Houston, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- AAP was FAA code (not IATA) for Andrau Airpark in Alief, Texas, United States (closed 1998) --&gt;
+|-
+|    AAQ || URKA || [[Anapa Airport]] || [[Anapa]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    AAR || EKAH || [[Aarhus Airport]] || [[Aarhus]], Denmark || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    AAS ||      || [[Apalapsili Airport]] || [[Apalapsili]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+&lt;!-- AAS is FAA code (not IATA) for Taylor County Airport in Campbellsville, Kentucky, United States --&gt;
+|-
+|    AAT || ZWAT || [[Altay Airport]] || [[Altay, Xinjiang]], China || [[Time in China|UTC+06:00]] ||
+&lt;!-- AAT is FAA code (not IATA) for Alturas Municipal Airport in Alturas, California, United States --&gt;
+|-
+|    AAU || NSAU || [[Asau Airport]] || [[Asau, Samoa|Asau]], [[Samoa]] || [[Time in Samoa|UTC+13:00]] || Sep-Apr
+|-
+|    AAV || RPMA || [[Allah Valley Airport]] || [[Surallah, South Cotabato]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    AAW || OPAB || [[Abbottabad Airport]] || [[Abbottabad]], [[Pakistan]] || [[Pakistan Standard Time|UTC+05:00]] ||
+|-
+|    AAX || SBAX || [[Araxá Airport]] || [[Araxá]], [[Minas Gerais]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    AAY || OYGD || [[Al Ghaydah Airport]] || [[Al Ghaydah]], [[Yemen]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    AAZ || MGQZ || [[Quetzaltenango Airport]] || [[Quetzaltenango]], [[Guatemala]] || [[Central Time Zone|UTC−06:00]] ||
+&lt;!-- AAZ is not IATA code for King Abdulaziz Naval Base (ICAO: OEAZ) in Jubail, Saudi Arabia --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AB&quot;/&gt;-AB-
+|-
+|    ABA || UNAA || [[Abakan Airport]] || [[Abakan]], [[Khakassia]], Russia || [[Krasnoyarsk Time|UTC+07:00]] ||
+&lt;!-- ABA is not IATA code for Albany Airport (IATA: ALH, ICAO: YABA) in Albany, Western Australia --&gt;
+|-
+|    ABB || DNAS || [[Asaba International Airport]] || [[Asaba, Delta]], [[Nigeria]] || [[West Africa Time|UTC+01:00]] ||
+&lt;!-- ABC is not (is too!) IATA code for Albacete/Los Llanos Airport (ICAO: LEAB) in Albacete, Spain --&gt;
+|-
+|    ABC || LEAB || [[Albacete Airport]] || [[Albacete]], Spain || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    ABD || OIAA || [[Abadan Airport]] || [[Abadan, Iran|Abadan]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    ABE || KABE || [[Lehigh Valley International Airport]] || [[Allentown, Pennsylvania]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ABF || NGAB || [[Abaiang Atoll Airport]] || [[Abaiang]], [[Kiribati]] || [[UTC+12:00]] ||
+|-
+|    ABG || YABI || [[Abingdon Airport]] || [[Abingdon, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    ABH || YAPH || [[Alpha Airport]] || [[Alpha, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    ABI || KABI || [[Abilene Regional Airport]] || [[Abilene, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ABJ || DIAP || [[Port Bouet Airport]] (Felix Houphouet Boigny Int'l) || [[Abidjan]], [[Côte d'Ivoire]] || [[Greenwich Mean Time|UTC+00:00]] ||
+|-
+|    ABK || HAKD || [[Kabri Dar Airport]] || [[Kebri Dahar]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    ABL || PAFM || [[Ambler Airport]] (FAA: AFM) || [[Ambler, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    ABM || YBAM || [[Bamaga Injinoo Airport]] || [[Bamaga, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    ABN || SMBN || [[Albina Airport]] || [[Albina, Suriname|Albina]], [[Suriname]] || [[UTC−03:00]] ||
+|-
+|    ABO || DIAO || [[Aboisso Airport]] || [[Aboisso]], [[Côte d'Ivoire]] || [[Greenwich Mean Time|UTC+00:00]] ||
+&lt;!-- ABO is FAA code (not IATA) for Antonio (Nery) Juarbe Pol Airport in Arecibo, Puerto Rico --&gt;
+|-
+|    ABP ||      || [[Atkamba Airport]] || [[Atkamba]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    ABQ || KABQ || [[Albuquerque International Sunport]] || [[Albuquerque, New Mexico]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    ABR || KABR || [[Aberdeen Regional Airport]] || [[Aberdeen, South Dakota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ABS || HEBL || [[Abu Simbel Airport]] || [[Abu Simbel]], [[Egypt]] || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    ABT || OEBA || [[Al-Baha Domestic Airport]] || [[Al-Baha]], [[Saudi Arabia]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    ABU || WATA || [[Haliwen Airport]] || [[Atambua]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    ABV || DNAA || [[Nnamdi Azikiwe International Airport]] || [[Abuja]], [[Nigeria]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    ABW ||      || [[Abau Airport]] || [[Abau]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    ABX || YMAY || [[Albury Airport]] || [[Albury, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    ABY || KABY || [[Southwest Georgia Regional Airport]] || [[Albany, Georgia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ABZ || EGPD || [[Aberdeen Airport]] || [[Aberdeen]], Scotland, United Kingdom || [[Greenwich Mean Time|UTC+00:00]] || Mar-Oct
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AC&quot;/&gt;-AC-
+|-
+|    ACA || MMAA || [[General Juan N. Álvarez International Airport]] || [[Acapulco]], [[Guerrero]], Mexico || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+|    ACB || KACB || [[Antrim County Airport]] || [[Bellaire, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ACC || DGAA || [[Kotoka International Airport]] || [[Accra]], [[Ghana]] || [[Greenwich Mean Time|UTC+00:00]] ||
+|-
+|    ACD || SKAD || [[Alcides Fernández Airport]] || [[Acandí]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    ACE || GCRR || [[Lanzarote Airport]] || [[Lanzarote]], [[Canary Islands]], Spain || [[Western European Time|UTC+00:00]] || Mar-Oct
+|-
+|    ACH || LSZR || [[St. Gallen Altenrhein Airport]] || [[Altenrhein]], Switzerland || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    ACI || EGJA || [[Alderney Airport]] || [[Alderney]], [[Channel Islands]], United Kingdom || [[Greenwich Mean Time|UTC+00:00]] || Mar-Oct
+|-
+|    ACJ || VCCA || [[SLAF Anuradhapura]] || [[Anuradhapura]], [[Sri Lanka]] || [[Indian Standard Time|UTC+05:30]] ||
+&lt;!-- ACJ is FAA code (not IATA) for Souther Field in Americus, Georgia, United States --&gt;
+|-
+|    ACK || KACK || [[Nantucket Memorial Airport]] || [[Nantucket, Massachusetts]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ACL ||      || [[Aguaclara Airport]] || [[Aguaclara]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    ACM ||      || [[Arica Airport (Colombia)|Arica Airport]] || [[Arica, Amazonas]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    ACN || MMCC || [[Ciudad Acuña International Airport]] || [[Ciudad Acuña]], [[Coahuila]], Mexico || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- ACO is no longer the IATA code of the [[Ascona Airport]] (ICAO: LSZD), [[Ascona]], Switzerland --&gt;
+&lt;!-- ACP is FAA code (not IATA) for Allen Parish Airport in Oakdale, Louisiana, United States --&gt;
+|-
+|    ACP || OITM || [[Sahand Airport]] || [[Maragheh]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+&lt;!-- ACQ is FAA code (not IATA) for Waseca Municipal Airport in Waseca, Minnesota, United States --&gt;
+|-
+|    ACR || SKAC || [[Araracuara Airport]] || [[Araracuara]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    ACS || UNKS || [[Achinsk Airport]] || [[Achinsk]], [[Krasnoyarsk Krai]], Russia || [[Krasnoyarsk Time|UTC+07:00]] ||
+|-
+|    ACT || KACT || [[Waco Regional Airport]] || [[Waco, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ACU ||      || [[Achutupo Airport]] || [[Achutupo]], [[Panama]] || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+|    ACV || KACV || [[Arcata-Eureka Airport]] || [[McKinleyville, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    ACX || ZUYI || [[Xingyi Wanfenglin Airport]] || [[Xingyi, Guizhou]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    ACY || KACY || [[Atlantic City International Airport]] || [[Atlantic City, New Jersey]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ACZ || OIZB || [[Zabol Airport]] || [[Zabol]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+&lt;!-- ACZ is FAA code (not IATA) for Henderson Field in Wallace, North Carolina, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AD&quot;/&gt;-AD-
+|-
+|    ADA || LTAF || [[Adana Şakirpaşa Airport]] || [[Adana]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    ADB || LTBJ || [[Adnan Menderes International Airport]] || [[İzmir]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    ADC || AYAN || [[Andakombe Airport]] || [[Andakombe]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+&lt;!-- ADC is not IATA code for Altenburg Nobitz Airport (IATA: AOC) in Altenburg, Germany --&gt;
+&lt;!-- ADC is FAA code (not IATA) for Wadena Municipal Airport in Wadena, Minnesota, United States --&gt;
+|-
+|    ADD || HAAB || [[Bole International Airport]] || [[Addis Ababa]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    ADE || OYAA || [[Aden International Airport]] || [[Aden]], [[Yemen]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    ADF || LTCP || [[Adıyaman Airport]] || [[Adıyaman]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    ADG || KADG || [[Lenawee County Airport]] || [[Adrian, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ADH || UEEA || [[Aldan Airport]] || [[Aldan, Russia|Aldan]], Russia || [[Yakutsk Time|UTC+09:00]] ||
+&lt;!-- ADH is FAA code (not IATA) for Ada Municipal Airport in Ada, Oklahoma, United States --&gt;
+|-
+|    ADI || FYAR || [[Arandis Airport]] || [[Arandis, Namibia|Arandis]] / [[Swakopmund]], [[Namibia]] || [[West Africa Time|UTC+01:00]] || Sep-Apr
+|-
+|    ADJ || OJAM || [[Marka International Airport]] || [[Amman]], [[Jordan]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    ADK || PADK || [[Adak Island Airport]] || [[Adak Island, Alaska]], United States || [[Hawaii–Aleutian Time Zone|UTC−10:00]] || Mar-Nov
+|-
+|    ADL || YPAD || [[Adelaide Airport]] || [[Adelaide]], [[South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+|    ADM || KADM || [[Ardmore Municipal Airport]] || [[Ardmore, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ADN || SKAN || [[Andes Airport]] || [[Andes, Antioquia|Andes]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    ADO || YAMK || [[Andamooka Airport]] || [[Andamooka, South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+|    ADP || VCCG || [[Ampara Airport]] || [[Ampara]], [[Sri Lanka]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    ADQ || PADQ || [[Kodiak Airport]] || [[Kodiak, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    ADR || KPHH || [[Robert F. Swinnie Airport]] (FAA: PHH) || [[Andrews, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ADS || KADS || [[Addison Airport]] || [[Dallas, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ADT || KADH || [[Ada Municipal Airport]] (FAA: ADH) || [[Ada, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- ADT is FAA code (not IATA) for Atwood-Rawlins County City-County Airport in Atwood, Kansas, United States --&gt;
+|-
+|    ADU || OITL || [[Ardabil Airport]] || [[Ardabil]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+&lt;!-- ADU is FAA code (not IATA) for Audubon County Airport in Audubon, Iowa, United States --&gt;
+|-
+|    ADV || || [[Ed Daein Airport]] || [[Ed Daein]], [[East Darfur]], [[Sudan]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    ADW || KADW || [[Andrews Air Force Base]] || [[Camp Springs, Maryland]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ADX || EGQL || [[RAF Leuchars]] || [[St Andrews]], Scotland, United Kingdom || [[Greenwich Mean Time|UTC+00:00]] || Mar-Oct
+|-
+|    ADY || FAAL || [[Alldays Airport]] || [[Alldays, Limpopo]], South Africa || [[South Africa Standard Time|UTC+02:00]] ||
+|-
+|    ADZ || SKSP || [[Gustavo Rojas Pinilla International Airport]] || [[San Andrés (island)|San Andres Island]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AE&quot;/&gt;-AE-
+|-
+|    AEA || NGTB || [[Abemama Atoll Airport]] || [[Abemama|Abemama Atoll]], [[Kiribati]] || [[UTC+12:00]] ||
+|-
+|    AEB || ZGBS || [[Baise Youjiang Airport]] || [[Baise City|Baise]], [[Guangxi]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    AED ||      || [[Aleneva Airport]] || [[Aleneva, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    AEG || WIME || [[Aek Godang Airport]] || [[Padang Sidempuan]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+&lt;!-- AEG is FAA code (not IATA) for Double Eagle II Airport in Albuquerque, New Mexico, United States --&gt;
+|-
+|    AEH || FTTC || [[Abéché Airport]] || [[Abéché]], [[Chad]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    AEI || LEAG || [[Algeciras Heliport]] || [[Algeciras]], Spain || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- AEJ is FAA code (not IATA) for Central Colorado Regional Airport in Buena Vista, Colorado, United States --&gt;
+|-
+|    AEK || AYAX || [[Aseki Airport]] || [[Aseki]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AEL || KAEL || [[Albert Lea Municipal Airport]] || [[Albert Lea, Minnesota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    AEO || GQNA || [[Aioun el Atrouss Airport]] || [[Ayoun el Atrous|Aioun El Atrouss]], [[Mauritania]] || [[Greenwich Mean Time|UTC+00:00]] ||
+|-
+|    AEP || SABE || [[Jorge Newbery Airpark]] || [[Buenos Aires]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    AER || URSS || [[Adler-Sochi International Airport]] || [[Sochi]], [[Krasnodar]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    AES || ENAL || [[Ålesund Airport, Vigra]] || [[Ålesund]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    AET || PFAL || [[Allakaket Airport]] (FAA: 6A8) || [[Allakaket, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    AEX || KAEX || [[Alexandria International Airport (Louisiana)|Alexandria International Airport]] || [[Alexandria, Louisiana]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    AEY || BIAR || [[Akureyri Airport]] || [[Akureyri]], [[Iceland]] || [[Greenwich Mean Time|UTC+00:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AF&quot;/&gt;-AF-
+|-
+|    AFA || SAMR || [[San Rafael Airport (Argentina)|San Rafael Airport]] || [[San Rafael, Mendoza|San Rafael]], [[Mendoza, Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    AFD || FAPA || [[Port Alfred Airport]] || [[Port Alfred]], South Africa || [[South Africa Standard Time|UTC+02:00]] ||
+|-
+|    AFF || KAFF || [[United States Air Force Academy]] Airfield || [[Colorado Springs, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+&lt;!-- AFE is FAA code (IATA: KAE) for Kake Airport in Kake, Alaska, United States --&gt;
+|-
+|    AFI || SKAM || [[Amalfi Airport (Colombia)|Amalfi Airport]] || [[Amalfi, Antioquia|Amalfi]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+&lt;!-- AFJ is FAA code (IATA: WSG) for Washington County Airport in Washington, Pennsylvania, United States --&gt;
+&lt;!-- AFK is FAA code (not IATA) for Nebraska City Municipal Airport in Nebraska City, Nebraska, United States --&gt;
+|-
+|    AFL || SBAT || [[Alta Floresta Airport]] || [[Alta Floresta]], [[Brazil]] || [[Time in Brazil|UTC−04:00]] || Oct-Feb
+&lt;!-- AFM is FAA code (IATA: ABL) for Ambler Airport in Ambler, Alaska, United States --&gt;
+|-
+|    AFN || KAFN || [[Jaffrey Airport - Silver Ranch Airpark]] || [[Jaffrey, New Hampshire]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    AFO || KAFO || [[Afton Municipal Airport]] || [[Afton, Wyoming]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+&lt;!-- AFP is FAA code (not IATA) for Anson County Airport in Wadesboro, North Carolina, Nebraska, United States --&gt;
+|-
+|    AFR || AYAF || [[Afore Airport]] || [[Afore, Papua New Guinea|Afore]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AFS || UTSN || [[Zarafshan Airport]] || [[Zarafshan|Zarafshan, Navoiy Province]], [[Uzbekistan]] || [[Time in Uzbekistan|UTC+05:00]] ||
+|-
+|    AFT || AGAF || [[Afutara Airport]] || [[Afutara]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+|    AFW || KAFW || [[Fort Worth Alliance Airport]] || [[Fort Worth, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    AFY || LTAH || [[Afyon Airport]] || [[Afyon]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+&lt;!-- AFZ is not IATA code for Sabzevar Airport (ICAO: OIMS) in Sabzevar, Iran --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AG&quot;/&gt;-AG-
+|-
+|    AGA || GMAD || [[Al Massira Airport]] || [[Agadir]], [[Morocco]] || [[Western European Time|UTC+00:00]] || Mar-Oct*
+|-
+|    AGB || EDMA || [[Augsburg Airport]] || [[Augsburg]], [[Bavaria]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    AGC || KAGC || [[Allegheny County Airport]] || [[Pittsburgh, Pennsylvania]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    AGD ||      || [[Anggi Airport]] || [[Anggi]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    AGE || EDWG || [[Wangerooge Airport]] || [[Wangerooge]], [[Lower Saxony]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    AGF || LFBA || [[Agen La Garenne Airport]] || [[Agen]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    AGG ||      || [[Angorarn Airport]] || [[Angorarn]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AGH || ESTA || [[Ängelholm–Helsingborg Airport]] (former ICAO: ESDB) || [[Ängelholm]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    AGI || SMWA || [[Wageningen Airport]] || [[Wageningen, Suriname]] || [[UTC−03:00]] ||
+|-
+|    AGJ || RORA || [[Aguni Airport]] || [[Aguni, Okinawa|Aguni]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    AGK ||      || [[Kagua Airport]] || [[Kagua]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AGL || AYWG || [[Wanigela Airport]] || [[Wanigela, Papua New Guinea|Wanigela]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AGM || BGAM || [[Tasiilaq Heliport]] || [[Tasiilaq]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    AGN || PAGN || [[Angoon Seaplane Base]] || [[Angoon, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    AGO || KAGO || [[Magnolia Municipal Airport]] || [[Magnolia, Arkansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    AGP || LEMG || [[Málaga Airport|Pablo Ruiz Picasso Airport]] || [[Málaga]], Spain || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    AGQ || LGAG || [[Agrinion Airport]] || [[Agrinion]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    AGR || VIAG || [[Agra Airport]]/[[Agra Air Force Station]] || [[Agra]], India || [[Indian Standard Time|UTC+05:30]] ||
+&lt;!-- AGR is FAA code (not IATA) for MacDill AFB Aux. Field in Avon Park, Florida, United States --&gt;
+|-
+|    AGS || KAGS || [[Augusta Regional Airport]] at Bush Field || [[Augusta, Georgia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    AGT || SGES || [[Guaraní International Airport]] (Alejo Garcia Airport) || [[Ciudad del Este]], [[Paraguay]] || [[UTC−04:00]] || Oct-Mar
+|-
+|    AGU || MMAS || [[Lic. Jesús Terán Peredo International Airport]] || [[Aguascalientes]], Mexico || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+|    AGV || SVAC || [[Oswaldo Guevara Mujica Airport]] || [[Acarigua]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+|    AGW ||      || [[Agnew Airport]] || [[Agnew, Queensland|Agnew]], Queensland, Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    AGX || VOAT || [[Agatti Island Airport]] || [[Agatti Island]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    AGY ||      || [[Argyle Downs Airport]] || [[Argyle Downs]], Western Australia, Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    AGZ || FAAG || [[Aggeneys Airport]] || [[Aggeneys]], South Africa || [[South Africa Standard Time|UTC+02:00]] ||
+&lt;!-- AGZ is FAA code (not IATA) for Wagner Municipal Airport in Wagner, South Dakota, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AH&quot;/&gt;-AH-
+&lt;!-- AHA is not IATA code for Naha AFB (IATA: OKA, ICAO: ROAH) in Okinawa, Japan --&gt;
+|-
+|    AHB || OEAB || [[Abha Regional Airport]] || [[Abha]], [[Saudi Arabia]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    AHC || KAHC || [[Amedee Army Airfield]] || [[Herlong, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    AHD ||      || [[Ardmore Downtown Executive Airport]] (FAA: 1F0) || [[Ardmore, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    AHE || NTHE || [[Ahe Airport]] || [[Ahe]], [[French Polynesia]] || [[UTC−10:00]] ||
+|-
+|    AHF ||      || [[Arapahoe Municipal Airport]] (FAA: 37V) || [[Arapahoe, Nebraska]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    AHH || KAHH || [[Amery Municipal Airport]] || [[Amery, Wisconsin]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    AHI || WAPA || [[Amahai Airport]] || [[Amahai]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    AHJ || ZUHY || [[Hongyuan Airport]] || [[Hongyuan County|Hongyuan]], [[Sichuan]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    AHL || SYAH || [[Aishalton Airport]] || [[Aishalton]], [[Guyana]] || [[UTC−04:00]] ||
+|-
+|    AHN || KAHN || [[Athens-Ben Epps Airport]] || [[Athens, Georgia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    AHO || LIEA || [[Fertilia Airport]] (Alghero Airport) || [[Alghero]], [[Sardinia]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- AHP is FAA code (IATA: PTD) for Port Alexander Seaplane Base in Port Alexander, Alaska, United States --&gt;
+&lt;!-- AHQ is FAA code (not IATA) for Wahoo Municipal Airport in Wahoo, Nebraska, United States --&gt;
+|-
+|    AHS ||      || [[Ahuas Airport]] || [[Ahuas]], [[Honduras]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    AHU || GMTA || [[Charif Al ldrissi Airport]] || [[Al Hoceima]], [[Morocco]] || [[Western European Time|UTC+00:00]] || Mar-Oct*
+|-
+|    AHY ||      || [[Ambatolahy Airport]] || [[Ambatolahy]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    AHZ || LFHU || [[Alpe d'Huez Airport]] || [[Alpe d'Huez]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AI&quot;/&gt;-AI-
+|-
+|    AIA || KAIA || [[Alliance Municipal Airport]] || [[Alliance, Nebraska]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    AIC ||      || [[Airok Airport]] || [[Airok]], [[Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    AID || KAID || [[Anderson Municipal Airport]] (Darlington Field) || [[Anderson, Indiana]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    AIE ||      || [[Aiome Airport]] || [[Aiome]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AIF || SBAS || [[Assis Airport]] || [[Assis]], [[São Paulo]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    AIG || FEFY || [[Yalinga Airport]] || [[Yalinga]], [[Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+&lt;!-- AIG is FAA code (not IATA) for Langlade County Airport in Antigo, Wisconsin, United States --&gt;
+|-
+|    AIH || AYAK || [[Aiambak Airport]] || [[Aiambak]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AII || HDAS || [[Ali-Sabieh Airport]] || [[Ali-Sabieh]], [[Djibouti]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    AIK || KAIK || [[Aiken Municipal Airport]] || [[Aiken, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    AIL ||      || [[Ailigandi Airport]] || [[Ailigandi]], [[Panama]] || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+|    AIM ||      || [[Ailuk Airport]] || [[Ailuk]], [[Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    AIN || PAWI || [[Wainwright Airport (Alaska)|Wainwright Airport]] (FAA: AWI) || [[Fort Wainwright, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    AIO || KAIO || [[Atlantic Municipal Airport]] || [[Atlantic, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    &lt;s&gt;AIP&lt;/s&gt; ||      || [[Ailinglaplap Atoll]] || [[Ailinglaplap Atoll]], [[Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    AIR ||      || [[Aripuanã Airport]] || [[Aripuanã]], [[Mato Grosso]], [[Brazil]] || [[Time in Brazil|UTC−04:00]] || Oct-Feb
+|-
+|    AIS || NGTR || [[Arorae Island Airport]] || [[Arorae|Arorae Island]], [[Kiribati]] || [[UTC+12:00]] ||
+|-
+|    AIT || NCAI || [[Aitutaki Island Airport]] || [[Aitutaki]], [[Cook Islands]] || [[UTC−10:00]] ||
+&lt;!-- AIT is FAA code (not IATA) for Aitkin Municipal Airport in Aitkin, Minnesota, United States --&gt;
+|-
+|    AIU || NCAT || [[Atiu Island Airport]] || [[Atiu|Atiu Island]], [[Cook Islands]] || [[UTC−10:00]] ||
+|-
+|    AIV || KAIV || [[George Downer Airport]] || [[Aliceville, Alabama]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    AIW ||      || [[Ai-Ais Airport]] || [[Ai-Ais]], [[Namibia]] || [[West Africa Time|UTC+01:00]] || Sep-Apr
+|-
+|    AIY || KAIY || &lt;s&gt;[[Bader Field|Atlantic City Municipal Airport]] (Bader Field)&lt;/s&gt; &lt;small&gt;(closed 2006)&lt;/small&gt; || &lt;s&gt;[[Atlantic City, New Jersey]], United States&lt;/s&gt;
+|-
+|    AIZ || KAIZ || [[Lee C. Fine Memorial Airport]] || [[Lake Ozark, Missouri]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AJ&quot;/&gt;-AJ-
+|-
+|    AJA || LFKJ || [[Ajaccio - Campo dell'Oro Airport]] || [[Ajaccio]], [[Corsica]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- AJC is FAA code (IATA: KCQ) for Chignik Airport in Chignik, Alaska, United States --&gt;
+|-
+|    AJF || OESK || [[Al-Jawf Domestic Airport]] || [[Al-Jawf]], [[Saudi Arabia]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+&lt;!-- AJG is FAA code (not IATA) for Mount Carmel Municipal Airport in Mount Carmel, Illinois, United States --&gt;
+|-
+|    AJI || LTCO || [[Ağrı Airport]] || [[Ağrı]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    AJJ || GQNJ || [[Akjoujt Airport]] || [[Akjoujt]], [[Mauritania]] || [[Greenwich Mean Time|UTC+00:00]] ||
+|-
+|    AJL || VEAZ || [[Aizawl Airport]] || [[Aizawl]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    AJN || FMCV || [[Ouani Airport]] || [[Anjouan]], [[Comoros]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    AJO ||      || [[Aljouf Airport (Yemen)|Aljouf Airport]] || [[Aljouf]], [[Yemen]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+&lt;!-- AJO is FAA code (not IATA) for Corona Municipal Airport in Corona, California, United States --&gt;
+|-
+|    AJR || ESNX || [[Arvidsjaur Airport]] || [[Arvidsjaur Municipality|Arvidsjaur]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- AJR is FAA code (not IATA) for Habersham County Airport in Cornelia, Georgia, United States --&gt;
+|-
+|    AJS ||      || [[Abreojos Airport]] || [[Abreojos]], [[Baja California Sur]], Mexico || [[Mountain Time Zone|UTC−07:00]] || Apr-Oct
+|-
+|    AJU || SBAR || [[Santa Maria Airport (Sergipe)|Santa Maria Airport]] || [[Aracaju]], [[Sergipe]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    AJY || DRZA || [[Mano Dayak International Airport]] || [[Agadez]], [[Niger]] || [[West Africa Time|UTC+01:00]] ||
+&lt;!-- AJZ is FAA code (not IATA) for Blake Field in Delta, Colorado, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AK&quot;/&gt;-AK-
+|-
+|    AKA || ZLAK || [[Ankang Airport]] || [[Ankang]], [[Shaanxi]], China || [[Time in China|UTC+08:00]] ||
+&lt;!-- AKA is FAA code (IATA: AKB) for Atka Airport in Atka, Alaska, United States --&gt;
+|-
+|    AKB || PAAK || [[Atka Airport]] (FAA: AKA) || [[Atka, Alaska]], United States || [[Hawaii–Aleutian Time Zone|UTC−10:00]] || Mar-Nov
+|-
+|    AKC || KAKR || [[Akron Fulton International Airport]] (FAA: AKR) || [[Akron, Ohio]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    AKD || VAAK || [[Akola Airport]] || [[Akola city|Akola]], India || [[Indian Standard Time|UTC+05:30]] ||
+&lt;!-- AKD is not IATA code for Klerksdorp Airport (IATA: KXE, ICAO: FAKD) in Klerksdorp, South Africa --&gt;
+|-
+|    AKE || FOGA || [[Akieni Airport]] || [[Akieni]], [[Gabon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    AKF || HLKF || [[Kufra Airport]] || [[Kufra]], [[Libya]] || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    AKG || AYGU || [[Anguganak Airport]] || [[Anguganak]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+&lt;!-- AKH is FAA code (not IATA) for Gastonia Municipal Airport in Gastonia, North Carolina, United States --&gt;
+|-
+|    AKI || PFAK || [[Akiak Airport]] || [[Akiak, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    AKJ || RJEC || [[Asahikawa Airport]] || [[Asahikawa, Hokkaido]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    AKK || PAKH || [[Akhiok Airport]] || [[Akhiok, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    AKL || NZAA || [[Auckland Airport]] || [[Mangere]], New Zealand || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|-
+|    AKM ||      || [[Zakouma Airport]] || [[Zakouma]], [[Chad]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    AKN || PAKN || [[King Salmon Airport]] || [[King Salmon, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    AKO || KAKO || [[Colorado Plains Regional Airport]] || [[Akron, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    AKP || PAKP || [[Anaktuvuk Pass Airport]] || [[Anaktuvuk Pass, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    AKQ || WIAG || [[Gunung Batin Airport]] || [[Astraksetra]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+&lt;!-- AKQ is FAA code (not IATA) for Wakefield Municipal Airport in Wakefield, Virginia, United States --&gt;
+|-
+|    AKR || DNAK || [[Akure Airport]] || [[Akure]], [[Nigeria]] || [[West Africa Time|UTC+01:00]] ||
+&lt;!-- AKR is FAA code (IATA:AKC) for Akron Fulton International Airport in Akron, Ohio, United States --&gt;
+|-
+|    AKS || AGGA || [[Auki Gwaunaru'u Airport]] || [[Auki|Auki / Gwaunaru'u]], [[Solomon Islands]] || [[UTC+11:00]] ||
+&lt;!-- AKS is not IATA code for the [[Kroonstad Airport]] (ICAO: FAKS), located in Kroonstad, South Africa --&gt;
+|-
+|    AKT || LCRA || [[RAF Akrotiri]] || [[Akrotiri and Dhekelia|Akrotiri]], [[Cyprus]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    AKU || ZWAK || [[Aksu Airport]] || [[Aksu, Xinjiang]], China || [[Time in China|UTC+06:00]] ||
+|-
+|    AKV || CYKO || [[Akulivik Airport]] || [[Akulivik, Quebec]], Canada || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- AKW is the FAA code for Klawock Airport (IATA: KLW, ICAO: PAKW) in Klawock, Alaska, United States --&gt;
+|-
+|    AKX || UATT || [[Aktobe Airport]] || [[Aktobe]] (Aktyubinsk), [[Kazakhstan]] || [[Time in Kazakhstan|UTC+05:00]] ||
+|-
+|    AKY || VYSW || [[Sittwe Airport]] || [[Sittwe]], [[Myanmar]] (Burma) || [[Myanmar Standard Time|UTC+06:30]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AL&quot;/&gt;-AL-
+|-
+|    ALA || UAAA || [[Almaty International Airport]]  || [[Almaty]], [[Kazakhstan]] || [[Time in Kazakhstan|UTC+06:00]] ||
+|-
+|    ALB || KALB || [[Albany International Airport]] || [[Albany, New York]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ALC || LEAL || [[El Altet Airport]] || [[Alicante]], Spain || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    ALD || SPAR || [[Alerta Airport]] || [[Alerta]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+|-
+|    ALE ||      || [[Alpine-Casparis Municipal Airport]] (FAA: E38) || [[Alpine, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ALF || ENAT || [[Alta Airport]] || [[Alta, Norway|Alta]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    ALG || DAAG || [[Houari Boumediene Airport]] || [[Algiers]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    ALH || YABA || [[Albany Airport (Australia)|Albany Airport]] || [[Albany, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    ALI || KALI || [[Alice International Airport]] || [[Alice, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ALJ || FAAB || [[Kortdoorn Airport]] || [[Alexander Bay, Northern Cape|Alexander Bay]], South Africa || [[South Africa Standard Time|UTC+02:00]] ||
+|-
+|    ALK ||      || [[Asella Airport]] || [[Asella]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    ALL || LIMG || [[Villanova d'Albenga International Airport]] || [[Albenga]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    ALM || KALM || [[Alamogordo-White Sands Regional Airport]] || [[Alamogordo, New Mexico]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    ALN || KALN || [[St. Louis Regional Airport]] || [[Alton, Illinois]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ALO || KALO || [[Waterloo Regional Airport]] || [[Waterloo, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ALP || OSAP || [[Aleppo International Airport]] (Nejrab Airport) || [[Aleppo]], [[Syria]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    ALQ || SSLT || [[Alegrete Airport]] || [[Alegrete]], [[Rio Grande do Sul]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    ALR || NZLX || [[Alexandra Airport]] || [[Alexandra, New Zealand|Alexandra]], New Zealand || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|-
+|    ALS || KALS || [[San Luis Valley Regional Airport]] || [[Alamosa, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    ALT ||      || [[Alenquer Airport]] || [[Alenquer, Pará|Alenquer]], [[Pará]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    ALU || HCMA || [[Alula Airport]] || [[Alula, Somalia|Alula]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    ALV ||      || [[Andorra La Vella Airport]] || [[Andorra la Vella]], [[Andorra]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    ALW || KALW || [[Walla Walla Regional Airport]] || [[Walla Walla, Washington]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    ALX || KALX || [[Thomas C. Russell Field]] || [[Alexander City, Alabama]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ALY || HEAX || [[Alexandria International Airport (Egypt)|Alexandria International Airport]] || [[Alexandria]], [[Egypt]] || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    ALZ ||      || [[Alitak Seaplane Base]] || [[Lazy Bay]], Alaska, United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AM&quot;/&gt;-AM-
+|-
+|    AMA || KAMA || [[Rick Husband Amarillo International Airport]] || [[Amarillo, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    AMB || FMNE || [[Ambilobe Airport]] || [[Ambilobe]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+&lt;!-- AMB is not IATA code for RAAF Amberley (ICAO: YAMB) in Amberley, Queensland, Australia --&gt;
+|-
+|    AMC || FTTN || [[Am Timan Airport]] || [[Am Timan]], [[Chad]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    AMD || VAAH || [[Sardar Vallabhbhai Patel International Airport]] || [[Ahmedabad]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    AME ||      || [[Alto Molocue Airport]] || [[Alto Molocue]], [[Mozambique]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    AMF || AYAA || [[Ama Airport]] || [[Ama, Papua New Guinea|Ama]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AMG ||      || [[Amboin Airport]] || [[Amboin]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+&lt;!-- AMG is FAA code (not IATA) for Bacon County Airport in Alma, Georgia, United States --&gt;
+|-
+|    AMH || HAAM || [[Arba Minch Airport]] || [[Arba Minch]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    AMI || WADA || &lt;s&gt;[[Selaparang Airport]]&lt;/s&gt; &lt;small&gt;(closed 2011)&lt;/small&gt; || &lt;s&gt;[[Mataram (city)|Mataram]], [[Indonesia]]&lt;/s&gt;
+|-
+|    AMJ || SNAR || [[Almenara Airport]] || [[Almenara, Minas Gerais]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    AMK ||      || [[Animas Air Park]] (FAA: 00C) || [[Durango, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    AML ||      || [[Puerto Armuellas Airport]] || [[Puerto Armuellas]], [[Panama]] || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+|    AMM || OJAI || [[Queen Alia International Airport]] || [[Amman]], [[Jordan]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    AMN || KAMN || [[Gratiot Community Airport]] || [[Alma, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    AMO || FTTU || [[Mao Airport]] || [[Mao, Chad]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    AMP || FMSY || [[Ampanihy Airport]] || [[Ampanihy]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    AMQ || WAPP || [[Pattimura Airport]] || [[Ambon, Maluku|Ambon]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    AMR ||      || [[Arno Airport]] || [[Arno Atoll|Arno]], [[Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    AMS || EHAM || [[Amsterdam Airport Schiphol]] || [[Amsterdam]], Netherlands || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    AMT || YAMT || [[Amata Airport]] || [[Amata, Northern Territory|Amata]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+&lt;!-- AMT is FAA code (not IATA) for Alexander Salamon Airport in West Union, Ohio, United States --&gt;
+|-
+|    AMU || AYAM || [[Amanab Airport]] || [[Amanab]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AMV || ULDD || [[Amderma Airport]] || [[Amderma]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    AMW || KAMW || [[Ames Municipal Airport]] || [[Ames, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    AMX ||      || [[Ammaroo Airport]] || [[Ammaroo, Northern Territory|Ammaroo]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    AMY ||      || [[Ambatomainty Airport]] || [[Ambatomainty]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    AMZ || NZAR || [[Ardmore Airport (New Zealand)|Ardmore Airport]] || [[Ardmore, New Zealand|Ardmore]], New Zealand || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AN&quot;/&gt;-AN-
+|-
+|    ANB || KANB || [[Anniston Metropolitan Airport]] || [[Anniston, Alabama]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ANC || PANC || [[Ted Stevens Anchorage International Airport]] || [[Anchorage, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    AND || KAND || [[Anderson Regional Airport]] || [[Anderson, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ANE || LFJR || [[Angers - Avrillé Aerodrome]] (Angers-Marcé Airport) || [[Angers]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- ANE is FAA code (not IATA) for Anoka County-Blaine Airport in Minneapolis, Minnesota, United States --&gt;
+|-
+|    ANF || SCFA || [[Cerro Moreno International Airport]] || [[Antofagasta]], [[Chile]] || [[Time in Chile|UTC−03:00]] ||
+|-
+|    ANG || LFBU || [[Angoulême - Brie - Champniers Airport]] || [[Angoulême]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    ANH ||      || [[Anuha Island Resort Airport]] || [[Anuha Island Resort]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+|    ANI || PANI || [[Aniak Airport]] || [[Aniak, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    ANJ || FCBZ || [[Zanaga Airport]] || [[Zanaga]], [[Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+&lt;!-- ANJ is FAA code (not IATA) for Sault Ste. Marie Municipal in Sault Ste. Marie, Michigan, United States --&gt;
+|-
+|    ANK || LTAD || [[Etimesgut Airport]] || [[Ankara]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    ANL ||      || [[Andulo Airport]] || [[Andulo]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    ANM || FMNH || [[Antsirabato Airport]] || [[Antalaha]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    ANN || PANT || [[Annette Island Airport]] || [[Annette Island, Alaska]], United States || [[Pacific Time Zone|UTC−08:00]] ||
+|-
+|    ANO || FQAG || [[Angoche Airport]] || [[Angoche]], [[Mozambique]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    ANP || KANP || [[Lee Airport]] || [[Annapolis, Maryland]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ANQ || KANQ || [[Tri-State Steuben County Airport]] || [[Angola, Indiana]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ANR || EBAW || [[Antwerp International Airport]] || [[Antwerp]], Belgium || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    ANS || SPHY || [[Andahuaylas Airport]] || [[Andahuaylas]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+|-
+|    ANT ||      || [[St. Anton Airport]] || [[St. Anton]], Austria || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    ANU || TAPA || [[V.C. Bird International Airport]] || [[St. John's, Antigua and Barbuda|St. John's]], [[Antigua]], [[Antigua and Barbuda]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    ANV || PANV || [[Anvik Airport]] || [[Anvik, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    ANW || KANW || [[Ainsworth Municipal Airport]] || [[Ainsworth, Nebraska]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ANX || ENAN || [[Andøya Airport, Andenes]] || [[Andenes]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    ANY || KANY || [[Anthony Municipal Airport]] || [[Anthony, Kansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ANZ ||      || [[Angus Downs Airport]] || [[Angus Downs, Northern Territory|Angus Downs]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AO&quot;/&gt;-AO-
+|-
+|    AOA ||      || [[Aroa Airport]] || [[Aroa, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AOB ||      || [[Annanberg Airport]] || [[Annanberg]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AOC || EDAC || [[Leipzig-Altenburg Airport]] || [[Altenburg]], [[Thuringia]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- AOC is FAA code (not IATA) for Arco Butte County Airport in Arco, Idaho, United States --&gt;
+|-
+|    AOD ||      || [[Abou-Deia Airport]] || [[Abou-Deia]], [[Chad]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    AOE || LTBY || [[Anadolu Airport]]  || [[Eskişehir]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    AOG || ZYAS || [[Anshan Teng'ao Airport]] || [[Anshan, Liaoning]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    AOH || KAOH || [[Lima Allen County Airport]] || [[Lima, Ohio]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    AOI || LIPY || [[Falconara Airport]] || [[Ancona]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    AOJ || RJSA || [[Aomori Airport]] || [[Aomori, Aomori|Aomori]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    AOK || LGKP || [[Karpathos Airport]] || [[Karpathos]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    AOL || SARL || [[Paso de los Libres Airport]] || [[Paso de los Libres]], [[Corrientes]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    AON ||      || [[Arona Airport]] || [[Arona, Papua New Guinea|Arona]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AOO || KAOO || [[Altoona-Blair County Airport]] || [[Altoona, Pennsylvania]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    AOP ||  || [[Alférez FAP Alfredo Vladimir Sara Bauer Airport]] || [[Andoas]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+|-
+|    AOQ || BGAG || [[Aappilattoq Heliport (Qaasuitsup)]] || [[Aappilattoq, Qaasuitsup]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    AOR || WMKA || [[Sultan Abdul Halim Airport]] || [[Alor Star]], [[Kedah]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    AOS ||      || [[Amook Bay Seaplane Base]] (FAA: AK81) || [[Amook Bay]], Alaska, United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    AOT || LIMW || [[Corrado Gex Airport]] || [[Aosta]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    AOU || VLAP || [[Attopeu Airport]] || [[Attapu|Attopeu]], [[Laos]] || [[UTC+07:00]] ||
+&lt;!-- AOV is FAA code (not IATA) for Ava Bill Martin Memorial Airport in Ava, Missouri, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AP&quot;/&gt;-AP-
+|-
+|    APA || KAPA || [[Centennial Airport]] || [[Arapahoe County, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    APB || SLAP || [[Apolo Airport]] || [[Apolo, La Paz]], [[Bolivia]] || [[UTC−04:00]] ||
+|-
+|    APC || KAPC || [[Napa County Airport]] || [[Napa, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    APE || SPAO || [[San Juan Aposento Airport]] || [[San Juan Aposento]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+|-
+|    APF || KAPF || [[Naples Municipal Airport]] || [[Naples, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    APG || KAPG || [[Phillips Army Airfield]] || [[Aberdeen Proving Ground]], [[Maryland]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    APH || KAPH || [[A.P. Hill Army Airfield]] || [[Fort A.P. Hill]], [[Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    API || SKAP || [[Gomez Nino-Apiay Airport]] || [[Apiay]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    APK || NTGD || [[Apataki Airport]] || [[Apataki]], [[French Polynesia]] || [[UTC−10:00]] ||
+|-
+|    APL || FQNP || [[Nampula Airport]] || [[Nampula]], [[Mozambique]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    APN || KAPN || [[Alpena County Regional Airport]] || [[Alpena, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    APO || SKLC || [[Antonio Roldán Betancourt Airport]] || [[Apartadó]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    APP ||      || [[Asapa Airport]] || [[Asapa]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    APQ || SNAL || [[Arapiraca Airport]] || [[Arapiraca]], [[Alagoas]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    APR || AYPE || [[April River Airport]] || [[April River]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    APS || SWNS || [[Anápolis Airport]] || [[Anápolis]], [[Goiás]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    APT || KAPT || [[Marion County Airport (Tennessee)|Marion County Airport]] (Brown Field) || [[Jasper, Tennessee]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    APU || SSAP || [[Apucarana Airport]] || [[Apucarana]], [[Paraná (state)|Paraná]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    APV || KAPV || [[Apple Valley Airport (California)|Apple Valley Airport]]  || [[Apple Valley, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    APW || NSFA || [[Faleolo International Airport]] || [[Apia, Samoa|Apia]], [[Upolu Island]], [[Samoa]] || [[Time in Samoa|UTC+13:00]] || Sep-Apr
+|-
+|    APX || SSOG || [[Arapongas Airport]] || [[Arapongas]], [[Paraná (state)|Paraná]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    APY || SNAI || [[Alto Parnaíba Airport]] || [[Alto Parnaíba]], [[Maranhão]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+&lt;!-- APY is not IATA code for airport (IATA: PHB, ICAO: SBPB) in Parnaíba, Piaui, Brazil --&gt;
+|-
+|    APZ || SAHZ || [[Zapala Airport]] || [[Zapala]], [[Neuquén]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AQ&quot;/&gt;-AQ-
+|-
+|    AQA || SBAQ || [[Araraquara Airport]] || [[Araraquara]], [[São Paulo (state)|São Paulo]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    AQB || MGQC || [[Quiché Airport]] || [[Santa Cruz del Quiché|Quiché]], [[Quiché (department)|El Quiché]], [[Guatemala]] || [[Central Time Zone|UTC−06:00]] ||
+&lt;!-- AQC is FAA code (not IATA) for Klawock Seaplane Base in Klawock, Alaska, United States --&gt;
+|-
+|    AQG || ZSAQ || [[Anqing Tianzhushan Airport]] || [[Anqing]], [[Anhui]], China || [[Time in China|UTC+08:00]] ||
+&lt;!-- AQH is FAA code for Quinhagak Airport (IATA: KWN, ICAO: PAQH) in Quinhagak, Alaska, United States --&gt;
+|-
+|    AQI || OEPA || [[Al Qaisumah/Hafr Al Batin Airport]] || [[Qaisumah]], [[Hafar Al-Batin]], [[Eastern Province, Saudi Arabia]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    AQJ || OJAQ || [[King Hussein International Airport]] || [[Aqaba]], [[Jordan]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    AQM ||      || [[Ariquemes Airport]] || [[Ariquemes]], [[Rondônia]], [[Brazil]] || [[Time in Brazil|UTC−04:00]] ||
+&lt;!-- AQO is FAA code (not IATA) for Llano Municipal Airport in Llano, Texas, United States --&gt;
+|-
+|    AQP || SPQU || [[Rodriguez Ballon International Airport]] || [[Arequipa]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+&lt;!-- AQP is FAA code (not IATA) for Appleton Municipal Airport in Appleton, Minnesota, United States --&gt;
+&lt;!-- AQR is FAA code (not IATA) for Atoka Municipal Airport in Atoka, Oklahoma, United States --&gt;
+|-
+|    AQS ||      || [[Saqani Airport]] || [[Saqani]], [[Fiji]] || [[UTC+12:00]] || Nov-Jan
+&lt;!-- AQT is FAA code (IATA: NUI, ICAO: PAQT) for Nuiqsut Airport in Nuiqsut, Alaska, United States --&gt;
+&lt;!-- AQW is FAA code (not IATA) for Harriman-and-West Airport in North Adams, Massachusetts, United States --&gt;
+&lt;!-- AQY is FAA code (not IATA) for Girdwood Airport in Girdwood, Alaska, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AR&quot;/&gt;-AR-
+|-
+|    ARA || KARA || [[Acadiana Regional Airport]] || [[New Iberia, Louisiana]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ARB || KARB || [[Ann Arbor Municipal Airport]] || [[Ann Arbor, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- ARB is not IATA code for airport (IATA: RCB, ICAO: FARB) in Richards Bay, South Africa --&gt;
+|-
+|    ARC || PARC || [[Arctic Village Airport]] || [[Arctic Village, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    ARD || WATM || [[Alor Island Airport]] || [[Alor Island]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    ARE || TJAB || [[Antonio (Nery) Juarbe Pol Airport]] (FAA: ABO) || [[Arecibo, Puerto Rico]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    ARF ||      || [[Acaricuara Airport]] || [[Acaricuara]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    ARG || KARG || [[Walnut Ridge Regional Airport]] || [[Walnut Ridge, Arkansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ARH || ULAA || [[Talagi Airport]] || [[Arkhangelsk]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    ARI || SCAR || [[Chacalluta International Airport]] || [[Arica]], [[Chile]] || [[Time in Chile|UTC−03:00]] ||
+|-
+|    ARJ || WAJA || [[Arso Airport]] || [[Arso, Keerom|Arso]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    ARK || HTAR || [[Arusha Airport]] || [[Arusha]], [[Tanzania]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    ARL || DFER || [[Arly Airport]] || [[Arly, Burkina Faso|Arly]], [[Burkina Faso]] || [[Greenwich Mean Time|UTC+00:00]] ||
+|-
+|    ARM || YARM || [[Armidale Airport]] || [[Armidale, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+&lt;!-- ARM is FAA code (not IATA) for Wharton Regional Airport in Wharton, Texas, United States --&gt;
+|-
+|    ARN || ESSA || [[Stockholm Arlanda Airport]] || [[Stockholm]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    ARO ||      || [[Arboletas Airport]] || [[Arboletas]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    ARP ||      || [[Aragip Airport]] || [[Aragip]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    ARQ ||      || [[Arauquita Airport]] (El Troncal) || [[Arauquita]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    ARR || SAVR || [[Alto Río Senguer Airport]] || [[Alto Río Senguer]], [[Chubut Province|Chubut]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+&lt;!-- ARR is FAA code (IATA: AUZ) for Aurora Municipal Airport in Aurora, Illinois, United States --&gt;
+|-
+|    ARS || SWEC || [[Aragarças Airport]] || [[Aragarças]], [[Goiás]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    ART || KART || [[Watertown International Airport]] || [[Watertown, New York]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ARU || SBAU || [[Araçatuba Airport]] || [[Araçatuba]], [[São Paulo]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    ARV || KARV || [[Lakeland Airport]] (Noble F. Lee Memorial Field) || [[Minocqua, Wisconsin|Minocqua]]/[[Woodruff, Wisconsin]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ARW || LRAR || [[Arad International Airport]] || [[Arad, Romania]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    ARX ||      || &lt;s&gt;[[Asbury Park Neptune Airport]]&lt;/s&gt; &lt;small&gt;(closed 1977)&lt;/small&gt; || &lt;s&gt;[[Asbury Park, New Jersey]], United States&lt;/s&gt;
+|-
+|    ARY || YARA || [[Ararat Airport]] || [[Ararat, Victoria]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    ARZ || FNZE || [[N'zeto Airport]] || [[N'zeto]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AS&quot;/&gt;-AS-
+|-
+|    ASA || HHSB || [[Assab International Airport]] || [[Assab]], [[Eritrea]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    ASB || UTAA || [[Ashgabat Airport]] || [[Ashgabat]], [[Turkmenistan]] || [[UTC+05:00]] ||
+&lt;!-- ASB is not IATA code for airport (IATA: SBU, ICAO: FASB) in Springbok, South Africa --&gt;
+|-
+|    ASC || SLAS || [[Ascensión de Guarayos Airport]] || [[Ascención de Guarayos]], [[Bolivia]] || [[UTC−04:00]] ||
+|-
+|    ASD || MYAF || [[Andros Town International Airport]] || [[Andros Island]], [[Bahamas]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- ASD is FAA code (not IATA) for Slidell Airport in Slidell, Louisiana, United States --&gt;
+|-
+|    ASE || KASE || [[Aspen-Pitkin County Airport]] (Sardy Field) || [[Aspen, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    ASF || URWA || [[Narimanovo Airport]] || [[Astrakhan]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    ASG || NZAS || [[Ashburton Airport]] || [[Ashburton, New Zealand|Ashburton]], New Zealand || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+&lt;!-- ASG is FAA code (not IATA) for Springdale Municipal Airport in Springdale, Arkansas, United States --&gt;
+|-
+|    ASH || KASH || [[Boire Field]] || [[Nashua, New Hampshire]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ASI || FHAW || [[Wideawake Field]] || [[Georgetown, Ascension Island]], [[Saint Helena]] || [[Greenwich Mean Time|UTC+00:00]] ||
+|-
+|    ASJ || RJKA || [[Amami Airport]] || [[Amami Island]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+&lt;!-- ASJ is FAA code (not IATA) for Tri-County Airport in Ahoskie, North Carolina, United States --&gt;
+|-
+|    ASK || DIYO || [[Yamoussoukro Airport]] || [[Yamoussoukro]], [[Côte d'Ivoire]] || [[Greenwich Mean Time|UTC+00:00]] ||
+|-
+|    ASL || KASL || [[Harrison County Airport (Texas)|Harrison County Airport]] || [[Marshall, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ASM || HHAS || [[Asmara International Airport]] || [[Asmara]], [[Eritrea]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    ASN || KASN || [[Talladega Municipal Airport]] || [[Talladega, Alabama]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ASO || HASO || [[Asosa Airport]] || [[Asosa]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    ASP || YBAS || [[Alice Springs Airport]] || [[Alice Springs, Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    ASQ ||      || [[Austin Airport]] (FAA: 9U3) || [[Austin, Nevada]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    ASR || LTAU || [[Erkilet International Airport]] || [[Kayseri Province]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    AST || KAST || [[Astoria Regional Airport]] || [[Astoria, Oregon]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    ASU || SGAS || [[Silvio Pettirossi International Airport]] || [[Asunción]], [[Paraguay]] || [[UTC−04:00]] || Oct-Mar
+|-
+|    ASV || HKAM || [[Amboseli Airport]] || [[Amboseli]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    ASW || HESN || [[Aswan International Airport]] || [[Aswan]], [[Egypt]] || [[Eastern European Time|UTC+02:00]] ||
+&lt;!-- ASW is FAA code (not IATA) for Warsaw Municipal Airport in Warsaw, Indiana, United States --&gt;
+|-
+|    ASX || KASX || [[John F. Kennedy Memorial Airport]] || [[Ashland, Wisconsin]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ASY || KASY || [[Ashley Municipal Airport]] || [[Ashley, North Dakota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ASZ ||      || [[Asirim Airport]] || [[Asirim]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AT&quot;/&gt;-AT-
+|-
+|    ATA || SPHZ || [[Comandante FAP German Arias Grazziani Airport]] || [[Huaraz]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+&lt;!-- ATA is FAA code (not IATA) for Hall-Miller Municipal Airport in Atlanta, Texas, United States --&gt;
+|-
+|    ATB || HSAT || [[Atbara Airport]] || [[Atbarah|Atbara]], [[Sudan]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    ATC || MYCA || [[Arthur's Town Airport]] || [[Arthur's Town]], [[Cat Island (Bahamas)|Cat Island]], [[Bahamas]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- ATC is not IATA code for Mollis Airport (ICAO: LSMF) in Switzerland --&gt;
+|-
+|    ATD || AGAT || [[Atoifi Airport]] || [[Atoifi]], [[Malaita]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+|    ATE ||      || [[Antlers Municipal Airport]] (FAA: 80F) || [[Antlers, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ATF || SEAM || [[Chachoan Airport]] || [[San Juan de Ambato|Ambato]], [[Ecuador]] || [[Time in Ecuador|UTC−05:00]] ||
+|-
+|    ATG ||      || [[Attock Airport]] || [[Attock]], [[Pakistan]] || [[Pakistan Standard Time|UTC+05:00]] ||
+&lt;!-- ATG is not IATA code for airport (ICAO: SPAY) in Atalaya, Peru --&gt;
+|-
+|    ATH || LGAV || [[Athens International Airport]]&lt;br&gt;(succeeded Ellinikon International Airport) || [[Athens]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    ATI || SUAG || [[Artigas Airport|Artigas International Airport]] || [[Artigas, Uruguay|Artigas]], [[Artigas Department|Artigas]], [[Uruguay]] || [[Time in Uruguay|UTC−03:00]] || Oct-Mar
+|-
+|    ATJ || FMME || [[Antsirabe Airport]] || [[Antsirabe]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    ATK || PATQ || [[Atqasuk Edward Burnell Sr. Memorial Airport]] || [[Atqasuk, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    ATL || KATL || [[Hartsfield–Jackson Atlanta International Airport]] || [[Atlanta, Georgia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ATM || SBHT || [[Altamira Airport]] || [[Altamira, Pará]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    ATN || AYNX || [[Namatanai Airport]] || [[Namatanai]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    ATO || KUNI || [[Ohio University Airport]] (Snyder Field) (FAA: UNI) || [[Athens, Ohio|Athens]]/[[Albany, Ohio]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ATP || AYAI || [[Aitape Airstrip]] || [[Aitape]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    ATQ || VIAR || [[Sri Guru Ram Dass Jee International Airport]] || [[Amritsar]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    ATR || GQPA || [[Atar International Airport]] || [[Atar, Mauritania]] || [[Greenwich Mean Time|UTC+00:00]] ||
+|-
+|    ATS || KATS || [[Artesia Municipal Airport]] || [[Artesia, New Mexico]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    ATT ||      || [[Atmautluak Airport]] (FAA: 4A2) || [[Atmautluak, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    ATU || PAAT || [[Casco Cove Coast Guard Station]] || [[Attu Island, Alaska]], United States || [[Hawaii–Aleutian Time Zone|UTC−10:00]] || Mar-Nov
+|-
+|    ATV || FTTI || [[Ati Airport]] || [[Ati, Chad|Ati]], [[Chad]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    ATW || KATW || [[Outagamie County Regional Airport]] || [[Appleton, Wisconsin]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ATX ||      || [[Atbasar Airport]] || [[Atbasar]], [[Kazakhstan]] || [[Time in Kazakhstan|UTC+06:00]] ||
+|-
+|    ATY || KATY || [[Watertown Regional Airport]] || [[Watertown, South Dakota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ATZ || HEAT || [[Assiut Airport]] || [[Assiut]], [[Egypt]] || [[Eastern European Time|UTC+02:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AU&quot;/&gt;-AU-
+|-
+|    AUA || TNCA || [[Aeropuerto Internacional Reina Beatrix|Queen Beatrix International Airport]] || [[Oranjestad, Aruba]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    AUB ||      || [[Itauba Airport]] || [[Itauba]], [[Mato Grosso]], [[Brazil]] || [[Time in Brazil|UTC−04:00]] || Oct-Feb
+|-
+|    AUC || SKUC || [[Santiago Pérez Airport]] || [[Arauca, Arauca|Arauca]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    AUD || YAGD || [[Augustus Downs Airport]] || [[Augustus Downs, Queensland|Augustus Downs]], Queensland, Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    AUE ||      || [[Abu Rudeis Airport]] || [[Abu Rudeis]], [[Egypt]] || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    AUF || LFLA || [[Auxerre - Branches Aerodrome]] || [[Auxerre]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    AUG || KAUG || [[Augusta State Airport]] || [[Augusta, Maine]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    AUH || OMAA || [[Abu Dhabi International Airport]] || [[Abu Dhabi]], [[United Arab Emirates]] || [[UTC+04:00]] ||
+&lt;!-- AUH is FAA code (not IATA) for Aurora Municipal Airport/Al Potter Field in Aurora, Nebraska, United States --&gt;
+|-
+|    AUI || AYND || [[Aua Island Airport]] || [[Aua Island]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AUJ || AYAT || [[Ambunti Airport]] || [[Ambunti]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AUK ||      || [[Alakanuk Airport]] || [[Alakanuk, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    AUL ||      || [[Aur Airport]] || [[Aur Atoll]], [[Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    AUM || KAUM || [[Austin Municipal Airport]] || [[Austin, Minnesota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    AUN || KAUN || [[Auburn Municipal Airport (California)|Auburn Municipal Airport]] || [[Auburn, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    AUO || KAUO || [[Auburn University Regional Airport]] || [[Auburn, Alabama]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    AUP || AYAG || [[Agaun Airport]] || [[Agaun]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AUQ || NTMN || [[Atuona Airport]] || [[Atuona]], [[Marquesas Islands]], [[French Polynesia]] || [[UTC−09:30]] ||
+|-
+|    AUR || LFLW || [[Aurillac Airport]] || [[Aurillac]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    AUS || KAUS || [[Austin–Bergstrom International Airport]] || [[Austin, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    AUT || WPAT || [[Atauro Airport]] || [[Atauro Island]], [[East Timor]] || [[UTC+09:00]] ||
+|-
+|    AUU || YAUR || [[Aurukun Airport]] || [[Aurukun, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    AUV || AYUM || [[Aumo Airport]] || [[Aumo]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AUW || KAUW || [[Wausau Downtown Airport]] || [[Wausau, Wisconsin]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    AUX || SWGN || [[Araguaína Airport]] || [[Araguaína]], [[Tocantins]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    AUY || NVVA || [[Anatom Airport]] || [[Anatom]], [[Taféa]], [[Vanuatu]] || [[UTC+11:00]] ||
+|-
+|    AUZ || KARR || [[Aurora Municipal Airport (Illinois)|Aurora Municipal Airport]] (FAA: ARR) || [[Aurora, Illinois]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AV&quot;/&gt;-AV-
+|-
+|    AVA || ZUAS || [[Anshun Huangguoshu Airport]] || [[Anshun]], [[Guizhou Province]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    AVB || LIPA || [[Aviano Air Base]] || [[Aviano]], [[Province of Pordenone|Pordenone]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- AVC is FAA code (not IATA) for Mecklenburg-Brunswick Regional Airport in South Hill, Virginia, United States --&gt;
+|-
+|    AVF ||      || [[Avoriaz Airport]] || [[Avoriaz]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    AVG || YAUV || [[Auvergne Airport (Australia)|Auvergne Airport]] || [[Auvergne Station|Auvergne]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    AVI || MUCA || [[Máximo Gómez Airport]] || [[Ciego de Ávila]], [[Cuba]] || [[UTC−05:00]] || Mar-Nov
+|-
+|    AVK || ZMAH || [[Arvaikheer Airport]] || [[Arvaikheer]], [[Mongolia]] || [[Time in Mongolia|UTC+08:00]] ||
+&lt;!-- AVK is FAA code (not IATA) for Alva Regional Airport in Alva, Oklahoma, United States --&gt;
+|-
+|    AVL || KAVL || [[Asheville Regional Airport]] || [[Asheville, North Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    AVN || LFMV || [[Avignon - Caumont Airport]] || [[Avignon]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    AVO || KAVO || [[Avon Park Executive Airport]] || [[Avon Park, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    AVP || KAVP || [[Wilkes-Barre/Scranton International Airport]] || [[Avoca, Pennsylvania]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- AVQ is FAA code (IATA: AVW) for Marana Regional Airport in Tucson, Arizona, United States --&gt;
+|-
+|    AVU || AGGJ || [[Avu Avu Airport]] || [[Avu Avu]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+|    AVV || YMAV || [[Avalon Airport]] || [[Avalon, Victoria]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    AVW || KAVQ || [[Marana Regional Airport]] (FAA: AVQ) || [[Tucson, Arizona]], United States || [[Mountain Time Zone|UTC−07:00]] ||
+&lt;!-- AVX is FAA code (IATA: CIB) for Catalina Airport in Avalon, Santa Catalina Island, California, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AW&quot;/&gt;-AW-
+|-
+|    AWA || HALA || [[Awasa Airport]] || [[Awasa]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    AWB || AYAW || [[Awaba Airport]] || [[Awaba, Papua New Guinea|Awaba]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AWD || NVVB || [[Aniwa Airport]] || [[Aniwa Island]], [[Taféa]], [[Vanuatu]] || [[UTC+11:00]] ||
+|-
+|    AWE ||      || [[Alowe Airport]] || [[Alowe]], [[Gabon]] || [[West Africa Time|UTC+01:00]] ||
+&lt;!-- AWG is FAA code (not IATA) for Washington Municipal Airport in Washington, Iowa, United States --&gt;
+|-
+|    AWH ||      || [[Awareh Airport]] || [[Awareh]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+&lt;!-- AWI is FAA code (IATA: AIN) for Wainwright Airport in Wainwright, Alaska, United States --&gt;
+|-
+|    AWK || PWAK || [[Wake Island Airfield]] || [[Wake Island]], [[United States Minor Outlying Islands]] || [[Wake Island Time Zone|UTC+12:00]] ||
+|-
+|    AWM || KAWM || [[West Memphis Municipal Airport]] || [[West Memphis, Arkansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    AWN ||      || [[Afton Downs Airport]] || [[Afton Downs]], [[South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+&lt;!-- AWO is FAA code (not IATA) for Arlington Municipal Airport in Arlington, Washington, United States --&gt;
+|-
+|    AWP ||      || [[Austral Downs Airport]] || [[Austral Downs]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    AWR ||      || [[Awar Airport]] || [[Awar]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AWZ || OIAW || [[Ahwaz Airport]] || [[Ahvaz|Ahwaz]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AX&quot;/&gt;-AX-
+|-
+|    AXA || TQPF || [[Wallblake Airport]] || [[The Valley, Anguilla|The Valley]], [[Anguilla]] || [[Atlantic Time Zone|UTC−04:00]] ||
+&lt;!-- AXA is FAA code (IATA: AXG) for Algona Municipal Airport in Algona, Iowa, United States --&gt;
+|-
+|    AXB ||      || [[Maxson Airfield]] (FAA: 89N) || [[Alexandria Bay, New York]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    AXC || YAMC || [[Aramac Airport]] || [[Aramac, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    AXD || LGAL || [[Dimokritos Airport]] || [[Alexandroupolis]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    AXE ||      || [[Xanxere Airport]] || [[Xanxerê]], [[Santa Catarina (state)|Santa Catarina]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    AXF ||      || [[Alxa Left Banner Bayanhot Airport]] || [[Alxa Left Banner]], [[Inner Mongolia]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    AXG || KAXA || [[Algona Municipal Airport]] (FAA: AXA) || [[Algona, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- AXH is FAA code (not IATA) for Houston-Southwest Airport in Houston, Texas, United States --&gt;
+&lt;!-- AXJ is not IATA code for airport (ICAO: RJDA) in Amakusa, Japan --&gt;
+|-
+|    AXK || OYAT || [[Ataq Airport]] || [[Ataq]], [[Yemen]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    AXL ||      || [[Alexandria Airport (Australia)|Alexandria Airport]] || [[Alexandria Station (Northern Territory)|Alexandria Station]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    AXM || SKAR || [[El Edén International Airport]] || [[Armenia, Colombia|Armenia]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    AXN || KAXN || [[Chandler Field]] || [[Alexandria, Minnesota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    AXP || MYAP || [[Spring Point Airport]] || [[Spring Point, Bahamas|Spring Point]], [[Acklins Island]], [[Bahamas]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- AXQ is FAA code (not IATA) for Clarion County Airport in Clarion, Pennsylvania, United States --&gt;
+|-
+|    AXR || NTGU || [[Arutua Airport]] || [[Arutua]], [[Tuamotus]], [[French Polynesia]] || [[UTC−10:00]] ||
+|-
+|    AXS || KAXS || [[Altus/Quartz Mountain Regional Airport]] || [[Altus, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    AXT || RJSK || [[Akita Airport]] || [[Akita, Akita|Akita]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    AXU || HAAX || [[Axum Airport]] || [[Axum]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    AXV || KAXV || [[Neil Armstrong Airport]] || [[Wapakoneta, Ohio]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    AXX || KAXX || [[Angel Fire Airport]] || [[Angel Fire, New Mexico]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+&lt;!-- AXY is not IATA code for Plati, Imathia, Greece --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AY&quot;/&gt;-AY-
+|-
+|    AYA ||      || [[Ayapel Airport]] || [[Ayapel]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    AYC ||      || [[Ayacucho Airport]] || [[Ayacucho (Department of Peru)|Ayacucho]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+|-
+|    AYD ||      || [[Alroy Downs Airport]] || [[Alroy Downs|Alroy Downs Station]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    AYE ||      || &lt;s&gt;[[Moore Army Airfield]] ([[Fort Devens]])&lt;/s&gt; &lt;small&gt;(closed 1995-2000)&lt;/small&gt; || &lt;s&gt;[[Leominster, Massachusetts]], United States&lt;/s&gt;
+|-
+|    AYG || SKYA || [[Yaguara Airport]] || [[Yaguara]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    AYH || EGWZ || [[RAF Alconbury]] || [[Alconbury]], England, United Kingdom || [[Greenwich Mean Time|UTC+00:00]] || Mar-Oct
+|-
+|    AYI ||      || [[Yari Airport]] || [[Yari, Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    AYK || UAUR || [[Arkalyk Airport]] || [[Arkalyk]], [[Kazakhstan]] || [[Time in Kazakhstan|UTC+06:00]] ||
+|-
+|    AYL ||      || [[Anthony Lagoon Airport]] || [[Anthony Lagoon]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    AYN || ZHAY || [[Anyang Airport]] || [[Anyang]], [[Henan]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    AYO || SGAY || [[Juan De Ayolas Airport]] || [[Ayolas]], [[Paraguay]] || [[UTC−04:00]] || Oct-Mar
+|-
+|    AYP || SPHO || [[Coronel FAP Alfredo Mendívil Duarte Airport]] || [[Ayacucho]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+|-
+|    AYQ || YAYE || [[Ayers Rock Airport]] || [[Yulara, Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    AYR || YAYR || [[Ayr Airport]] || [[Ayr, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    AYS || KAYS || [[Waycross–Ware County Airport]] || [[Waycross, Georgia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    AYT || LTAI || [[Antalya Airport]] || [[Antalya]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    AYU || AYAY || [[Aiyura Airport]] || [[Aiyura]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    AYW ||      || [[Ayawasi Airport]] || [[Ayawasi]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+&lt;!-- AYX is FAA code (not IATA) for Arnold AFB in Tullahoma, Tennessee, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;AZ&quot;/&gt;-AZ-
+|-
+|    AZA || KIWA || [[Phoenix–Mesa Gateway Airport]] (FAA: IWA) || [[Phoenix, Arizona]], United States || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+|    AZB ||      || [[Amazon Bay Airport]] || [[Amazon Bay]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+&lt;!-- AZC is FAA code (not IATA) for Colorado City Municipal Airport in Colorado City, Arizona, United States --&gt;
+|-
+|    AZD || OIYY || [[Yazd Shahid Sadooghi Airport]] || [[Yazd]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+&lt;!-- AZE is FAA code (not IATA) for Hazlehurst Airport in Hazlehurst, Georgia, United States --&gt;
+|-
+|    AZG ||      || [[Pablo L. Sidar Airport]] || [[Apatzingán]], [[Michoacán]], Mexico || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+|    AZI || OMAD || [[Bateen Airport]] || [[Abu Dhabi]], [[United Arab Emirates]] || [[UTC+04:00]] ||
+|-
+&lt;!-- AZK is FAA code (not IATA) for Skelton Airport in Eureka, Alaska, United States --&gt;
+|-
+|    AZN || UTKA || [[Andizhan Airport]] || [[Andijan|Andizhan]], [[Uzbekistan]] || [[Time in Uzbekistan|UTC+05:00]] ||
+|-
+|    AZO || KAZO || [[Kalamazoo/Battle Creek International Airport]] || [[Kalamazoo, Michigan|Kalamazoo]]/[[Battle Creek, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    AZP ||      || [[Atizapan Airport]] || [[Mexico City]], [[Mexico]] || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+|    AZR || DAUA || [[Touat-Cheikh Sidi Mohamed Belkebir Airport]] || [[Adrar, Algeria|Adrar]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    AZS || MDCY || [[Samaná El Catey International Airport]] || [[El Catey]], [[Samaná Province|Samaná]], [[Dominican Republic]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    AZT ||      || [[Zapatoca Airport]] || [[Zapatoca]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+&lt;!-- AZU is FAA code (not IATA) for Arrowhead Assault Strip in Fort Chaffee, Arkansas, United States --&gt;
+|-
+|    AZZ || FNAM || [[Ambriz Airport]] || [[Ambriz]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+
+|}
+∗ Morocco temporarily suspends DST for the month of Ramadan.
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = [[PDF]] | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|A]]</text>
+      <sha1>fpxfra8os221ywcgdzzxk0a1536j4rp</sha1>
+    </revision>
+  </page>
+</mediawiki>

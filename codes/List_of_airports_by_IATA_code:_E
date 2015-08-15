@@ -1,0 +1,707 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: E</title>
+    <ns>0</ns>
+    <id>317103</id>
+    <revision>
+      <id>676007750</id>
+      <parentid>669134389</parentid>
+      <timestamp>2015-08-14T02:31:06Z</timestamp>
+      <contributor>
+        <ip>98.225.16.91</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="41987">{{Lists of airports by IATA code}}
+
+==E==
+{{AlphanumericTOC|prefixLink=E|prefixDesc=E|numbers=|sections=}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+! style=&quot;text-align:left;&quot; | Time
+! style=&quot;text-align:left;&quot; | DST
+&lt;!-- comments added to prevent addition of incorrect IATA codes --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EA&quot;/&gt;-EA-
+|-
+|    EAA || PAEG || [[Eagle Airport]] || [[Eagle, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    EAB || ODAS || [[Abbse Airport]] || [[Abbse]], [[Yemen]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    EAE || NVSE || [[Siwo Airport]] || [[Sangafa]], [[Emae]], [[Shéfa]], [[Vanuatu]] || [[UTC+11:00]] ||
+&lt;!-- EAG is FAA code (not IATA) for Eagle Grove Municipal Airport in Eagle Grove, Iowa --&gt;
+|-
+|    EAL ||      || [[Elenak Airport]] || [[Elenak]], [[Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    EAM || OENG || [[Najran Domestic Airport]] || [[Najran]] (Nejran), [[Saudi Arabia]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    EAN || KEAN || [[Phifer Airfield]] || [[Wheatland, Wyoming]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    EAP ||  || All airports || [[Mulhouse]], [[France]] / [[Basel]], [[Switzerland]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    EAR || KEAR || [[Kearney Regional Airport]] || [[Kearney, Nebraska]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    EAS || LESO || [[San Sebastián Airport]] (or [[Fuenterrabia Airport]]) || [[San Sebastián]], [[Spain]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    EAT || KEAT || [[Pangborn Memorial Airport]] || [[Wenatchee, Washington]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    EAU || KEAU || [[Chippewa Valley Regional Airport]] || [[Eau Claire, Wisconsin]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EB&quot;/&gt;-EB-
+|-
+|    EBA || LIRJ || [[Marina di Campo Airport]] || [[Elba]], [[Italy]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    EBB || HUEN || [[Entebbe International Airport]] || [[Entebbe]], [[Uganda]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    EBD || HSOB || [[El Obeid Airport]] || [[Al-Ubayyid|El Obeid]], [[Sudan]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    EBG || SKEB || [[El Bagre Airport]] || [[El Bagre]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+&lt;!-- EBG is FAA code (not IATA) for Edinburg International Airport in Edinburg, Texas --&gt;
+|-
+|    EBJ || EKEB || [[Esbjerg Airport]] || [[Esbjerg]], [[Denmark]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    EBL || ORER || [[Erbil International Airport]] || [[Arbil|Erbil]], [[Iraqi Kurdistan|Kurdistan]], [[Iraq]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    EBM || DTTR || [[El Borma Airport]] || [[El Borma]], [[Tunisia]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    EBN ||      || [[Kwajalein Atoll#Kwajalein today|Ebadon Airstrip]] || [[Kwajalein Atoll]], [[Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    EBO ||      || [[Ebon Airport]] || [[Ebon Atoll]], [[Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    EBS || KEBS || [[Webster City Municipal Airport]] || [[Webster City, Iowa]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    EBU || LFMH || [[Saint-Étienne - Bouthéon Airport]] || [[Saint-Étienne]] / [[Bouthéon]], [[France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    EBW || FKKW || [[Ebolowa Airport]] || [[Ebolowa]], [[Cameroon]] || [[West Africa Time|UTC+01:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EC&quot;/&gt;-EC-
+|-
+|    ECA ||      || [[Iosco County Airport]] (FAA: 6D9) || [[East Tawas, Michigan]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ECG || KECG || [[Elizabeth City Regional Airport]] / [[Elizabeth City Coast Guard Air Station]] || [[Elizabeth City, North Carolina]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ECH || YECH || [[Echuca Airport]] || [[Echuca, Victoria]], [[Australia]] || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    ECO ||      || [[El Encanto Airport]] || [[El Encanto]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    ECP || KECP || [[Northwest Florida Beaches International Airport]] || [[Panama City, Florida]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ECR ||      || [[El Charco Airport]] || [[El Charco]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    ECS || KECS || [[Mondell Field]] || [[Newcastle, Wyoming]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+&lt;!-- ECU is FAA code (not IATA) for Edwards County Airport in Rocksprings, Texas --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;ED&quot;/&gt;-ED-
+|-
+|    EDA ||      || [[Edna Bay Municipal Airport]] (or Seaplane Base?) || [[Edna Bay, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    EDB || HSDB || [[El Debba Airport]] || [[El Debba]] (Al Dabbah), [[Sudan]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    EDC || KEDC || [[Austin Executive Airport]] || [[Austin, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    EDD ||      || [[Erldunda Airport]] || [[Erldunda, Northern Territory]], [[Australia]] || [[Australian Time|UTC+09:30]] ||
+|-
+|    EDE || KEDE || [[Northeastern Regional Airport]] || [[Edenton, North Carolina]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    EDF || PAED || [[Elmendorf Air Force Base]] || [[Anchorage, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    EDG || KEDG || [[Weide Army Airfield]] || [[Edgewood Arsenal]], [[Maryland]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    EDI || EGPH || [[Edinburgh Airport]] || [[Edinburgh]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+&lt;!-- EDJ is FAA code (not IATA) for Bellefontaine Regional Airport in Bellefontaine, Ohio --&gt;
+|-
+|    EDK || KEQA || [[Captain Jack Thomas/El Dorado Airport]] (FAA: EQA) || [[El Dorado, Kansas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    EDL || HKEL || [[Eldoret International Airport]] || [[Eldoret]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    EDM || LFRI || [[La Roche-sur-Yon Aerodrome]] || [[La Roche-sur-Yon]] / [[Les Ajoncs]], [[France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- EDN is FAA code (IATA: ETS) for Enterprise Municipal Airport in Enterprise, Alabama --&gt;
+|-
+|    EDO || LTFD || [[Edremit Körfez Airport]] || [[Balıkesir]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    EDQ ||      || [[Erandique Airport]] || [[Erandique]], [[Honduras]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    EDR || YPMP || [[Edward River Airport]] || [[Edward River (Queensland)|Edward River]], [[Queensland]], [[Australia]] || [[Australian Time|UTC+10:00]] ||
+&lt;!-- EDU is FAA code (not IATA) for University Airport in Davis, California --&gt;
+|-
+|    EDW || KEDW || [[Edwards Air Force Base]] || [[Edwards, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EE&quot;/&gt;-EE-
+|-
+|    EED || KEED || [[Needles Airport]] || [[Needles, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    EEK || PAEE || [[Eek Airport]] || [[Eek, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    EEN || KEEN || [[Dillant-Hopkins Airport]] || [[Keene, New Hampshire]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- EEO is FAA code (not IATA) for Meeker Airport in Meeker, Colorado --&gt;
+&lt;!-- EET is FAA code (not IATA) for Shelby County Airport in Alabaster, Alabama --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EF&quot;/&gt;-EF-
+&lt;!-- EFC is FAA code (not IATA) for Belle Fourche Municipal Airport in South Dakota --&gt;
+|-
+|    EFD || KEFD || [[Ellington Field]] || [[Houston, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    EFG || AYEF || [[Efogi Airport]] || [[Efogi]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    EFK || KEFK || [[Newport State Airport (Vermont)|Newport State Airport]] || [[Newport (city), Vermont|Newport, Vermont]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    EFL || LGKF || [[Argostolion Airport]] || [[Kefallinia Island]], [[Greece]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+&lt;!-- EFT is FAA code (not IATA) for Monroe Municipal Airport in Monroe, Wisconsin --&gt;
+|-
+|    EFW || KEFW || [[Jefferson Municipal Airport]] || [[Jefferson, Iowa]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EG&quot;/&gt;-EG-
+|-
+|    EGA || AYEN || [[Engati Airport]] || [[Engati]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    EGC || LFBE || [[Bergerac-Roumanière Airport]] || [[Bergerac, Dordogne|Bergerac]], [[France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    EGE || KEGE || [[Eagle County Regional Airport]] || [[Eagle, Colorado]] (near [[Vail, Colorado|Vail]]), [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    EGI || KEGI || [[Duke Field]] (Eglin Auxiliary Field 3) || [[Crestview, Florida]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    EGL || HANG || [[Neghele Airport]] || [[Negele Boran]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    EGM || AGGS || [[Sege Airport]] || [[Sege]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+|    EGN || HSGN || [[Geneina Airport]] || [[Geneina]], [[Sudan]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    EGO || UUOB || [[Belgorod Airport]] || [[Belgorod]], [[Russia]] || [[Moscow Time|UTC+03:00]] ||
+|-
+|    EGP ||      || [[Maverick County Airport]] || [[Eagle Pass, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- EGQ is FAA code (not IATA) for Emmetsburg Municipal Airport in Iowa --&gt;
+|-
+|    EGS || BIEG || [[Egilsstaðir Airport]] || [[Egilsstaðir]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+&lt;!-- EGT is FAA code (not IATA) for Wellington Municipal Airport in Kansas --&gt;
+|-
+|    EGV || KEGV || [[Eagle River Union Airport]] || [[Eagle River, Wisconsin]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    EGX || PAII || [[Egegik Airport]] (FAA: EII) || [[Egegik, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EH&quot;/&gt;-EH-
+&lt;!-- EHA is FAA code (not IATA) for Elkhart-Morton County Airport in Elkhart, Kansas --&gt;
+|-
+|    EHL || SAVB || [[El Bolson Airport]] || [[El Bolsón, Río Negro]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    EHM || PAEH || [[Cape Newenham LRRS Airport]] || [[Cape Newenham]], [[Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+&lt;!-- EHO is FAA code (not IATA) for Shelby Municipal Airport in North Carolina --&gt;
+&lt;!-- EHR is FAA code (not IATA) for Henderson City-County Airport in Kentucky --&gt;
+|-
+|    EHT ||      || [[Rentschler Heliport]] (FAA: CT88) || [[East Hartford, Connecticut]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EI&quot;/&gt;-EI-
+|-
+|    EIA ||      || [[Popondetta Airport]] || [[Eia, Papua New Guinea|Eia]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    EIE || UNII || [[Yeniseysk Airport]] || [[Yeniseysk]], [[Russia]] || [[Krasnoyarsk Time|UTC+07:00]] ||
+|-
+|    EIH ||      || [[Einasleigh Airport]] || [[Einasleigh]], [[Queensland]], [[Australia]] || [[Australian Time|UTC+10:00]] ||
+&lt;!-- EII is FAA code (IATA: EGX) for Egegik Airport in Egegik, Alaska --&gt;
+&lt;!-- EIK is FAA code (not IATA) for Erie Municipal Airport in Erie, Colorado --&gt;
+|-
+|    EIL || PAEI || [[Eielson Air Force Base]] || [[Fairbanks, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    EIN || EHEH || [[Eindhoven Airport]] || [[Eindhoven]], [[Netherlands]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    EIS || TUPJ || [[Terrance B. Lettsome International Airport]] || [[Beef Island]] (near [[Tortola]]), [[British Virgin Islands]] || [[Atlantic Time Zone|UTC−04:00]] ||
+&lt;!-- EIW is FAA code (not IATA) for County Memorial Airport in New Madrid, Missouri --&gt;
+
+|-
+|    EIY || LLEY || [[Ein Yahav Airfield]] || [[Ein Yahav]], [[Israel]] || [[Israel Standard Time|UTC+02:00]] || Mar-Oct
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EJ&quot;/&gt;-EJ-
+|-
+|    EJA || SKEJ || [[Yarigüies Airport]] || [[Barrancabermeja]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    EJH || OEWJ || [[Wejh Airport]] || [[Wejh]], [[Saudi Arabia]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    EJN ||      || [[Ejin Banner Taolai Airport]] || [[Ejin Banner]], [[Inner Mongolia]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    EJT ||      || [[Enejit Airport]] || [[Enejit]], [[Marshall Islands]] || [[UTC+12:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EK&quot;/&gt;-EK-
+|-
+|    EKA || KEKA || [[Murray Field]] || [[Eureka, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    EKB || UASB || [[Ekibastuz Airport]] || [[Ekibastuz]], [[Kazakhstan]] || [[Time in Kazakhstan|UTC+06:00]] ||
+|-
+|    EKD ||      || [[Elkedra Airport]] || [[Elkedra]], [[Northern Territory]], [[Australia]] || [[Australian Time|UTC+09:30]] ||
+|-
+|    EKE ||      || [[Ekereku Airport]] || [[Ekereku]], [[Guyana]] || [[UTC−04:00]] ||
+|-
+|    EKI || KEKM || [[Elkhart Municipal Airport]] (FAA: EKM) || [[Elkhart, Indiana]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- EKM is FAA code (IATA: EKI) for Elkhart Municipal Airport in Elkhart, Indiana--&gt;
+|-
+|    EKN || KEKN || [[Elkins-Randolph Co.-Jennings Randolph Field]] || [[Elkins, West Virginia]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    EKO || KEKO || [[Elko Regional Airport]] || [[Elko, Nevada]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+&lt;!-- EKQ is FAA code (not IATA) for Wayne County Airport in Monticello, Kentucky--&gt;
+|-
+|    EKT || ESSU || [[Eskilstuna Airport]] || [[Eskilstuna]], [[Sweden]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    EKX || KEKX || [[Addington Field]] (Elizabethtown Regional Airport) || [[Elizabethtown, Kentucky]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- EKY is FAA code (not IATA) for Bessemer Airport in Bessemer, Alabama --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EL&quot;/&gt;-EL-
+|-
+|    ELA || KELA || [[Eagle Lake Airport]] || [[Eagle Lake, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ELB || SKBC || [[Las Flores Airport]] || [[El Banco]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    ELC || YELD || [[Elcho Island Airport]] || [[Elcho Island, Northern Territory]], [[Australia]] || [[Australian Time|UTC+09:30]] ||
+|-
+|    ELD || KELD || [[South Arkansas Regional Airport at Goodwin Field]] || [[El Dorado, Arkansas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ELE ||      || [[El Real Airport]] || [[El Real]], [[Panama]] || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+|    ELF || HSFS || [[El Fasher Airport]] || [[El Fasher]], [[Sudan]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    ELG || DAUE || [[El Golea Airport]] || [[El Golea]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    ELH || MYEH || [[North Eleuthera Airport]] || [[North Eleuthera]], [[Eleuthera Island]], [[Bahamas]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ELI || PFEL || [[Elim Airport]] || [[Elim, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    ELJ ||      || [[El Recreo Airport]] || [[El Recreo]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    ELK || KELK || [[Elk City Municipal Airport]] || [[Elk City, Oklahoma]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ELL || FAER || [[Ellisras Airport]] || [[Ellisras]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    ELM || KELM || [[Elmira/Corning Regional Airport]] || [[Elmira, New York|Elmira]], [[New York]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ELN || KELN || [[Bowers Field]] || [[Ellensburg, Washington]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    ELO || SATD || [[Eldorado Airport (Argentina)|Eldorado Airport]] || [[Eldorado, Misiones|Eldorado]], [[Misiones]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+&lt;!-- ELO is FAA code (not IATA) for Ely Municipal Airport in Ely, Minnesota --&gt;
+|-
+|    ELP || KELP || [[El Paso International Airport]] || [[El Paso, Texas]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    ELQ || OEGS || [[Gassim Regional Airport]] || [[Buraidah]], [[Saudi Arabia]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    ELR ||      || [[Irian Jaya Airport]] (Elelim Airport) || [[Elelim]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    ELS || FAEL || [[East London Airport]] || [[East London, South Africa|East London]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    ELT || HETR || [[Tour Sinai City Airport]] || [[El Tor]], [[Egypt]] || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    ELU || DAUO || [[Guemar Airport]] || [[El Oued]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    ELV || PAEL || [[Elfin Cove Seaplane Base]] || [[Elfin Cove, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    ELW ||      || [[Ellamar Seaplane Base]] (FAA: 1Z9) || [[Ellamar]], [[Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    ELX ||      || [[El Tigre Airport]] || [[El Tigre]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+|    ELY || KELY || [[Ely Airport]] || [[Ely, Nevada]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    ELZ || KELZ || [[Wellsville Municipal Airport]] (Tarantine Field) || [[Wellsville (town), New York|Wellsville, New York]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EM&quot;/&gt;-EM-
+|-
+|    EMA || EGNX || [[East Midlands Airport]] || [[Castle Donington]], [[Leicestershire]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    EMD || YEML || [[Emerald Airport]] || [[Emerald, Queensland|Emerald]], [[Queensland]], [[Australia]] || [[Australian Time|UTC+10:00]] ||
+|-
+|    EME || EDWE || [[Emden Airport]] || [[Emden]], [[Lower Saxony]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    EMG || FAEM || [[Empangeni Airport]] || [[Empangeni]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    EMI || AYEE || [[Emirau Airport]] || [[Emirau]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    EMK || PAEM || [[Emmonak Airport]] (FAA: ENM) || [[Emmonak, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    EML || LSME || [[Emmen Air Base]] || [[Emmen, Lucerne|Emmen]], [[Canton of Lucerne|Lucerne]], [[Switzerland]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    EMM || KEMM || [[Kemmerer Municipal Airport]] || [[Kemmerer, Wyoming]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    EMN || GQNI || [[Nema Airport]] || [[Néma|Nema]], [[Mauritania]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    EMO || AYEO || [[Emo Airport]] || [[Emo]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    EMP || KEMP || [[Emporia Municipal Airport]] || [[Emporia, Kansas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    EMS || AYEB || [[Embessa Airport]] || [[Embessa]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    EMT || KEMT || [[El Monte Airport]] || [[El Monte, California]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+&lt;!-- EMV is the FAA code (not IATA) for Emporia-Greensville Regional Airport in Emporia, Virginia --&gt;
+|-
+|    EMX || SAVD || [[El Maitén Airport]] || [[El Maitén]], [[Neuquén]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    EMY || HEMN || [[El Minya Airport]] || [[El Minya]], [[Egypt]] || [[Eastern European Time|UTC+02:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EN&quot;/&gt;-EN-
+|-
+|    ENA || PAEN || [[Kenai Municipal Airport]] || [[Kenai, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    ENB || YEEB || [[Eneabba Airport]] || [[Eneabba, Western Australia]], [[Australia]] || [[Australian Time|UTC+08:00]] ||
+|-
+|    ENC || LFSN || [[Essey Airport]] || [[Nancy, France|Nancy]], [[France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    END || KEND || [[Vance Air Force Base]] || [[Enid, Oklahoma]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ENE || WATE || [[H. Hasan Aroeboesman Airport]] || [[Ende]], [[Flores]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    ENF || EFET || [[Enontekiö Airport]] || [[Enontekiö]], [[Finland]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    ENH || ZHES || [[Enshi Airport]] || [[Enshi City|Enshi]], [[Hubei]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    ENI || RPEN || [[El Nido Airport]] || [[El Nido, Palawan|El Nido]], [[Palawan]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    ENJ ||      || [[El Naranjo Airport]] || [[El Naranjo]], [[El Petén]], [[Guatemala]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    ENK || EGAB || [[Enniskillen/St Angelo Airport]] || [[Enniskillen]], [[Co Fermanagh]], [[Northern Ireland]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    ENL || KENL || [[Centralia Municipal Airport]] || [[Centralia, Illinois]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- ENM is FAA code (IATA: EMK) for Emmonak Airport in Emmonak, Alaska --&gt;
+|-
+|    ENN || PANN || [[Nenana Municipal Airport]] || [[Nenana, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    ENO || SGEN || [[Teniente Primero Alarcon Airport]] || [[Encarnación, Paraguay|Encarnacion]], [[Paraguay]] || [[UTC−04:00]] || Oct-Mar
+|-
+|    ENS || EHTW || [[Enschede Airport Twente]] || [[Enschede]], [[Netherlands]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    ENT || PKMA || [[Enewetak Auxiliary Airfield]] || [[Enewetak]], [[Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    ENU || DNEN || [[Enugu Airport]] || [[Enugu]], [[Nigeria]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    ENV || KENV || [[Wendover Airport]] || [[Wendover, Utah]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    ENW || KENW || [[Kenosha Regional Airport]] || [[Kenosha, Wisconsin]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ENY || ZLYA || [[Yan'an Ershilibao Airport]] || [[Yan'an]], [[Shaanxi]], [[China]] || [[Time in China|UTC+08:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EO&quot;/&gt;-EO-
+&lt;!-- EOD is FAA code (not IATA) for Sabre Army Heliport in Fort Campbell, Kentucky --&gt;
+&lt;!-- EOE is FAA code (not IATA) for Newberry County Airport in Newberry, South Carolina --&gt;
+|-
+|    EOH || SKMD || [[Olaya Herrera Airport]] || [[Medellín]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    EOI || EGED || [[Eday Airport]] || [[Eday]], [[Scotland]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    EOK || KEOK || [[Keokuk Municipal Airport]] || [[Keokuk, Iowa]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- EOP is FAA code (not IATA) for Pike County Airport in Waverly, Ohio, USA --&gt;
+|-
+|    EOR || SVED || [[El Dorado Airport (Venezuela)|El Dorado Airport]] || [[El Dorado, Venezuela|El Dorado]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+|    EOS || KEOS || [[Neosho Hugh Robinson Airport]] || [[Neosho, Missouri]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    EOZ || SVEZ || [[Elorza Airport]] || [[Elorza]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EP&quot;/&gt;-EP-
+&lt;!-- EPA is not IATA for El Palomar Airport in 	El Palomar, Argentina --&gt;
+|-
+|    EPG ||      || [[Browns Airport]] (FAA: NE69) || [[Weeping Water, Nebraska]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    EPH || KEPH || [[Ephrata Municipal Airport]] || [[Ephrata, Washington]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    EPI ||      || [[Épi Island Airport]] || [[Épi Island]], [[Shéfa]], [[Vanuatu]] || [[UTC+11:00]] ||
+|-
+|    EPK ||      || [[Episkopi Airport]] || [[Episkopi Cantonment|Episkopi]], [[Cyprus]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    EPL || LFSG || [[Épinal - Mirecourt Airport]] || [[Juvaincourt]], [[Vosges (department)|Vosges]], [[France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- EPM is FAA code (not IATA) for Eastport Municipal Airport in Eastport, Maine --&gt;
+|-
+|    EPN ||      || [[Epéna Airport]] || [[Epéna]], [[Republic of Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    EPR || YESP || [[Esperance Airport]] || [[Esperance, Western Australia|Esperance]], [[Australia]] || [[Australian Time|UTC+08:00]] ||
+|-
+|    EPS || MDAB || [[Arroyo Barril International Airport]] || [[Samaná (city)|Samaná]], [[Dominican Republic]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    EPT || AYEL || [[Eliptamin Airport]] || [[Eliptamin]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    EPU || EEPU || [[Pärnu Airport]] || [[Pärnu]], [[Estonia]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EQ&quot;/&gt;-EQ-
+&lt;!-- EQA is FAA code (IATA: EDK) for Captain Jack Thomas/El Dorado Airport in El Dorado, Kansas --&gt;
+|-
+|    EQS || SAVE || [[Esquel Airport]] || [[Esquel]], [[Chubut Province]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+&lt;!-- EQY is FAA code (not IATA) for Monroe Regional Airport in Monroe, North Carolina --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;ER&quot;/&gt;-ER-
+|-
+|    ERA || HCMU || [[Erigavo Airport]] || [[Erigavo]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    ERB || YERN || [[Pukatja Airport]] (Ernabella Airport) || [[Pukatja, South Australia]], [[Australia]] || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+|    ERC || LTCD || [[Erzincan Airport]] || [[Erzincan]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    ERD || UKDB || [[Berdyansk Airport]] || [[Berdyansk]], [[Ukraine]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    ERE || AYEV || [[Erave Airport]] || [[Erave]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    ERF || EDDE || [[Erfurt Airport]] || [[Erfurt]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    ERG || UIKE || [[Erbogachen Airport]] || [[Yerbogachen]], [[Katangsky District]], [[Irkutsk Oblast]], [[Russia]] || [[Irkutsk Time|UTC+08:00]] ||
+|-
+|    ERH || GMFK || [[Moulay Ali Cherif Airport]] || [[Er-Rachidia]] (Errachidia), [[Morocco]] || [[Western European Time|UTC±00:00]] || Mar-Oct*
+|-
+|    ERI || KERI || [[Erie International Airport]] (Tom Ridge Field) || [[Erie, Pennsylvania]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ERL || ZBER || [[Erenhot Saiwusu International Airport]] || [[Erenhot]], [[Inner Mongolia]], [[China]] || [[Time in China|UTC+08:00]] ||
+|-
+|    ERM || SSER || [[Erechim Airport]] || [[Erechim]], [[Rio Grande do Sul]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    ERN || SWEI || [[Eirunepe Airport]] || [[Eirunepe]], [[Amazonas (Brazilian state)|Amazonas]], [[Brazil]] || [[Time in Brazil|UTC−05:00]] ||
+|-
+|    ERQ || YESE || [[Elrose Airport]] || [[Eloise Copper Mine]], [[Queensland]], [[Australia]] || [[Australian Time|UTC+10:00]] ||
+|-
+|    ERR || KERR || [[Errol Airport]] || [[Errol, New Hampshire]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ERS || FYWE || [[Eros Airport]] || [[Windhoek]], [[Namibia]] || [[West Africa Time|UTC+01:00]] || Sep-Apr
+|-
+|    ERT ||      || [[Erdenet Airport]] || [[Erdenet]], [[Mongolia]] || [[Time in Mongolia|UTC+08:00]] ||
+|-
+|    ERU || AYER || [[Erume Airport]] || [[Erume]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    ERV || KERV || [[Kerrville Municipal Airport]] (Louis Schreiner Field) || [[Kerrville, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- ERY is FAA code (not IATA) for Luce County Airport in Newberry, Michigan --&gt;
+|-
+|    ERZ || LTCE || [[Erzurum Airport]] || [[Erzurum]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;ES&quot;/&gt;-ES-
+|-
+|    ESA ||      || [[Esa'ala Airport]] || [[Esa'ala]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    ESB || LTAC || [[Esenboğa International Airport]] || [[Ankara]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    ESC || KESC || [[Delta County Airport]] || [[Escanaba, Michigan]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ESD || KORS || [[Orcas Island Airport]] (FAA: ORS) || [[Eastsound, Washington]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    ESE || MMES || [[Ensenada Airport]] || [[Ensenada, Baja California]], [[Mexico]] || [[Pacific Time Zone|UTC−08:00]] || Apr-Oct
+|-
+|    ESF || KESF || [[Esler Regional Airport]] || [[Alexandria, Louisiana]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ESG || SGME || [[Dr. Luis Maria Argaña International Airport]] || [[Mariscal Estigarribia]], [[Paraguay]] || [[UTC−04:00]] || Oct-Mar
+|-
+|    ESH || EGKA || [[Shoreham Airport]] || [[Lancing, West Sussex]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    ESI ||      || [[Espinosa Airport]] || [[Espinosa, Minas Gerais|Espinosa]], [[Minas Gerais]], [[Brazil]] || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    ESK || LTBI || [[Eskişehir Airport]] || [[Eskişehir]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    ESL || URWI || [[Elista Airport]] || [[Elista]], [[Kalmykia]], [[Russia]] || [[Moscow Time|UTC+03:00]] ||
+|-
+|    ESM || SETN || [[General Rivadeneira Airport]] || [[Esmeraldas, Ecuador|Esmeraldas]], [[Ecuador]] || [[Time in Ecuador|UTC−05:00]] ||
+|-
+|    ESN || KESN || [[Easton/Newnam Field]] || [[Easton, Maryland]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ESO ||      || [[Ohkay Owingeh Airport]] (FAA: E14) || [[Española, New Mexico]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    ESP ||      || [[Stroudsburg-Pocono Airport]] (FAA: N53) || [[East Stroudsburg, Pennsylvania]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    ESR || SCES || [[El Salvador Bajo Airport]] || [[El Salvador]], [[Chile]] || [[Time in Chile|UTC−03:00]] ||
+|-
+|    ESS || EDLE || [[Essen/Mülheim Airport]] || [[Essen]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    EST || KEST || [[Estherville Municipal Airport]] || [[Estherville, Iowa]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ESU || GMMI || [[Essaouira Airport]] || [[Essaouira]], [[Morocco]] || [[Western European Time|UTC±00:00]] || Mar-Oct*
+|-
+|    ESW || KESW || [[Easton State Airport]] || [[Easton, Washington]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;ET&quot;/&gt;-ET-
+|-
+|    ETB || KETB || [[West Bend Municipal Airport]] || [[West Bend, Wisconsin]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- ETC is FAA code (not IATA) for Tarboro-Edgecombe Airport in Tarboro, North Carolina --&gt;
+|-
+|    ETD || YEDA || [[Etadunna Airport]] || [[Etadunna]], [[South Australia]], [[Australia]] || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+|    ETE || HAMM || [[Genda Wuha Airport]] || [[Genda Wuha]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    ETH || LLET || [[Eilat Airport|J. Hozman Airport]] || [[Eilat]], [[Israel]] || [[Israel Standard Time|UTC+02:00]] || Mar-Oct
+|-
+|    ETN || KETN || [[Eastland Municipal Airport]] || [[Eastland, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ETR || SERO || [[Santa Rosa Airport (Ecuador)|Santa Rosa Airport]] || [[Santa Rosa, El Oro]], [[Ecuador]] || [[Time in Ecuador|UTC−05:00]] ||
+|-
+|    ETS || KEDN || [[Enterprise Municipal Airport (Alabama)|Enterprise Municipal Airport]] (FAA: EDN) || [[Enterprise, Alabama]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    ETZ || LFJL || [[Metz-Nancy-Lorraine Airport]] || [[Lorraine (region)|Lorraine]], [[France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EU&quot;/&gt;-EU-
+|-
+|    EUA || NFTE || [[Kaufana Airport]] || [[Eua]], [[Tonga]] || [[UTC+13:00]] ||
+|-
+|    EUC || YECL || [[Eucla Airport]] || [[Eucla, Western Australia]], [[Australia]] || [[Australian Time|UTC+08:00]] ||
+|-
+|    EUE ||      || [[Eureka Airport (Nevada)|Eureka Airport]] (FAA: 05U) || [[Eureka, Nevada]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    EUF || KEUF || [[Weedon Field]] || [[Eufaula, Alabama]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    EUG || KEUG || [[Mahlon Sweet Airport|Eugene Airport / Mahlon Sweet Field]] || [[Eugene, Oregon]], [[United States]] || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+&lt;!-- EUL is FAA code (not IATA) for Caldwell Industrial Airport in Caldwell, Idaho --&gt;
+|-
+|    EUM || EDHN || [[Wasbek Airport]] || [[Neumünster]], [[Schleswig-Holstein]], [[Germany]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    EUN || GMML || [[Hassan I Airport]] || [[El Aaiún]] (Laayoune), [[Morocco]] || [[Western European Time|UTC±00:00]] || Mar-Oct*
+|-
+|    EUQ || RPVS || [[Evelio Javier Airport|Evelio Javier (Antique) Airport]] || [[San Jose de Buenavista]], [[Antique (province)|Antique]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    EUX || TNCE || [[F.D. Roosevelt Airport]] || [[Sint Eustatius]], [[Caribbean Netherlands]] || [[Atlantic Time Zone|UTC−04:00]] ||
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EV&quot;/&gt;-EV-
+|-
+|    EVA ||      || [[Ben Bruce Memorial Airpark]] (FAA: 4TE8) || [[Evadale, Texas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- EVB is FAA code (not IATA) for New Smyrna Beach Municipal Airport in New Smyrna Beach, Florida --&gt;
+|-
+|    EVD ||      || [[Eva Downs Airport]] || [[Eva Downs]], [[Northern Territory]], [[Australia]] || [[Australian Time|UTC+09:30]] ||
+|-
+|    EVE || ENEV || [[Harstad/Narvik Airport, Evenes]] || [[Evenes]], [[Norway]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    EVG || ESND || [[Sveg Airport]] || [[Sveg]], [[Sweden]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    EVH || YEVD || [[Evans Head Memorial Aerodrome]] || [[Evans Head, New South Wales]], [[Australia]] || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    EVM || KEVM || [[Eveleth-Virginia Municipal Airport]] || [[Eveleth, Minnesota]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    EVN || UDYZ || [[Zvartnots International Airport]] || [[Yerevan]], [[Armenia]] || [[Armenia Time|UTC+04:00]] ||
+&lt;!-- EVU is FAA code (not IATA) for Northwest Missouri Regional Airport in Maryville, Missouri --&gt;
+|-
+|    EVV || KEVV || [[Evansville Regional Airport]] || [[Evansville, Indiana]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    EVW || KEVW || [[Evanston-Uinta County Burns Field]] || [[Evanston, Wyoming]], [[United States]] || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    EVX || LFOE || [[Évreux-Fauville Air Base]] || [[Évreux]] / [[Fauville]], [[France]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- EVY is FAA code (not IATA) for Summit Airport in Middletown, Delaware, USA --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EW&quot;/&gt;-EW-
+|-
+|    EWB || KEWB || [[New Bedford Regional Airport]] || [[New Bedford, Massachusetts]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    EWE ||      || [[Ewer Airport]] || [[Ewer, Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    EWI || WABT || [[Enarotali Airport]] || [[Enarotali]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    EWK || KEWK || [[Newton City/County Airport]] || [[Newton, Kansas]], [[United States]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    EWN || KEWN || [[Craven County Regional Airport]] || [[New Bern, North Carolina]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    EWO || FCOE || [[Ewo Airport]] || [[Ewo]], [[Republic of Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    EWR || KEWR || [[Newark Liberty International Airport]] || [[Newark, New Jersey|Newark]], [[New Jersey]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- EWU is FAA code (IATA: WWT) for Newtok Airport in Newtok, Alaska, USA --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EX&quot;/&gt;-EX-
+|-
+|    EXI ||      || [[Excursion Inlet Seaplane Base]] || [[Excursion Inlet, Alaska]], [[United States]] || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    EXM || YEXM || [[Exmouth Airport]] || [[Exmouth]], [[Western Australia]], [[Australia]] || [[Australian Time|UTC+08:00]] ||
+|-
+|    EXT || EGTE || [[Exeter International Airport]] || [[Exeter]], [[United Kingdom]] || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+&lt;!-- EXX is the FAA code (IATA: ) for Davidson County Airport in Lexington, North Carolina, USA --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EY&quot;/&gt;-EY-
+&lt;!-- EYE is FAA code (not IATA) for Eagle Creek Airpark in Indianapolis, Indiana, USA --&gt;
+&lt;!-- EYF is FAA code (not IATA) for Curtis L. Brown Jr. Field in Elizabethtown, North Carolina --&gt;
+|-
+|    EYK || USHQ || [[Beloyarsk Airport]] || [[Khanty-Mansi Autonomous Okrug]], [[Russia]] || [[Yekaterinburg Time|UTC+05:00]] ||
+|-
+|    EYL || GAYE || [[Yélimané Airport]] || [[Yélimané]], [[Mali]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    EYP || SKYP || [[El Alcaraván Airport]] || [[Yopal]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+&lt;!-- EYQ is FAA code (not IATA) for Weiser Air Park in Houston, Texas, USA --&gt;
+|-
+|    EYS || HKES || [[Eliye Springs Airport]] || [[Eliye Springs]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    EYW || KEYW || [[Key West International Airport]] || [[Key West, Florida]], [[United States]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;EZ&quot;/&gt;-EZ-
+|-
+|    EZE || SAEZ || [[Ministro Pistarini International Airport]] || [[Ezeiza, Buenos Aires|Ezeiza]] (near [[Buenos Aires]]), [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+&lt;!-- EZF is FAA code (not IATA) for Shannon Airport in Fredericksburg, Virginia, USA --&gt;
+&lt;!-- EZI is FAA code (not IATA) for Kewanee Municipal Airport in Kewanee, Illinois, USA --&gt;
+&lt;!-- EZM is FAA code (not IATA) for Heart of Georgia Regional Airport in Eastman, Georgia, USA --&gt;
+|-
+|    EZS || LTCA || [[Elazığ Airport]] || [[Elazığ]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+&lt;!-- EZZ is FAA code (not IATA) for Cameron Memorial Airport in Cameron, Missouri, USA --&gt;
+
+|}
+∗ Morocco temporarily suspends DST for the month of Ramadan.
+
+==References==
+{{reflist}}
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = [[PDF]] | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|E]]</text>
+      <sha1>2l3worfuefr908ugsoapp07pn484mi7</sha1>
+    </revision>
+  </page>
+</mediawiki>

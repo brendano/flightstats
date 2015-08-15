@@ -1,0 +1,1386 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: M</title>
+    <ns>0</ns>
+    <id>317112</id>
+    <revision>
+      <id>643848113</id>
+      <parentid>643847687</parentid>
+      <timestamp>2015-01-23T18:05:36Z</timestamp>
+      <contributor>
+        <username>Middayexpress</username>
+        <id>7310206</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="65835">{{Lists of airports by IATA code}}
+
+==M==
+{{AlphanumericTOC|prefixLink=M|prefixDesc=M|numbers=|sections=}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MA&quot;/&gt;-MA-
+|-
+|    MAA || VOMM || [[Chennai International Airport]] (Madras International Airport) || [[Chennai]] (Madras), [[India]]
+|-
+|    MAB || SBMA || [[Marabá Airport]] || [[Marabá]], [[Pará]], [[Brazil]]
+|-
+|    MAC || KMAC || [[Macon Downtown Airport]] || [[Macon, Georgia]], [[United States]]
+|-
+|    MAD || LEMD || [[Madrid–Barajas Airport]] || [[Madrid]], [[Spain]]
+|-
+|    MAE || KMAE || [[Madera Municipal Airport]] || [[Madera, California]], [[United States]]
+|-
+|    MAF || KMAF || [[Midland International Airport]] || [[Midland, Texas]], [[United States]]
+|-
+|    MAG || AYMD || [[Madang Airport]] || [[Madang]], [[Papua New Guinea]]
+|-
+|    MAH || LEMH || [[Menorca Airport|Mahon Airport]] || [[Menorca]], [[Spain]]
+|-
+|    MAI || FWMG || [[Mangochi Airport]] || [[Mangochi]], [[Malawi]]
+|-
+|    MAJ || PKMJ || [[Marshall Islands International Airport]] (Amata Kabua Int'l) || [[Majuro]], [[Marshall Islands]]
+|-
+|    MAK || HSSM || [[Malakal Airport]] || [[Malakal]], [[South Sudan]]
+|-
+|    MAL || WAPE || [[Mangole Island Airport]] || [[Mangole Island]], [[Maluku Islands]], [[Indonesia]]
+&lt;!-- MAL is FAA code (not IATA) for Malone-Dufort Airport in Malone, New York, United States --&gt;
+|-
+|    MAM || MMMA || [[General Servando Canales International Airport]] || [[Matamoros, Tamaulipas]], [[Mexico]]
+|-
+|    MAN || EGCC || [[Manchester Airport]] || [[Manchester]], [[United Kingdom]]
+|-
+|    MAO || SBEG || [[Eduardo Gomes International Airport]] || [[Manaus]], [[Amazonas (Brazilian state)|Amazonas]], [[Brazil]]
+|-
+|    MAP ||      || [[Mamai Airport]] || [[Mamai, Papua New Guinea|Mamai]], [[Papua New Guinea]]
+|-
+|    MAQ || VTPM || [[Mae Sot Airport]] || [[Mae Sot]], [[Tak Province]], [[Thailand]]
+|-
+|    MAR || SVMC || [[La Chinita International Airport]] || [[Maracaibo]], [[Venezuela]]
+|-
+|    MAS || AYMO || [[Momote Airport]] || [[Los Negros Island]], [[Admiralty Islands]], [[Papua New Guinea]]
+|-
+|    MAT || FZAM || [[Tshimpi Airport]] (Matadi Airport) || [[Matadi]], [[Democratic Republic of the Congo]]
+|-
+|    MAU || NTTP || [[Maupiti Airport]] || [[Maupiti]], [[Leeward Islands (Society Islands)|Leeward Islands]], [[French Polynesia]]
+|-
+|    MAV ||      || [[Maloelap Airport]] (FAA: 3N1) || [[Taroa Island]], [[Maloelap Atoll]], [[Marshall Islands]]
+|-
+|    MAW || KMAW || [[Malden Regional Airport]] || [[Malden, Missouri]], [[United States]]
+|-
+|    MAX || GOSM || [[Ouro Sogui Airport]] || [[Matam, Senegal|Matam]], [[Senegal]]
+|-
+|    MAY || MYAB || [[Clarence A. Bain Airport]] || [[Andros, Bahamas]]
+|-
+|    MAZ || TJMZ || [[Eugenio Maria de Hostos Airport]] || [[Mayagüez]], [[Puerto Rico]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MB&quot;/&gt;-MB-
+|-
+|-   MAB || LLVX ||   [[Marlboro Airport]]        ||            [[Marlborough, Massachusetts|Marlboro, Massachusetts]], [[Untied States]]
+|-
+|    MBA || HKMO || [[Moi International Airport]] || [[Mombasa]], [[Kenya]]
+|-
+|    MBB || YMBL || [[Marble Bar Airport]] || [[Marble Bar, Western Australia]], [[Australia]]
+|-
+|    MBC || FOGG || [[Mbigou Airport]] || [[Mbigou]], [[Gabon]]
+|-
+|    MBD || FAMM || [[Mafikeng International Airport]] || [[Mmabatho]], [[South Africa]]
+|-
+|    MBE || RJEB || [[Monbetsu Airport]] || [[Monbetsu, Hokkaidō]], [[Japan]]
+|-
+|    MBF ||      || [[Mount Buffalo Airport]] || [[Mount Buffalo]], [[Victoria (Australia)|Victoria]], [[Australia]]
+|-
+|    MBG || KMBG || [[Mobridge Municipal Airport]] || [[Mobridge, South Dakota]], [[United States]]
+|-
+|    MBH || YMYB || [[Maryborough Airport (Queensland)|Maryborough Airport]] || [[Maryborough, Queensland]], [[Australia]]
+|-
+|    MBI || HTMB || [[Mbeya Airport]] || [[Mbeya]], [[Tanzania]]
+|-
+|    MBJ || MKJS || [[Sangster International Airport]] || [[Montego Bay]], [[Jamaica]]
+|-
+|    MBK ||      || [[Matupá Airport]] || [[Matupá]], [[Mato Grosso]], [[Brazil]]
+|-
+|    MBL || KMBL || [[Manistee County-Blacker Airport]] || [[Manistee, Michigan]], [[United States]]
+|-
+|    MBN ||      || [[Mount Barnett Airport]] || [[Mount Barnett]], [[Western Australia]], [[Australia]]
+|-
+|    MBO || RPUM || [[Mamburao Airport]] || [[Mamburao]], [[Occidental Mindoro]], [[Philippines]]
+|-
+|    MBP || SPBB || [[Moyobamba Airport]] || [[Moyobamba]], [[Peru]]
+|-
+|    MBQ || HUMA || [[Mbarara Airport]] || [[Mbarara]], [[Uganda]]
+|-
+|    MBR || GQNU || [[Mbout Airport]] || [[Mbout]], [[Mauritania]]
+|-
+|    MBS || KMBS || [[MBS International Airport]] || [[Midland, Michigan|Midland]]/[[Bay City, Michigan|Bay City]]/[[Saginaw, Michigan]], [[United States]]
+|-
+|    MBT || RPVJ || [[Moises R. Espinosa Airport]] (Masbate Airport) || [[Masbate City]], [[Masbate]], [[Philippines]]
+|-
+|    MBU || AGGD || [[Mbambanakira Airport]] || [[Mbambanakira]], [[Solomon Islands]]
+|-
+|    MBV ||      || [[Masa Airport]] || [[Masa, Papua New Guinea|Masa]], [[Papua New Guinea]]
+|-
+|    MBW || YMMB || [[Moorabbin Airport]] || [[Moorabbin, Victoria]], [[Australia]]
+|-
+|    MBX || LJMB || [[Maribor Airport]] || [[Maribor]], [[Slovenia]]
+|-
+|    MBY || KMBY || [[Omar N. Bradley Airport]] || [[Moberly, Missouri]], [[United States]]
+|-
+|    MBZ || SWMW || [[Maués Airport]] || [[Maués]], [[Amazonas (Brazilian state)|Amazonas]], [[Brazil]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MC&quot;/&gt;-MC-
+|-
+|    MCA || GUMA || [[Macenta Airport]] || [[Macenta]], [[Guinea]]
+|-
+|    MCB || KMCB || [[McComb-Pike County Airport]] (John E. Lewis Field) || [[McComb, Mississippi]], [[United States]]
+|-
+|    MCC || KMCC || [[McClellan Airfield]] || [[Sacramento, California]], [[United States]]
+|-
+|    MCD || KMCD || [[Mackinac Island Airport]] || [[Mackinac Island, Michigan]], [[United States]]
+|-
+|    MCE || KMCE || [[Merced Municipal Airport]] (Macready Field) || [[Merced, California]], [[United States]]
+|-
+|    MCF || KMCF || [[MacDill Air Force Base]] || [[Tampa, Florida]], [[United States]]
+|-
+|    MCG || PAMC || [[McGrath Airport]] || [[McGrath, Alaska]], [[United States]]
+|-
+|    MCH || SEMH || [[General Serrano Airport]] ([[Machala Airport]]) || [[Machala]], [[Ecuador]]
+|-
+|    MCI || KMCI || [[Kansas City International Airport]] || [[Kansas City, Missouri]], [[United States]]
+|-
+|    MCJ || SKLM || [[Jorge Isaacs Airport]] (La Mina Airport) || [[Maicao]], [[La Guajira Department|La Guajira]], [[Colombia]]
+|-
+|    MCK || KMCK || [[McCook Regional Airport]] || [[McCook, Nebraska]], [[United States]]
+|-
+|    MCL || PAIN || [[McKinley National Park Airport]] (FAA: INR) || [[McKinley Park, Alaska]], [[United States]]
+|-
+|    MCM || LNMC || [[Monaco Heliport]] || [[Fontvieille, Monaco|Fontvieille]], [[Monaco]]
+|-
+|    MCN || KMCN || [[Middle Georgia Regional Airport]] || [[Macon, Georgia]], [[United States]]
+|-
+|    MCO || KMCO || [[Orlando International Airport]] || [[Orlando, Florida]], [[United States]]
+|-
+|    MCP || SBMQ || [[Macapá International Airport]] || [[Macapá]], [[Amapá]], [[Brazil]]
+|-
+|    MCQ || LHMC || [[Miskolc Airport]] || [[Miskolc]], [[Hungary]]
+|-
+|    MCR || MGMM || [[Melchor de Mencos Airport]] || [[Melchor de Mencos]], [[El Petén]], [[Guatemala]]
+|-
+|    MCS || SARM || [[Monte Caseros Airport]] || [[Monte Caseros, Corrientes]], [[Argentina]]
+|-
+|    MCT || OOMS || [[Muscat International Airport]] (formerly Seeb Airport) || [[Muscat, Oman|Muscat]], [[Oman]]
+|-
+|    MCU || LFBK || [[Montluçon - Guéret Airport]] || [[Montluçon]], [[France]]
+|-
+|    MCV || YMHU || [[McArthur River Airport (Australia)|McArthur River Airport]] || [[McArthur River]], [[Northern Territory]], [[Australia]]
+|-
+|    MCW || KMCW || [[Mason City Municipal Airport]] || [[Mason City, Iowa]], [[United States]]
+|-
+|    MCX || URML || [[Uytash Airport]] || [[Makhachkala]], [[Dagestan]], [[Russia]]
+|-
+|    MCY || YBSU || [[Sunshine Coast Airport]] || [[Marcoola, Queensland|Marcoola]], [[Queensland]], [[Australia]]
+|-
+|    MCZ || SBMO || [[Zumbi dos Palmares Airport]] || [[Maceió]], [[Brazil]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MD&quot;/&gt;-MD-
+|-
+|    MDA || KMDA || [[Martindale Army Heliport]] (former Martindale AAF) || [[San Antonio, Texas]], [[United States]]
+|-
+|    MDB ||      || [[Melinda Airport]] || [[Melinda, Belize|Melinda]], [[Belize]]
+|-
+|    MDC || WAMM || [[Sam Ratulangi International Airport]] || [[Manado]], [[Indonesia]]
+|-
+|    MDD || KMDD || [[Midland Airpark]] || [[Midland, Texas]], [[United States]]
+|-
+|    MDE || SKRG || [[José María Córdova International Airport]] || [[Medellín]], [[Colombia]]
+|-
+|    MDF || KMDZ || [[Taylor County Airport (Wisconsin)|Taylor County Airport]] || [[Medford, Wisconsin]], [[United States]]
+|-
+|    MDG || ZYMD || [[Mudanjiang Airport]] || [[Mudanjiang]], [[Heilongjiang]], [[China]]
+|-
+|    MDH || KMDH || [[Southern Illinois Airport]] || [[Carbondale, Illinois|Carbondale]]/[[Murphysboro, Illinois]], [[United States]]
+|-
+|    MDI || DNMK || [[Makurdi Airport]] || [[Makurdi]], [[Benue State]], [[Nigeria]]
+|-
+|    MDJ ||      || [[Madras Municipal Airport]] (FAA: S33) || [[Madras, Oregon]], [[United States]]
+|-
+|    MDK || FZEA || [[Mbandaka Airport]] || [[Mbandaka]], [[Democratic Republic of the Congo]]
+|-
+|    MDL || VYMD || [[Mandalay International Airport]] || [[Mandalay]], [[Burma|Myanmar (Burma)]]
+|-
+|    MDM ||      || [[Munduku Airport]] || [[Munduku]], [[Papua New Guinea]]
+&lt;!-- MDM is FAA code (IATA: MLL, ICAO: PADM) for Marshall Don Hunter Sr. Airport in Marshall, Alaska, United States --&gt;
+|-
+|    MDN || KIMS || [[Madison Municipal Airport (Indiana)|Madison Municipal Airport]] || [[Madison, Indiana]], [[United States]]
+|-
+|    MDO || PAMD || [[Middleton Island Airport]] || [[Middleton Island, Alaska]], [[United States]]
+|-
+|    MDP || WAKD || [[Mindiptana Airport]] || [[Mindiptana]], [[Indonesia]]
+|-
+|    MDQ || SAZM || [[Astor Piazzolla International Airport]] || [[Mar del Plata]], [[Buenos Aires Province]], [[Argentina]]
+|-
+|    MDS || MBMC || [[Middle Caicos Airport]] || [[Middle Caicos]], [[Turks and Caicos Islands]]
+|-
+|    MDT || KMDT || [[Harrisburg International Airport]] || [[Harrisburg, Pennsylvania]], [[United States]]
+|-
+|    MDU || AYMN || [[Mendi Airport]] || [[Mendi]], [[Papua New Guinea]]
+|-
+|    MDV ||      || [[Médouneu Airport]] || [[Médouneu]], [[Gabon]]
+|-
+|    MDW || KMDW || [[Midway International Airport]] || [[Chicago, Illinois]], [[United States]]
+|-
+|    MDX || SATM || [[Mercedes Airport]] || [[Mercedes, Corrientes]], [[Argentina]]
+|-
+|    MDY || PMDY || [[Henderson Field (Midway Atoll)|Henderson Field]] || [[Sand Island (Midway Atoll)|Sand Island]], [[Midway Atoll]], [[United States]]
+|-
+|    MDZ || SAME || [[Governor Francisco Gabrielli International Airport|Gov. Francisco Gabrielli International Airport]] (El Plumerillo) || [[Mendoza, Argentina|Mendoza]], [[Mendoza Province]], [[Argentina]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;ME&quot;/&gt;-ME-
+|-
+|    MEA || SBME || [[Macaé Airport]] || [[Macaé]], [[Rio de Janeiro (state)|Rio de Janeiro]], [[Brazil]]
+|-
+|    MEB || YMEN || [[Essendon Airport]] || [[Melbourne, Victoria]], [[Australia]]
+&lt;!-- MEB is FAA code (IATA: MXE) for Laurinburg-Maxton Airport in Maxton, North Carolina, United States --&gt;
+|-
+|    MEC || SEMT || [[Manta Air Base|Eloy Alfaro International Airport]] || [[Manta, Ecuador|Manta]], [[Manabí Province|Manabí]], [[Ecuador]]
+|-
+|    MED || OEMA || [[Prince Mohammad Bin Abdulaziz Airport]] || [[Medina]], [[Saudi Arabia]]
+|-
+|    MEE || NWWR || [[Maré Airport]] || [[Maré]], [[Loyalty Islands]], [[New Caledonia]]
+|-
+|    MEF ||      || [[Melfi Airport]] || [[Melfi]], [[Chad]]
+|-
+|    MEG || FNMA || [[Malange Airport]] || [[Malange]], [[Angola]]
+|-
+|    MEH || ENMH || [[Mehamn Airport]] || [[Mehamn]], [[Norway]]
+|-
+|    MEI || KMEI || [[Key Field]] || [[Meridian, Mississippi]], [[United States]]
+|-
+|    MEJ || KGKJ || [[Port Meadville Airport]] (FAA: GKJ) || [[Meadville, Pennsylvania]], [[United States]]
+&lt;!-- MEJ is FAA code (not IATA) for Meade Municipal Airport in Meade, Kansas, United States --&gt;
+|-
+|    MEL || YMML || [[Melbourne Airport]] || [[Melbourne]], [[Victoria (Australia)|Victoria]], [[Australia]]
+|-
+|    MEM || KMEM || [[Memphis International Airport]] || [[Memphis, Tennessee]], [[United States]]
+|-
+|    MEN || LFNB || [[Brenoux Airport]] || [[Mende, Lozère|Mende]], [[France]]
+|-
+|    MEO || KMQI || [[Dare County Regional Airport]] (FAA: MQI) || [[Manteo, North Carolina]], [[United States]]
+|-
+|    MEP || WMAU || [[Mersing Airport]] || [[Johor]], [[Malaysia]]
+|-
+|    MEQ || WITC || [[Cut Nyak Dhien Airport]] || [[Meulaboh]], [[Indonesia]]
+|-
+|    MER || KMER || [[Castle Airport]] || [[Atwater, California]], [[United States]]
+|-
+|    MES || WIMM || [[Polonia International Airport]] || [[Medan]], [[Indonesia]]
+|-
+|    MET || YMOT || [[Moreton Airport]] || [[Moreton, Queensland|Moreton]], [[Queensland]], [[Australia]]
+|-
+|    MEU || SBMD || [[Monte Dourado Airport]] || [[Almeirim, Pará]], [[Brazil]]
+|-
+|    MEV || KMEV || [[Minden-Tahoe Airport]] || [[Minden, Nevada]], [[United States]]
+|-
+|    MEW || FZVM || [[Mweka Airport]] || [[Mweka, Democratic Republic of the Congo|Mweka]], [[Democratic Republic of the Congo]]
+|-
+|    MEX || MMMX || [[Mexico City International Airport]] || [[Mexico City]], [[Mexico]]
+|-
+|    MEY || VNMG || [[Meghauli Airport]] || [[Meghauli]], [[Nepal]]
+|-
+|    MEZ || FAMS || [[Messina Airport]] || [[Messina, South Africa|Messina]], [[South Africa]]
+&lt;!-- MEZ is FAA code (not IATA) for Mena Intermountain Municipal Airport in Mena, Arkansas, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MF&quot;/&gt;-MF-
+|-
+|    MFA || HTMA || [[Mafia Island Airport]] || [[Mafia Island]], [[Tanzania]]
+|-
+|    MFB ||      || [[Monfort Airport]] || [[Monfort, Colombia|Monfort]], [[Colombia]]
+|-
+|    MFC || FXMF || [[Mafeteng Airport]] || [[Mafeteng]], [[Lesotho]]
+|-
+|    MFD || KMFD || [[Mansfield Lahm Regional Airport]] || [[Mansfield, Ohio]], [[United States]]
+|-
+|    MFE || KMFE || [[McAllen-Miller International Airport]] || [[McAllen, Texas]], [[United States]]
+|-
+|    MFF || FOOD || [[Moanda Airport]] || [[Moanda]], [[Gabon]]
+|-
+|    MFG || OPMF || [[Muzaffarabad Airport]] || [[Muzaffarabad]], [[Pakistan]]
+|-
+|    MFH ||      || [[Mesquite Airport]] (FAA: 67L) || [[Mesquite, Nevada]], [[United States]]
+|-
+|    MFI || KMFI || [[Marshfield Municipal Airport (Wisconsin)|Marshfield Municipal Airport]] || [[Marshfield, Wisconsin]], [[United States]]
+|-
+|    MFJ || NFMO || [[Moala Airport]] || [[Moala Island|Moala]], [[Moala Islands]], [[Fiji]]
+|-
+|    MFM || VMMC || [[Macau International Airport]] || [[Taipa]], [[Macau]]
+|-
+|    MFN || NZMF || [[Milford Sound Airport]] || [[Milford Sound]], [[New Zealand]]
+|-
+|    MFO ||      || [[Manguna Airport]] || [[Manguna]], [[Papua New Guinea]]
+|-
+|    MFQ || DRRM || [[Maradi Airport]] || [[Maradi, Niger|Maradi]], [[Niger]]
+|-
+|    MFR || KMFR || [[Rogue Valley International-Medford Airport]] || [[Medford, Oregon]], [[United States]]
+|-
+|    MFS || SKMF || [[Miraflores Airport]] || [[Miraflores, Guaviare]], [[Colombia]]
+|-
+|    MFU || FLMF || [[Mfuwe Airport]] || [[Mfuwe]], [[Eastern Province, Zambia|Eastern Province]], [[Zambia]]
+|-
+|    MFV || KMFV || [[Accomack County Airport]] || [[Melfa, Virginia]], [[United States]]
+|-
+|    MFW ||      || [[Magaruque Airport]] || [[Magaruque Island]], [[Mozambique]]
+|-
+|    MFX || LFKX || [[Meribel Airport]] || [[Meribel]], [[France]]
+|-
+|    MFY ||      || [[Mayfa'ah Airport]] || [[Mayfa'ah]], [[Yemen]]
+|-
+|    MFZ ||      || [[Mesalia Airport]] || [[Mesalia]], [[Papua New Guinea]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MG&quot;/&gt;-MG-
+|-
+|    MGA || MNMG || [[Augusto C. Sandino International Airport]] || [[Managua]], [[Nicaragua]]
+|-
+|    MGB || YMTG || [[Mount Gambier Airport]] || [[Mount Gambier, South Australia|Mount Gambier]], [[Australia]]
+|-
+|    MGC || KMGC || [[Michigan City Municipal Airport]] || [[Michigan City, Indiana]], [[United States]]
+|-
+|    MGD || SLMG || [[Magdalena Airport]] || [[Magdalena, Bolivia|Magdalena]], [[Bolivia]]
+|-
+|    MGE || KMGE || [[Dobbins Air Reserve Base]] ([[NAS Atlanta]]) || [[Marietta, Georgia]], [[United States]]
+|-
+|    MGF || SBMG || [[Maringá - Sílvio Name Júnior Regional Airport]] || [[Maringá]], [[Paraná (state)|Paraná]], [[Brazil]]
+|-
+|    MGG ||      || [[Margarima Airport]] || [[Margarima]], [[Papua New Guinea]]
+|-
+|    MGH || FAMG || [[Margate Airport]] || [[Margate, KwaZulu-Natal]], [[South Africa]]
+|-
+|    MGJ || KMGJ || [[Orange County Airport (New York)|Orange County Airport]] || [[Montgomery (town), New York|Montgomery, New York]], [[United States]]
+|-
+|    MGK || VYMT || [[Mong Tong Airport]] || [[Mong Tong]], [[Burma|Myanmar (Burma)]]
+|-
+|    MGL || EDLN || [[Düsseldorf-Mönchengladbach Airport]] || [[Mönchengladbach]], [[Germany]]
+|-
+|    MGM || KMGM || [[Montgomery Regional Airport]] (Dannelly Field) || [[Montgomery, Alabama]], [[United States]]
+|-
+|    MGN || SKMG || [[Baracoa Airport]] || [[Magangué]], [[Bolívar]], [[Colombia]]
+&lt;!-- MGN is FAA code (not IATA) for Harbor Springs Airport in Harbor Springs, Michigan, United States --&gt;
+|-
+|    MGP ||      || [[Manga Airport]] || [[Manga, Papua New Guinea|Manga]], [[Papua New Guinea]]
+|-
+|    MGQ || HCMM || [[Aden Adde International Airport]] || [[Mogadishu]], [[Somalia]]
+|-
+|    MGR || KMGR || [[Moultrie Municipal Airport]] || [[Moultrie, Georgia]], [[United States]]
+|-
+|    MGS || NCMG || [[Mangaia Island Airport]] || [[Mangaia Island]], [[Cook Islands]]
+|-
+|    MGT || YMGB || [[Milingimbi Airport]] || [[Milingimbi Island]], [[Northern Territory]], [[Australia]]
+|-
+|    MGV || YMGT || [[Margaret River Airport]] || [[Margaret River, Western Australia]], [[Australia]]
+|-
+|    MGW || KMGW || [[Morgantown Municipal Airport]] (Walter L. Bill Hart Field) || [[Morgantown, West Virginia]], [[United States]]
+|-
+|    MGX || FOGI || [[Moabi Airport]] || [[Moabi, Gabon|Moabi]], [[Gabon]]
+|-
+|    MGY || KMGY || [[Dayton-Wright Brothers Airport]] || [[Dayton, Ohio]], [[United States]]
+|-
+|    MGZ || VYME || [[Myeik Airport]] || [[Myeik, Burma|Myeik]], [[Burma|Myanmar (Burma)]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MH&quot;/&gt;-MH-
+|-
+|    MHA || SYMD || [[Mahdia Airport]] || [[Mahdia, Guyana|Mahdia]], [[Guyana]]
+|-
+|    MHC || SCPQ || [[Mocopulli Airport]] || [[Castro, Chile|Castro]], [[Los Lagos Region|Los Lagos]], [[Chile]]
+|-
+|    MHD || OIMM || [[Mashhad International Airport]] (Shahid Hashemi Nejad Airport) || [[Mashhad]], [[Razavi Khorasan Province]], [[Iran]]
+|-
+|    MHE || KMHE || [[Mitchell Municipal Airport]] || [[Mitchell, South Dakota]], [[United States]]
+|-
+|    MHF ||      || [[Morichal Airport]] || [[Morichal]], [[Colombia]]
+|-
+|    MHG || EDFM || [[Mannheim City Airport]] || [[Mannheim]], [[Germany]]
+|-
+|    MHH || MYAM || [[Marsh Harbour Airport]] || [[Marsh Harbour]], [[Bahamas]]
+|-
+|    MHI || HDMO || [[Moucha Airport]] || [[Moucha Island]], [[Djibouti]]
+|-
+|    MHJ ||      || [[Misrak Gashamo Airport]] || [[Misrak Gashamo]], [[Ethiopia]]
+|-
+|    MHK || KMHK || [[Manhattan Regional Airport]] || [[Manhattan, Kansas]], [[United States]]
+|-
+|    MHL || KMHL || [[Marshall Memorial Municipal Airport]] || [[Marshall, Missouri]], [[United States]]
+|-
+|    MHM || PAMH || [[Minchumina Airport]] || [[Minchumina, Alaska]], [[United States]]
+|-
+|    MHN || KMHN || [[Hooker County Airport]] || [[Mullen, Nebraska]], [[United States]]
+|-
+|    MHO || YMHO || [[Mount House Airport]] || [[Mount House Station]], [[Western Australia]], [[Australia]]
+|-
+|    MHP || UMMM || [[Minsk-1|Minsk-1 Airport]] || [[Minsk]], [[Belarus]]
+|-
+|    MHQ || EFMA || [[Mariehamn Airport]] || [[Mariehamn]], [[Åland Islands]], [[Finland]]
+|-
+|    MHR || KMHR || [[Sacramento Mather Airport]] || [[Sacramento, California]], [[United States]]
+|-
+|    MHT || KMHT || [[Manchester-Boston Regional Airport]] || [[Manchester, New Hampshire]], [[United States]]
+|-
+|    MHU || YHOT || [[Mount Hotham Airport]] || [[Mount Hotham, Victoria]], [[Australia]]
+|-
+|    MHV || KMHV || [[Mojave Airport]] || [[Mojave, California]], [[United States]]
+|-
+|    MHX || NCMH || [[Manihiki Island Airport]] || [[Manihiki Island]], [[Cook Islands]]
+|-
+|    MHY ||      || [[Morehead Airport (Papua New Guinea)|Morehead Airport]] || [[Morehead, Papua New Guinea|Morehead]], [[Papua New Guinea]]
+|-
+|    MHZ || EGUN || [[RAF Mildenhall]] || [[Mildenhall, Suffolk]], [[England]], [[United Kingdom]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MI&quot;/&gt;-MI-
+|-
+|    MIA || KMIA || [[Miami International Airport]] || [[Miami, Florida]], [[United States]]
+|-
+|    MIB || KMIB || [[Minot Air Force Base]] || [[Minot, North Dakota]], [[United States]]
+|-
+|    MIC || KMIC || [[Crystal Airport (Minnesota)|Crystal Airport]] || [[Minneapolis, Minnesota]], [[United States]]
+|-
+|    MID || MMMD || [[Manuel Crescencio Rejón International Airport]] || [[Mérida, Yucatán]], [[Mexico]]
+|-
+|    MIE || KMIE || [[Delaware County Airport]] (Johnson Field) || [[Muncie, Indiana]], [[United States]]
+|-
+|    MIF ||      || [[Roy Hurd Memorial Airport]] (FAA: E01) || [[Monahans, Texas]], [[United States]]
+|-
+|    MIG || ZUMY || [[Mianyang Nanjiao Airport]] || [[Mianyang]], [[Sichuan]], [[China]]
+|-
+|    MIH || YMIP || [[Mitchell Plateau Airport]] || [[Mitchell Plateau]], [[Western Australia]], [[Australia]]
+|-
+|    MII || SBML || [[Marília Airport]] || [[Marília]], [[São Paulo]], [[Brazil]]
+|-
+|    MIJ || MLIP || [[Mili Airport]] (FAA: 1Q9) || [[Mili Atoll]], [[Marshall Islands]]
+|-
+|    MIK || EFMI || [[Mikkeli Airport]] || [[Mikkeli]], [[Finland]]
+|-
+|    MIL ||      || All Airports || [[Milan]], [[Italy]]
+|-
+|    MIM || YMER || [[Merimbula Airport]] || [[Merimbula, New South Wales]], [[Australia]]
+|-
+|    MIN || YMPA || [[Minnipa Airport]] || [[Minnipa, South Australia]], [[Australia]]
+|-
+|    MIO || KMIO || [[Miami Municipal Airport]] || [[Miami, Oklahoma]], [[United States]]
+|-
+|    MIP || LLMR || [[Mitzpe Ramon Airfield]] || [[Mitzpe Ramon]], [[Israel]]
+|-
+|    MIQ || KMLE || [[Millard Airport (Nebraska)|Millard Airport]] (FAA: MLE) || [[Omaha, Nebraska]], [[United States]]
+|-
+|    MIR || DTMB || [[Monastir International Airport|Monastir Habib Bourguiba International Airport]] || [[Monastir, Tunisia|Monastir]], [[Tunisia]]
+|-
+|    MIS || AYMS || [[Misima Island Airport]] || [[Misima Island]], [[Papua New Guinea]]
+|-
+|    MIT || KMIT || [[Shafter Airport]] || [[Shafter, California]], [[United States]]
+|-
+|    MIU || DNMA || [[Maiduguri International Airport]] || [[Maiduguri]], [[Nigeria]]
+|-
+|    MIV || KMIV || [[Millville Municipal Airport]] || [[Millville, New Jersey]], [[United States]]
+|-
+|    MIW || KMIW || [[Marshalltown Municipal Airport]] || [[Marshalltown, Iowa]], [[United States]]
+|-
+|    MIX ||      || [[Miriti Airport]] || [[Miriti]], [[Colombia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MJ&quot;/&gt;-MJ-
+|-
+|    MJA || FMSJ || [[Manja Airport]] || [[Manja, Madagascar|Manja]], [[Menabe]], [[Madagascar]]
+|-
+|    MJB ||      || [[Mejit Airport]] (FAA: Q30) || [[Mejit Island]], [[Marshall Islands]]
+|-
+|    MJC || DIMN || [[Man Airport]] || [[Man, Côte d'Ivoire|Man]], [[Côte d'Ivoire]]
+|-
+|    MJD || OPMJ || [[Moenjodaro Airport]] || [[Moenjodaro]], [[Pakistan]]
+&lt;!-- MJD is FAA code (not IATA) for Picayune Municipal Airport in Picayune, Mississippi, United States --&gt;
+|-
+|    MJE ||      || [[Majkin Airport]] || [[Majkin]], [[Marshall Islands]]
+|-
+|    MJF || ENMS || [[Mosjøen Airport, Kjærstad]] || [[Mosjøen]], [[Norway]]
+|-
+|    MJG || MUMJ || [[Mayajigua Airport]] || [[Mayajigua]], [[Cuba]]
+|-
+|    MJI || HLLM || [[Mitiga International Airport]] || [[Tripoli]], [[Libya]]
+|-
+|    MJJ ||      || [[Moki Airport]] || [[Moki]], [[Papua New Guinea]]
+|-
+|    MJK || YSHK || [[Shark Bay Airport]] || [[Monkey Mia, Western Australia]], [[Australia]]
+|-
+|    MJL || FOGM || [[Mouila Airport]] || [[Mouila]], [[Gabon]]
+|-
+|    MJM || FZWA || [[Mbuji Mayi Airport]] || [[Mbuji Mayi]], [[Democratic Republic of the Congo]]
+|-
+|    MJN || FMNM || [[Amborovy Airport]] (Philibert Tsiranana Airport) || [[Mahajanga]], [[Madagascar]]
+|-
+|    MJP || YMJM || [[Manjimup Airport]] || [[Manjimup, Western Australia]], [[Australia]]
+|-
+|    MJQ || KMJQ || [[Jackson Municipal Airport (Minnesota)|Jackson Municipal Airport]] || [[Jackson, Minnesota]], [[United States]]
+|-
+|    MJR ||      || [[Miramar Airport]] || [[Miramar, Buenos Aires]], [[Argentina]]
+|-
+|    MJT || LGMT || [[Mytilene International Airport]] || [[Mytilene]], [[Lesbos Island]], [[Greece]]
+|-
+|    MJU || WAAJ || [[Tampa Padang Airport|Mamuju Airport]] || [[Mamuju (city)|Mamuju]], [[West Sulawesi]], [[Indonesia]]
+|-
+|    MJV || LELC || [[Murcia-San Javier Airport]] || [[Murcia]], [[Spain]]
+|-
+|    MJX || KMJX || [[Robert J. Miller Air Park]] || [[Toms River, New Jersey]], [[United States]]
+|-
+|    MJZ || UERR || [[Mirny Airport]] || [[Mirny, Sakha Republic]], [[Russia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MK&quot;/&gt;-MK-
+|-
+|    MKA || LKMR || [[Mariánské Lázně Airport]] || [[Mariánské Lázně]], [[Czech Republic]]
+|-
+|    MKB || FOOE || [[Mekambo Airport]] || [[Mekambo]], [[Gabon]]
+|-
+|    MKC || KMKC || [[Kansas City Downtown Airport]] (Charles B. Wheeler Downtown Airport) || [[Kansas City, Missouri]], [[United States]]
+|-
+|    MKD ||      || [[Chagni Airport]] || [[Chagni]], [[Ethiopia]]
+|-
+|    MKE || KMKE || [[General Mitchell International Airport]] || [[Milwaukee, Wisconsin]], [[United States]]
+|-
+|    MKG || KMKG || [[Muskegon County Airport]] || [[Muskegon, Michigan]], [[United States]]
+|-
+|    MKH || FXMK || [[Mokhotlong Airport]] || [[Mokhotlong]], [[Lesotho]]
+|-
+|    MKI || FEGE || [[M'Boki Airport]] || [[Obo]], [[Central African Republic]]
+|-
+|    MKJ || FCOM || [[Makoua Airport]] || [[Makoua]], [[Republic of the Congo]]
+&lt;!-- MKJ is FAA code (not IATA) for Mountain Empire Airport in Marion/Wytheville, Virginia, United States --&gt;
+|-
+|    MKK || PHMK || [[Molokai Airport]] || [[Kaunakakai, Hawaii]], [[United States]]
+|-
+|    MKL || KMKL || [[McKellar-Sipes Regional Airport]] || [[Jackson, Tennessee]], [[United States]]
+|-
+|    MKM || WBGK || [[Mukah Airport]] || [[Mukah]], [[Sarawak]], [[Malaysia]]
+|-
+|    MKN ||      || [[Malekolon Airport]] || Malekolon, [[Babase Island]], [[Papua New Guinea]]
+&lt;!-- MKN is FAA code (not IATA) for Comanche County-City Airport in Comanche, Texas, United States --&gt;
+|-
+|    MKO || KMKO || [[Davis Field (Oklahoma)|Davis Field]] || [[Muskogee, Oklahoma]], [[United States]]
+|-
+|    MKP || NTGM || [[Makemo Airport]] || [[Makemo]], [[French Polynesia]]
+|-
+|    MKQ || WAKK || [[Mopah Airport]] || [[Merauke]], [[Papua (province)|Papua]], [[Indonesia]]
+|-
+|    MKR || YMEK || [[Meekatharra Airport]] || [[Meekatharra, Western Australia]], [[Australia]]
+|-
+|    MKS || HAMA || [[Mekane Selam Airport]] || [[Mekane Selam]], [[Ethiopia]]
+|-
+|    MKT || KMKT || [[Mankato Regional Airport]] || [[Mankato, Minnesota]], [[United States]]
+|-
+|    MKU || FOOK || [[Makokou Airport]] || [[Makokou]], [[Gabon]]
+|-
+|    MKV || YMVG || [[Mount Cavenagh Airport]] || [[Mount Cavenagh]], [[Northern Territory]], [[Australia]]
+&lt;!-- MKV is FAA code (not IATA) for Marksville Municipal Airport in Marksville, Louisiana, United States --&gt;
+|-
+|    MKW || WASR || [[Rendani Airport]] || [[Manokwari]], [[Irian Jaya]], [[Indonesia]]
+|-
+|    MKX ||      || [[Mukalla Airport]] || [[Mukalla]], [[Yemen]]
+|-
+|    MKY || YBMK || [[Mackay Airport]] || [[Mackay, Queensland]], [[Australia]]
+|-
+|    MKZ || WMKM || [[Malacca International Airport]] || [[Batu Berendam]], [[Malaysia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;ML&quot;/&gt;-ML-
+|-
+|    MLA || LMML || [[Malta International Airport]] (Luqa Airport) || [[Luqa]], [[Malta]]
+|-
+|    MLB || KMLB || [[Melbourne International Airport]] || [[Melbourne, Florida]], [[United States]]
+|-
+|    MLC || KMLC || [[McAlester Regional Airport]] || [[McAlester, Oklahoma]], [[United States]]
+|-
+|    MLD || KMLD || [[Malad City Airport]] || [[Malad City, Idaho]], [[United States]]
+|-
+|    MLE || VRMM || [[Malé International Airport]] || [[Hulhulé Island]], [[Maldives]]
+&lt;!-- MLE is FAA code (IATA: MIQ) for Millard Airport in Omaha, Nebraska, United States --&gt;
+|-
+|    MLF || KMLF || [[Milford Municipal Airport]] (Ben and Judy Briscoe Field) || [[Milford, Utah]], [[United States]]
+|-
+|    MLG || WARA || [[Abdul Rachman Saleh Airport]] || [[Malang]], [[East Java]], [[Indonesia]]
+|-
+|    MLH || LFSB || [[EuroAirport Basel-Mulhouse-Freiburg]] || [[Mulhouse]], [[France]]
+|-
+|    MLI || KMLI || [[Quad City International Airport]] || [[Moline, Illinois]], [[United States]]
+|-
+|    MLJ || KMLJ || [[Baldwin County Airport]] || [[Milledgeville, Georgia]], [[United States]]
+|-
+|    MLL || PADM || [[Marshall Don Hunter Sr. Airport]] (FAA: MDM) || [[Marshall, Alaska]], [[United States]]
+|-
+|    MLM || MMMM || [[General Francisco J. Mujica International Airport]] || [[Morelia]], [[Michoacán]], [[Mexico]]
+|-
+|    MLN || GEML || [[Melilla Airport]] || [[Melilla]], ([[Spain|Spanish]] [[exclave]] in [[Morocco]])
+|-
+|    MLO || LGML || [[Milos Island National Airport]] || [[Milos]], [[Greece]]
+|-
+|    MLP || RPMM || [[Malabang Airport]] || [[Malabang]], [[Lanao del Sur]], [[Philippines]]
+|-
+|    MLR || YMCT || [[Millicent Airport]] || [[Millicent, South Australia]], [[Australia]]
+|-
+|    MLS || KMLS || [[Miles City Municipal Airport]] (Frank Wiley Field) || [[Miles City, Montana]], [[United States]]
+|-
+|    MLT || KMLT || [[Millinocket Municipal Airport]] || [[Millinocket, Maine]], [[United States]]
+|-
+|    MLU || KMLU || [[Monroe Regional Airport (Louisiana)|Monroe Regional Airport]] || [[Monroe, Louisiana]], [[United States]]
+|-
+|    MLV || YMEU || [[Merluna Airport]] || [[Merluna]], [[Queensland]], [[Australia]]
+|-
+|    MLW || GLMR || [[Spriggs Payne Airport]] || [[Monrovia]], [[Liberia]]
+|-
+|    MLX || LTAT || [[Erhac Airport]] || [[Malatya]], [[Turkey]]
+|-
+|    MLY || PAML || [[Manley Hot Springs Airport]] || [[Manley Hot Springs, Alaska]], [[United States]]
+|-
+|    MLZ || SUMO || [[Cerro Largo International Airport]] || [[Melo, Uruguay|Melo]], [[Cerro Largo Department|Cerro Largo]], [[Uruguay]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MM&quot;/&gt;-MM-
+|-
+|    MMA ||  || All Airports || [[Malmö]], [[Sweden]]
+|-
+|    MMB || RJCM || [[Memanbetsu Airport]] || [[Kitami]], [[Japan]]
+|-
+|    MMC || MMDM || [[Ciudad Mante Airport]] || [[Ciudad Mante]], [[Tamaulipas]], [[Mexico]]
+|-
+|    MMD || ROMD || [[Minami Daito Airport]] || [[Minami Daito]], [[Okinawa]], [[Japan]]
+|-
+|    MME || EGNV || [[Durham Tees Valley Airport]] || [[Teesside]], [[England]], [[United Kingdom]]
+|-
+|    MMF || FKKF || [[Mamfe Airport]] || [[Mamfe]], [[Cameroon]]
+|-
+|    MMG || YMOG || [[Mount Magnet Airport]] || [[Mount Magnet, Western Australia]], [[Australia]]
+|-
+|    MMH || KMMH || [[Mammoth Yosemite Airport]] || [[Mammoth Lakes, California]], [[United States]]
+|-
+|    MMI || KMMI || [[McMinn County Airport]] || [[Athens, Tennessee]], [[United States]]
+|-
+|    MMJ || RJAF || [[Matsumoto Airport]] || [[Matsumoto, Nagano]], [[Japan]]
+|-
+|    MMK || ULMM || [[Murmansk Airport]] || [[Murmansk]], [[Russia]]
+|-
+|    MML || KMML || [[Southwest Minnesota Regional Airport]] (Marshall/Ryan Field) || [[Marshall, Minnesota]], [[United States]]
+|-
+|    MMM || YMMU || [[Middlemount Airport]] || [[Middlemount, Queensland]], [[Australia]]
+|-
+|    MMO || GVMA || [[Maio Airport]] || [[Maio, Cape Verde|Maio]], [[Cape Verde]]
+|-
+|    MMP || SKIO || [[Mompóx Airport]] ([[Cicuco Airport]]) || [[Mompóx]], [[Colombia]]
+|-
+|    MMQ || FLBA || [[Mbala Airport]] || [[Mbala, Zambia|Mbala]], [[Northern Province, Zambia|Northern Province]], [[Zambia]]
+|-
+|    MMS || KMMS || [[Selfs Airport]] || [[Marks, Mississippi]], [[United States]]
+|-
+|    MMT || KMMT || [[McEntire Air National Guard Station]] || [[Eastover, South Carolina]], [[United States]]
+|-
+|    MMU || KMMU || [[Morristown Municipal Airport]] || [[Morristown, New Jersey]], [[United States]]
+&lt;!-- MMV is FAA code (not IATA) for McMinnville Municipal Airport in McMinnville, Oregon, United States --&gt;
+|-
+|    MMW ||      || [[Moma Airport (Mozambique)|Moma Airport]] || [[Moma, Mozambique|Moma]], [[Mozambique]]
+|-
+|    MMX || ESMS || [[Malmö-Sturup Airport]] || [[Malmö]], [[Sweden]]
+|-
+|    MMY || ROMY || [[Miyako Airport]] || [[Miyakojima, Okinawa]], [[Japan]]
+|-
+|    MMZ || OAMN || [[Maymana Airport]] || [[Maymana]], [[Afghanistan]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MN&quot;/&gt;-MN-
+|-
+|    MNA || WAMN || [[Melangguane Airport]] || [[Melangguane]], [[North Sulawesi]], [[Indonesia]]
+|-
+|    MNB || FZAG || [[Muanda Airport]] (Moanda Airport) || [[Muanda]] (Moanda), [[Democratic Republic of the Congo]]
+|-
+|    MNC || FQNC || [[Nacala Airport]] || [[Nacala]], [[Mozambique]]
+|-
+|    MNE || YMUG || [[Mungeranie Airport]] || [[Mungeranie, South Australia]], [[Australia]]
+|-
+|    MNF || NFMA || [[Mana Island Airport]] || [[Mana Island, Fiji|Mana Island]], [[Fiji]]
+&lt;!-- MNF is FAA code (not IATA) for Mountain View Airport in Mountain View, Missouri, United States --&gt;
+|-
+|    MNG || YMGD || [[Maningrida Airport]] || [[Maningrida, Northern Territory]], [[Australia]]
+&lt;!-- MNH is not the IATA code of [[Minneriya Airport]] ([[Polonnaruwa Airport]]), [[Polonnaruwa]], [[Sri Lanka]]. See {{airport codes|HIM}} --&gt;
+|-
+|    MNI || TRPG || [[John A. Osborne Airport]] (formerly Gerald's Airport) || [[Montserrat]], [[British Overseas Territories]], United Kingdom
+|-
+|    MNJ || FMSM || [[Mananjary Airport]] || [[Mananjary, Fianarantsoa|Mananjary]], [[Madagascar]]
+|-
+|    MNK || NGMA || [[Maiana Airport]] || [[Maiana]], [[Kiribati]]
+|-
+|    MNL || RPLL || [[Ninoy Aquino International Airport]] / [[Villamor Airbase]] || [[Metro Manila]], [[Philippines]]
+|-
+|    MNM || KMNM || [[Menominee-Marinette Twin County Airport]] || [[Menominee, Michigan]], [[United States]]
+|-
+|    MNN || KMNN || [[Marion Municipal Airport (Ohio)|Marion Municipal Airport]] || [[Marion, Ohio]], [[United States]]
+|-
+|    MNO || FZRA || [[Manono Airport]] || [[Manono, Democratic Republic of the Congo|Manono]], [[Democratic Republic of the Congo]]
+|-
+|    MNQ || YMTO || [[Monto Airport]] || [[Monto, Queensland]], [[Australia]]
+|-
+|    MNR || FLMG || [[Mongu Airport]] || [[Mongu]], [[Western Province, Zambia|Western Province]], [[Zambia]]
+|-
+|    MNS || FLMA || [[Mansa Airport]] || [[Mansa, Zambia|Mansa]], [[Luapula Province]], [[Zambia]]
+|-
+|    MNT ||      || [[Minto Al Wright Airport]] (FAA: 51Z) || [[Minto, Alaska]], [[United States]]
+|-
+|    MNU || VYMM || [[Mawlamyaing Airport]] || [[Mawlamyaing]] (Maulmyine), [[Burma|Myanmar (Burma)]]
+&lt;!-- MNV is FAA code (not IATA) for Monroe County Airport in Madisonville, Tennessee, United States --&gt;
+|-
+|    MNW || YMDS || [[Macdonald Downs Airport]] || [[Macdonald Downs]], [[Northern Territory]], [[Australia]]
+|-
+|    MNX || SBMY || [[Manicoré Airport]] || [[Manicoré]], [[Amazonas (Brazilian state)|Amazonas]], [[Brazil]]
+|-
+|    MNY || AGGO || [[Mono Airport]] || [[Stirling Island]], [[Treasury Islands]], [[Solomon Islands]]
+|-
+|    MNZ || KHEF || [[Manassas Regional Airport]] (FAA: HEF) || [[Manassas, Virginia]], [[United States]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MO&quot;/&gt;-MO-
+|-
+|    MOA || MUMO || [[Orestes Acosta Airport]] || [[Moa, Cuba|Moa]], [[Cuba]]
+|-
+|    MOB || KMOB || [[Mobile Regional Airport]] || [[Mobile, Alabama]], [[United States]]
+|-
+|    MOC || SBMK || [[Montes Claros Airport]] || [[Montes Claros]], [[Minas Gerais]], [[Brazil]]
+|-
+|    MOD || KMOD || [[Modesto City-County Airport]] (Harry Sham Field) || [[Modesto, California]], [[United States]]
+|-
+|    MOE || VYMO || [[Momeik Airport]] || [[Momeik]], [[Burma|Myanmar (Burma)]]
+|-
+|    MOF || WATC || [[Wai Oti Airport]] (Maumere Airport) || [[Maumere]], [[Indonesia]]
+|-
+|    MOG || VYMS || [[Mong Hsat Airport]] || [[Mong Hsat]], [[Burma|Myanmar (Burma)]]
+|-
+|    MOH || VEMN || [[Mohanbari Airport]] || [[Mohanbari]], [[India]]
+|-
+|    MOI || NCMR || [[Mitiaro Island Airport]] || [[Mitiaro Island]], [[Cook Islands]]
+|-
+|    MOJ || MEMO || [[Moengo Airport]] || [[Moengo]], [[Suriname]]
+|-
+|    MOK ||      || [[Mankono Airport]] || [[Mankono]], [[Côte d'Ivoire]]
+|-
+|    MOL || ENML || [[Molde Airport, Årø]] || [[Molde]], [[Norway]]
+|-
+|    MOM || GQNL || [[Letfotar Airport]] || [[Moudjeria]], [[Mauritania]]
+|-
+|    MON || NZMC || [[Mount Cook Aerodrome]] || [[Mount Cook]], [[New Zealand]]
+|-
+|    MOO || YOOM || [[Moomba Airport]] || [[Moomba, South Australia]], [[Australia]]
+|-
+|    MOP || KMOP || [[Mount Pleasant Municipal Airport (Michigan)|Mount Pleasant Municipal Airport]] || [[Mount Pleasant, Michigan]], [[United States]]
+|-
+|    MOR || KMOR || [[Moore-Murrell Airport]] || [[Morristown, Tennessee]], [[United States]]
+&lt;!-- MOS is FAA code (not IATA) for Moses Point Airport in Elim, Alaska, United States --&gt;
+|-
+|    MOT || KMOT || [[Minot International Airport]] || [[Minot, North Dakota]], [[United States]]
+|-
+|    MOU || PAMO || [[Mountain Village Airport]] || [[Mountain Village, Alaska]], [[United States]]
+|-
+|    MOV || YMRB || [[Moranbah Airport]] || [[Moranbah, Queensland]], [[Australia]]
+|-
+|    MOW ||      || All Airports || [[Moscow]], [[Russia]]
+|-
+|    MOX || KMOX || [[Morris Municipal Airport]] || [[Morris, Minnesota]], [[United States]]
+|-
+|    MOY ||      || [[Monterrey Airport (Colombia)|Monterrey Airport]] || [[Monterrey, Colombia|Monterrey]], [[Colombia]]
+|-
+|    MOZ || NTTM || [[Moorea Airport]] (Temae Airport) || [[Moorea]], [[Windward Islands (Society Islands)|Windward Islands]], [[French Polynesia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MP&quot;/&gt;-MP-
+|-
+|    MPA || FYKM &lt;!--was FYMP--&gt; || [[Katima Mulilo Airport]] (Mpacha Airport) || [[Katima Mulilo]], [[Namibia]]
+|-
+|    MPB ||      || [[Miami Seaplane Base]] (FAA: X44) || [[Watson Island (Miami)|Watson Island]], [[Miami-Dade County]], [[Florida]], [[United States]]
+|-
+|    MPC || WIPU || [[Muko-Muko Airport]] || [[Muko-Muko]], [[Indonesia]]
+|-
+|    MPD || OPMP || [[Sindhri Tharparkar Airport]] (Mirpur Khas Airport) || [[Sindhri Tharparkar]], [[Pakistan]]
+&lt;!-- MPE is FAA code (not IATA) for Philadelphia Municipal Airport in Philadelphia, Mississippi, United States --&gt;
+|-
+|    MPF ||      || [[Mapoda Airport]] || [[Mapoda]], [[Papua New Guinea]]
+|-
+|    MPG ||      || [[Makini Airport]] || [[Makini]], [[Papua New Guinea]]
+|-
+|    MPH || RPVE || [[Godofredo P. Ramos Airport]] (Caticlan Airport) || [[Malay, Aklan|Malay]], [[Aklan]], [[Philippines]]
+|-
+|    MPI ||      || [[Mamitupo Airport]] || [[Mamitupo]], [[Panamá]]
+&lt;!-- MPI is FAA code (not IATA) for Mariposa-Yosemite Airport in Mariposa, California, United States --&gt;
+|-
+|    MPJ || KMPJ || [[Petit Jean Park Airport]] || [[Morrilton, Arkansas]], [[United States]]
+|-
+|    MPK || RKJM || [[Mokpo Airport]] (closed 2007) || [[Mokpo]], [[South Korea]]
+|-
+|    MPL || LFMT || [[Mediterranée Airport]] (Frejorgues Airport) || [[Montpellier]], [[France]]
+|-
+|    MPM || FQMA || [[Maputo International Airport]] || [[Maputo]], [[Mozambique]]
+|-
+|    MPN || EGYP || [[RAF Mount Pleasant]] || [[Falkland Islands]]
+|-
+|    MPO || KMPO || [[Pocono Mountains Municipal Airport]] || [[Mount Pocono, Pennsylvania]], [[United States]]
+|-
+|    MPP ||      || [[Mulatupo Airport]] || [[Mulatupo]], [[Panamá]]
+|-
+|    MPQ || OJMN || [[Ma'an Airport]] || [[Ma'an]], [[Jordan]]
+|-
+|    MPR || KMPR || [[McPherson Airport]] || [[McPherson, Kansas]], [[United States]]
+|-
+|    MPT || WPMN || [[Maliana Airport]] || [[Maliana]], [[East Timor|East Timor (Timor-Leste)]]
+|-
+|    MPU ||      || [[Mapua Airport]] || [[Mapua, Papua New Guinea|Mapua]], [[Papua New Guinea]]
+|-
+|    MPV || KMPV || [[Edward F. Knapp State Airport]] || [[Barre (city), Vermont|Barre]]/[[Montpelier, Vermont]], [[United States]]
+|-
+|    MPW || UKCM || [[Mariupol Airport]] || [[Mariupol]], [[Ukraine]]
+|-
+|    MPX ||      || [[Miyanmin Airport]] || [[Miyanmin]], [[Papua New Guinea]]
+|-
+|    MPY || SOOA || [[Maripasoula Airport]] || [[Maripasoula]], [[French Guiana]]
+|-
+|    MPZ || KMPZ || [[Mount Pleasant Municipal Airport (Iowa)|Mount Pleasant Municipal Airport]] || [[Mount Pleasant, Iowa]], [[United States]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MQ&quot;/&gt;-MQ-
+|-
+|    MQA || YMDI || [[Mandora Station Airport]] || [[Mandora Station]], [[Western Australia]], [[Australia]]
+|-
+|    MQB || KMQB || [[Macomb Municipal Airport]] || [[Macomb, Illinois]], [[United States]]
+|-
+|    MQC || LFVM || [[Miquelon Airport]] || [[Miquelon, Miquelon-Langlade|Miquelon]], [[Saint Pierre and Miquelon]]
+|-
+|    MQD || SAVQ || [[Maquinchao Airport]] || [[Maquinchao]], [[Río Negro Province]], [[Argentina]]
+|-
+|    MQF || USCM || [[Magnitogorsk Airport]] || [[Magnitogorsk]], [[Chelyabinsk]], [[Russia]]
+|-
+|    MQH || SBMC || [[Minaçu Airport]] || [[Minaçu]], [[Goiás]], [[Brazil]]
+&lt;!-- MQJ is FAA code (not IATA) for Indianapolis Regional Airport (Mount Comfort Airport) in Indianapolis, Indiana, United States --&gt;
+|-
+|    MQL || YMIA || [[Mildura Airport]] || [[Mildura, Victoria]], [[Australia]]
+|-
+|    MQM || LTCR || [[Mardin Airport]] || [[Mardin]], [[Turkey]]
+|-
+|    MQN || ENRA || [[Mo i Rana Airport, Røssvoll]] || [[Mo i Rana]], [[Norway]]
+|-
+|    MQP || FAKN || [[Kruger Mpumalanga International Airport]] || [[Nelspruit]], [[South Africa]]
+|-
+|    MQQ || FTTD || [[Moundou Airport]] || [[Moundou]], [[Chad]]
+|-
+|    MQS || TVSM || [[Mustique Airport]] || [[Mustique|Mustique Island]], [[Saint Vincent and the Grenadines]]
+|-
+|    MQT || KSAW || [[Sawyer International Airport]] (FAA: SAW) || [[Marquette, Michigan]], [[United States]]
+|-
+|    MQU || SKQU || [[Mariquita Airport]] || [[Mariquita, Tolima|Mariquita]], [[Tolima Department]], [[Colombia]]
+|-
+|    MQW || KMQW || [[Telfair-Wheeler Airport]] || [[McRae, Georgia]], [[United States]]
+|-
+|    MQX || HAMK || [[Alula Aba Nega Airport]] (Makale Airport) || [[Mekelle|Mekelle, Tigray]], [[Ethiopia]]
+|-
+|    MQY || KMQY || [[Smyrna Airport (Tennessee)|Smyrna Airport]] || [[Smyrna, Tennessee]], [[United States]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MR&quot;/&gt;-MR-
+|-
+|    MRA ||      || [[Misrata Airport]] || [[Misrata]], [[Libya]]
+|-
+|    MRB || KMRB || [[Eastern WV Regional Airport]] (Shepherd Field) || [[Martinsburg, West Virginia]], [[United States]]
+|-
+|    MRC || KMRC || [[Maury County Airport]] || [[Columbia, Tennessee|Columbia]]/[[Mount Pleasant, Tennessee]], [[United States]]
+|-
+|    MRD || SVMD || [[Alberto Carnevalli Airport]] || [[Mérida, Mérida|Mérida]], [[Venezuela]]
+|-
+|    MRE ||      || [[Mara Serena Airport]] (Mara Lodges Airport) || [[Masai Mara]], [[Kenya]]
+|-
+|    MRF || KMRF || [[Marfa Municipal Airport]] || [[Marfa, Texas]], [[United States]]
+|-
+|    MRG || YMBA || [[Mareeba Airport]] || [[Mareeba, Queensland]], [[Australia]]
+&lt;!-- MRH is FAA code (not IATA) for Michael J. Smith Field in Beaufort, North Carolina, United States --&gt;
+|-
+|    MRI || PAMR || [[Merrill Field]] || [[Anchorage, Alaska]], [[United States]]
+|-
+|    MRJ || MHMA || [[Marcala Airport]] || [[Marcala]], [[Honduras]]
+&lt;!-- MRJ is FAA code (not IATA) for Iowa County Airport in Mineral Point, Wisconsin, United States --&gt;
+|-
+|    MRK || KMKY || [[Marco Island Airport]] (FAA: MKY) || [[Marco Island, Florida]], [[United States]]
+|-
+|    MRM ||      || [[Manare Airport]] || [[Manare]], [[Papua New Guinea]]
+|-
+|    MRN || KMRN || [[Foothills Regional Airport]] (was Morganton-Lenoir Airport) || [[Morganton, North Carolina]], [[United States]]
+|-
+|    MRO || NZMS || [[Hood Aerodrome]] || [[Masterton]], [[New Zealand]]
+|-
+|    MRP || YALA || [[Marla Airport]] || [[Marla, South Australia]], [[Australia]]
+|-
+|    MRQ || RPUW || [[Marinduque Airport]] || [[Gasan, Marinduque]], [[Philippines]]
+|-
+|    MRR || SEMA || [[José María Velasco Ibarra Airport]] || [[Macará]], [[Ecuador]]
+|-
+|    MRS || LFML || [[Marseille Provence Airport]] || [[Marseille]], [[France]]
+|-
+|    MRT ||      || [[Moroak Airport]] || [[Moroak]], [[Northern Territory]], [[Australia]]
+&lt;!-- MRT is FAA code (not IATA) for Union County Airport in Marysville, Ohio, United States --&gt;
+|-
+|    MRU || FIMP || [[Sir Seewoosagur Ramgoolam International Airport]] || [[Plaisance (Mauritius)|Plaisance]], [[Mauritius]]
+|-
+|    MRV || URMM || [[Mineralnye Vody Airport]] || [[Mineralnye Vody]], [[Russia]]
+|-
+|    MRW || EKMB || [[Maribo Airport]] ([[Lolland Falster Airport]]) || [[Lolland]] [[Falster]], [[Denmark]]
+|-
+|    MRX || OIAM || [[Mahshahr Airport]] || [[Mahshahr]], [[Iran]]
+|-
+|    MRY || KMRY || [[Monterey Regional Airport]] || [[Monterey, California]], [[United States]]
+|-
+|    MRZ || YMOR || [[Moree Airport]] || [[Moree, New South Wales]], [[Australia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MS&quot;/&gt;-MS-
+|-
+|    MSA || CZMD || [[Muskrat Dam Airport]] || [[Muskrat Dam, Ontario]], [[Canada]]
+|-
+|    MSB ||      || [[Marigot Seaplane Base]] || [[St. Martin]], [[Guadeloupe]]
+|-
+|    MSC || KFFZ || [[Falcon Field Airport]] (FAA: FFZ) || [[Mesa, Arizona]], [[United States]]
+|-
+|    MSD ||      || [[Mount Pleasant Airport (Utah)|Mount Pleasant Airport]] (FAA: 43U) || [[Mount Pleasant, Utah]], [[United States]]
+|-
+|    MSE || EGMH || [[Kent International Airport]] || [[Manston, Kent]], [[England]], [[United Kingdom]]
+|-
+|    MSF || YMNS || [[Mount Swan Airport]] || [[Mount Swan]], [[Northern Territory]], [[Australia]]
+|-
+|    MSH || OOMA || [[Masirah Air Base]] || [[Masirah Island]], [[Oman]]
+|-
+|    MSJ || RJSM || [[Misawa Air Base]] || [[Misawa, Aomori]], [[Japan]]
+|-
+|    MSL || KMSL || [[Northwest Alabama Regional Airport]] || [[Muscle Shoals, Alabama]], [[United States]]
+|-
+|    MSM || FZCV || [[Masi Manimba Airport]] || [[Masi Manimba]], [[Democratic Republic of the Congo]]
+|-
+|    MSN || KMSN || [[Dane County Regional Airport]] (Truax Field Airport) || [[Madison, Wisconsin]], [[United States]]
+|-
+|    MSO || KMSO || [[Missoula International Airport]] || [[Missoula, Montana]], [[United States]]
+|-
+|    MSP || KMSP || [[Minneapolis–Saint Paul International Airport]] (Wold-Chamberlain Field Airport) || [[Bloomington, Minnesota]], [[United States]]
+|-
+|    MSQ || UMMS || [[Minsk International Airport]] (Minsk-2) || [[Minsk]], [[Belarus]]
+|-
+|    MSR || LTCK || [[Muş Airport]] || [[Muş]], [[Turkey]]
+|-
+|    MSS || KMSS || [[Massena International Airport]] (Richards Field Airport) || [[Massena (town), New York|Massena, New York]], [[United States]]
+|-
+|    MST || EHBK || [[Maastricht Aachen Airport]] || [[Maastricht]], [[Limburg (Netherlands)|Limburg]], [[Netherlands]]
+|-
+|    MSU || FXMM || [[Moshoeshoe International Airport]] || [[Maseru]], [[Lesotho]]
+|-
+|    MSV || KMSV || [[Sullivan County International Airport]] || [[Monticello, New York]], [[United States]]
+|-
+|    MSW || HHMS || [[Massawa International Airport]] || [[Massawa]], [[Eritrea]]
+|-
+|    MSX || FCMM || [[Mossendjo Airport]] || [[Mossendjo]], [[Republic of the Congo]]
+|-
+|    MSY || KMSY || [[Louis Armstrong New Orleans International Airport]] (formerly Moisant Field) || [[New Orleans]], [[Louisiana]], [[United States]]
+|-
+|    MSZ || FNMO || [[Namibe Airport]] || [[Namibe]], [[Angola]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MT&quot;/&gt;-MT-
+|-
+|    MTA || NZMA || [[Matamata Airport]] || [[Matamata]], [[New Zealand]]
+|-
+|    MTB || SKML || [[Monte Libano Airport]] || [[Monte Libano]], [[Colombia]]
+|-
+|    MTC || KMTC || [[Selfridge Air National Guard Base]] || [[Mount Clemens, Michigan]], [[United States]]
+|-
+|    MTE || SNMA || [[Monte Alegre Airport]] || [[Monte Alegre, Pará]], [[Brazil]]
+|-
+|    MTF || HAMT || [[Mizan Teferi Airport]] || [[Mizan Teferi]], [[Ethiopia]]
+&lt;!-- MTF is FAA code (IATA: MTX) for Metro Field in Fairbanks, Alaska, United States --&gt;
+|-
+|    MTG ||      || [[Mato Grosso Airport]] || [[Mato Grosso]], [[Brazil]]
+|-
+|    MTH || KMTH || [[Florida Keys Marathon Airport]] || [[Marathon, Florida]], [[United States]]
+|-
+|    MTI || GVMT || [[Mosteiros Airport]] || [[Mosteiros, Cape Verde|Mosteiros]], [[Cape Verde]]
+|-
+|    MTJ || KMTJ || [[Montrose Regional Airport]] || [[Montrose, Colorado]], [[United States]]
+|-
+|    MTK || NGMN || [[Makin Island Airport]] ([[Butaritari Airport]]) || [[Butaritari|Makin Island]] (Butaritari), [[Kiribati]]
+|-
+|    MTL || YMND || [[Maitland Airport]] || [[Maitland, New South Wales]], [[Australia]]
+|-
+|    MTM || PAMM || [[Metlakatla Seaplane Base]] || [[Metlakatla, Alaska|Metlakatla]], [[Annette Island]], [[Alaska]], [[United States]]
+|-
+|    MTN || KMTN || [[Martin State Airport]] || [[Baltimore, Maryland]], [[United States]]
+|-
+|    MTO || KMTO || [[Coles County Memorial Airport]] || [[Mattoon, Illinois|Mattoon]]/[[Charleston, Illinois]], [[United States]]
+|-
+|    MTP || KMTP || [[Montauk Airport]] || [[Montauk, New York]], [[United States]]
+|-
+|    MTQ || YMIT || [[Mitchell Airport (Australia)]] || [[Mitchell, Queensland]], [[Australia]]
+|-
+|    MTR || SKMR || [[Los Garzones Airport]] || [[Montería]], [[Department of Córdoba|Córdoba]], [[Colombia]]
+|-
+|    MTS || FDMS || [[Matsapha Airport]] || [[Manzini, Swaziland|Manzini]], [[Swaziland]]
+|-
+|    MTT || MMMT || [[Minatitlán/Coatzacoalcos National Airport]] || [[Minatitlán, Veracruz]], [[Mexico]]
+|-
+|    MTU ||      || [[Montepuez Airport]] || [[Montepuez]], [[Cabo Delgado Province]], [[Mozambique]]
+|-
+|    MTV || NVSA || [[Mota Lava Airport]] || [[Mota Lava]], [[Vanuatu]]
+|-
+|    MTW || KMTW || [[Manitowoc County Airport]] || [[Manitowoc, Wisconsin]], [[United States]]
+|-
+|    MTX || PABK || [[Metro Field]] (FAA: MTF) || [[Fairbanks, Alaska]], [[United States]]
+|-
+|    MTY || MMMY || [[General Mariano Escobedo International Airport]] || [[Monterrey]], [[Nuevo León]], [[Mexico]]
+|-
+|    MTZ || LLMZ || [[Bar Yehuda Airfield]] (Masada Airfield) || [[Masada]], [[Israel]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MU&quot;/&gt;-MU-
+|-
+|    MUA || AGGM || [[Munda Airport]] || [[Munda, Solomon Islands|Munda]], [[New Georgia Island]], [[Solomon Islands]]
+|-
+|    MUB || FBMN || [[Maun Airport]] || [[Maun, Botswana|Maun]], [[Botswana]]
+|-
+|    MUC || EDDM || [[Munich Airport]] (succeeded [[Munich-Riem Airport]]) || [[Munich, Bavaria]], [[Germany]]
+|-
+|    MUD || FQMD || [[Mueda Airport]] || [[Mueda]], [[Mozambique]]
+|-
+|    MUE || PHMU || [[Waimea-Kohala Airport]] || [[Kamuela, Hawaii]], [[United States]]
+|-
+|    MUF ||      || [[Muting Airport]] || [[Muting, Indonesia|Muting]], [[Indonesia]]
+|-
+|    MUG || MMMG || [[Mulegé Airport]] || [[Mulegé]], [[Baja California Sur]], [[Mexico]]
+|-
+|    MUH || HEMM || [[Mersa Matruh Airport]] || [[Mersa Matruh]], [[Egypt]]
+|-
+|    MUI || KMUI || [[Muir Army Airfield]] || [[Fort Indiantown Gap]], [[Pennsylvania]], [[United States]]
+|-
+|    MUJ || HAMR || [[Mui Airport]] || [[Mui, Ethiopia|Mui]], [[Ethiopia]]
+|-
+|    MUK || NCMK || [[Akatoka Manava Airport]] (Mauke Airport) || [[Mauke Island]], [[Cook Islands]]
+|-
+|    MUL || KMUL || [[Spence Airport]] || [[Moultrie, Georgia]], [[United States]]
+|-
+|    MUM ||      || [[Mumias Airport]] || [[Mumias]], [[Western Province (Kenya)|Western Province]], [[Kenya]]
+|-
+|    MUN || SVMT || [[Maturín Airport]] || [[Maturín]], [[Venezuela]]
+|-
+|    MUO || KMUO || [[Mountain Home Air Force Base]] || [[Mountain Home, Idaho]], [[United States]]
+|-
+|    MUP || YMUP || [[Mulga Park Airport]] || [[Mulga Park]], [[Northern Territory]], [[Australia]]
+|-
+|    MUQ || YMUC || [[Muccan Station Airport]] || [[Muccan Station]], [[Western Australia]], [[Australia]]
+|-
+|    MUR || WBGM || [[Marudi Airport]] || [[Marudi]], [[Sarawak]], [[Malaysia]]
+|-
+|    MUS || RJAM || [[Minami Torishima Airport]] || [[Minami-Tori-shima]], [[Japan]]
+|-
+|    MUT || KMUT || [[Muscatine Municipal Airport]] || [[Muscatine, Iowa]], [[United States]]
+|-
+|    MUW || DAOV || [[Ghriss Airport]] || [[Ghriss]], [[Algeria]]
+|-
+|    MUX || OPMT || [[Multan International Airport]] || [[Multan]], [[Pakistan]]
+|-
+|    MUY || FCBM || [[Mouyondzi Airport]] || [[Mouyondzi]], [[Republic of the Congo]]
+|-
+|    MUZ || HTMU || [[Musoma Airport]] || [[Musoma]], [[Tanzania]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MV&quot;/&gt;-MV-
+|-
+|    MVA || BIRL || [[Reykjahlid Airport]] ([[Reykjahlíð Airport]]) || [[Myvatn]], [[Iceland]]
+|-
+|    MVB || FOON || [[Franceville/Mvengue Airport]] || [[Franceville]] / [[Mvengue, Gabon|Mvengue]], [[Gabon]]
+|-
+|    MVC || KMVC || [[Monroe County Airport (Alabama)|Monroe County Airport]] || [[Monroeville, Alabama]], [[United States]]
+|-
+|    MVD || SUMU || [[Carrasco International Airport|Carrasco Gral. Cesáreo L. Berisso International Airport]] || [[Montevideo]], [[Montevideo Department|Montevideo]], [[Uruguay]]
+|-
+|    MVE || KMVE || [[Montevideo-Chippewa County Airport]] || [[Montevideo, Minnesota]], [[United States]]
+|-
+|    MVF || SBMS || [[Dix-Sept Rosado Airport]] || [[Mossoro]], [[Rio Grande do Norte]], [[Brazil]]
+|-
+|    MVG ||      || [[Mevang Airport]] || [[Mevang]], [[Gabon]]
+|-
+|    MVJ ||      || [[Marlboro Airport (Jamaica)|Marlboro Airport]] || [[Mandeville, Jamaica|Mandeville]], [[Jamaica]]
+|-
+|    MVK || YMUK || [[Mulka Airport]] || [[Mulka]], [[South Australia]], [[Australia]]
+|-
+|    MVL || KMVL || [[Morrisville-Stowe State Airport]] || [[Morrisville, Vermont]], [[United States]]
+|-
+|    MVM ||      || [[Kayenta Airport]] (FAA: 0V7) || [[Kayenta, Arizona]], [[United States]]
+&lt;!-- MVM is FAA code (not IATA) for Machias Valley Airport in Machias, Maine, United States --&gt;
+|-
+|    MVN || KMVN || [[Mount Vernon Airport]] || [[Mount Vernon, Illinois]], [[United States]]
+|-
+|    MVO || FTTM || [[Mongo Airport]] || [[Mongo, Chad|Mongo]], [[Chad]]
+|-
+|    MVP || SKMU || [[Fabio Alberto León Bentley Airport]] || [[Mitú]], [[Colombia]]
+|-
+|    MVQ || UMOO || [[Mogilev Airport]] || [[Mogilev]], [[Belarus]]
+|-
+|    MVR || FKKL || [[Salak Airport]] || [[Maroua]], [[Far North Region (Cameroon)|Far North Region]], [[Cameroon]]
+|-
+|    MVS || SNMU || [[Mucuri Airport]] || [[Mucuri]], [[Bahia]], [[Brazil]]
+|-
+|    MVT || NTGV || [[Mataiva Airport]] || [[Mataiva]], [[French Polynesia]]
+|-
+|    MVU || YMGV || [[Musgrave Airport]] || [[Musgrave, Queensland|Musgrave]], [[Queensland]], [[Australia]]
+|-
+|    MVV || LFHM || [[Megeve Airport]] || [[Megève]], [[France]]
+|-
+|    MVW || KBVS || [[Skagit Regional Airport]] (FAA: BVS) || [[Burlington, Washington|Burlington]] / [[Mount Vernon, Washington]], [[United States]]
+|-
+|    MVX || FOGV || [[Minvoul Airport]] || [[Minvoul]], [[Gabon]]
+|-
+|    MVY || KMVY || [[Martha's Vineyard Airport]] || [[Vineyard Haven, Massachusetts]], [[United States]]
+|-
+|    MVZ || FVMV || [[Masvingo International Airport]] || [[Masvingo]], [[Zimbabwe]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MW&quot;/&gt;-MW-
+|-
+|    MWA || KMWA || [[Williamson County Regional Airport]] || [[Marion, Illinois]], [[United States]]
+|-
+|    MWB || YMRW || [[Morawa Airport]] || [[Morawa, Western Australia]], [[Australia]]
+|-
+|    MWC || KMWC || [[Lawrence J. Timmerman Airport]] || [[Milwaukee, Wisconsin]], [[United States]]
+|-
+|    MWD || OPMI || [[PAF Base Mianwali]] || [[Mianwali]], [[Pakistan]]
+|-
+|    MWE || HSMR || [[Merowe Airport]] || [[Merowe, Sudan|Merowe]], [[Sudan]]
+|-
+|    MWF || NVSN || [[Maewo-Naone Airport]] || [[Maewo]], [[Vanuatu]]
+|-
+|    MWG ||      || [[Marawaka Airport]] || [[Marawaka]], [[Papua New Guinea]]
+|-
+|    MWH || KMWH || [[Grant County International Airport]] || [[Moses Lake, Washington]], [[United States]]
+|-
+|    MWJ || SYMR || [[Matthews Ridge Airport]] || [[Matthews Ridge, Guyana|Matthews Ridge]], [[Guyana]]
+|-
+|    MWK || WIOM || [[Matak Airport]] || [[Anambas Islands]], [[Riau Province]], [[Indonesia]]
+|-
+|    MWL || KMWL || [[Mineral Wells Airport]] || [[Mineral Wells, Texas]], [[United States]]
+|-
+|    MWM || KMWM || [[Windom Municipal Airport]] || [[Windom, Minnesota]], [[United States]]
+|-
+|    MWO || KMWO || [[Hook Field Municipal Airport]] || [[Middletown, Ohio]], [[United States]]
+|-
+|    MWP ||      || [[Mountain Airport]] || [[Mountain, Nepal|Mountain]], [[Nepal]]
+|-
+|    MWQ || VYMW || [[Magwe Airport]] || [[Magway, Burma|Magwe]], [[Burma|Myanmar (Burma)]]
+|-
+|    MWT || YMWT || [[Moolawatana Airport]] || [[Moolawatana Station]], [[South Australia]], [[Australia]]
+|-
+|    MWU ||      || [[Mussau Airport]] || [[Mussau]], [[Papua New Guinea]]
+|-
+|    MWY || YMIR || [[Miranda Downs Airport]] || [[Miranda Downs]], [[Queensland]], [[Australia]]
+|-
+|    MWZ || HTMW || [[Mwanza Airport]] || [[Mwanza]], [[Tanzania]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MX&quot;/&gt;-MX-
+|-
+|    MXA || KMXA || [[Manila Municipal Airport]] || [[Manila, Arkansas]], [[United States]]
+|-
+|    MXB || WAWM || [[Andi Jemma Airport]] || [[Masamba]], [[Indonesia]]
+|-
+|    MXC ||      || [[Monticello Airport (Utah)|Monticello Airport]] (FAA: U43) || [[Monticello, Utah]], [[United States]]
+|-
+|    MXD || YMWX || [[Marion Downs Airport]] || [[Marion Downs Station]], [[Queensland]], [[Australia]]
+|-
+|    MXE || KMEB || [[Laurinburg-Maxton Airport]] (FAA: MEB) || [[Maxton, North Carolina]], [[United States]]
+|-
+|    MXF || KMXF || [[Maxwell Air Force Base]] || [[Montgomery, Alabama]], [[United States]]
+|-
+|    MXH || AYMR || [[Moro Airport]] || [[Moro, Papua New Guinea|Moro]], [[Papua New Guinea]]
+|-
+|    MXI || RPMQ || [[Imelda R. Marcos Airport]] || [[Mati, Davao Oriental|Mati]], [[Davao Oriental]], [[Philippines]]
+|-
+|    MXJ || DNMN || [[Minna Airport]] || [[Minna]], [[Nigeria]]
+|-
+|    MXK ||      || [[Mindik Airport]] || [[Mindik]], [[Papua New Guinea]]
+|-
+|    MXL || MMML || [[General Rodolfo Sánchez Taboada International Airport]] || [[Mexicali]], [[Baja California]], [[Mexico]]
+|-
+|    MXM || FMSR || [[Morombe Airport]] || [[Morombe]], [[Madagascar]]
+|-
+|    MXN || LFRU || [[Morlaix Ploujean Airport]] || [[Morlaix]], [[France]]
+|-
+|    MXO || KMXO || [[Monticello Regional Airport]] || [[Monticello, Iowa]], [[United States]]
+|-
+|    MXP || LIMC || [[Malpensa Airport]] || [[Milano]], [[Italy]]
+|-
+|    MXQ ||      || [[Mitchell River Airport]] || [[Mitchell River, Queensland]], [[Australia]]
+|-
+|    MXR ||      || [[Mirgorod Airport]] || [[Myrhorod|Mirgorod]], [[Ukraine]]
+|-
+|    MXS || NSMA || [[Maota Airport]] || [[Maota]], [[Samoa]]
+|-
+|    MXT || FMMO || [[Maintirano Airport]] || [[Maintirano]], [[Madagascar]]
+|-
+|    MXU || YMWA || [[Mullewa Airport]] || [[Mullewa, Western Australia]], [[Australia]]
+|-
+|    MXV || ZMMN || [[Mörön Airport]] || [[Mörön (city)|Mörön]], [[Khövsgöl Province]], [[Mongolia]]
+|-
+|    MXW || ZMMG || [[Mandalgovi Airport]] || [[Mandalgovi]], [[Dundgovi]], [[Mongolia]]
+|-
+|    MXX || ESKM || [[Mora Airport]] || [[Mora (locality)|Mora]], [[Sweden]]
+|-
+|    MXY || PAMX || [[McCarthy Airport]] (FAA: 15Z) || [[McCarthy, Alaska]], [[United States]]
+|-
+|    MXZ || ZGMX || [[Meixian Airport]] || [[Meizhou]], [[Guangdong]], [[China]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MY&quot;/&gt;-MY-
+|-
+|    MYA || YMRY || [[Moruya Airport]] || [[Moruya, New South Wales]], [[Australia]]
+|-
+|    MYB || FOOY || [[Mayumba Airport]] || [[Mayumba]], [[Gabon]]
+|-
+|    MYC || SVBL || [[El Libertador Air Base]] || [[Maracay]], [[Venezuela]]
+|-
+|    MYD || HKML || [[Malindi Airport]] || [[Malindi]], [[Kenya]]
+|-
+|    MYE || RJTQ || [[Miyakejima Airport]] || [[Miyakejima]], [[Japan]]
+|-
+|    MYF || KMYF || [[Montgomery Field]] || [[San Diego, California]], [[United States]]
+|-
+|    MYG || MYMM || [[Mayaguana Airport]] (Abraham's Bay Airport) || [[Abraham's Bay]], [[Mayaguana]], [[Bahamas]]
+|-
+|    MYI || YMUI || [[Murray Island Airport]] || [[Murray Island, Queensland|Murray Island]], [[Torres Strait Islands]], [[Queensland]], [[Australia]]
+|-
+|    MYJ || RJOM || [[Matsuyama Airport]] || [[Matsuyama]], [[Ehime]], [[Japan]]
+|-
+|    MYK ||      || [[May Creek Airport]] || [[May Creek, Alaska|May Creek]], [[Alaska]], [[United States]]
+|-
+|    MYL || KMYL || [[McCall Municipal Airport]] || [[McCall, Idaho]], [[United States]]
+|-
+|    MYM || SYMM || [[Monkey Mountain Airport]] || [[Monkey Mountain, Guyana|Monkey Mountain]], [[Guyana]]
+|-
+|    MYN || OYMB || [[Mareb Airport]] || [[Mareb]], [[Yemen]]
+|-
+|    MYO || YMYR || [[Camballin Airport]] || [[Myroodah|Myroodah Station]], [[Western Australia]], [[Australia]]
+|-
+|    MYP || UTAM || [[Mary Airport]] || [[Mary, Turkmenistan|Mary]], [[Turkmenistan]]
+|-
+|    MYQ || VOMY || [[Mysore Airport]] || [[Mysore]], [[India]]
+|-
+|    MYR || KMYR || [[Myrtle Beach International Airport]] || [[Myrtle Beach, South Carolina]], [[United States]]
+|-
+|    MYS ||      || [[Moyale Airport]] || [[Moyale]], [[Ethiopia]]
+|-
+|    MYT || VYMK || [[Pamti Airport]] || [[Myitkyina]], [[Burma|Myanmar (Burma)]]
+|-
+|    MYU || PAMY || [[Mekoryuk Airport]] || [[Mekoryuk, Alaska]], [[United States]]
+|-
+|    MYV || KMYV || [[Yuba County Airport]] || [[Marysville, California]], [[United States]]
+|-
+|    MYW || HTMT || [[Mtwara Airport]] || [[Mtwara]], [[Tanzania]]
+|-
+|    MYX ||      || [[Menyamya Airport]] || [[Menyamya]], [[Papua New Guinea]]
+|-
+|    MYY || WBGR || [[Miri International Airport]] || [[Miri]], [[Sarawak]], [[Malaysia]]
+|-
+|    MYZ || FWMY || [[Monkey Bay Airport]] || [[Monkey Bay]], [[Malawi]]
+&lt;!-- MYZ is FAA code (not IATA) for Marysville Municipal Airport in Marysville, Kansas, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;MZ&quot;/&gt;-MZ-
+|-
+|    MZA ||      || [[Muzaffarnagar Airport]] || [[Muzaffarnagar]], [[India]]
+|-
+|    MZB || FQMP || [[Mocimboa da Praia Airport]] || [[Mocimboa da Praia]], [[Mozambique]]
+|-
+|    MZC || FOOM || [[Mitzic Airport]] || [[Mitzic]], [[Gabon]]
+|-
+|    MZD ||      || [[Mendez Airport]] || [[Mendez, Ecuador|Mendez]], [[Ecuador]]
+&lt;!-- MZD is not IATA code for Bar Yehuda Airfield (IATA: MTZ) in Metsadah, Israel --&gt;
+|-
+|    MZF || FAMW || [[Wild Coast Sun Airport]] || [[Mzamba]], [[South Africa]]
+|-
+|    MZG || RCQC || [[Magong Airport]] || [[Magong, Taiwan|Magong]], [[Taiwan]]
+|-
+|    MZH || LTAP || [[Merzifon Airport]] || [[Amasya]], [[Turkey]]
+|-
+|    MZI || GAMB || [[Mopti Airport]] || [[Mopti]], [[Mali]]
+|-
+|    MZJ || KMZJ || [[Pinal Airpark]] || [[Marana, Arizona]], [[United States]]
+|-
+|    MZK || NGMK || [[Marakei Airport]] || [[Marakei]], [[Kiribati]]
+|-
+|    MZL || SKMZ || [[La Nubia Airport]] (Santaguida Airport) || [[Manizales]], [[Colombia]]
+|-
+|    MZM || LFSF || [[Frescaty Airport]] || [[Metz]], [[France]]
+|-
+|    MZN ||      || [[Minj Airport]] || [[Minj]], [[Papua New Guinea]]
+|-
+|    MZO || MUMZ || [[Sierra Maestra Airport]] || [[Manzanillo, Cuba|Manzanillo]], [[Cuba]]
+|-
+|    MZP || NZMK || [[Motueka Aerodrome]] || [[Motueka]], [[New Zealand]]
+|-
+|    MZR || OAMS || [[Mazari Sharif Airport]] || [[Mazari Sharif]], [[Afghanistan]]
+|-
+| &lt;s&gt;MZS&lt;/s&gt; ||      || &lt;s&gt;[[Mostyn Airport]]&lt;/s&gt; || &lt;s&gt;[[Mostyn, Malaysia|Mostyn]], [[Malaysia]]&lt;/s&gt;
+|-
+|    MZT || MMMZ || [[General Rafael Buelna International Airport]] || [[Mazatlán]], [[Sinaloa]], [[Mexico]]
+|-
+|    MZU || VEMZ || [[Muzzafarpur Airport]] || [[Muzzafarpur]], [[India]]
+|-
+|    MZV || WBMU || [[Mulu Airport]] || [[Mulu, Malaysia|Mulu]], [[Sarawak]], [[Malaysia]]
+|-
+|    MZW || DAAY || [[Mecheria Airport]] || [[Mecheria]], [[Algeria]]
+|-
+|    MZX || HAML || [[Mena Airport (Ethiopia)|Mena Airport]] || [[Mena, Ethiopia|Mena]], [[Ethiopia]]
+|-
+|    MZY || FAMO || [[Mossel Bay Airport]] || [[Mossel Bay]], [[South Africa]]
+|-
+|    MZZ || KMZZ || [[Marion Municipal Airport (Indiana)|Marion Municipal Airport]] || [[Marion, Indiana]], [[United States]]
+|}
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = [[PDF]] | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|M]]</text>
+      <sha1>c5hnvyfzjkcozcnqg4zf0fkstljxdqr</sha1>
+    </revision>
+  </page>
+</mediawiki>

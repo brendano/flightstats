@@ -1,0 +1,1137 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: K</title>
+    <ns>0</ns>
+    <id>317110</id>
+    <revision>
+      <id>661676200</id>
+      <parentid>660513495</parentid>
+      <timestamp>2015-05-10T09:48:21Z</timestamp>
+      <contributor>
+        <username>Imdashti</username>
+        <id>13319934</id>
+      </contributor>
+      <comment>/* K */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="66762">{{Lists of airports by IATA code}}
+
+==K==
+{{AlphanumericTOC|prefixLink=K|prefixDesc=K|numbers=|sections=}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+! style=&quot;text-align:left;&quot; | Time
+! style=&quot;text-align:left;&quot; | DST
+&lt;!-- comments added to prevent addition of incorrect IATA codes --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KA&quot;/&gt;-KA-
+|-
+|    KAA || FLKS || [[Kasama Airport]] || [[Kasama, Zambia]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KAB || FVKB || [[Kariba Airport]] || [[Kariba, Zimbabwe]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KAC || OSKL || [[Kamishly Airport]] || [[Kamishly]] (Kameshli, Qamishli), [[Syria]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KAD || DNKA || [[Kaduna Airport]] || [[Kaduna]], [[Nigeria]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KAE || PAFE || [[Kake Airport]] (FAA: AFE) || [[Kake, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KAF ||      || [[Karato Airport]] || [[Karato, Papua New Guinea]] || [[UTC+11:00]] ||
+|-
+|    KAG || RKNN || [[Gangneung Airbase]] || [[Kangnung]] (Gangneung), [[South Korea]] || [[Korea Standard Time|UTC+09:00]] ||
+|-
+|    KAI || SYKA || [[Kaieteur Airport]] || [[Kaieteur]], [[Guyana]] || [[UTC−04:00]] ||
+&lt;!-- KAI is not IATA code for King Abdulaziz International Airport (IATA: JED, ICAO: OEJN) in Jeddah, Saudi Arabia --&gt;
+|-
+|    KAJ || EFKI || [[Kajaani Airport]] || [[Kajaani]], Finland || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KAK ||      || [[Kar Airport]] || [[Kar, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KAL || PAKV || [[Kaltag Airport]] || [[Kaltag, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KAM || ODKM || [[Kamaran Airport]] || [[Kamaran]], [[Yemen]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    KAN || DNKN || [[Mallam Aminu Kano International Airport]] || [[Kano]], [[Nigeria]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KAO || EFKS || [[Kuusamo Airport]] || [[Kuusamo]], Finland || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KAP || FZSK || [[Kapanga Airport]] || [[Kapanga]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+&lt;!-- KAQ is not IATA code for Kangersuatsiaq Heliport (ICAO: BGKS) in Kangersuatsiaq, Greenland --&gt;
+|-
+|    KAR || SYKM || [[Kamarang Airport]] || [[Kamarang]], [[Guyana]] || [[UTC−04:00]] ||
+|-
+|    KAS || FYKB || [[Karasburg Airport]] || [[Karasburg]], [[Namibia]] || [[West Africa Time|UTC+01:00]] || Sep-Apr
+|-
+|    KAT || NZKT || [[Kaitaia Airport]] || [[Kaitaia]], New Zealand || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|-
+|    KAU || EFKA || [[Kauhava Airport]] || [[Kauhava]], Finland || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KAV || SVKA || [[Kavanayén Airport]] || [[Kavanayén]], [[Bolívar (state)|Bolívar]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+|    KAW || VYKT || [[Kawthaung Airport]] || [[Kawthaung]], [[Myanmar]] (Burma) || [[Myanmar Standard Time|UTC+06:30]] ||
+|-
+|    KAX || YKBR || [[Kalbarri Airport]] || [[Kalbarri, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    KAY || NFNW || [[Wakaya Island Airport]] || [[Wakaya Island]], [[Fiji]] || [[UTC+12:00]] || Nov-Jan
+|-
+|    KAZ || WAMK || [[Kao Airport]] || [[Kao, Indonesia|Kao]], [[Halmahera]], [[North Maluku]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KB&quot;/&gt;-KB-
+|-
+|    KBA || GFKB || [[Kabala Airport]] || [[Kabala, Sierra Leone]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    KBC ||      || [[Birch Creek Airport]] (FAA: Z91) || [[Birch Creek, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KBD ||      || [[Kimberley Downs Airport]] || [[Kimberley Downs]], [[Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    KBE ||      || [[Bell Island Hot Springs Seaplane Base]] || [[Bell Island, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KBF || WABK || [[Karubaga Airport]] || [[Karubaga]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    KBG || HUKF || [[Kabalega Falls Airport]] || [[Kabalega Falls]], [[Uganda]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    KBH || OPKL || [[Kalat Airport]] || [[Kalat, Pakistan]] || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    KBI || FKKB || [[Kribi Airport]] || [[Kribi]], [[Cameroon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KBJ || YKCA || [[Kings Canyon Airport]] || [[Kings Canyon, Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    KBL || OAKB || [[Kabul International Airport]] || [[Kabul]], [[Afghanistan]] || [[Time in Afghanistan|UTC+04:30]] ||
+|-
+|    KBM || AYKB || [[Kabwum Airport]] || [[Kabwum]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KBN || FZWT || [[Tunta Airport]] || [[Kabinda]], [[Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KBO || FZRM || [[Kabalo Airport]] || [[Kabalo]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KBP || UKBB || [[Boryspil International Airport]] || [[Kiev]], [[Ukraine]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KBQ || FWKG || [[Kasungu Airport]] || [[Kasungu]], [[Malawi]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KBR || WMKC || [[Sultan Ismail Petra Airport]] || [[Kota Bharu]], [[Kelantan]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    KBS || GFBO || [[Bo Airport]] || [[Bo, Sierra Leone]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    KBT ||      || [[Kaben Airport]] || [[Maloelap Atoll]], [[Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    KBU || WRBK || [[Stagen Airport]] || [[Kotabaru]], [[Kalimantan]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|-
+|    KBV || VTSG || [[Krabi Airport]] || [[Krabi]], [[Thailand]] || [[UTC+07:00]] ||
+|-
+|    KBW ||      || [[Chignik Bay Seaplane Base]] (FAA: Z78) || [[Chignik, Alaska]], United States. || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KBX || WASU || [[Kambuaya Airport]] || [[Kambuaya]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    KBY || YKBY || [[Streaky Bay Airport]] || [[Streaky Bay, South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+|    KBZ || NZKI || [[Kaikoura Airport]] || [[Kaikoura]], New Zealand || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KC&quot;/&gt;-KC-
+|-
+|    KCA || ZWKC || [[Kuqa Qiuci Airport]] || [[Kuqa County|Kuqa]], [[Xinjiang]], China || [[Time in China|UTC+06:00]] ||
+|-
+|    KCB || SMTP || [[Tepoe Airstrip]] || [[Kasikasima]], [[Suriname]] || [[UTC−03:00]] ||
+|-
+|    KCC ||      || [[Coffman Cove Seaplane Base]] || [[Coffman Cove, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KCD ||      || [[Kamur Airport]] || [[Kamur]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    KCE || YCSV || [[Collinsville Airport]] || [[Collinsville, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    KCF ||      || [[Kadanwari Airport]] || [[Kadanwari]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+| &lt;s&gt;KCG&lt;/s&gt; ||  || &lt;s&gt;[[Chignik Fisheries Airport]]&lt;/s&gt; &lt;small&gt;(closed)&lt;/small&gt; || [[Chignik, Alaska]], United States.
+|-
+|    KCH || WBGG || [[Kuching International Airport]] || [[Kuching]], [[Sarawak]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    KCI ||      || [[Kon Airport]] || [[Kon, Timor-Leste]] || [[Time in East Timor|UTC+09:00]] ||
+|-
+|    KCJ ||      || [[Komaio Airport]] || [[Komaio]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KCK || UIKK || [[Kirensk Airport]] || [[Kirensk]], [[Irkutsk Oblast]], [[Russia]] || [[Irkutsk Time|UTC+08:00]] ||
+&lt;!-- KCK was also the IATA code of the [[Fairfax Airport]] (closed 1985), [[Kansas City, Kansas]], United States --&gt;
+|-
+|    KCL ||      || [[Chignik Lagoon Airport]] (Chignik Flats Airport) || [[Chignik Lagoon, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KCM || LTCN || [[Kahramanmaras Airport]] || [[Kahramanmaras]], Turkey || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KCN ||      || [[Chernofski Harbor Seaplane Base]] || [[Chernofski Harbor]], [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KCO || LTBQ || [[Cengiz Topel Naval Air Station]] || [[İzmit|Kocaeli]], Turkey || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KCP ||      || [[Kamenets-Podolskiy Airport]] || [[Kamianets-Podilskyi]], [[Ukraine]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KCQ ||      || [[Chignik Lake Airport]] (FAA: A79) || [[Chignik Lake, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KCR ||      || [[Colorado Creek Airport]] || [[Colorado Creek]], [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KCS || YKCS || [[Kings Creek Airport]] || [[Kings Creek, Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    KCT || VCCK || [[Koggala Airport]] || [[Galle]], [[Sri Lanka]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    KCU || HUMI || [[Masindi Airport]] || [[Masindi]], [[Uganda]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    KCZ || RJOK || [[Kōchi Ryōma Airport]] || [[Kōchi, Kōchi|Kōchi]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KD&quot;/&gt;-KD-
+|-
+|    KDA || GOGK || [[Kolda North Airport]] || [[Kolda]], [[Senegal]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    KDB || YKBL || [[Kambalda Airport]] || [[Kambalda, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    KDC || DBBK || [[Kandi Airport]] || [[Kandi, Benin|Kandi]], [[Benin]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KDD || OPKH || [[Khuzdar Airport]] || [[Khuzdar]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    KDE || AYOW || [[Koroba Airport]] || [[Koroba]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KDF ||      || [[Kouba Airport]] || [[Kouba, Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    KDG ||      || [[Kardjali Airport]] || [[Kardjali]], [[Bulgaria]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KDH || OAKN || [[Kandahar International Airport]] || [[Kandahar]], [[Afghanistan]] || [[Time in Afghanistan|UTC+04:30]] ||
+|-
+|    KDI || WAWW || [[Wolter Monginsidi Airport]] || [[Kendari]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    KDJ || FOGJ || [[Ville Airport]] ([[Ndjolé Airport]]) || [[Ndjolé]], [[Gabon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KDK || PAKD || [[Kodiak Municipal Airport]] || [[Kodiak, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KDL || EEKA || [[Kärdla Airport]] || [[Kärdla]], [[Hiiumaa]], [[Estonia]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KDM || VRMT || [[Kaadedhdhoo Airport]] || [[Kaadedhdhoo Island]], [[Gaafu Dhaalu Atoll]], [[Maldives]] || [[UTC+05:00]] ||
+|-
+|    KDN || FOGE || [[Ndende Airport]] || [[Ndende, Gabon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KDO || VRMK || [[Kadhdhoo Airport]] || [[Kadhdhoo Island]], [[Laamu Atoll]], [[Maldives]] || [[UTC+05:00]] ||
+|-
+|    KDP || AYNN || [[Kandep Airport]] || [[Kandep]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KDQ || AYTO || [[Kamberatoro Airport]] || [[Kamberatoro]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KDR || AYKC || [[Kandrian Airport]] || [[Kandrian]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KDS ||      || [[Kamaran Downs Airport]] || [[Kamaran Downs]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    KDT || VTBK || [[Kamphaeng Saen Airport]] || [[Nakhon Pathom]], [[Thailand]] || [[UTC+07:00]] ||
+|-
+|    KDU || OPSD || [[Skardu Airport]] || [[Skardu]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    KDV || NFKD || [[Vunisea Airport]] (Kandavu Airport) || [[Vunisea]], [[Kadavu Island]], [[Fiji]] || [[UTC+12:00]] || Nov-Jan
+|-
+|    KDY ||      || [[Teply Klyuch Airport]] || [[Khadynga]], [[Sakha Republic]], [[Russia]] || [[Yakutsk Time|UTC+09:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KE&quot;/&gt;-KE-
+|-
+|    KEA ||      || [[Keisah Airport]] || [[Keisah]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    KEB ||      || [[Nanwalek Airport]] (English Bay Airport) || [[Nanwalek, Alaska|Nanwalek]] (English Bay), [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KEC || FZQG || [[Kasenga Airport]] || [[Kasenga]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KED || GQNK || [[Kaédi Airport]] || [[Kaédi]], [[Mauritania]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    KEE || FCOK || [[Kelle Airport]] || [[Kelle]], [[Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KEF || BIKF || [[Keflavík International Airport]] || [[Keflavík]] (near [[Reykjavík]]), [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    KEG || AYLG || [[Keglsugl Airport]] || [[Keglsugl]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KEH ||      || [[Kenmore Air Harbor]] (FAA: S60) || [[Kenmore, Washington]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    KEI || WAKP || [[Kepi Airport]] || [[Kepi, Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    KEJ || UNEE || [[Kemerovo Airport]] || [[Kemerovo]], [[Kemerovo Oblast]], Russia || [[Krasnoyarsk Time|UTC+07:00]] ||
+|-
+|    KEK ||      || [[Ekwok Airport]] || [[Ekwok, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KEL || EDHK || [[Kiel Holtenau Airport]] || [[Kiel]], [[Schleswig-Holstein]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KEM || EFKE || [[Kemi-Tornio Airport]] || [[Kemi]] / [[Tornio]], Finland || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KEN || GFKE || [[Kenema Airport]] || [[Kenema]], [[Sierra Leone]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    KEO || DIOD || [[Odienné Airport]] || [[Odienné]], [[Côte d'Ivoire]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    KEP || VNNG || [[Nepalgunj Airport]] (Mahendra Airport) || [[Nepalgunj]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    KEQ || WASE || [[Kebar Airport]] || [[Kebar]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    KER || OIKK || [[Kerman Airport]] || [[Kerman]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    KES || CZEE || [[Kelsey Airport]] || [[Kelsey, Manitoba]], Canada || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    KET || VYKG || [[Kengtung Airport]] || [[Kengtung]], [[Myanmar]] (Burma) || [[Myanmar Standard Time|UTC+06:30]] ||
+|-
+|    KEV || EFHA || [[Halli Airport]] || [[Kuorevesi]], Finland || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KEW ||      || [[Keewaywin Airport]] (TC LID: CPV8) || [[Keewaywin, Ontario]], Canada || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    KEX || AYNB || [[Kanabea Airport]] || [[Kanabea]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KEY || HKKR || [[Kericho Airport]] || [[Kericho]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    KEZ ||      || [[Ali Al Salem Airport]] || [[Ali Al Salem]], [[Kuwait]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KF&quot;/&gt;-KF-
+|-
+|    KFA || GQNF || [[Kiffa Airport]] || [[Kiffa]], [[Mauritania]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    KFE || YFDF || [[Fortescue Dave Forrest Airport]] || [[Cloudbreak, Western Australia|Cloudbreak]]/ [[Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    KFG || YKKG || [[Kalkurung Airport]] || [[Daguragu, Northern Territory|Daguragu]] / [[Kalkaringi, Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    KFP || PAKF || [[False Pass Airport]] || [[False Pass, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KFS || LTAL || [[Kastamonu Airport]] || [[Kastamonu]], Turkey || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KG&quot;/&gt;-KG-
+|-
+|    KGA || FZUA || [[Kananga Airport]] || [[Kananga]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KGB || AYOE || [[Konge Airport]] || [[Konge, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KGC || YKSC || [[Kingscote Airport]] || [[Kingscote, South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+|    KGD || UMKK || [[Khrabrovo Airport]] || [[Kaliningrad]], Russia || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    KGE || AGKG || [[Kagau Island Airport]] || [[Kagau Island]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+|    KGF || UAKK || [[Sary-Arka Airport]] || [[Karaganda]], [[Kazakhstan]] || [[Time in Kazakhstan|UTC+06:00]] ||
+|-
+|    KGG || GOTK || [[Kédougou Airport]] || [[Kédougou]], [[Senegal]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    KGH || AYJO || [[Yongai Airport]] || [[Yongai]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KGI || YPKG || [[Kalgoorlie-Boulder Airport]] || [[Kalgoorlie]], [[Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    KGJ || FWKA || [[Karonga Airport]] || [[Karonga]], [[Malawi]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KGK || PAJZ || [[Koliganek Airport]] (FAA: JZZ) || [[Koliganek, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KGL || HRYR || [[Kigali International Airport]] (Kanombe Airport) || [[Kigali]], [[Rwanda]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KGN || FZOK || [[Kasongo Lunda Airport]] || [[Kasongo Lunda]], [[Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KGO || UKKG || [[Kirovograd Airport]] || [[Kirovohrad]], [[Ukraine]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KGP || USRK || [[Kogalym Airport]] || [[Kogalym]], [[Tyumen Oblast]], Russia || [[Yekaterinburg Time|UTC+05:00]] ||
+|-
+|    KGQ || BGKS || [[Kangersuatsiaq Heliport]] || [[Kangersuatsiaq]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    KGR ||      || [[Kulgera Airport]] || [[Kulgera, Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    KGS || LGKO || [[Kos Island International Airport]] || [[Kos Island]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KGU || WBKG || [[Keningau Airport]] || [[Keningau]], [[Sabah]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    KGW || AYKQ || [[Kagi Airport]] || [[Kagi, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KGX ||      || [[Grayling Airport]] || [[Grayling, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KGY || YKRY || [[Kingaroy Airport]] || [[Kingaroy, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    KGZ ||      || [[Glacier Creek Airport]] || [[Glacier Creek]], [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KH&quot;/&gt;-KH-
+|-
+|    KHA || OITH || [[Khaneh Airport]] (Piranshahr Airport) || [[Khaneh]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    KHC || UKFK || [[Kerch Airport]] (Voykovo Airport) || [[Kerch]], [[Ukraine]] || [[Moscow Time|UTC+03:00]] ||
+|-
+|    KHD || OICK || [[Khorramabad Airport]] || [[Khorramabad]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    KHE ||      || [[Kherson Airport]] || [[Kherson]], [[Ukraine]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KHG || ZWSH || [[Kashgar Airport]] (Kashi Airport) || [[Kashgar]], [[Xinjiang]], China || [[Time in China|UTC+06:00]] ||
+|-
+|    KHH || RCKH || [[Kaohsiung International Airport]] || [[Kaohsiung]], [[Republic of China|Taiwan]] || [[UTC+07:00]] ||
+|-
+|    KHI || OPKC || [[Jinnah International Airport]] (Quaid-e-Azam Int'l) || [[Karachi]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    KHJ || EFKJ || [[Kauhajoki Airport]] || [[Kauhajoki]], Finland || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KHK || OIBQ || [[Khark Island Airport]] || [[Khark Island]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    KHL || VGKN || [[Khulna Airport]] || [[Khulna]], [[Bangladesh]] || [[Bangladesh Standard Time|UTC+06:00]] ||
+|-
+|    KHM || VYKI || [[Khamti Airport]] || [[Singkaling Hkamti|Khamti]], [[Myanmar]] (Burma) || [[Myanmar Standard Time|UTC+06:30]] ||
+|-
+|    KHN || ZSCN || [[Nanchang Changbei International Airport]] || [[Nanchang]], [[Jiangxi]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    KHO ||      || [[Khoka Moya Airport]] || [[Khoka Moya]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    KHQ || BGKQ || [[Kullorsuaq Heliport]] || [[Kullorsuaq]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    KHR || ZMHH || [[Kharkhorin Airport]] || [[Kharkhorin]], [[Mongolia]] || [[Time in Mongolia|UTC+08:00]] || Mar-Sep
+|-
+|    KHS || OOKB || [[Khasab Airport]] || [[Khasab]], [[Oman]] || [[UTC+04:00]] ||
+|-
+|    KHT || OAKS || [[Khost Airport]] || [[Khost]], [[Afghanistan]] || [[Time in Afghanistan|UTC+04:30]] ||
+|-
+|    KHU ||      || [[Kremenchuk Airport]] || [[Kremenchuk]], [[Ukraine]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KHV || UHHH || [[Khabarovsk Novy Airport]] || [[Khabarovsk]], Russia || [[Vladivostok Time|UTC+10:00]] ||
+|-
+|    KHW || FBKR || [[Khwai River Lodge Airport]] || [[Khwai River Lodge]], [[Botswana]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KHZ || NTKA || [[Kauehi Airport]] || [[Kauehi]], [[French Polynesia]] || [[Time in France|UTC−10:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KI&quot;/&gt;-KI-
+|-
+|    KIA ||      || [[Kaiapit Airport]] || [[Kaiapit]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KIB ||      || [[Ivanof Bay Seaplane Base]] || [[Ivanof Bay, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KIC || KKIC || [[Mesa Del Rey Airport]] || [[King City, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    KID || ESMK || [[Kristianstad Airport]] || [[Kristianstad]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KIE || AYKT || [[Aropa Airport]] || [[Kieta]], [[Bougainville Island]], [[Papua New Guinea]] || [[UTC+11:00]] ||
+|-
+|    KIF ||      || [[Kingfisher Lake Airport]] || [[Kingfisher Lake, Ontario]], Canada || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    KIG ||      || [[Koingnaas Airport]] || [[Koingnaas]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    KIH || OIBK || [[Kish International Airport]] || [[Kish Island]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    KII || AYLI || [[Kibuli Airport]] || [[Kibuli, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KIJ || RJSN || [[Niigata Airport]] || [[Niigata, Niigata|Niigata]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    KIK || ORKK || [[Kirkuk Airport]] || [[Kirkuk]], [[Iraq]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    KIL ||      || [[Kilwa Airport]] || [[Kilwa, Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KIM || FAKM || [[Kimberley Airport]] || [[Kimberley, South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    KIN || MKJP || [[Norman Manley International Airport]] || [[Kingston, Jamaica]] || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+|    KIO ||      || [[Kili Airport]] (FAA: Q51) || [[Kili Island]], [[Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    KIP || KCWC || [[Kickapoo Downtown Airport]] (FAA: CWC) || [[Wichita Falls, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    KIQ || AYRA || [[Kira Airport]] || [[Kira, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KIR || EIKY || [[Kerry Airport]] || [[Tralee]], [[County Kerry]], Ireland || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    KIS || HKKI || [[Kisumu Airport]] || [[Kisumu]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    KIT || LGKC || [[Kithira Airport]] || [[Kithira]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KIU ||      || [[Kiunga Airport (Kenya)|Kiunga Airport]] || [[Kiunga, Kenya]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    KIV || LUKK || [[Chişinău International Airport]] || [[Chişinău]], [[Moldova]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KIW || FLSO || [[Southdowns Airport]] || [[Kitwe]], [[Zambia]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KIX || RJBB || [[Kansai International Airport]] || [[Osaka]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    KIY || HTKI || [[Kilwa Masoko Airport]] || [[Kilwa Masoko]], [[Tanzania]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    KIZ ||      || [[Kikinonda Airport]] || [[Kikinonda]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KJ&quot;/&gt;-KJ-
+|-
+|    KJA || UNKL || [[Krasnoyarsk Yemelyanovo Airport]] || [[Krasnoyarsk]], Russia || [[Krasnoyarsk Time|UTC+07:00]] ||
+|-
+|    KJH ||      || [[Kaili Huangping Airport]] || [[Kaili City|Kaili]], [[Guizhou]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    KJI || ZWKN || [[Kanas Airport]] || [[Burqin County]], [[Xinjiang]], China || [[Time in China|UTC+06:00]] ||
+|-
+|    KJK || EBKT || [[Kortrijk-Wevelgem International Airport]] || [[Wevelgem]], Belgium || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KJP || ROKR || [[Kerama Airport]] || [[Kerama Islands]], [[Okinawa]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    KJU ||      || [[Kamiraba Airport]] || [[Kamiraba]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KK&quot;/&gt;-KK-
+|-
+|    KKA || PAKK || [[Koyuk Alfred Adams Airport]] || [[Koyuk, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KKB ||      || [[Kitoi Bay Seaplane Base]] || [[Kitoi Bay]], [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KKC || VTUK || [[Khon Kaen Airport]] || [[Khon Kaen]], [[Thailand]] || [[UTC+07:00]] ||
+|-
+|    KKD || AYKO || [[Kokoda Airport]] || [[Kokoda]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KKE || NZKK || [[Bay of Islands Airport]] (Kerikeri Airport) || [[Kerikeri]], New Zealand || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|-
+|    KKG ||      || [[Konawaruk Airport]] || [[Konawaruk]], [[Guyana]] || [[UTC−04:00]] ||
+|-
+|    KKH || PADY || [[Kongiganak Airport]] (FAA: DUY) || [[Kongiganak, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KKI ||      || [[Akiachak Seaplane Base]] || [[Akiachak, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KKJ || RJFR || [[Kokura Airport]] || [[Kita Kyūshū]], [[Kyūshū]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    KKK ||      || [[Kalakaket Creek Air Station]] (FAA: 1KC) || [[Kalakaket Creek]], [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KKL ||      || [[Karluk Lake Seaplane Base]] || [[Karluk Lake]], [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KKM || VTBH || [[Sa Pran Nak Airport]] || [[Lop Buri]], [[Thailand]] || [[UTC+07:00]] ||
+|-
+|    KKN || ENKR || [[Kirkenes Airport, Høybuktmoen]] || [[Kirkenes]], [[Finnmark]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KKO || NZKO || [[Kaikohe Aerodrome]] || [[Kaikohe]], New Zealand || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|-
+|    KKP || YKLB || [[Koolburra Airport]] || [[Koolburra]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    KKR || NTGK || [[Kaukura Atoll Airport]] || [[Kaukura Atoll]], [[French Polynesia]] || [[Time in France|UTC−10:00]] ||
+|-
+|    KKT ||      || [[Kentland Municipal Airport]] (FAA: 50I) || [[Kentland, Indiana]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    KKU ||      || [[Ekuk Airport]] || [[Ekuk, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KKW || FZCA || [[Kikwit Airport]] || [[Kikwit]], [[Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KKX || RJKI || [[Kikaiga Shima Airport]] || [[Kikaiga Shima]], [[Kikai-Shima Island]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    KKY || EIKL || [[Kilkenny Airport]] || [[Kilkenny]], Ireland || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    KKZ || VDKK || [[Koh Kong Airport]] || [[Koh Kong (city)|Koh Kong]], [[Koh Kong Province]], [[Cambodia]] || [[UTC+07:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KL&quot;/&gt;-KL-
+|-
+|    KLA || HUKC || [[Kampala Airport]] || [[Kampala]], [[Uganda]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    KLB || FLKL || [[Kalabo Airport]] || [[Kalabo]], [[Zambia]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KLC || GOOK || [[Kaolack Airport]] || [[Kaolack]], [[Senegal]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    KLD || UUEM || [[Migalovo|Migalovo Air Base]] || [[Tver Oblast]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    KLE || FKKH || [[Kaélé Airport]] || [[Kaélé]], [[Cameroon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KLF || UUBC || [[Grabtsevo Airport]] || [[Kaluga]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    KLG || PALG || [[Kalskag Airport]] || [[Upper Kalskag, Alaska|Kalskag, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KLH || VAKP || [[Kolhapur Airport]] || [[Kolhapur]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    KLI || FZFP || [[Kota Koli Airport]] || [[Kota Koli]], [[Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KLJ || EYKL || [[Klaipeda Airport]] || [[Klaipėda]], [[Lithuania]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KLK || HKFG || [[Kalokol Airport]] || [[Kalokol]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    KLL ||      || [[Levelock Airport]] (FAA: 9Z8) || [[Levelock, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KLN || PALB || [[Larsen Bay Airport]] (FAA: 2A3) || [[Larsen Bay, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KLO || RPVK || [[Kalibo International Airport]] || [[Kalibo]], [[Aklan]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    KLQ || WIPV || [[Keluang Airport]] || [[Keluang]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+&lt;!-- KLQ is not IATA code for Kullorsuaq Heliport (ICAO: BGKQ) in Kullorsuaq, Greenland --&gt;
+|-
+|    KLR || ESMQ || [[Kalmar Airport]] || [[Kalmar]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KLS || KKLS || [[Southwest Washington Regional Airport]] (was Kelso-Longview) || [[Kelso, Washington]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    KLU || LOWK || [[Klagenfurt Airport]] (Klagenfurt/Wörthersee Airport) || [[Klagenfurt]], Austria || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KLV || LKKV || [[Karlovy Vary Airport]] || [[Karlovy Vary]], [[Czech Republic]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KLW || PAKW || [[Klawock Airport]] (FAA: AKW) || [[Klawock, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KLX || LGKL || [[Kalamata Airport]] || [[Kalamata]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KLY || FZOD || [[Kalima Airport]] (Kinkungwa Airport, Kakungwa Airport) || [[Kalima, Democratic Republic of the Congo|Kalima]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KLZ || FAKZ || [[Kleinzee Airport]] || [[Kleinzee]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KM&quot;/&gt;-KM-
+|-
+|    KMA || AYKM || [[Kerema Airport]] || [[Kerema]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KMB ||      || [[Koinambe Airport]] || [[Koinambe]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KMC || OEKK || [[King Khaled Military City Airport]] || [[King Khaled Military City]], [[Saudi Arabia]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    KMD ||      || [[Mandji Airport]] || [[Mandji]], [[Gabon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KME || HRZA || [[Cyangugu Airport]] || [[Cyangugu]], [[Rwanda]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KMF || AYKD || [[Kamina Airport (Papua New Guinea)|Kamina Airport]] || [[Kamina, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KMG || ZPPP || [[Kunming Changshui International Airport]] || [[Kunming]], [[Yunnan]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    KMH || FAKU || [[Johan Pienaar Airport]] || [[Kuruman]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    KMI || RJFM || [[Miyazaki Airport]] || [[Miyazaki, Miyazaki|Miyazaki]], [[Miyazaki Prefecture]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    KMJ || RJFT || [[Kumamoto Airport]] || [[Mashiki, Kumamoto|Mashiki]], [[Kumamoto Prefecture]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    KMK || FCPA || [[Makabana Airport]] || [[Makabana]], [[Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KML || YKML || [[Kamileroi Airport]] || [[Kamileroi]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    KMM ||      || [[Kimam Airport]] || [[Kimam]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    KMN || FZSA || [[Kamina Air Base]] || [[Kamina]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KMO || PAMB || [[Manokotak Airport]] (FAA: MBA) || [[Manokotak, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KMP || FYKT || [[Keetmanshoop Airport]] || [[Keetmanshoop]], [[Namibia]] || [[West Africa Time|UTC+01:00]] || Sep-Apr
+|-
+|    KMQ || RJNK || [[Komatsu Airport]] (Kanazawa Airport) || [[Komatsu, Ishikawa]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    KMR || AYRI || [[Karimui Airport]] || [[Karimui]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KMS || DGSI || [[Kumasi Airport]] || [[Kumasi]], [[Ghana]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    KMT ||      || [[Kampot Airport]] || [[Kampot (city)|Kampot]], [[Kampot Province]], [[Cambodia]] || [[UTC+07:00]] ||
+|-
+|    KMU || HCMK || [[Kisimayu Airport]] || [[Kisimayu]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    KMV || VYKL || [[Kalemyo Airport]] || [[Kalemyo]], [[Myanmar]] (Burma) || [[Myanmar Standard Time|UTC+06:30]] ||
+|-
+|    KMW || UUBA || [[Kostroma Airport]] || [[Kostroma]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    KMX || OEKM || [[King Khaled Air Base]] || [[Khamis Mushait]], [[Saudi Arabia]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    KMY ||      || [[Moser Bay Seaplane Base]] || [[Moser Bay]], [[Kodiak Island Borough, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KMZ || FLKO || [[Kaoma Airport]] || [[Kaoma, Zambia]] || [[Central Africa Time|UTC+02:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KN&quot;/&gt;-KN-
+|-
+|    KNA || SCVM || [[Viña del Mar Airport]] || [[Viña del Mar]], [[Chile]] || [[Time in Chile|UTC−03:00]] ||
+|-
+|    KNB || KKNB || [[Kanab Municipal Airport]] || [[Kanab, Utah]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    KND || FZOA || [[Kindu Airport]] || [[Kindu]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KNE || AYKG || [[Kanainj Airport]] || [[Kanainj]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KNF || EGYM || [[RAF Marham]] || [[Marham]], [[Norfolk]], [[East Anglia]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    KNG || WASK || [[Kaimana Airport]] || [[Kaimana]], [[Papua (province)|Papua]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    KNH || RCBS || [[Kinmen Airport]] || [[Kinmen]], [[Republic of China|Taiwan]] || [[Time in Taiwan|UTC+08:00]] ||
+|-
+|    KNI || YKNG || [[Katanning Airport]] || [[Katanning, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    KNJ || FCBK || [[Kindamba Airport]] || [[Kindamba]], [[Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KNK || PFKK || [[Kokhanok Airport]] (FAA: 9K2) || [[Kokhanok, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KNL ||      || [[Kelanoa Airport]] || [[Kelanoa]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KNM || FZTK || [[Kaniama Airport]] || [[Kaniama]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KNN || GUXN || [[Kankan Airport]] (Diankana Airport) || [[Kankan]], [[Guinea]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    KNO || WIMM || [[Kuala Namu International Airport]] || [[Medan]], Indonesia || [[Time in Indonesia|UTC+07:00]] ||
+&lt;!-- IATA KNO was deprecated in 2007 and has been reallocated --&gt;
+|-
+|    KNP || FNCP || [[Capanda Airport]] || [[Capanda]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KNQ || NWWD || [[Koné Airport]] || [[Koné, New Caledonia]] || [[Time in France|UTC+11:00]] ||
+|-
+|    KNR || OIBJ || [[Jam Airport]] || [[Kangan]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    KNS || YKII || [[King Island Airport]] || [[Currie, Tasmania]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    KNT || KTKX || [[Kennett Memorial Airport]] (FAA: TKX) || [[Kennett, Missouri]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    KNU || VIKA || [[Kanpur Airport]] || [[Kanpur]], [[Uttar Pradesh]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    KNW || PANW || [[New Stuyahok Airport]] || [[New Stuyahok, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KNX || YPKU || [[Kununurra Airport]] || [[Kununurra, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    KNZ || GAKA || [[Kéniéba Airport]] || [[Kéniéba]], [[Mali]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KO&quot;/&gt;-KO-
+|-
+|    KOA || PHKO || [[Kona International Airport]] || [[Kailua, Hawaii County, Hawaii|Kailua]] / [[Kona, Hawaii]], United States || [[Hawaii–Aleutian Time Zone|UTC−10:00]] ||
+|-
+|    KOB || FKKM || [[Foumban Airport]] (Koutaba Airport) || [[Koutaba]], [[Cameroon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KOC || NWWK || [[Koumac Airport]] || [[Koumac]], [[New Caledonia]] || [[Time in France|UTC+11:00]] ||
+|-
+|    KOD ||      || [[Kotabangun Airport]] || [[Kotabangun]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    KOE || WATT || [[El Tari Airport]] || [[Kupang]], [[East Nusa Tenggara]], [[Indonesia]] || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    KOF || FAKP || [[Komatipoort Airport]] || [[Komatipoort]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    KOG || VLKG || [[Khong Airport]] || [[Khong Island|Khong]], [[Laos]] || [[UTC+07:00]] ||
+|-
+|    KOH || YKLA || [[Koolatah Airport]] || [[Koolatah]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    KOI || EGPA || [[Kirkwall Airport]] || [[Kirkwall]], [[Orkney Islands]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    KOJ || RJFK || [[Kagoshima Airport]] || [[Kagoshima]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    KOK || EFKK || [[Kokkola-Pietarsaari Airport]] || [[Kokkola]] / [[Jakobstad]], Finland || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KOL ||      || [[Koumala Airport]] || [[Koumala]], [[Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KOM ||      || [[Komo-Manda Airport]] || [[Komo-Manda]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KON ||      || [[Kon Tum Airport]] || [[Kon Tum]], [[Vietnam]] || [[UTC+07:00]] ||
+|-
+|    KOO || FZRQ || [[Kongolo Airport]] || [[Kongolo, Tanganyika District|Kongolo]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KOP || VTUW || [[Nakhon Phanom Airport]] || [[Nakhon Phanom]], [[Thailand]] || [[UTC+07:00]] ||
+|-
+|    KOQ ||      || [[Koethen Airport]] || [[Koethen]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KOR || AYRO || [[Kokoro Airport]] || [[Kokoro]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KOS || VDSV || [[Sihanoukville Airport]] (Kompong Som) || [[Sihanoukville (city)|Sihanoukville]], [[Cambodia]] || [[UTC+07:00]] ||
+|-
+|    KOT || PFKO || [[Kotlik Airport]] (FAA: 2A9) || [[Kotlik, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KOU || FOGK || [[Koulamoutou Airport]] || [[Koulamoutou]], [[Gabon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    KOV || UACK || [[Kokshetau Airport]] || [[Kokshetau]], [[Kazakhstan]] || [[Time in Kazakhstan|UTC+06:00]] ||
+|-
+|    KOW || ZSGZ || [[Ganzhou Huangjin Airport]] || [[Ganzhou]], [[Jiangxi]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    KOX || WABN || [[Kokonao Airport]] || [[Kokonao]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    KOY ||      || [[Olga Bay Seaplane Base]] || [[Olga Bay]], [[Kodiak Island Borough]], [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KOZ ||      || [[Ouzinkie Airport]] (FAA: 4K5) || [[Ouzinkie, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KP&quot;/&gt;-KP-
+|-
+|    KPA || AYKG || [[Kopiago Airport]] || [[Kopiago]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KPB ||      || [[Point Baker Seaplane Base]] || [[Point Baker, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KPC || PAPC || [[Port Clarence Coast Guard Station]] || [[Port Clarence, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KPE || AYYP || [[Yapsiei Airport]] || [[Yapsiei]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KPF || AYDL || [[Kondubol Airport]] || [[Kondubol]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KPG ||      || [[Kurupung Airport]] || [[Kurupung]], [[Guyana]] || [[UTC−04:00]] ||
+|-
+|    KPH ||      || [[Pauloff Harbor Seaplane Base]] || [[Sanak Island]], [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KPI || WBGP || [[Kapit Airport]] || [[Kapit]], [[Sarawak]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    KPL ||      || [[Kapal Airport]] || [[Kapal, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KPM || AYAQ || [[Kompiam Airport]] || [[Kompiam]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KPN || PAKI || [[Kipnuk Airport]] (FAA: IIK) || [[Kipnuk, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KPO || RKTH || [[Pohang Airport]] || [[Pohang]], [[South Korea]] || [[Korea Standard Time|UTC+09:00]] ||
+|-
+|    KPP || YKPR || [[Kalpowar Airport]] || [[Kalpowar]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    KPR ||      || [[Port Williams Seaplane Base]] || [[Port Williams, Alaska|Port Williams]], [[Kodiak Island Borough]], [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KPS || YKMP || [[Kempsey Airport]] || [[Kempsey, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    KPT ||      || [[Jackpot Airport]] (Hayden Field) (FAA: 06U) || [[Jackpot, Nevada]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    KPV || PAPE || [[Perryville Airport]] (FAA: PEV) || [[Perryville, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KPY ||      || [[Port Bailey Seaplane Base]] || [[Port Bailey]], [[Kodiak Island Borough, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KQ&quot;/&gt;-KQ-
+|-
+|    KQA ||      || [[Akutan Seaplane Base]] || [[Akutan, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KQB ||      || [[Koonibba Airport]] || [[Koonibba]], [[South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+|    KQL || AYOL || [[Kol Airport]] || [[Kol, Papua New Guinea]] || [[UTC+10:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KR&quot;/&gt;-KR-
+|-
+|    KRA || YKER || [[Kerang Airport]] || [[Kerang, Victoria]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    KRB || YKMB || [[Karumba Airport]] || [[Karumba, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    KRC || WIPH || [[Depati Parbo Airport|Kerinci Airport]] || [[Kerinci, Indonesia|Kerinci]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|-
+|    KRD ||      || [[Kurundi Airport]] || [[Kurundi]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    KRE || HBBO || [[Kirundo Airport]] || [[Kirundo]], [[Burundi]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    KRF || ESNK || [[Kramfors-Sollefteå Airport]] || [[Kramfors]] / [[Sollefteå]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KRG || SYKS || [[Karasabai Airport]] || [[Karasabai]], [[Guyana]] || [[UTC−04:00]] ||
+|-
+|    KRH || EGKR || [[Redhill Airport]] || [[Redhill, Surrey]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    KRI || AYKK || [[Kikori Airport]] || [[Kikori]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KRJ || AYQA || [[Karawari Airport]] || [[Karawari]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KRK || EPKK || [[John Paul II International Airport]] (Kraków Airport) || [[Kraków]] / [[Balice, Lesser Poland Voivodeship|Balice]], Poland || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KRL || ZWKL || [[Korla Airport]] || [[Korla]], [[Xinjiang]], China || [[Time in China|UTC+06:00]] ||
+|-
+|    KRM || SYKR || [[Karanambo Airport]] || [[Karanambo]], [[Guyana]] || [[UTC−04:00]] ||
+|-
+|    KRN || ESNQ || [[Kiruna Airport]] || [[Kiruna]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KRO || USUU || [[Kurgan Airport]] || [[Kurgan, Kurgan Oblast|Kurgan]], Russia || [[Yekaterinburg Time|UTC+05:00]] ||
+|-
+|    KRP || EKKA || [[Karup Airport]] || [[Karup Municipality|Karup]], Denmark || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KRQ || UKCK || [[Kramatorsk Airport]] || [[Kramatorsk]], [[Donetsk Oblast]], [[Ukraine]] || [[Moscow Time|UTC+03:00]] ||
+|-
+|    KRR || URKK || [[Pashkovsky Airport]] || [[Krasnodar]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    KRS || ENCN || [[Kristiansand Airport, Kjevik]] || [[Kristiansand]], [[Vest-Agder]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KRT || HSSS || [[Khartoum International Airport]] || [[Khartoum]], [[Sudan]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    KRU || AYEA || [[Kerau Airport]] || [[Kerau]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KRV ||      || [[Kerio Valley Airport]] || [[Kerio Valley]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    KRW || UTAK || [[Turkmenbashi Airport]] || [[Türkmenbaşy, Turkmenistan]], [[Turkmenistan]] || [[UTC+05:00]] ||
+|-
+|    KRX || AYKR || [[Kar Kar Airport]] || [[Kar Kar]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KRY || ZWKM || [[Karamay Airport]] || [[Karamay]], [[Xinjiang]], China || [[Time in China|UTC+06:00]] ||
+|-
+|    KRZ || FZBT || [[Kiri Airport]] (Basango Mboliasa Airport) || [[Kiri, Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KS&quot;/&gt;-KS-
+|-
+|    KSA || PTSA || [[Kosrae International Airport]] (FAA: TTK) || [[Kosrae]], [[Federated States of Micronesia]] || [[UTC+11:00]] ||
+|-
+|    KSB || AYNM || [[Kasanombe Airport]] || [[Kasanombe]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KSC || LZKZ || [[Košice Airport]] (Barca Airport) || [[Košice]], [[Slovakia]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KSD || ESOK || [[Karlstad Airport]] || [[Karlstad]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KSE || HUKS || [[Kasese Airport]] || [[Kasese]], [[Uganda]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    KSF || EDVK || [[Kassel Calden Airport]] || [[Kassel]], [[Hesse]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KSG ||      || [[Kisengan Airport]] || [[Kisengan]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KSH || OICC || [[Shahid Ashrafi Esfahani Airport]] (Kermanshah Airport) || [[Kermanshah]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    KSI || GUKU || [[Kissidougou Airport]] || [[Kissidougou]], [[Guinea]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    KSJ || LGKS || [[Kasos Island Airport]] || [[Kasos Island]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KSK || ESKK || [[Karlskoga Airport]] || [[Karlskoga]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KSL || HSKA || [[Kassala Airport]] || [[Kassala]], [[Sudan]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    KSM || PASM || [[St. Mary's Airport (Alaska)|St. Mary's Airport]] || [[St. Mary's, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KSN || UAUU || [[Kostanay Airport]] (Narimanovka Airport) || [[Kostanay]], [[Kazakhstan]] || [[Time in Kazakhstan|UTC+06:00]] ||
+|-
+|    KSO || LGKA || [[Aristotelis Airport]] || [[Kastoria]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KSP || AYOP || [[Kosipe Airport]] || [[Kosipe]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KSQ || UTSL || [[Karshi Airport]] / [[Karshi-Khanabad Air Base]] || [[Qarshi|Karshi]], [[Uzbekistan]] || [[Time in Uzbekistan|UTC+05:00]] ||
+|-
+|    KSS || GASK || [[Sikasso Airport]] || [[Sikasso]], [[Mali]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    KST || HSKI || [[Kosti Airport]] || [[Kosti (city)|Kosti]], [[Sudan]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    KSU || ENKB || [[Kristiansund Airport, Kvernberget]] || [[Kristiansund]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KSV || YSPV || [[Springvale Airport, Queensland]] || [[Springvale, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    KSW || LLKS || [[Kiryat Shmona Airport]] (Qiryat Shemona Airport) || [[Kiryat Shmona]] (Qiryat Shemona), [[Israel]] || [[Israel Standard Time|UTC+02:00]] || Mar-Oct
+|-
+|    KSX || AYYR || [[Yasuru Airport]] || [[Yasuru]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KSY || LTCF || [[Kars Airport]] || [[Kars]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KSZ || ULKK || [[Kotlas Airport]] || [[Kotlas]], [[Arkhangelsk Oblast]], Russia || [[Moscow Time|UTC+03:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KT&quot;/&gt;-KT-
+|-
+|    KTA || YPKA || [[Karratha Airport]] || [[Karratha]] / [[Dampier, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    KTB ||      || [[Thorne Bay Seaplane Base]] || [[Thorne Bay, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KTC ||      || [[Katiola Airport]] || [[Katiola (town)|Katiola]], [[Côte d'Ivoire]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    KTD || RORK || [[Kitadaito Airport]] || [[Kitadaito]], [[Okinawa Prefecture]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    KTE || WMKE || [[Kerteh Airport]] || [[Kerteh]], [[Terengganu]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    KTF || NZTK || [[Takaka Aerodrome]] || [[Takaka, New Zealand|Takaka]], New Zealand || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|-
+|    KTG || WIOK || [[Rahadi Usman Airport]] (Ketapang Airport) || [[Ketapang]], [[West Kalimantan]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|-
+|    KTH ||      || [[Tikchik Lodge Seaplane Base]] (FAA: AK56) || [[Tikchik]], [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KTI || VDKT || [[Kratie Airport]] || [[Kratié (city)|Kratié]], [[Cambodia]] || [[UTC+07:00]] ||
+|-
+|    KTK ||      || [[Kanua Airport]] || [[Kanua]], [[Papua New Guinea]] || [[UTC+11:00]] ||
+|-
+|    KTL || HKKT || [[Kitale Airport]] || [[Kitale]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    KTM || VNKT || [[Tribhuvan International Airport]] || [[Kathmandu]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+|-
+|    KTN || PAKT || [[Ketchikan International Airport]] || [[Ketchikan, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KTO || SYKT || [[Kato Airport]] || [[Kato, Guyana]] || [[UTC−04:00]] ||
+|-
+|    KTP || MKTP || [[Tinson Pen Aerodrome]] || [[Kingston, Jamaica]], [[Jamaica]] || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+|    KTQ || EFIT || [[Kitee Airport]] || [[Kitee]], Finland || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KTR || YPTN || [[Tindal Airport]] || [[Katherine, Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    KTS || PFKT || [[Brevig Mission Airport]] || [[Brevig Mission, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KTT || EFKT || [[Kittilä Airport]] || [[Kittilä]], Finland || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KTU || VIKO || [[Kota Airport]] || [[Kota, India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    KTV || SVKM || [[Kamarata Airport]] || [[Kamarata]], [[Bolívar (state)|Bolívar]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+|    KTW || EPKT || [[Katowice Airport]] (Pyrzowice Airport) || [[Katowice]] / [[Pyrzowice]], Poland || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KTX || GAKO || [[Koutiala Airport]] || [[Koutiala]], [[Mali]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KU&quot;/&gt;-KU-
+|-
+|    KUA || WMKD || [[Sultan Haji Ahmad Shah Airport]] (RMAF Kuantan) || [[Kuantan]], [[Pahang]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    KUC || NGKT || [[Kuria Airport]] || [[Kuria, Kiribati]] || [[UTC+12:00]] ||
+|-
+|    KUD || WBKT || [[Kudat Airport]] || [[Kudat]], [[Sabah]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    KUE || AGKU || [[Kukundu Airport]] || [[Kolombangara]] island, [[Western Province (Solomon Islands)|Western Province]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+|    KUF || UWWW || [[Kurumoch Airport]] (Samara Airport) || [[Samara, Russia]] || [[Samara Time|UTC+04:00]] ||
+|-
+|    KUG || YKUB || [[Kubin Airport]] || [[Kubin, Queensland|Kubin]], [[Moa Island (Queensland)|Moa Island]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    KUH || RJCK || [[Kushiro Airport]] || [[Kushiro, Hokkaidō]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    KUI ||      || [[Kawau Island Airport]] || [[Kawau Island]], New Zealand || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|-
+|    &lt;s&gt;KUJ&lt;/s&gt; ||      || [[Kushimoto Airport]] || [[Kushimoto]], [[Honshū]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    KUK || PFKA || [[Kasigluk Airport]] (FAA: Z09) || [[Kasigluk, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KUL || WMKK || [[Kuala Lumpur International Airport]] || [[Sepang]] (near [[Kuala Lumpur]]), [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+&lt;!-- KUL is not IATA code for Sultan Abdul Aziz Shah Airport (IATA: SZB, ICAO: WMSA) in Subang, Selangor, Malaysia--&gt;
+|-
+|    KUM || RJFC || [[Yakushima Airport]] || [[Yakushima]], [[Kagoshima Prefecture]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    KUN || EYKA || [[Kaunas International Airport]] || [[Kaunas]], [[Lithuania]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KUO || EFKU || [[Kuopio Airport]] || [[Kuopio]] / [[Siilinjärvi]], Finland || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KUP ||      || [[Kupiano Airport]] || [[Kupiano]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KUQ || AYKU || [[Kuri Airport]] || [[Kuri, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KUR || OARZ || [[Razer Airport]] || [[Kron Monjan]] (Karanomunjan), [[Afghanistan]] || [[Time in Afghanistan|UTC+04:30]] ||
+|-
+|    KUS || BGKK || [[Kulusuk Airport]] || [[Kulusuk]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    KUT || UGKO || [[Kopitnari Airport]] (Kutaisi Airport) || [[Kutaisi]], [[Imereti]], [[Georgia (country)|Georgia]] || [[Time in Georgia (country)|UTC+04:00]] ||
+|-
+|    KUU || VIBR || [[Bhuntar Airport]] (Kullu Airport) || [[Kullu]] / [[Bhuntar]], [[Himachal Pradesh]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    KUV || RKJK || [[Gunsan Airport]] || [[Gunsan]], [[South Korea]] || [[Korea Standard Time|UTC+09:00]] ||
+|-
+|    KUZ || BGKM || [[Kuummiit Heliport]] || [[Kuummiit]], [[Greenland]] || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KV&quot;/&gt;-KV-
+|-
+|    KVA || LGKV || [[Kavala International Airport, &quot;Megas Alexandros&quot;]] || [[Kavala]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KVB || ESGR || [[Skövde Airport]] || [[Skövde]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KVC || PAVC || [[King Cove Airport]] || [[King Cove, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KVD || UBBG || [[Gyandzha Airport]] || [[Ganja, Azerbaijan]] || [[Time in Azerbaijan|UTC+04:00]] || Mar-Oct
+|-
+|    KVE ||      || [[Kitava Airport]] || [[Kitava]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KVG || AYKV || [[Kavieng Airport]] || [[Kavieng]], [[New Ireland Province]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KVK || ULMK || [[Kirovsk Airport]] (Khibiny Airport) || [[Kirovsk, Murmansk Oblast|Kirovsk]] / [[Apatity]], [[Murmansk Oblast]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    KVL || PAVL || [[Kivalina Airport]] || [[Kivalina, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KVM || UHMO || [[Markovo Airport]] || [[Markovo, Chukotka Autonomous Okrug]], [[Russia]] || [[Time in Russia|UTC+12:00]] ||
+|-
+|    KVU ||      || [[Korolevu Airport]] || [[Korolevu]], [[Viti Levu]], [[Fiji]] || [[UTC+12:00]] || Nov-Jan
+|-
+|    KVX || USKK || [[Pobedilovo Airport]] (Kirov Airport) || [[Kirov, Kirov Oblast]], Russia || [[Moscow Time|UTC+03:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KW&quot;/&gt;-KW-
+|-
+|    KWA || PKWA || [[Bucholz Army Airfield]] || [[Kwajalein]], [[Marshall Islands]] || [[UTC+12:00]] ||
+|-
+|    KWB ||      || [[Karimunjawa Airport]] || [[Karimunjawa]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|-
+|    KWE || ZUGY || [[Guiyang Longdongbao International Airport]] || [[Guiyang]], [[Guizhou]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    KWF ||      || [[Waterfall Seaplane Base]] || [[Waterfall, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KWG || UKDR || [[Lozovatka Airport]] || [[Kryvyi Rih]] (Krivoy Rog), [[Ukraine]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KWH || OAHN || [[Khwahan Airport]] || [[Khwahan, Afghanistan|Khwahan]], [[Afghanistan]] || [[Time in Afghanistan|UTC+04:30]] ||
+|-
+|    KWI || OKBK || [[Kuwait International Airport]] || [[Kuwait City]], [[Kuwait]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    KWJ || RKJJ || [[Gwangju Airport]] || [[Gwangju]] (Kwangju), [[South Korea]] || [[Korea Standard Time|UTC+09:00]] ||
+|-
+|    KWK ||      || [[Kwigillingok Seaplane Base]] || [[Kwigillingok, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KWL || ZGKL || [[Guilin Liangjiang International Airport]] || [[Guilin]], [[Guangxi]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    KWM || YKOW || [[Kowanyama Airport]] || [[Kowanyama, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    KWN || PAQH || [[Quinhagak Airport]] (FAA: AQH) || [[Quinhagak, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KWO || AYKW || [[Kawito Airport]] || [[Kawito]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KWP ||      || [[West Point Village Seaplane Base]] || [[West Point, Alaska|West Point]], [[Kodiak Island Borough, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KWR ||      || [[Kwai Harbour Airport]] || [[Kwai Harbour]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+|    KWS ||      || [[Kwailabesi Airport]] || [[Kwailabesi]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+|    KWT || PFKW || [[Kwethluk Airport]] || [[Kwethluk, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KWV ||      || [[Kurwina Airport]] || [[Kurwina]], [[Papua New Guinea]] || [[UTC+11:00]] ||
+|-
+|    KWX ||      || [[Kiwai Island Airport]] || [[Kiwai Island]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KWY ||      || [[Kiwayu Airport]] || [[Kiwayu]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    KWZ || FZQM || [[Kolwezi Airport]] || [[Kolwezi]], [[Lualaba District]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KX&quot;/&gt;-KX-
+|-
+|    KXA ||      || [[Kasaan Seaplane Base]] || [[Kasaan, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KXE || FAKD || [[Klerksdorp Airport]] (P.C. Pelser Airport) || [[Klerksdorp]], [[South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    KXF || NFNO || [[Koro Airport]] || [[Koro Island]], [[Fiji]] || [[UTC+12:00]] || Nov-Jan
+|-
+|    KXK || UHKK || [[Khurba Airport]] || [[Komsomolsk-on-Amur]], [[Khabarovsk Krai]], Russia || [[Vladivostok Time|UTC+10:00]] ||
+|-
+|    KXR ||      || [[Karoola Airport]] || [[Karoola]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KY&quot;/&gt;-KY-
+|-
+|    KYA || LTAN || [[Konya Airport]] || [[Konya]], Turkey || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KYD || RCLY || [[Lanyu Airport]] || [[Orchid Island]], [[Taitung County]], [[Republic of China|Taiwan]] || [[Time in Taiwan|UTC+08:00]] ||
+|-
+|    KYE || OLKA || [[Rene Mouawad Air Base]] (Kleyate Airport) || [[Kleyate]] / [[Tripoli]], [[Lebanon]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KYF || YYLR || [[Yeelirrie Airport]] || [[Yeelirrie]], [[Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    KYI || YYTA || [[Yalata Mission Airport]] || [[Yalata Mission]], [[South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+|    KYK || PAKY || [[Karluk Airport]] || [[Karluk, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KYN ||      || [[Milton Keynes Airport]] || [[Milton Keynes]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    KYP || VYKP || [[Kyaukpyu Airport]] || [[Kyaukpyu]], [[Myanmar]] (Burma) || [[Myanmar Standard Time|UTC+06:30]] ||
+|-
+|    KYS || GAKY || [[Kayes Airport]] (Dag Dag Airport) || [[Kayes]], [[Mali]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    KYT || VYKU || [[Kyauktaw Airport]] || [[Kyauktaw]], [[Myanmar]] (Burma) || [[Myanmar Standard Time|UTC+06:30]] ||
+|-
+|    KYU || PFKU || [[Koyukuk Airport]] || [[Koyukuk, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KYX || AYYE || [[Yalumet Airport]] || [[Yalumet]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KYZ || UNKY || [[Kyzyl Airport]] || [[Kyzyl]], [[Tuva]], Russia || [[Krasnoyarsk Time|UTC+07:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;KZ&quot;/&gt;-KZ-
+|-
+|    KZB ||      || [[Zachar Bay Seaplane Base]] || [[Zachar Bay]], [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    KZC || VDKH || [[Kampong Chhnang Airport]] || [[Kampong Chhnang (town)|Kampong Chhnang]], [[Kampong Chhnang Province]], [[Cambodia]] || [[UTC+07:00]] ||
+|-
+|    KZD ||      || [[Krakor Airport]] || [[Krakor]], [[Cambodia]] || [[UTC+07:00]] ||
+|-
+|    KZF || AYKT || [[Kaintiba Airport]] || [[Kaintiba]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    KZG || ETIN || [[Kitzingen Airport]] || [[Kitzingen]], [[Bavaria]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    KZI || LGKZ || [[Kozani National Airport &quot;Filippos&quot;]] || [[Kozani]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KZK ||      || [[Kompong Thom Airport]] || [[Kampong Thom City]], [[Cambodia]] || [[UTC+07:00]] ||
+|-
+|    KZN || UWKD || [[Kazan International Airport]] || [[Kazan]], [[Tatarstan]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    KZO || UAOO || [[Kyzylorda Airport]] || [[Kyzylorda]] (Kzyl-Orda), [[Kazakhstan]] || [[Time in Kazakhstan|UTC+06:00]] ||
+|-
+|    KZR || LTBZ || [[Zafer Airport]] || [[Kütahya]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    KZS || LGKJ || [[Kastelorizo Island Public Airport]] || [[Kastelorizo]], [[Greece]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|}
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = PDF | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|K]]</text>
+      <sha1>4f24ksgbn7fo5lpl4m5xkfayjqidgxq</sha1>
+    </revision>
+  </page>
+</mediawiki>

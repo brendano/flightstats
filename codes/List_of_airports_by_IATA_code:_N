@@ -1,0 +1,526 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: N</title>
+    <ns>0</ns>
+    <id>317113</id>
+    <revision>
+      <id>650501530</id>
+      <parentid>649902013</parentid>
+      <timestamp>2015-03-08T20:54:15Z</timestamp>
+      <contributor>
+        <username>Niceguyedc</username>
+        <id>5288432</id>
+      </contributor>
+      <minor/>
+      <comment>[[:en:WP:CLEANER|WPCleaner]] v1.34 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Narita]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25062">{{Lists of airports by IATA code}}
+
+==N==
+{{AlphanumericTOC|prefixLink=N|prefixDesc=N|numbers=|sections=}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NA&quot;/&gt;-NA-
+|-
+|    NAE || DBBN || [[Natitingou Airport]] || [[Natitingou]], [[Benin]]
+|-
+|    NAG || VANP || [[Dr. Babasaheb Ambedkar International Airport]] || [[Nagpur]], [[India]]
+|-
+|    NAH || WAMH || [[Naha Airport (Indonesia)|Naha Airport]] || [[Tahuna, Indonesia|Tahuna]], [[Indonesia]]
+|-
+|    NAI || SYAN || [[Annai Airport]] || [[Annai]], [[Guyana]]
+|-
+|    NAK || VTUQ || [[Nakhon Ratchasima Airport]] || [[Nakhon Ratchasima]], [[Thailand]]
+|-
+|    NAL || URMN || [[Nalchik Airport]] || [[Nalchik]], [[Kabardino-Balkaria]], [[Russia]]
+|-
+|    NAN || NFFN || [[Nadi International Airport]] || [[Nadi]], [[Fiji]]
+|-
+|    NAO || ZUNC || [[Nanchong Airport]] || [[Nanchong]], [[Sichuan]], [[China]]
+|-
+|    NAP || LIRN || [[Naples Airport]] || [[Naples]], [[Italy]]
+|-
+|    NAS || MYNN || [[Lynden Pindling International Airport]] || [[Nassau, Bahamas|Nassau]], [[Bahamas]]
+|-
+|    NAT || SBNT || [[Greater_Natal_International_Airport | Aeroporto Internacional Governador Aluízio Alves]] || [[Natal, Rio Grande do Norte|Natal]], [[Brazil]]
+|-
+|    NAV || LTAZ || [[Kapadokya Airport]] || [[Nevsehir]], [[Turkey]]
+|-
+|    NAX || PHJR || [[Kalaeloa Airport]] (NAS Barbers Point) (John Rodgers Field) (FAA: JRF) || [[Kapolei, Hawaii]], [[United States]]
+|-
+|    NAY || ZBNY || [[Beijing Nanyuan Airport|Nanyuan Airport]] || [[Beijing]], [[China]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NB&quot;/&gt;-NB-
+|-
+|    NBC || UWKE || [[Begishevo Airport]] || [[Nizhnekamsk]]/[[Naberezhnye Chelny]], [[Tatarstan]], [[Russia]]
+&lt;!-- NBC is FAA code (not IATA) for MCAS Beaufort (Merritt Field) in Beaufort, South Carolina, United States --&gt;
+|-
+|    NBE || DTNH || [[Enfidha – Hammamet International Airport|Enfidha-Hammamet Airport]] || [[Enfidha]], [[Tunisia]]
+|-
+|    NBG || KNBG || [[Naval Air Station Joint Reserve Base New Orleans|NAS JRB New Orleans]] (Alvin Callender Field) || [[New Orleans, Louisiana]], [[United States]]
+&lt;!-- NBJ is FAA code (IATA: NHX) for NOLF Barin in Foley, Alabama, United States --&gt;
+|-
+|    NBK || VTBS || [[Suvarnabhumi Airport|Suvarnabhumi International Airport]] || [[Bangkok]], [[Thailand]]
+|-
+|    NBO || HKJK || [[Jomo Kenyatta International Airport]] || [[Nairobi]], [[Kenya]]
+|-
+|    NBS ||  || [[Changbaishan Airport]] || [[Baishan]], [[Jilin]], [[China]]
+|-
+|    NBW || KNBW || [[Naval Air Station Guantanamo Bay|NAS Guantanamo Bay]] || [[Guantanamo Bay]], [[Cuba]]
+|-
+|    NBX || WABI || [[Nabire Airport]] || [[Nabire]], [[Indonesia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NC&quot;/&gt;-NC-
+|-
+|    NCA || MBNC || [[North Caicos Airport]] || [[North Caicos]], [[Turks and Caicos Islands]]
+&lt;!-- NCA is FAA code (not IATA) for MCAS New River (McCutcheon Field) in Jacksonville, North Carolina, United States --&gt;
+|-
+|    NCE || LFMN || [[Côte d'Azur International Airport]] || [[Nice]], [[France]]
+|-
+|    NCG || MMCG || [[Nuevo Casas Grandes Municipal Airport]] || [[Nuevo Casas Grandes]], [[Chihuahua (state)|Chihuahua]], [[Mexico]]
+|-
+|    NCL || EGNT || [[Newcastle Airport]] || [[Newcastle upon Tyne]], [[United Kingdom]]
+|-
+|    NCN || PFCB || [[Chenega Bay Airport]] (FAA: C05) || [[Chenega, Alaska]], United States
+|-
+|    NCU || UTNN || [[Nukus Airport]] || [[Nukus]], [[Uzbekistan]]
+|-
+|    NCY || LFLP || [[Meythet Airport]] || [[Annecy]], [[France]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;ND&quot;/&gt;-ND-
+|-
+|    NDB || GQPP || [[Nouadhibou International Airport]] || [[Nouadhibou]], [[Mauritania]]
+|-
+|    NDC || VAND || [[Nanded Airport]] || [[Nanded]], [[India]]
+|-
+|    NDJ || FTTJ || [[N'Djamena International Airport]] || [[N'Djamena]], [[Chad]]
+|-
+|    NDK ||      || [[Namorik Airport]] (FAA: 3N0) || [[Namorik Atoll]], [[Marshall Islands]]
+|-
+|    NDM || HAMN || [[Mendi Airport (Ethiopia)|Mendi Airport]] || [[Mendi, Ethiopia|Mendi]], [[Ethiopia]]
+|-
+|    NDR || GMMW || [[Arwi Airport]] || [[Nador]], [[Morocco]]
+|-
+|    NDU || FYRU || [[Rundu Airport]] || [[Rundu]], [[Okavango Region]], [[Namibia]]
+|-
+|    NDY || EGES || [[Sanday Airport]] || [[Sanday, Orkney|Sanday]], [[Scotland]], [[United Kingdom]]
+&lt;!-- NDY is FAA code (not IATA) for NSWC Dahlgren in Dahlgren, Virginia, United States --&gt;
+|-
+|    NDZ || ETMN || [[Cuxhaven Airport]] || [[Nordholz]]-[[Spieka]], [[Lower Saxony]], [[Germany]]
+&lt;!-- NDZ is FAA code (not IATA) for NAS Whiting Field-South in Milton, Florida, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NE&quot;/&gt;-NE-
+|-
+|    NEC || SAZO || [[Necochea Airport]] || [[Necochea]], [[Buenos Aires]], [[Argentina]]
+|-
+|    NEF || UWUF || [[Neftekamsk Airport]] || [[Neftekamsk]], [[Bashkortostan]], Russia
+|-
+|    NEG || MKNG || [[Negril Aerodrome]] || [[Negril]], [[Jamaica]]
+|-
+|    NEL || KNEL || [[Naval Air Engineering Station Lakehurst|NAES Lakehurst]] (Maxfield Field) || [[Lakehurst, New Jersey]], [[United States]]
+|-
+|    NEN || KNEN || [[Naval Outlying Field Whitehouse|NOLF Whitehouse]] || [[Jacksonville, Florida]], [[United States]]
+|-
+|    NER || UELL || [[Chulman Airport|Chulman Neryungri Airport]] || [[Chulman]], [[Russia]]
+|-
+|    &lt;s&gt;NET&lt;/s&gt; || MYCB || [[New Bight Airport]] || [[New Bight]], [[Cat Island (Bahamas)|Cat Island]], [[Bahamas]]
+|-
+|    NEV || TKPN || [[Vance W. Amory International Airport]] || [[Nevis]], [[Federation of Saint Kitts and Nevis]]
+|-
+|    NEW || KNEW || [[New Orleans Lakefront Airport]] || [[New Orleans, Louisiana]], [[United States]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NF&quot;/&gt;-NF-
+&lt;!-- NFD is FAA code (not IATA) for NOLF Summerdale in Summerdale, Alabama, United States --&gt;
+&lt;!-- NFE is FAA code (not IATA) for NAF Fentress in Fentress, Virginia, United States --&gt;
+&lt;!-- NFG is FAA code (not IATA) for MCAS Camp Pendleton (Munn Field) in Oceanside, California, United States --&gt;
+&lt;!-- NFJ is FAA code (not IATA) for NOLF Choctaw in Milton, Florida, United States --&gt;
+|-
+|    NFL || KNFL || [[Naval Air Station Fallon|NAS Fallon]] (Van Voorhis Field) || [[Fallon, Nevada]], [[United States]]
+|-
+|    NFO || NFTO || [[Mata'aho Airport]] || [[Niuafo'ou]], [[Tonga]]
+&lt;!-- NFW is FAA code (IATA: FWH) for NAS JRB Fort Worth (Carswell Field) in Fort Worth, Texas, United States --&gt;
+|-
+|    NFR ||      || [[Nafoora Airport]] || [[Nafoora]], [[Libya]]
+|-
+|    NFG || USRN || [[Nefteyugansk Airport]] || [[Nefteyugansk]], [[Khanty–Mansi Autonomous Okrug]], Russia
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NG&quot;/&gt;-NG-
+|-
+|    NGB || ZSNB || [[Ningbo Lishe International Airport]] || [[Ningbo]], [[Zhejiang]], [[China]]
+|-
+|    NGL || UHSN || [[Nogliki Airport]] || [[Nogliki]], [[Russia]]
+|-
+|    NGO || RJGG || [[Chubu Centrair International Airport]] || [[Nagoya]], [[Japan]]
+|-
+|    NGP || KNGP || [[Naval Air Station Corpus Christi|NAS Corpus Christi]] (Truax Field) || [[Corpus Christi, Texas]], [[United States]]
+|-
+|    NGQ || ZUAL || [[Ngari Gunsa Airport]] || [[Ngari Prefecture]], [[Tibet Autonomous Region]], [[China]]
+|-
+|    NGS || RJFU || [[Nagasaki Airport]] || [[Nagasaki, Nagasaki|Nagasaki]], [[Japan]]
+&lt;!-- NGS is FAA code (not IATA) for NOLF Santa Rosa in Milton, Florida, United States --&gt;
+|-
+|    NGU || KNGU || [[Naval Station Norfolk|NS Norfolk]] (Chambers Field) || [[Norfolk, Virginia]], [[United States]]
+|-
+|    NGW || KNGW || [[Naval Outlying Field Cabaniss|NOLF Cabaniss]] || [[Corpus Christi, Texas]], [[United States]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NH&quot;/&gt;-NH-
+|-
+|    NHK || KNHK || [[Naval Air Station Patuxent River|NAS Patuxent River]] (Trapnell Field) || [[Patuxent River, Maryland]], [[United States]]
+|-
+|    NHT || EGWU || [[RAF Northolt]] || [[Ruislip]], [[England]], United Kingdom
+|-
+|    NHX || KNBJ || [[Naval Outlying Field Barin|NOLF Barin]] (FAA: NBJ) || [[Foley, Alabama]], [[United States]]
+|-
+|    NHZ || KNHZ || [[Naval Air Station Brunswick|NAS Brunswick]] || [[Brunswick, Maine]], [[United States]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NI&quot;/&gt;-NI-
+|-
+|    NIA || GLNA || [[Nimba Airport]] || [[Nimba County|Nimba]], [[Liberia]]
+|-
+|    NIB || PAFS || [[Nikolai Airport]] (FAA: FSP) || [[Nikolai, Alaska]], [[United States]]
+&lt;!-- NID is FAA code (not IATA) for NAWS China Lake (Armitage Field) in China Lake, California, United States --&gt;
+|-
+|    NIM || DRRN || [[Diori Hamani International Airport]] || [[Niamey]], [[Niger]]
+|-
+|    NIN ||      || [[Ninilchik Airport]] || [[Ninilchik, Alaska]], [[United States]]
+|-
+|    NIO || FZBI || [[Nioki Airport]] || [[Nioki]], [[Democratic Republic of the Congo]]
+|-
+|    NIP || KNIP || [[Naval Air Station Jacksonville|NAS Jacksonville]] (Towers Field) || [[Jacksonville, Florida]], [[United States]]
+|-
+|    NIQ || BGNT || [[Niaqornat Heliport]] || [[Niaqornat]], [[Greenland]]
+|-
+|    NIS || || [[Simberi Airport]] || [[Simberi Island]], [[Papua New Guinea]]
+|-
+|    NIX || GANR || [[Nioro Airport]] || [[Nioro du Sahel|Nioro]], [[Mali]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NJ&quot;/&gt;-NJ-
+|-
+|    NJC || USNN || [[Nizhnevartovsk Airport]] || [[Nizhnevartovsk]], [[Russia]]
+|-
+|    NJF || ORNI || [[Al Najaf International Airport]] || [[Al Najaf]], [[Iraq]]
+|-
+|    NJK || KNJK || [[Naval Air Facility El Centro|NAF El Centro]] || [[El Centro, California]], [[United States]]
+&lt;!-- NJM is FAA code (not IATA) for Marine Corps Auxiliary Field Bogue in Swansboro, North Carolina, United States --&gt;
+&lt;!-- NJW is FAA code (not IATA) for NOLF Joe Williams in Meridian, Mississippi, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NK&quot;/&gt;-NK-
+|-
+|    NKC || GQNN || [[Nouakchott International Airport]] || [[Nouakchott]], [[Mauritania]]
+|-
+|    NKG || ZSNJ || [[Nanjing Lukou International Airport]] || [[Nanjing]], [[China]]
+|-
+|    NKL ||      || [[Nkolo Airport]] || [[Nkolo]], [[Democratic Republic of the Congo]]
+&lt;!-- NKL is FAA code (not IATA) for NOLF Holley in Fort Walton Beach, Florida, United States --&gt;
+|-
+|    NKM || RJNA || [[Nagoya Airfield]] (formerly: NGO) || [[Nagoya, Aichi|Nagoya]], [[Japan]]
+|-
+|    NKT || LTCV || [[Şırnak Airport]] || [[Cizre]], [[Turkey]]
+&lt;!-- NKT || KNKT || [[Marine Corps Air Station Cherry Point|MCAS Cherry Point]] (Cunningham Field) || [[Cherry Point, North Carolina]], [[United States]] --&gt;
+|-
+|    NKX || KNKX || [[Marine Corps Air Station Miramar|MCAS Miramar]] || [[San Diego, California]], [[United States]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NL&quot;/&gt;-NL-
+|-
+|    NLA || FLND || [[Ndola Airport]] || [[Ndola]], [[Zambia]]
+|-
+|    NLC || KNLC || [[Naval Air Station Lemoore|NAS Lemoore]] (Reeves Field) || [[Lemoore, California]], [[United States]]
+|-
+|    NLD || MMNL || [[Quetzalcóatl International Airport]] || [[Nuevo Laredo]], [[Mexico]]
+|-
+|    NLE ||      || [[Jerry Tyler Memorial Airport]] (FAA: 3TR) || [[Niles, Michigan]], [[United States]]
+|-
+|    NLG || PAOU || [[Nelson Lagoon Airport]] (FAA: OUL) || [[Nelson Lagoon, Alaska]], [[United States]]
+|-
+|    NLI ||      || [[Nikolayevsk-on-Amur Airport]] || [[Nikolayevsk-on-Amur]], [[Khabarovsk Krai]], [[Russia]]
+|-
+|    NLK || YNSF || [[Norfolk Island Airport]] || [[Norfolk Island]], [[Australia]]
+|-
+|    NLT || ZWNL || [[Nalati Airport]] || [[Künes]], [[Xinjiang]], [[China]]
+|-
+|    NLU || MMSM || [[Santa Lucía Air Force Base Num 1]] || [[Zumpango]], [[State of Mexico]], [[Mexico]]
+|-
+|    NLV || UKON || [[Mykolaiv Airport]] || [[Mykolaiv]], [[Ukraine]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NM&quot;/&gt;-NM-
+|-
+|    NMB || VADN || [[Daman Airport]] || [[Daman, Daman and Diu|Daman]], [[India]]
+|-
+|    NME || PAGT || [[Nightmute Airport]] (FAA: IGT) || [[Nightmute, Alaska]], [[United States]]
+&lt;!-- NMM is FAA code (not IATA) for NAS Meridian (McCain Field) in Meridian, Mississippi, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NN&quot;/&gt;-NN-
+|-
+|    NNA || GMMY || [[Kenitra Airport]] || [[Kenitra]], [[Morocco]]
+|-
+|    NNG || ZGNN || [[Nanning Wuxu International Airport]] || [[Nanning]], [[Guangxi]], [[China]]
+|-
+|    NNK ||      || [[Naknek Airport]] (FAA: 5NK) || [[Naknek, Alaska]], [[United States]]
+|-
+|    NNL || PANO || [[Nondalton Airport]] (FAA: 5NN) || [[Nondalton, Alaska]], [[United States]]
+|-
+|    NNM || ULAM || [[Naryan-Mar Airport]] || [[Naryan-Mar]], [[Nenets Autonomous Okrug]], [[Russia]]
+|-
+|    NNR || EICA || [[Connemara Regional Airport]] || [[Inverin]], [[Republic of Ireland|Ireland]]
+|-
+|    NNY || ZHNY || [[Nanyang Airport]] || [[Nanyang, Henan|Nanyang]], [[Henan]], [[China]]
+|-
+|    NNX || WRLF || [[Nunukan Airport]] || [[Nunukan]], [[East Kalimantan]], [[Indonesia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NO&quot;/&gt;-NO-
+|-
+|    NOB || MRNS || [[Nosara Airport]] || [[Nosara]], [[Costa Rica]]
+|-
+|    NOC || EIKN || [[Ireland West Airport Knock|Knock International Airport]] || [[Knock, County Mayo|Knock]], [[Republic of Ireland|Ireland]]
+|-
+|    NOD || EDWS || [[Norden-Norddeich Airport]] || [[Norden, Lower Saxony|Norden]], [[Lower Saxony]], [[Germany]]
+|-
+|    NOG || MMNG || [[Nogales International Airport (Mexico)|Nogales International Airport]] || [[Nogales, Sonora|Nogales]], [[Sonora]], [[Mexico]]
+&lt;!-- NOG is FAA code (not IATA) for NALF Orange Grove in Orange Grove, Texas, United States --&gt;
+|-
+|    NOJ || USRO || [[Noyabrsk Airport]] || [[Noyabrsk]], [[Yamalo-Nenets Autonomous Okrug]], Russia
+|-
+|    NOP || LTCM || [[Sinop Airport]] (old IATA code was &lt;s&gt;SIC&lt;/s&gt;) || [[Sinop (Turkey)|Sinop]], [[Turkey]]
+|-
+|    NOT || KDVO || [[Gnoss Field]] (FAA: DVO) || [[Novato, California]], [[United States]]
+|-
+|    NOU || NWWW || [[La Tontouta International Airport]] || [[Noumea]], [[New Caledonia]]
+|-
+|    NOV || FNHU || [[Albano Machado Airport]] || [[Huambo]], [[Angola]]
+|-
+|    NOW || KNOW || [[Coast Guard Air Station Port Angeles|CGAS Port Angeles]] || [[Port Angeles, Washington]], [[United States]]
+|-
+|    NOZ || UNWW || [[Novokuznetsk Spichenkovo Airport]] ([[Prokopyevsk Southeast]]) || [[Prokopyevsk]], [[Kemerovo Oblast]], [[Russia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NP&quot;/&gt;-NP-
+|-
+|    NPA || KNPA || [[Naval Air Station Pensacola|NAS Pensacola]] (Forrest Sherman Field) || [[Pensacola, Florida]], [[United States]]
+|-
+|    NPE || NZNR || [[Napier Airport]] (Hastings Airport) || [[Napier, New Zealand|Napier]], [[New Zealand]]
+|-
+|    NPH ||      || [[Nephi Municipal Airport]] (FAA: U14) || [[Nephi, Utah]], [[United States]]
+|-
+|    NPL || NZNP || [[New Plymouth Airport]] || [[New Plymouth]], [[New Zealand]]
+|-
+|    NPT || KUUU || [[Newport State Airport (Rhode Island)|Newport State Airport]] (FAA: UUU) || [[Newport, Rhode Island]], [[United States]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NQ&quot;/&gt;-NQ-
+|-
+|    NQA || KNQA || [[Millington Regional Jetport]] || [[Millington, Tennessee]], [[United States]]
+|-
+|    NQI || KNQI || [[Naval Air Station Kingsville|NAS Kingsville]] || [[Kingsville, Texas]], [[United States]]
+|-
+|    NQN || SAZN || [[Presidente Perón International Airport]] || [[Neuquen]], [[Argentina]]
+|-
+|    NQU || SKNQ || [[Reyes Murillo Airport]] || [[Nuquí]], [[Colombia]]
+|-
+|    NQX || KNQX || [[Naval Air Station Key West|NAS Key West]] (Boca Chica Field) || [[Boca Chica Key]], [[Florida]], [[United States]]
+|-
+|    NQY || EGDG || [[Newquay Cornwall International Airport]] || [[Newquay]], [[England]], [[United Kingdom]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NR&quot;/&gt;-NR-
+|-
+|    NRB || KNRB || [[Naval Station Mayport|NS Mayport]] (Adm. David L. McDonald Field) || [[Mayport, Florida]], [[United States]]
+|-
+|    NRC || KNRC || [[NASA Crows Landing Airport]] (formerly NALF Crows Landing) || [[Crows Landing, California]], [[United States]]
+|-
+|    NRD || EDWY || [[Norderney Airport]] || [[Norderney]], [[Germany]]
+|-
+|    NRE || WAPG || [[Namrole Airport]] || [[Buru]], [[Indonesia]]
+|-
+|    NRG || YNRG || [[Narrogin Airport]] || [[Narrogin, Western Australia]], [[Australia]]
+|-
+|    NRK || ESSP || [[Norrköping Airport]] || [[Norrköping]], [[Sweden]]
+|-
+|    NRM || GANK || [[Keibane Airport]] || [[Nara, Mali|Nara]], [[Mali]]
+|-
+|    NRN || EDLV || [[Weeze Airport]] (formerly Niederrhein Airport) || [[Weeze]], [[Airport Weeze|Niederrhein]], [[Germany]]
+&lt;!-- NRQ is FAA code (not IATA) for NOLF Spencer in Pace, Florida, United States --&gt;
+|-
+|    NRS || KNRS || [[Naval Outlying Field Imperial Beach|NOLF Imperial Beach]] (Ream Field) || [[Imperial Beach, California]], [[United States]]
+|-
+|    NRT || RJAA || [[Narita International Airport]] (formerly New Tokyo International) || [[Narita, Chiba|Narita]] (near [[Tokyo]]), [[Japan]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NS&quot;/&gt;-NS-
+|-
+|    NSE || KNSE || [[NAS Whiting Field - North]] || [[Milton, Florida]], [[United States]]
+|-
+|    NSI || FKYS || [[Yaoundé Nsimalen International Airport]] || [[Yaoundé]], [[Cameroon]]
+&lt;!-- NSI is FAA code (not IATA) for NOLF San Nicolas Island in San Nicolas Island, California, United States --&gt;
+|-
+|    NSK || UOOO || [[Norilsk Alykel Airport]] || [[Norilsk]], [[Russia]]
+|-
+|    NSN || NZNS || [[Nelson Airport (New Zealand)|Nelson Airport]] || [[Nelson, New Zealand|Nelson]], [[New Zealand]]
+|-
+|    NSQ || BGNU || [[Nuussuaq Heliport]] || [[Nuussuaq]], [[Greenland]]
+|-
+|    NSY || LICZ || [[Sigonella Airport]] || [[Catania]], [[Italy]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NT&quot;/&gt;-NT-
+|-
+|    NTB || ENNO || [[Notodden Airport, Tuven]], || [[Notodden]], [[Norway]]
+|-
+|    NTD || KNTD || [[Naval Air Station Point Mugu|NAS Point Mugu]] (Naval Base Ventura County) || [[Point Mugu, California]], [[United States]]
+|-
+|    NTE || LFRS || [[Nantes Atlantique Airport]] || [[Nantes]], [[France]]
+|-
+|    NTJ ||      || [[Manti-Ephraim Airport]] (FAA: 41U) || [[Manti, Utah]], [[United States]]
+|-
+|    NTL || YWLM || [[Newcastle Airport (New South Wales)|Newcastle Airport]] / [[RAAF Base Williamtown]] || [[Newcastle, New South Wales]], [[Australia]]
+|-
+|    NTO || GVAN || [[Agostinho Neto Airport]] || [[Santo Antão, Cape Verde|Ponta do Sol]], [[Santo Antão, Cape Verde|Santo Antão]], [[Cape Verde]]
+|-
+|    NTU || KNTU || [[Naval Air Station Oceana|NAS Oceana]] (Apollo Soucek Field) || [[Virginia Beach, Virginia]], [[United States]]
+|-
+|    NTX || WION || [[Ranai Airport]] || [[Natuna Islands|Natuna]], [[Riau Islands]], [[Indonesia]]
+|-
+|    NTY || FAPN || [[Pilanesberg International Airport]] || [[Pilanesberg]], [[South Africa]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NU&quot;/&gt;-NU-
+&lt;!-- NUC is FAA code (not IATA) for NALF San Clemente Island in San Clemente Island, California, United States --&gt;
+|-
+|    NUE || EDDN || [[Nuremberg Airport]] || [[Nuremberg]], [[Germany]]
+|-
+|    NUI || PAQT || [[Nuiqsut Airport]] (FAA: AQT) || [[Nuiqsut, Alaska]], [[United States]]
+&lt;!-- NUI is FAA code (not IATA) for NOLF Webster in St. Inigoes, Maryland, United States --&gt;
+|-
+|    NUK || NTGW || [[Nukutavake Airport]] || [[Nukutavake]], [[Tuamotus]], [[French Polynesia]]
+|-
+|    NUL || PANU || [[Nulato Airport]] || [[Nulato, Alaska]], [[United States]]
+|-
+|    NUN || KNUN || [[Naval Outlying Field Saufley|NOLF Saufley]] || [[Pensacola, Florida]], [[United States]]
+|-
+|    NUP ||      || [[Nunapitchuk Airport]] (FAA: 16A) || [[Nunapitchuk]], [[Alaska]], [[United States]]
+|-
+|    NUQ || KNUQ || [[Moffett Federal Airfield]] || [[Mountain View, California]], [[United States]]
+|-
+|    NUS || NVSP || [[Norsup Airport]] || [[Norsup]], [[Malakula ]]island, [[Vanuatu]]
+|-
+|    NUW || KNUW || [[Naval Air Station Whidbey Island|NAS Whidbey Island]] (Ault Field) || [[Oak Harbor, Washington]], [[United States]]
+|-
+|    NUX || NSMU || [[Novy Urengoy Airport]] || [[Novy Urengoy]], [[Russia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NV&quot;/&gt;-NV-
+|-
+|    NVA || SKNV || [[Benito Salas Airport]] || [[Neiva, Colombia|Neiva]], [[Colombia]]
+|-
+|    NVD || KNVD || [[Nevada Municipal Airport]] || [[Nevada, Missouri]], [[United States]]
+&lt;!-- NVI is FAA code (not IATA) for NOLF Pace in Wallace, Florida, United States --&gt;
+|-
+|    NVK || ENNK || [[Narvik Airport, Framnes]] || [[Narvik]], [[Nordland]], [[Norway]]
+|-
+|    NVR || ULNN || [[Novgorod Airport]] || [[Veliky Novgorod]], Russia
+|-
+|    NVT || SBNF || [[Ministro Victor Konder International Airport]] || [[Navegantes]], [[Santa Catarina (state)|Santa Catarina]], [[Brazil]]
+|-
+|    NVY ||      || [[Neyveli Airport]] || [[Neyveli]], [[India]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NW&quot;/&gt;-NW-
+|-
+|    NWH ||      || [[Parlin Field]] (FAA: 2B3) || [[Newport, New Hampshire]], [[United States]]
+|-
+|    NWI || EGSH || [[Norwich International Airport]] || [[Norwich]], [[England]], [[United Kingdom]]
+&lt;!-- NWL is FAA code (not IATA) for NOLF Waldron in Corpus Christi, Texas, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NX&quot;/&gt;-NX-
+&lt;!-- NXF is FAA code (not IATA) for MCOLF Camp Pendleton (Red Beach) in Oceanside, California, United States --&gt;
+&lt;!-- NXP is FAA code (not IATA) for MCAGCC Twentynine Palms in Twentynine Palms, California, United States --&gt;
+|-
+|    NXX || KNXX || [[Naval Air Station Joint Reserve Base Willow Grove|NAS JRB Willow Grove]] || [[Willow Grove, Pennsylvania]], [[United States]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NY&quot;/&gt;-NY-
+|-
+|    NYA || USHN || [[Nyagan Airport]] || [[Nyagan]], [[Tyumen Oblast]], Russia
+|-
+|    NYC ||      || [[List of airports in the New York City area|All Airports]] || [[New York City]], [[New York]], [[United States]]
+|-
+|    NYG || KNYG || [[Marine Corps Airfield Quantico|MCAF Quantico]] (Turner Field) || [[Quantico, Virginia]], [[United States]]
+|-
+|    NYI || DGSN || [[Sunyani Airport]] || [[Sunyani]], [[Ghana]]
+|-
+|    NYK || HKNY || [[Nanyuki Airport]] || [[Nanyuki]], [[Kenya]]
+|-
+|    NYM || USMM || [[Nadym Airport]] || [[Nadym]], [[Yamalo-Nenets Autonomous Okrug]], Russia
+|-
+|    NYO || ESKN || [[Stockholm-Skavsta Airport]] || [[Nyköping]], [[Sweden]]
+|-
+|    NYR || UENN || [[Nyurba Airport]] ||[[Nyurba]], [[Sakha Republic]], [[Russia]]
+|-
+|    NYT || VYNT || [[Naypyidaw Airport]] || [[Naypyidaw]], [[Myanmar]]
+|-
+|    NYU || VYBG || [[Bagan Airport]] || [[Bagan]], [[Myanmar]] (Burma)
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;NZ&quot;/&gt;-NZ-
+|-
+|    NZA || FNZG || [[Nzagi Airport]] || [[Nzagi (Andrada)]], [[Angola]]
+|-
+|    NZC || SPZA || [[Maria Reiche Neuman Airport]] || [[Nazca]], [[Ica Region]], [[Peru]]
+&lt;!-- NZC is not/no longer || KVQQ || [[Cecil Field]] (FAA: VQQ) || [[Jacksonville, Florida]], [[United States]] --&gt;
+|-
+|    NZE || GUNZ || [[Nzérékoré Airport]] || [[N'zerekore]], [[Guinea]]
+|-
+|    NZJ || KNZJ || [[Marine Corps Air Station El Toro|MCAS El Toro]] || [[Santa Ana, California]], [[United States]]
+|-
+|    NZY || KNZY || [[Naval Air Station North Island|NAS North Island]] (Halsey Field) || [[San Diego, California]], [[United States]]
+|}
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = [[PDF]] | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|N]]</text>
+      <sha1>54uhr8tz9w510ogeepfmm8p72gzlyh9</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,825 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: H</title>
+    <ns>0</ns>
+    <id>317106</id>
+    <revision>
+      <id>675160118</id>
+      <parentid>670050378</parentid>
+      <timestamp>2015-08-08T17:30:03Z</timestamp>
+      <contributor>
+        <username>Zanhe</username>
+        <id>10400497</id>
+      </contributor>
+      <comment>+HTT</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="52779">{{Lists of airports by IATA code}}
+
+==H==
+{{AlphanumericTOC|prefixLink=H|prefixDesc=H|numbers=|sections=}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+! style=&quot;text-align:left;&quot; | Time
+! style=&quot;text-align:left;&quot; | DST
+&lt;!-- comments added to prevent addition of incorrect IATA codes --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HA&quot;/&gt;-HA-
+|-
+|    HAA || ENHK || [[Hasvik Airport]] || [[Hasvik]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    HAB || KHAB || [[Marion County – Rankin Fite Airport]] || [[Hamilton, Alabama]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HAC || RJTH || [[Hachijojima Airport]] (Hachijo Jima Airport) || [[Hachijojima]] (Hachijo Jima), Tokyo, Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    HAD || ESMT || [[Halmstad Airport]] || [[Halmstad]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- HAD is FAA code (not IATA) for Harford Field in Casper, Wyoming, United States --&gt;
+|-
+|    HAE ||      || [[Lava Falls Heliport]] (FAA: AZ15) (Havasupai Airport) || [[Supai Village]], [[Arizona]], United States || [[Mountain Time Zone|UTC−07:00]] ||
+&lt;!-- HAE is not the IATA code for Haeju Airport in Haeju, North Korea --&gt;
+&lt;!-- HAE is FAA code (not IATA) for Hannibal Regional Airport in Hannibal, Missouri, United States --&gt;
+|-
+|    HAF || KHAF || [[Half Moon Bay Airport]] || [[Half Moon Bay, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    HAH || FMCH || [[Prince Said Ibrahim International Airport]] || [[Moroni, Comoros]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    HAI || KHAI || [[Three Rivers Municipal Airport]] (Dr. Haines Flying Field) || [[Three Rivers, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HAJ || EDDV || [[Hannover Airport]] || [[Hanover]], [[Lower Saxony]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    HAK || ZJHK || [[Haikou Meilan International Airport]] || [[Haikou]], [[Hainan]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    HAL || FYHI || [[Halali Airport]] || [[Halali, Namibia]] || [[West Africa Time|UTC+01:00]] || Sep-Apr
+|-
+|    HAM || EDDH || [[Hamburg Airport]] (Fuhlsbüttel Airport) || [[Hamburg]] / [[Fuhlsbüttel]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    HAN || VVNB || [[Noi Bai International Airport]] || [[Hanoi]], [[Vietnam]] || [[UTC+07:00]] ||
+|-
+|    HAO || KHAO || [[Butler County Regional Airport]] || [[Hamilton, Ohio]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HAP ||      || [[Long Island (Queensland) Airport]] || [[Long Island (Queensland)]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    HAQ || VRMH || [[Hanimaadhoo Airport]] || [[Hanimaadhoo (Haa Dhaalu Atoll)|Hanimaadhoo]], [[Haa Dhaalu Atoll]], [[Maldives]] || [[UTC+05:00]] ||
+|-
+|    HAR || KCXY || [[Capital City Airport (Pennsylvania)|Capital City Airport]] (FAA: CXY) || [[Harrisburg, Pennsylvania]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HAS || OEHL || [[Ha'il Regional Airport]] || [[Ha'il]], [[Saudi Arabia]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    HAT || YHTL || [[Heathlands Airport]] || [[Heathlands, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    HAU || ENHD || [[Haugesund Airport, Karmøy]] || [[Haugesund]] / [[Karmøy]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    HAV || MUHA || [[José Martí International Airport]] || [[Havana]], [[Cuba]] || [[UTC−05:00]] || Mar-Nov
+|-
+|    HAW || EGFE || [[Haverfordwest Aerodrome]] || [[Haverfordwest]], Wales, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    HAX || KHAX || [[Hatbox Field]] || [[Muskogee, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HAY ||      || [[Haycock Airport]] || [[Haycock, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    HAZ ||      || [[Hatzfeldthaven Airport]] || [[Hatzfeldthaven]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HB&quot;/&gt;-HB-
+|-
+|    HBA || YMHB || [[Hobart International Airport]] || [[Hobart]], [[Tasmania]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    HBB ||      || [[Industrial Airpark]] (FAA: NM83) || [[Hobbs, New Mexico]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+&lt;!-- HBC is FAA code (not IATA) for Mohall Municipal Airport in Mohall, North Dakota, United States --&gt;
+|-
+|    HBD ||      || [[Habi Airport]] || [[Habi]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    HBE || HEBA || [[Borg El Arab Airport]] || [[Alexandria]] / [[Borg El Arab]], [[Egypt]] || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    HBG || KHBG || [[Hattiesburg Bobby L. Chain Municipal Airport]] || [[Hattiesburg, Mississippi]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HBH ||      || [[Entrance Island Seaplane Base]] (Hobart Bay) (FAA: 2Z1) || [[Entrance Island, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    HBI ||      || [[Harbour Island Airport]] || [[Harbour Island, Bahamas]] || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- HBI is FAA code (not IATA) for Asheboro Municipal Airport in Asheboro, North Carolina, United States --&gt;
+|-
+|    HBN ||      || [[Phu Bon Airport]] || [[Phu Bon]], [[Vietnam]] || [[UTC+07:00]] ||
+|-
+|    HBR || KHBR || [[Hobart Regional Airport]] || [[Hobart, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HBT ||  || [[Hambantota Sea Plane Base]] || [[Hambantota]], [[Sri Lanka]] || [[Indian Standard Time|UTC+05:30]] ||
+&lt;!-- HBV is FAA code (not IATA) for Jim Hogg County Airport in Hebbronville, Texas, United States --&gt;
+&lt;!-- HBW is FAA code (not IATA) for Joshua Sanford Field in Hillsboro, Wisconsin, United States --&gt;
+|-
+|    HBX || VAHB || [[Hubli Airport]] || [[Hubli]], India || [[Indian Standard Time|UTC+05:30]] ||
+&lt;!-- HBZ is FAA code (not IATA) for Heber Springs Municipal Airport in Heber Springs, Arkansas, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HC&quot;/&gt;-HC-
+&lt;!-- HBA is FAA code (IATA: HCR) for Holy Cross Airport in Holy Cross, Alaska, United States --&gt;
+|-
+|    HCA ||      || [[Howard County Airport]] || [[Big Spring, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HCC ||      || [[Columbia County Airport]] (FAA: 1B1) || [[Hudson, New York]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- HCD is FAA code (not IATA) for Hutchinson Municipal Airport (Butler Field) in Hutchinson, Minnesota, United States --&gt;
+|-
+|    HCJ || ZGHC || [[Hechi Jinchengjiang Airport]] || [[Hechi]], [[Guangxi]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    HCM || HCME || [[Eil Airport]] || [[Eil, Somalia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    HCN || RCKW || [[Hengchun Airport]] || [[Hengchun]], [[Taiwan]] || [[Time in Taiwan|UTC+08:00]] ||
+&lt;!-- HCO is FAA code (not IATA) for Hallock Municipal Airport in Hallock, Minnesota, United States --&gt;
+|-
+|    HCW || KCQW || [[Cheraw Municipal Airport]] / Lynch Bellinger Field  (FAA: CQW) || [[Cheraw, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HCQ || YHLC || [[Halls Creek Airport]] || [[Halls Creek, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    HCR || PAHC || [[Holy Cross Airport]] (FAA: HCA) || [[Holy Cross, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HD&quot;/&gt;-HD-
+|-
+|    HDB || EDIU || [[Heidelberg Airport]] || [[Heidelberg]], [[Baden-Württemberg]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- HDC is FAA code (not IATA) for Hammond Northshore Regional Airport in Hammond, Louisiana, United States --&gt;
+|-
+|    HDD || OPKD || [[Hyderabad Airport (Pakistan)|Hyderabad Airport]] || [[Hyderabad, Sindh|Hyderabad]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    HDE || KHDE || [[Brewster Field]] || [[Holdrege, Nebraska]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HDF || EDAH || [[Heringsdorf Airport]] || [[Heringsdorf]], [[Mecklenburg-Vorpommern]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    HDG || ZBHD || [[Handan Airport]] || [[Handan]], [[Hebei]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    HDH || PHDH || [[Dillingham Airfield]] || [[Mokuleia, Hawaii]], United States || [[Hawaii–Aleutian Time Zone|UTC−10:00]] ||
+&lt;!-- HDI is FAA code (not IATA) for Cleveland Municipal Airport / Hardwick Field in Cleveland, Tennessee, United States --&gt;
+|-
+|    HDM || OIHH || [[Hamadan Airport]] || [[Hamadan]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    HDN || KHDN || [[Yampa Valley Airport]] || [[Hayden, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    HDO || KHDO || [[Hondo Municipal Airport]] (former Hondo AAF) || [[Hondo, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HDS || FAHS || [[Hoedspruit Airport]] || [[Hoedspruit]], South Africa || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    HDY || VTSS || [[Hat Yai International Airport]] || [[Hat Yai]], [[Songkhla Province]], [[Thailand]] || [[UTC+07:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HE&quot;/&gt;-HE-
+|-
+|    HEA || OAHR || [[Herat International Airport]] || [[Herat]], [[Afghanistan]] || [[Time in Afghanistan|UTC+04:30]] ||
+|-
+|    HEB || VBHD || [[Henzada Airport]] || [[Henzada]], [[Myanmar]] (Burma) || [[Myanmar Standard Time|UTC+06:30]] ||
+|-
+|    HED ||      || [[Herendeen Bay Airport]] (FAA: AK33) || [[Herendeen Bay]], [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    HEE || KHEE || [[Thompson–Robbins Airport]] || [[Helena, Arkansas|Helena]] / [[West Helena, Arkansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HEF || KHEF || [[Manassas Regional Airport]] (Harry P. Davis Field) || [[Manassas, Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- HEG is FAA code (not IATA) for Herlong Airport in Jacksonville, Florida, United States --&gt;
+|-
+|    HEH || VYHH || [[Heho Airport]] || [[Heho]], [[Myanmar]] (Burma) || [[Myanmar Standard Time|UTC+06:30]] ||
+|-
+|    HEI || EDXB || [[Heide–Büsum Airport]] || [[Heide]], [[Schleswig-Holstein]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    HEK || ZYHE || [[Heihe Airport]] || [[Heihe]], [[Heilongjiang]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    HEL || EFHK || [[Helsinki Airport]] || [[Helsinki]] / [[Vantaa]], Finland || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    HEM || EFHF || [[Helsinki-Malmi Airport]] || [[Helsinki]] / [[Malmi, Helsinki|Malmi]], Finland || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    HEO ||      || [[Haelogo Airport]] || [[Haelogo]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+&lt;!-- HEQ is FAA code (not IATA) for Holyoke Airport in Holyoke, Colorado, United States --&gt;
+|-
+|    HER || LGIR || [[Heraklion International Airport, &quot;Nikos Kazantzakis&quot;]] || [[Heraklion]], [[Crete]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    HES || KHRI || [[Hermiston Municipal Airport]] (FAA: HRI) || [[Hermiston, Oregon]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    HET || ZBHH || [[Hohhot Baita International Airport]] || [[Hohhot]], [[Inner Mongolia]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    HEX || MDHE || &lt;s&gt;[[Herrera International Airport]]&lt;/s&gt; (closed) || &lt;s&gt;[[Santo Domingo]], [[Dominican Republic]]&lt;/s&gt;
+|-
+|    HEY || KHEY || [[Hanchey Army Heliport]] || [[Fort Rucker]], [[Dale County, Alabama]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HEZ || KHEZ || [[Natchez–Adams County Airport]] (Hardy–Anders Field) || [[Natchez, Mississippi]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HF&quot;/&gt;-HF-
+|-
+|    HFA || LLHA || [[Haifa Airport]] (Uri Michaeli Airport) || [[Haifa]], [[Israel]] || [[Israel Standard Time|UTC+02:00]] || Mar-Oct
+|-
+|    HFD || KHFD || [[Hartford–Brainard Airport]] || [[Hartford, Connecticut]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HFE || ZSOF || [[Hefei Luogang International Airport]] || [[Hefei]], [[Anhui]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    HFF || KHFF || [[Mackall Army Airfield]] || [[Camp Mackall]], [[North Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- HFJ is FAA code (not IATA) for Monett Municipal Airport in Monett, Missouri, United States --&gt;
+|-
+|    HFN || BIHN || [[Hornafjörður Airport]] || [[Höfn]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    HFS || ESOH || [[Hagfors Airport]] || [[Hagfors]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    HFT || ENHF || [[Hammerfest Airport]] || [[Hammerfest]], [[Finnmark]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- HFY is FAA code (not IATA) for Greenwood Municipal Airport in Indianapolis, Indiana, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HG&quot;/&gt;-HG-
+|-
+|    HGA || HCMH || [[Egal International Airport]] || [[Hargeisa]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    HGD || YHUG || [[Hughenden Airport]] || [[Hughenden, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    HGH || ZSHC || [[Hangzhou Xiaoshan International Airport]] || [[Hangzhou]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    HGL || EDXH || [[Düne Airport]] (Helgoland Airport) || [[Düne]], [[Helgoland]], [[Schleswig-Holstein]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    HGN || VTCH || [[Mae Hong Son Airport]] || [[Mae Hong Son]], [[Thailand]] || [[UTC+07:00]] ||
+|-
+|    HGO || DIKO || [[Korhogo Airport]] || [[Korhogo]], [[Côte d'Ivoire]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    HGR || KHGR || [[Hagerstown Regional Airport]] (Richard A. Henson Field) || [[Hagerstown, Maryland]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HGS || GFHA || [[Hastings Airport (Sierra Leone)|Hastings Airport]] || [[Freetown]], [[Sierra Leone]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    HGT || KHGT || [[Tusi Army Heliport]] || [[Fort Hunter Liggett]] / [[Jolon, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    HGU || AYMH || [[Mount Hagen Airport]] || [[Mount Hagen]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    HGZ ||      || [[Hog River Airport]] (FAA: 2AK6) || [[Hogatza, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HH&quot;/&gt;-HH-
+|-
+|    HHE || RJSH || [[Hachinohe Air Base]] || [[Hachinohe]], [[Honshū]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+&lt;!-- HHF is FAA code (not IATA) for Hemphill County Airport in Canadian, Texas, United States --&gt;
+&lt;!-- HHG is FAA code (not IATA) for Huntington Municipal Airport in Huntington, Indiana, United States --&gt;
+|-
+|    HHH || KHXD || [[Hilton Head Airport]] (FAA: HXD) || [[Hilton Head Island, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HHI || PHHI || [[Wheeler Army Airfield]] || [[Wahiawa, Hawaii]], United States || [[Hawaii–Aleutian Time Zone|UTC−10:00]] ||
+|-
+|    HHN || EDFH || [[Frankfurt–Hahn Airport]] || [[Rhineland-Palatinate]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    HHP || VHSS || [[Shun Tak Heliport]] || [[Sheung Wan]], Hong Kong || [[Hong Kong Time|UTC+08:00]] ||
+|-
+|    HHQ || VTPH || [[Hua Hin Airport]] || [[Hua Hin]], [[Thailand]] || [[UTC+07:00]] ||
+|-
+|    HHR || KHHR || [[Hawthorne Municipal Airport (California)|Hawthorne Municipal Airport]] (Jack Northrop Field) || [[Hawthorne, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+&lt;!-- HHW is FAA code (IATA: HUJ) for Stan Stamper Municipal Airport in Hugo, Oklahoma, United States --&gt;
+|-
+|    HHZ || NTGH || [[Hikueru Atoll Airport]] || [[Hikueru Atoll]], [[French Polynesia]] || [[Time in France|UTC−10:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HI&quot;/&gt;-HI-
+|-
+|    HIA || ZSSH || [[Huai'an Lianshui Airport]] || [[Huai'an]], [[Jiangsu]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    HIB || KHIB || [[Chisholm-Hibbing Airport]] || [[Hibbing, Minnesota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HID || YHID || [[Horn Island Airport]] || [[Horn Island, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    HIE || KHIE || [[Mount Washington Regional Airport]] || [[Whitefield, New Hampshire]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HIF || KHIF || [[Hill Air Force Base]] || [[Ogden, Utah]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    HIG || YHHY || [[Highbury Airport]] || [[Highbury, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    HIH ||      || [[Hook Island Airport]] || [[Hook Island]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    HII || KHII || [[Lake Havasu City Airport]] || [[Lake Havasu City, Arizona]], United States || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+|    HIJ || RJOA || [[Hiroshima Airport]] || [[Hiroshima]], [[Honshū]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    HIK || PHIK || [[Hickam Air Force Base]] || [[Honolulu, Hawaii]], United States || [[Hawaii–Aleutian Time Zone|UTC−10:00]] ||
+|-
+|    HIL ||      || [[Shilabo Airport]] || [[Shilabo]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+&lt;!-- HIL is not IATA for Hilongos Airport in Hilongos, Philippines --&gt;
+|-
+|    HIM ||      || [[Minneriya Airport]] ([[Polonnaruwa Airport]]) || [[Polonnaruwa]], [[Sri Lanka]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    HIN || RKPS || [[Sacheon Airport]] / Sacheon Air Base || [[Sacheon]], [[South Korea]] || [[Korea Standard Time|UTC+09:00]] ||
+|-
+|    HIO || KHIO || [[Hillsboro Airport]] || [[Hillsboro, Oregon|Hillsboro]] / [[Portland, Oregon]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    HIP || YHDY || [[Headingly Airport]] || [[Headingly Station]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    HIR || AGGH || [[Honiara International Airport]] || [[Honiara]], [[Guadalcanal Island]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+|    HIS ||      || [[Hayman Island Resort Seaplace Base]] || [[Hayman Island, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    HIT ||      || [[Hivaro Airport]] || [[Hivaro]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    HIW || RJBH || [[Hiroshima West Airport]] || [[Hiroshima]], [[Honshū]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+&lt;!-- The HIX IATA location identifier has been deprecated by IATA for the [[Atuona Airport]] --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HJ&quot;/&gt;-HJ-
+&lt;!-- HJH is FAA code (not IATA) for Hebron Municipal Airport in Hebron, Nebraska, United States --&gt;
+|-
+|    HJJ ||      || [[Zhijiang Airport]] || [[Zhijiang, Hubei]], China || [[Time in China|UTC+08:00]] ||
+&lt;!-- HJO is FAA code (not IATA) for Hanford Municipal Airport in Hanford, California, United States --&gt;
+|-
+|    HJR || VAKJ || [[Khajuraho Airport]] || [[Khajuraho]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    HJT || ZMHU || [[Khujirt Airport]] || [[Khujirt]], [[Övörkhangai]], [[Mongolia]] || [[Time in Mongolia|UTC+08:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HK&quot;/&gt;-HK-
+|-
+|    HKA || KHKA || [[Blytheville Municipal Airport]] || [[Blytheville, Arkansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HKB ||      || [[Healy Lake Airport]] || [[Healy Lake, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    HKD || RJCH || [[Hakodate Airport]] || [[Hakodate]], [[Hokkaidō]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    HKG || VHHH || [[Hong Kong International Airport]] (succeeded [[Kai Tak Airport]]) || [[Chek Lap Kok]], [[Hong Kong]] || [[Hong Kong Time|UTC+08:00]] ||
+|-
+|    HKK || NZHK || [[Hokitika Airport]] || [[Hokitika]], New Zealand || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|-
+|    HKN || AYHK || [[Kimbe Airport]] || [[Hoskins, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    HKS || KHKS || [[Hawkins Field (airport)|Hawkins Field]] || [[Jackson, Mississippi]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HKT || VTSP || [[Phuket International Airport]] || [[Phuket city|Phuket]], [[Thailand]] || [[UTC+07:00]] ||
+|-
+|    HKV || LBHS || [[Haskovo Malevo Airport]] || [[Haskovo]], [[Bulgaria]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    HKY || KHKY || [[Hickory Regional Airport]] || [[Hickory, North Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HL&quot;/&gt;-HL-
+|-
+|    HLA || FALA || [[Lanseria Airport]] || [[Lanseria]], South Africa || [[South African Standard Time|UTC+02:00]] ||
+&lt;!-- HLA is FAA code (IATA: HSL) for Huslia Airport in Huslia, Alaska, United States --&gt;
+|-
+|    HLB || KHLB || [[Hillenbrand Industries Airport]] || [[Batesville, Indiana]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HLC || KHLC || [[Hill City Municipal Airport]] || [[Hill City, Kansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HLD || ZBLA || [[Hailar Dongshan Airport]] || [[Hailar District|Hailar]], [[Inner Mongolia]], China || [[Time in China|UTC+08:00]] ||
+|-    
+|-     
+|    HLE || FHSH || [[Saint Helena Airport]] || [[St Helena]] [[South Atlantic]] ||
+|- 
+|    HLF || ESSF || [[Hultsfred-Vimmerby Air Base]] || [[Hultsfred]] / [[Vimmerby]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    HLG || KHLG || [[Wheeling Ohio County Airport]] || [[Wheeling, West Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HLH || ZBUL || [[Ulanhot Airport]] || [[Ulanhot]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    HLI || KCVH || [[Hollister Municipal Airport]] (FAA: CVH) || [[Hollister, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+&lt;!-- HLJ is not the IATA code of [[Barysiai Airport]] (Shauliaj Airport), ICAO code: EYSB, [[Barysiai]] / [[Shauliaj]], [[Lithuania]] --&gt;
+|-
+|    HLL || YHIL || [[Hillside Airport (Australia)|Hillside Airport]] || [[Hillside, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    HLM || KHLM || [[Park Township Airport]] || [[Holland, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HLN || KHLN || [[Helena Regional Airport]] || [[Helena, Montana]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    HLO || BIID || [[Ingjaldssanður Airport]] (Ingjaldssandur) || [[Onundarfjörður]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    HLP || WIHH || [[Halim Perdanakusuma International Airport]] || [[Jakarta]], [[Indonesia]] || [[Time in Indonesia|UTC+07:00]] ||
+|-
+|    HLR || KHLR || [[Hood Army Airfield]] || [[Fort Hood]] / [[Killeen, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HLS || YSTH || [[St. Helens Airport]] || [[St. Helens, Tasmania]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    HLT || YHML || [[Hamilton Airport (Australia)|Hamilton Airport]] || [[Hamilton, Victoria]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+&lt;!-- Abandoned airport: HLU || NWWH || [[Nesson Airport]] || [[Houailou]], [[New Caledonia]] --&gt;
+|-
+|    HLV ||      || [[Helenvale Airport]] || [[Helenvale, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    HLW || FAHL || [[Hluhluwe Airport]] || [[Hluhluwe]], South Africa || [[South African Standard Time|UTC+02:00]] ||
+&lt;!-- HLX is FAA code (not IATA) for Twin County Airport in Galax / Hillsville, Virginia, United States --&gt;
+|-
+|    HLY || EGOV || [[Anglesey Airport]] (Maes Awyr Môn) / [[RAF Valley]] || [[Anglesey]], [[Wales]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    HLZ || NZHN || [[Hamilton International Airport]] || [[Hamilton, New Zealand]] || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HM&quot;/&gt;-HM-
+|-
+|    HMA || USHH || [[Khanty-Mansiysk Airport]] || [[Khanty-Mansiysk]], Russia || [[Yekaterinburg Time|UTC+05:00]] ||
+|-
+|    HME || DAUH || [[Oued Irara Airport]] || [[Hassi Messaoud]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    HMG || YHMB || [[Hermannsburg Airport]] || [[Hermannsburg, Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    HMI || ZWHM || [[Hami Airport]] || [[Hami City]], [[Xinjiang]], China || [[Time in China|UTC+06:00]] ||
+|-
+|    HMJ || UKLH || [[Khmelnytsky Airport]] || [[Khmelnytskyi, Ukraine|Khmelnytsky]], [[Ukraine]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    HMN || KHMN || [[Holloman Air Force Base]] || [[Alamogordo, New Mexico]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    HMO || MMHO || [[General Ignacio Pesqueira Garcia International Airport]] || [[Hermosillo]], [[Sonora]], Mexico || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+|    HMR || ENHA || [[Hamar Airport, Stafsberg]] || [[Hamar]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    HMT || KHMT || [[Hemet-Ryan Airport]] || [[Hemet, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    HMV || ESUT || [[Hemavan Airport]] || [[Hemavan]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- HMY is FAA code (not IATA) for Muldrow Army Heliport in Lexington, Oklahoma, United States --&gt;
+&lt;!-- HMZ is FAA code (not IATA) for Bedford County Airport in Bedford, Pennsylvania, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HN&quot;/&gt;-HN-
+|-
+|    HNA || RJSI || [[Hanamaki Airport]] || [[Morioka]], [[Honshū]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    HNB || KHNB || [[Huntingburg Airport]] || [[Huntingburg, Indiana]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HNC || KHSE || [[Billy Mitchell Airport]] (FAA: HSE) || [[Hatteras, North Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HND || RJTT || [[Haneda Airport]] (Haneda Airport) || Tokyo, [[Honshū]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    HNE || PAHE || &lt;s&gt;[[Tahneta Pass Airport]]&lt;/s&gt; (closed) || &lt;s&gt;[[Tahneta Pass Lodge]], [[Alaska]], United States&lt;/s&gt;
+&lt;!-- Abandoned airport: HNG || NWWI || [[Hienghene Airport]] || [[Hienghene]], [[New Caledonia]] --&gt;
+|-
+|    HNH || PAOH || [[Hoonah Airport]] || [[Hoonah, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    HNI ||      || [[Heiweni Airport]] || [[Heiweni]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    HNK ||      || [[Hinchinbrook Island Airport]] || [[Hinchinbrook Island]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    HNL || PHNL || [[Honolulu International Airport]] || [[Honolulu, Hawaii]], United States || [[Hawaii–Aleutian Time Zone|UTC−10:00]] ||
+|-
+|    HNM || PHHN || [[Hana Airport]] || [[Hana, Hawaii]], United States || [[Hawaii–Aleutian Time Zone|UTC−10:00]] ||
+|-
+|    HNN ||      || [[Honinabi Airport]] || [[Honinabi]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+&lt;!-- HNR is FAA code (not IATA) for Harlan Municipal Airport in Harlan, Iowa, United States --&gt;
+|-
+|    HNS || PAHN || [[Haines Airport]] || [[Haines, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    HNY || ZGHY || [[Hengyang Nanyue Airport]] || [[Hengyang]], [[Hunan]], China || [[Time in China|UTC+08:00]] ||
+&lt;!-- HNZ is FAA code (not IATA) for Henderson-Oxford Airport in Oxford, North Carolina, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HO&quot;/&gt;-HO-
+|-
+|    HOA || HKHO || [[Hola Airport]] || [[Hola, Kenya]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    HOB || KHOB || [[Lea County Regional Airport]] || [[Hobbs, New Mexico]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    HOC ||      || [[Komako Airport]] || [[Komako]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+&lt;!-- HOC is FAA code (not IATA) for Highland County Airport in Hillsboro, Ohio, United States --&gt;
+|-
+|    HOD || OYHD || [[Hodeida International Airport]] || [[Al Hudaydah]] (Hodeida), [[Yemen]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    HOE || VLHS || [[Ban Huoeisay Airport]] || [[Houeisay]], [[Laos]] || [[UTC+07:00]] ||
+&lt;!-- HOE is FAA code (not IATA) for Homerville Airport in Homerville, Georgia, United States --&gt;
+|-
+|    HOF || OEAH || [[al-Ahsa Airport]] (al-Hasa Airport) || [[Hofuf]], [[Saudi Arabia]] || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    HOG || MUHG || [[Frank País Airport]] || [[Holguín]], [[Cuba]] || [[UTC−05:00]] || Mar-Nov
+|-
+|    HOH || LOIH || [[Hohenems-Dornbirn Airport]] || [[Hohenems]], Austria || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    HOI || NTTO || [[Hao Airport]] || [[Hao (French Polynesia)|Hao]], [[Tuamotu Island]], [[French Polynesia]] || [[Time in France|UTC−10:00]] ||
+|-
+|    HOK || YHOO || [[Lajamanu Airport]] (Hooker Creek Airport) || [[Lajamanu, Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    HOM || PAHO || [[Homer Airport]] || [[Homer, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    HON || KHON || [[Huron Regional Airport]] || [[Huron, South Dakota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HOO ||      || [[Nhon Co Airport]] || [[Quanduc]] (Quang Duc), [[Vietnam]] || [[UTC+07:00]] ||
+|-
+|    HOP || KHOP || [[Campbell Army Airfield]] || [[Fort Campbell, Kentucky|Fort Campbell]] / [[Hopkinsville, Kentucky]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HOQ || EDQM || [[Hof Airport]] (Plauen Airport) || [[Hof, Germany|Hof]],  [[Bavaria]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    HOR || LPHR || [[Horta Airport]] || [[Horta (Azores)|Horta]], [[Azores]], Portugal || [[UTC−01:00]] || Mar-Oct
+|-
+|    HOS || SAHC || [[Chos Malal Airport]] (Oscar Reguera Airport) || [[Chos Malal]], [[Neuquén Province|Neuquén]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    HOT || KHOT || [[Memorial Field Airport]] || [[Hot Springs, Arkansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HOU || KHOU || [[William P. Hobby Airport]] || [[Houston, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HOV || ENOV || [[Ørsta/Volda Airport, Hovden]] || [[Ørsta]] / [[Volda]] / [[Hovden, Møre og Romsdal]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    HOX || VYHL || [[Hommalinn Airport]] || [[Hommalinn]], [[Burma|Myanmar (Burma)]] || [[Myanmar Standard Time|UTC+06:30]] ||
+|-
+|    HOY ||      || [[Hoy Airport]] || [[Longhope]], [[Scotland]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HP&quot;/&gt;-HP-
+|-
+|    HPA || NFTL || [[Salote Pilolevu Airport]] || [[Lifuka]], [[Ha'apai]], [[Tonga]] || [[UTC+13:00]] ||
+|-
+|    HPB || PAHP || [[Hooper Bay Airport]] || [[Hooper Bay, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    HPE ||      || [[Hope Vale Airport]] || [[Hope Vale, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    HPG || ZHSN || [[Shennongjia Hongping Airport]] || [[Shennongjia]], [[Hubei]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    HPH || VVCI || [[Cat Bi International Airport]] || [[Haiphong]], [[Vietnam]] || [[UTC+07:00]] ||
+|-
+|    HPN || KHPN || [[Westchester County Airport]] || [[White Plains, New York]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HPR ||      || [[Pretoria Central Heliport]] || [[Pretoria]], South Africa || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    HPT || KHPT || [[Hampton Municipal Airport]] || [[Hampton, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HPV ||      || [[Princeville Airport]] (FAA: HI01) || [[Hanalei, Hawaii]], United States || [[Hawaii–Aleutian Time Zone|UTC−10:00]] ||
+|-
+|    HPY || KHPY || [[Baytown Airport]] || [[Baytown, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HQ&quot;/&gt;-HQ-
+&lt;!-- HQG is FAA code (not IATA) for Hugoton Municipal Airport in Hugoton, Kansas, United States --&gt;
+|-
+|    HQM || KHQM || [[Bowerman Airport]] || [[Hoquiam, Washington]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+&lt;!-- HQU is FAA code (not IATA) for Thomson-McDuffie County Airport in Thomson, Georgia, United States --&gt;
+&lt;!-- HQZ is FAA code (not IATA) for Mesquite Metro Airport in Mesquite, Texas, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HR&quot;/&gt;-HR-
+|-
+|    HRA ||      || [[Mansehra Airport]] || [[Mansehra]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    HRB || ZYHB || [[Harbin Taiping International Airport]] || [[Harbin]], [[Heilongjiang]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    HRC ||      || [[Zhairem Airport]] || [[Zhairem]], [[Kazakhstan]] || [[Time in Kazakhstan|UTC+06:00]] ||
+|-
+|    HRE || FVHA || [[Harare International Airport]] || [[Harare]], [[Zimbabwe]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    HRG || HEGN || [[Hurghada International Airport]] || [[Hurghada]], [[Egypt]] || [[Eastern European Time|UTC+02:00]] ||
+&lt;!-- HRI is FAA code (IATA: HES) for Hermiston Municipal Airport in Hermiston, Oregon, United States --&gt;
+|-
+|    HRI || VCRI || [[Mattala Rajapaksa International Airport]] || [[Hambantota]], [[Sri Lanka]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    HRJ || VNCJ || [[Chaurjhari Airport]] || [[Chaurjhari]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+&lt;!-- HRJ is FAA code (not IATA) for Harnett County Airport in Erwin, North Carolina, United States --&gt;
+|-
+|    HRK || UKHH || [[Kharkiv International Airport]] (Osnova Airport) || [[Kharkiv]], [[Ukraine]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    HRL || KHRL || [[Valley International Airport]] || [[Harlingen, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HRM || DAFH || [[Tilrempt Airport]] || [[Hassi R'Mel]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    HRN ||      || [[Heron Island Heliport]] || [[Heron Island, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    HRO || KHRO || [[Boone County Airport (Arkansas)|Boone County Airport]] || [[Harrison, Arkansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HRR ||      || [[Herrera Airport, Columbia|Herrera Airport]] || [[Herrera, Columbia|Herrera]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+&lt;!-- HRR is FAA code (IATA: HKB) for Healy River Airport in Healy, Alaska, United States --&gt;
+|-
+|    HRS || FAHR || [[Harrismith Airport]] || [[Harrismith]], South Africa || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    HRT || EGXU || [[Linton-on-Ouse Airport]] || [[Harrogate]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+&lt;!-- HRT is FAA code (not IATA) for Hurlburt Field in Mary Esther, Florida, United States --&gt;
+&lt;!-- HRU is FAA code (not IATA) for Herington Regional Airport in Herington, Kansas, United States --&gt;
+&lt;!-- HRX is FAA code (not IATA) for Hereford Municipal Airport in Hereford, Texas, United States --&gt;
+|-
+|    HRY || YHBY || [[Henbury Airport]] || [[Henbury Station]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    HRZ ||      || [[Horizontina Airport]] || [[Horizontina]], [[Rio Grande do Sul]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HS&quot;/&gt;-HS-
+&lt;!-- HSA is FAA code (not IATA) for Stennis International Airport in Bay St. Louis, Mississippi, United States --&gt;
+|-
+|    HSB || KHSB || [[Harrisburg–Raleigh Airport]] || [[Harrisburg, Illinois]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HSC ||      || [[Shaoguan Airport]] || [[Shaoguan]], [[Guangdong]], China || [[Time in China|UTC+08:00]] ||
+&lt;!-- HSD is FAA code of [[Sundance Airpark]] (ICAO: KHSD), [[Oklahoma City, Oklahoma]], United States. HSD is IATA code of the [[Huangshi Railway Station]], [[Huangshi]], [[Hubei]] province, [[China]] --&gt;
+&lt;!-- HSE is FAA code (IATA: HNC) for Billy Mitchell Airport in Hatteras, North Carolina, United States --&gt;
+|-
+|    HSG || RJFS || [[Saga Airport]] || [[Saga, Saga|Saga]], [[Kyūshū]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    HSH || KHND || [[Henderson Executive Airport]] (FAA: HND)  || [[Henderson, Nevada|Henderson]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    HSI || KHSI || [[Hastings Municipal Airport]] || [[Hastings, Nebraska]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HSK || LEHC || [[Huesca–Pirineos Airport]] || [[Huesca]], Spain || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    HSL || PAHL || [[Huslia Airport]] (FAA: HLA) || [[Huslia, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    HSM || YHSM || [[Horsham Airport]] || [[Horsham, Victoria]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    HSN || ZSZS || [[Zhoushan Putuoshan Airport]] || [[Zhoushan]], [[Zhejiang]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    HSP || KHSP || [[Ingalls Field]] || [[Hot Springs, Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- HSR is FAA code (not IATA) for Hot Springs Municipal Airport in Hot Springs, South Dakota, United States --&gt;
+|-
+|    HSS || VIHR || [[Hissar Airport]] || [[Hisar, India|Hissar]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    HST || KHST || [[Homestead Air Reserve Base]] || [[Homestead, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HSV || KHSV || [[Huntsville International Airport]] (Carl T. Jones Field) || [[Huntsville, Alabama|Huntsville]] / [[Decatur, Alabama]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HSZ || RCPO || [[Hsinchu Airport]] || [[Hsinchu]], [[Taiwan]] || [[Time in Taiwan|UTC+08:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HT&quot;/&gt;-HT-
+|-
+|    HTA || UIAA || [[Kadala Airport]] || [[Chita, Zabaykalsky Krai|Chita]], Russia || [[Irkutsk Time|UTC+08:00]] ||
+|-
+|    HTB ||      || [[Terre-de-Bas Airport]] || [[Terre-de-Bas]], [[Guadeloupe]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    HTF || EGTH || &lt;s&gt;[[Hatfield Aerodrome]]&lt;/s&gt; (closed 1990s) || &lt;s&gt;[[Hatfield, Hertfordshire]], England, United Kingdom&lt;/s&gt;
+|-
+|    HTG || UOHH || [[Hatanga Airport]] || [[Khatanga (village)|Khatanga]], [[Krasnoyarsk Krai]], Russia || [[Krasnoyarsk Time|UTC+07:00]] ||
+|-
+|    HTH || KHTH || [[Hawthorne Industrial Airport]] || [[Hawthorne, Nevada]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    HTI || YBHM || [[Great Barrier Reef Airport]] || [[Hamilton Island (Queensland)|Hamilton Island]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    HTL || KHTL || [[Roscommon County - Blodgett Memorial Airport]] || [[Houghton Lake, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HTN || ZWTN || [[Hotan Airport]] || [[Hotan]], [[Xinjiang]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    HTO || KHTO || [[East Hampton Airport]] || [[East Hampton (town), New York|East Hampton, New York]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HTR || RORH || [[Hateruma Airport]] || [[Hateruma]], [[Okinawa]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    HTS || KHTS || [[Tri-State Airport]] (Milton J. Ferguson Field) || [[Huntington, West Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HTT ||      || [[Huatugou Airport]] || [[Mangya]], [[Qinghai]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    HTU || YHPN || [[Hopetoun Airport]] || [[Hopetoun, Victoria]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    HTV || KUTS || [[Huntsville Municipal Airport (Texas)|Huntsville Municipal Airport]] || [[Huntsville, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HTW || KHTW || [[Lawrence County Airpark]] || [[Chesapeake, Ohio]] / [[Huntington, West Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HTY || LTDA || [[Hatay Airport]] || [[Hatay Province|Hatay]], Turkey || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    HTZ || SKHC || [[Hato Corozal Airport]] || [[Hato Corozal]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HU&quot;/&gt;-HU-
+|-
+|    HUA || KHUA || [[Redstone Army Airfield]] || [[Redstone Arsenal]] (near [[Huntsville, Alabama|Huntsville]]), [[Alabama]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HUB || YHBR || [[Humbert River Airport]] || [[Humbert River]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    HUC ||      || [[Humacao Airport]] || [[Humacao, Puerto Rico]], United States || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    HUD ||      || [[Humboldt Municipal Airport (Iowa)|Humboldt Municipal Airport]] (FAA: 0K7) || [[Humboldt, Iowa]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HUE || HAHU || [[Humera Airport]] || [[Humera]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    HUF || KHUF || [[Terre Haute International Airport]] (Hulman Field) || [[Terre Haute, Indiana]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HUG || MGHT || [[Huehuetenango Airport]] || [[Huehuetenango]], [[Huehuetenango]], [[Guatemala]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    HUH || NTTH || [[Fare Airport]] || [[Huahine]], [[Society Islands]], [[French Polynesia]] || [[Time in France|UTC−10:00]] ||
+|-
+|    HUI || VVPB || [[Phu Bai International Airport]] || [[Huế]], [[Thừa Thiên–Huế Province|Thừa Thiên–Huế]], [[Vietnam]] || [[UTC+07:00]] ||
+|-
+|    HUJ || KHHW || [[Stan Stamper Municipal Airport]] (FAA: HHW) || [[Hugo, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HUK ||      || [[Hukuntsi Airport]] || [[Hukuntsi]], [[Botswana]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    HUL || KHUL || [[Houlton International Airport]] || [[Houlton, Maine]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HUM || KHUM || [[Houma–Terrebonne Airport]] || [[Houma, Louisiana]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HUN || RCYU || [[Hualien Airport]] || [[Hualien City|Hualien]], [[Taiwan]], [[Republic of China]] || [[Time in Taiwan|UTC+08:00]] ||
+|-
+|    HUQ || HLON || [[Hun Airport]] || [[Hun, Libya]] || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    HUS || PAHU || [[Hughes Airport (Alaska)|Hughes Airport]] || [[Hughes, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    HUT || KHUT || [[Hutchinson Municipal Airport (Kansas)|Hutchinson Municipal Airport]] || [[Hutchinson, Kansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HUU || SPNC || [[Alférez FAP David Figueroa Fernandini Airport]] || [[Huánuco]], [[Huánuco Region]], [[Peru]] || [[Time in Peru|UTC−05:00]] ||
+|-
+|    HUV || ESNH || [[Hudiksvall Airport]] || [[Hudiksvall]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    HUX || MMBT || [[Huatulco International Airport]] || [[Huatulco]] (Bahías de Huatulco), [[Oaxaca]], Mexico || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+|    HUY || EGNJ || [[Humberside Airport]] || [[North Lincolnshire]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    HUZ || ZGHZ || [[Huizhou Airport]] || [[Huizhou]], [[Guangdong]], China || [[Time in China|UTC+08:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HV&quot;/&gt;-HV-
+|-
+|    HVA || FMNL || [[Analalava Airport]] || [[Analalava]], [[Madagascar]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    HVB || YHBA || [[Hervey Bay Airport]] || [[Hervey Bay]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+&lt;!-- HVC is FAA code (not IATA) for Hopkinsville-Christian County Airport in Hopkinsville, Kentucky, United States --&gt;
+|-
+|    HVD || ZMKD || [[Khovd Airport]] || [[Khovd (city)|Khovd]], [[Mongolia]] || [[Time in Mongolia|UTC+07:00]] ||
+|-
+|    HVE || KHVE || [[Hanksville Airport]] || [[Hanksville, Utah]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    HVG || ENHV || [[Honningsvåg Airport, Valan]] || [[Nordkapp]], [[Finnmark]], Norway || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    HVK || BIHK || [[Hólmavík Airport]] || [[Hólmavík]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    HVM || BIHV || [[Krókstaðarmelar Airport]] (Krokstadarmelar) || [[Hvammstangi]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    HVN || KHVN || [[Tweed New Haven Airport]] || [[New Haven, Connecticut]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HVR || KHVR || [[Havre City–County Airport]] || [[Havre, Montana]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    HVS || KHVS || [[Hartsville Regional Airport]] || [[Hartsville, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HW&quot;/&gt;-HW-
+|-
+|    HWA ||      || [[Hawabango Airport]] || [[Hawabango]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    HWD || KHWD || [[Hayward Executive Airport]] || [[Hayward, California]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    HWI ||      || [[Hawk Inlet Seaplane Base]] || [[Hawk Inlet]], [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    HWK || YHAW || [[Wilpena Pound]] || [[Hawker, South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+|    HWN || FVWN || [[Hwange National Park Airport]] || [[Hwange National Park]], [[Zimbabwe]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    HWO || KHWO || [[North Perry Airport]] || [[Hollywood, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- HWQ is FAA code (not IATA) for Wheatland County Airport at Harlowton in Harlowton, Montana, United States --&gt;
+&lt;!-- HWV is FAA code (IATA: WSH) for Brookhaven Airport in Shirley, New York, United States --&gt;
+&lt;!-- HWY is FAA code (not IATA) for Warrenton-Fauquier Airport in Warrenton, Virginia, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HX&quot;/&gt;-HX-
+|-
+|    HXD || ZLDL || [[Delingha Airport]] || [[Delingha]], [[Qinghai]], China || [[Time in China|UTC+08:00]] ||
+&lt;!-- HXD is also FAA code (IATA: HHH) for Hilton Head Airport in Hilton Head Island, South Carolina, United States --&gt;
+&lt;!-- HXF is FAA code (not IATA) for Hartford Municipal Airport in Hartford, Wisconsin, United States --&gt;
+|-
+|    HXX || YHAY || [[Hay Airport]] || [[Hay, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HY&quot;/&gt;-HY-
+|-
+|    HYA || KHYA || [[Barnstable Municipal Airport]] (Boardman/Polando Field) || [[Hyannis, Massachusetts]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HYC || EGUH || [[RAF High Wycombe]] || [[High Wycombe]], [[Buckinghamshire]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    HYD || VOHS || [[Rajiv Gandhi International Airport]] (succeeded [[Begumpet Airport]]) || [[Hyderabad, India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    HYF ||      || [[Hayfields Airport]] || [[Hayfields]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    HYG || PAHY || [[Hydaburg Seaplane Base]] || [[Hydaburg, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+&lt;!-- HYI is FAA code (not IATA) for San Marcos Municipal Airport in San Marcos, Texas, United States --&gt;
+|-
+|    HYL ||      || [[Hollis Seaplane Base]] || [[Hollis, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    HYN || ZSLQ || [[Taizhou Luqiao Airport]] || [[Taizhou, Zhejiang]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    HYR || KHYR || [[Sawyer County Airport]] || [[Hayward, Wisconsin]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HYS || KHYS || [[Hays Regional Airport]] || [[Hays, Kansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HYV || EFHV || [[Hyvinkää Airport]] || [[Hyvinkää]], Finland || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+&lt;!-- HYW is FAA code (not IATA) for Conway-Horry County Airport in Conway, South Carolina, United States --&gt;
+&lt;!-- HYX is FAA code (not IATA) for Saginaw County H.W. Browne Airport in Saginaw, Michigan, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;HZ&quot;/&gt;-HZ-
+|-
+|    HZB || LFQT || [[Merville–Calonne Airport]] || [[Merville, Nord|Merville]] / [[Calonne-sur-la-Lys|Calonne]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- HZD is FAA code (not IATA) for Carroll County Airport in Huntingdon, Tennessee, United States --&gt;
+&lt;!-- HZE is FAA code (not IATA) for Mercer County Regional Airport in Hazen, North Dakota, United States --&gt;
+|-
+|    HZG || ZLHZ || [[Hanzhong Chenggu Airport]] || [[Hanzhong]], [[Shaanxi]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    HZH || ZUNP || [[Liping Airport]] || [[Liping County]], [[Guizhou]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    HZK || BIHU || [[Húsavík Airport]] || [[Húsavík]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    HZL || KHZL || [[Hazleton Municipal Airport]] || [[Hazleton, Pennsylvania]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    HZR || KHZR || [[False River Regional Airport]] || [[New Roads, Louisiana]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    HZV || FAHW || [[Hazyview Airport]] || [[Hazyview]], South Africa || [[South African Standard Time|UTC+02:00]] ||
+&lt;!-- HZX is FAA code (not IATA) for Isedor Iverson Airport in McGregor, Minnesota, United States --&gt;
+&lt;!-- HZY is FAA code (IATA: JFN) for Ashtabula County Airport in Ashtabula, Ohio, United States --&gt;
+|}
+∗ Morocco temporarily suspends DST for the month of Ramadan.
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = [[PDF]] | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|H]]</text>
+      <sha1>0mboxjmo1bea2gvavrklx599y0v0wpf</sha1>
+    </revision>
+  </page>
+</mediawiki>

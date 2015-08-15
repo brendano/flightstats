@@ -1,0 +1,805 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: P</title>
+    <ns>0</ns>
+    <id>317141</id>
+    <revision>
+      <id>671014132</id>
+      <parentid>656777694</parentid>
+      <timestamp>2015-07-11T20:22:53Z</timestamp>
+      <contributor>
+        <username>LazyJob</username>
+        <id>13428268</id>
+      </contributor>
+      <comment>Presidente Prudente, São Paulo</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="39179">{{Lists of airports by IATA code}}
+
+==P==
+{{AlphanumericTOC|prefixLink=P|prefixDesc=P|numbers=|sections=}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PA&quot;/&gt;-PA-
+|-
+|    PAB || VABI || [[Bilaspur Airport]] || [[Bilaspur, Chhattisgarh]], [[India]]
+|-
+|    PAC || MPMG || [[Albrook &quot;Marcos A. Gelabert&quot; International Airport]] || [[Panama City]], [[Panama]]
+|-
+|    PAD || EDLP || [[Paderborn Lippstadt Airport|Paderborn/Lippstadt Airport]] || [[Paderborn]], [[Germany]]
+|-
+|    PAE || KPAE || [[Snohomish County Airport]] (Paine Field) || [[Everett, Washington]], [[United States]]
+|-
+|    PAF || HUPA || [[Pakuba Airport]] || [[Pakuba]], [[Uganda]]
+|-
+|    PAG || RPMP || [[Pagadian Airport]] || [[Pagadian City]], [[Zamboanga del Sur]], [[Philippines]]
+|-
+|    PAH || KPAH || [[Barkley Regional Airport]] || [[Paducah, Kentucky]], [[United States]]
+|-
+|    PAK ||      || [[Port Allen Airport]] || [[Hanapepe, Hawaii]], [[United States]]
+|-
+|    PAM || KPAM || [[Tyndall Air Force Base]] || [[Panama City, Florida]], [[United States]]
+|-
+|    PAN || VTSK || [[Pattani Airport]] || [[Pattani]], [[Thailand]]
+&lt;!-- PAN is FAA code (IATA: PJB) for Payson Airport in Payson, Arizona, United States --&gt;
+|-
+|    PAO || KPAO || [[Palo Alto Airport]] || [[Palo Alto, California]], [[United States]]
+|-
+|    PAP || MTPP || [[Port-au-Prince International Airport]] || [[Port-au-Prince]], [[Haiti]]
+|-
+|    PAQ || PAAQ || [[Palmer Municipal Airport]] || [[Palmer, Alaska]], [[United States]]
+|-
+|    PAR ||      || All Airports || [[Paris]], [[France]]
+|-
+|    PAS || LGPA || [[Paros National Airport]] || [[Paros]], [[Greece]]
+|-
+|    PAT || VEPT || [[Lok Nayak Jayaprakash Airport]] (Patna Airport) || [[Patna]], [[India]]
+|-
+|    PAZ || MMPA || [[El Tajín National Airport]] || [[Poza Rica]], [[Veracruz]], [[Mexico]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PB&quot;/&gt;-PB-
+|-
+|    PBC || MMPB || [[Hermanos Serdán International Airport]] || [[Puebla]], [[Mexico]]
+|-
+|    PBF || KPBF || [[Grider Field]] || [[Pine Bluff, Arkansas]], [[United States]]
+|-
+|    PBG || KPBG || [[Plattsburgh International Airport]] || [[Plattsburgh, New York]], [[United States]]
+|-
+|    PBH || VQPR || [[Paro Airport]] || [[Paro, Bhutan|Paro]], [[Bhutan]]
+|-
+|    PBI || KPBI || [[Palm Beach International Airport]] || [[West Palm Beach, Florida]], [[United States]]
+|-
+|    PBM || SMJP || [[Johan Adolf Pengel International Airport]] || [[Zanderij]] (near [[Paramaribo]]), [[Suriname]]
+|-
+|    PBO || YPBO || [[Paraburdoo Airport]] || [[Paraburdoo, Western Australia]], [[Australia]]
+|-
+|    PBP || MRIA || [[Punta Islita Airport]] || [[Punta Islita]], [[Costa Rica]]
+|-
+|    PBV ||      || [[Porto dos Gauchos Airport]] || [[Porto dos Gaúchos]], [[Mato Grosso]], [[Brazil]]
+&lt;!-- PBV is FAA code (IATA: STG) for St. George Airport in St. George, Alaska, United States --&gt;
+|-
+|    PBX ||      || [[Porto Alegre do Norte Airport]] || [[Porto Alegre do Norte]], [[Mato Grosso]], [[Brazil]]
+&lt;!-- PBX is FAA code (not IATA) for Pike County Airport (Hatcher Field) in Pikeville, Kentucky, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PC&quot;/&gt;-PC-
+|-
+|    PCA || PAOC || [[Portage Creek Airport]] (FAA: A14) || [[Portage Creek, Alaska]], [[United States]]
+|-
+|    PCD || KPDC || [[Prairie du Chien Municipal Airport]] (FAA: PDC) || [[Prairie du Chien, Wisconsin]], [[United States]]
+|-
+|    PCK ||      || [[Porcupine Creek Airport]] || [[Porcupine Creek]], [[Alaska]], [[United States]]
+|-
+|    PCL || SPCL || [[Captain Rolden International Airport]] || [[Pucallpa]], [[Peru]]
+|-
+|    PCM ||      || [[Playa del Carmen Airport]] || [[Playa del Carmen]], [[Mexico]]
+|-
+|    PCR ||      || [[Puerto Carreño Airport]] || [[Puerto Carreño]], [[Colombia]]
+|-
+|    PCT ||      || [[Princeton Airport (New Jersey)|Princeton Airport]] (FAA: 39N) || [[Princeton, New Jersey|Princeton]]/[[Rocky Hill, New Jersey]], [[United States]]
+&lt;!-- PCW is FAA code (not IATA) for Carl R Keller Field in Port Clinton, Ohio, United States --&gt;
+&lt;!-- PCZ is FAA code (not IATA) for Waupaca Municipal Airport in Waupaca, Wisconsin, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PD&quot;/&gt;-PD-
+|-
+|    PDA || SKPD || [[Obando Airport]] || [[Puerto Inírida]], [[Colombia]]
+|-
+|    PDB ||      || [[Pedro Bay Airport]] (FAA: 4K0) || [[Pedro Bay, Alaska]], [[United States]]
+|-
+|    PDC || NWWQ || [[Mueo Airport]] || [[Mueo]], [[New Caledonia]]
+&lt;!-- PDC is FAA code (IATA: PCD) for Prairie du Chien Municipal Airport in Prairie du Chien, Wisconsin, United States --&gt;
+|-
+|    PDG || WIPT || [[Minangkabau International Airport]] || [[Ketaping]], [[West Sumatra]], [[Indonesia]]
+|-
+|    PDK || KPDK || [[DeKalb-Peachtree Airport]] || [[Atlanta, Georgia]], [[United States]]
+|-
+|    PDL || LPPD || [[João Paulo II Airport]] (Ponta Delgada Airport) || [[Ponta Delgada]], [[Azores]], [[Portugal]]
+|-
+|    PDP || SULS || [[Capitán de Corbeta Carlos A. Curbelo International Airport|C/C Carlos A. Curbelo de Laguna del Sauce International Airport]] || [[Maldonado, Uruguay|Maldonado]]/[[Punta del Este]], [[Maldonado Department|Maldonado]], [[Uruguay]]
+|-
+|    PDS || MMPG || [[Piedras Negras International Airport]] || [[Piedras Negras (Coahuila)|Piedras Negras]], [[Coahuila]], [[Mexico]]
+|-
+|    PDT || KPDT || [[Eastern Oregon Regional Airport]] || [[Pendleton, Oregon]], [[United States]]
+|-
+|    PDU || SUPU || [[Paysandú Airport|Tydeo Larre Borges International Airport]] || [[Paysandú]], [[Paysandú Department|Paysandú]], [[Uruguay]]
+|-
+|    PDV || LBPD || [[Plovdiv International Airport]] || [[Plovdiv]], [[Bulgaria]]
+|-
+|    PDX || KPDX || [[Portland International Airport]] || [[Portland, Oregon]], [[United States]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PE&quot;/&gt;-PE-
+|-
+|    PED || LKPD || [[Pardubice Airport]] || [[Pardubice]], [[Czech Republic]]
+|-
+|    PEE || USPP || [[Bolshoye Savino Airport]] || [[Perm]], [[Russia]]
+|-
+|    PEG || LIRZ || [[San Egidio Airport]] || [[Perugia]], [[Italy]]
+|-
+|    PEH || SAZP || [[Comodoro P. Zanni Airport]] || [[Pehuajó]], [[Argentina]]
+|-
+|    PEI || SKPE || [[Matecaña International Airport]] || [[Pereira, Colombia]]
+|-
+|    PEK || ZBAA || [[Beijing Capital International Airport]] || [[Beijing]], [[People's Republic of China]]
+|-
+|    PEM || SPTU || [[Puerto Maldonado International Airport]] || [[Puerto Maldonado]], [[Peru]]
+|-
+|    PEN || WMKP || [[Penang International Airport]] || [[Penang]], [[Malaysia]]
+&lt;!-- PEO is FAA code (not IATA) for Penn Yan Airport in Penn Yan, New York, United States --&gt;
+|-
+|    PEQ || KPEQ || [[Pecos Municipal Airport]] || [[Pecos, Texas]], [[United States]]
+|-
+|    PER || YPPH || [[Perth Airport]] || [[Perth]], [[Western Australia]], [[Australia]]
+|-
+|    PES || ULPB || [[Besovets Airport]] || [[Petrozavodsk]], [[Russia]]
+|-
+|    PET || SBPK || [[Pelotas International Airport]] || [[Pelotas]], [[Rio Grande do Sul]], [[Brazil]]
+&lt;!-- PEV is not IATA code for Pécs Pogány Airport (ICAO: LHPP) in Pécs, Hungary --&gt;
+&lt;!-- PEV is FAA code (IATA: KPV) for Perryville Airport in Perryville, Alaska, United States --&gt;
+|-
+|    PEW || OPPS || [[Peshawar Airport]] || [[Peshawar]], [[Pakistan]]
+|-
+|   PEX || UUYP || [[Pechora Airport]] || [[Pechora]], [[Komi Republic]], [[Russia]]
+|-
+|    PEZ || UWPP || [[Penza Airport]] || [[Penza]], [[Russia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PF&quot;/&gt;-PF-
+|-
+|    PFB || SBPF || [[Lauro Kurtz Airport]] (Passo Fundo Airport) || [[Passo Fundo]], [[Rio Grande do Sul]], [[Brazil]]
+|-
+|    PFC || KPFC || [[Pacific City State Airport]] || [[Pacific City, Oregon]], [[United States]]
+|-
+|    PFJ || BIPA || [[Patreksfjörður Airport]] || [[Patreksfjörður]], [[Iceland]]
+|-
+|    PFN || KPFN || [[Panama City-Bay County International Airport]] || [[Panama City, Florida]], [[United States]]
+|-
+|    PFO || LCPH || [[Paphos International Airport]] || [[Paphos]], [[Cyprus]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PG&quot;/&gt;-PG-
+|-
+|    PGA || KPGA || [[Page Municipal Airport]] || [[Page, Arizona]], [[United States]]
+|-
+|    PGC ||      || [[Grant County Airport (West Virginia)|Grant County Airport]] (FAA: W99) || [[Petersburg, West Virginia]], [[United States]]
+|-
+|    PGD || KPGD || [[Punta Gorda Airport (Florida)|Punta Gorda Airport]] (formerly Charlotte County Airport) || [[Punta Gorda, Florida]], [[United States]]
+|-
+|    PGE ||      || [[Yegepa Airport]] || [[Yegepa]], [[Papua New Guinea]]
+|-
+|    PGF || LFMP || [[Perpignan – Rivesaltes Airport]] || [[Perpignan]], [[France]]
+|-
+|    PGL || KPQL || [[Trent Lott International Airport]] (FAA: PQL) || [[Pascagoula, Mississippi]], [[United States]]
+|-
+|    PGM ||      || [[Port Graham Airport]] || [[Port Graham, Alaska]], [[United States]]
+|-
+|    PGO || KPSO || [[Stevens Field]] (FAA: PSO) || [[Pagosa Springs, Colorado]], [[United States]]
+|-
+|    PGR || KPGR || [[Kirk Field]] || [[Paragould, Arkansas]], [[United States]]
+|-
+|    PGS ||      || [[Grand Canyon Caverns Airport]] (FAA: L37) || [[Peach Springs, Arizona]], [[United States]]
+|-
+|    PGV || KPGV || [[Pitt-Greenville Airport]] || [[Greenville, North Carolina]], [[United States]]
+|-
+|    PGX ||      || [[Périgueux Bassillac Airport]] || [[Périgueux]], [[France]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PH&quot;/&gt;-PH-
+|-
+|    PHB || SBPB || [[Parnaíba-Prefeito Dr. João Silva Filho International Airport]] || [[Parnaiba]], [[Piaui]], [[Brazil]]
+|-
+|    PHC || DNPO || [[Port Harcourt International Airport]] (Omagwa Int'l) || [[Port Harcourt]], [[Nigeria]]
+|-
+|    PHD || KPHD || [[Harry Clever Field]] || [[New Philadelphia, Ohio]], [[United States]]
+|-
+|    PHE || YPPD || [[Port Hedland International Airport]] || [[Port Hedland, Western Australia]], [[Australia]]
+|-
+|    PHF || KPHF || [[Newport News/Williamsburg International Airport]] || [[Newport News, Virginia]], [[United States]]
+&lt;!-- PHG is FAA code (not IATA) for Phillipsburg Municipal Airport in Phillipsburg, Kansas, United States --&gt;
+&lt;!-- PHH || VVPT || [[Phan Thiet Airport]] || [[Phan Thiet]], [[Vietnam]] --&gt;
+|-
+|    PHK || KPHK || [[Palm Beach County Glades Airport]] || [[Pahokee, Florida]], [[United States]]
+|-
+|    PHL || KPHL || [[Philadelphia International Airport]] || [[Philadelphia, Pennsylvania]], [[United States]]
+|-
+|    PHN || KPHN || [[St. Clair County International Airport]] || [[Port Huron, Michigan]], [[United States]]
+|-
+|    PHO || PAPO || [[Point Hope Airport]] || [[Point Hope, Alaska]], [[United States]]
+|-
+|    PHP || KPHP || [[Philip Airport]] || [[Philip, South Dakota]], [[United States]]
+|-
+|    PHT || KPHT || [[Henry County Airport (Tennessee)|Henry County Airport]] || [[Paris, Tennessee]], [[United States]]
+|-
+|    PHW || FAPH || [[Hendrik Van Eck Airport]] || [[Phalaborwa]], [[South Africa]]
+|-
+|    PHX || KPHX || [[Phoenix Sky Harbor International Airport]] || [[Phoenix, Arizona]], [[United States]]
+|-
+|    PHY || VTPB || [[Phetchabun Airport]] || [[Phetchabun]], [[Thailand]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PI&quot;/&gt;-PI-
+|-
+|    PIA || KPIA || [[Greater Peoria Regional Airport]] || [[Peoria, Illinois]], [[United States]]
+|-
+|    PIB || KPIB || [[Hattiesburg-Laurel Regional Airport]] || [[Hattiesburg, Mississippi|Hattiesburg]]/[[Laurel, Mississippi]], [[United States]]
+|-
+|    PID || MYPI || [[Paradise Island Airport]] || [[Paradise Island]], [[Bahamas]]
+|-
+|    PIE || KPIE || [[St. Petersburg-Clearwater International Airport]] || [[Pinellas County, Florida]] (near [[St. Petersburg, Florida|St. Petersburg]] and [[Clearwater, Florida|Clearwater]]), [[United States]]
+|-
+|    PIH || KPIH || [[Pocatello Regional Airport]] || [[Pocatello, Idaho]], [[United States]]
+|-
+|    PIK || EGPK || [[Glasgow Prestwick International Airport]] || [[Prestwick]] (near [[Glasgow]]), [[Scotland]], [[United Kingdom]]
+|-
+|    PIL || SGPI || [[Carlos Miguel Jiménez Airport]] || [[Pilar, Paraguay|Pilar]], [[Paraguay]]
+|-
+|    PIM || KPIM || [[Callaway Gardens-Harris County Airport]] || [[Pine Mountain, Harris County, Georgia|Pine Mountain, Georgia]], [[United States]]
+|-
+|    PIN || SWPI || [[Julio Belem Airport]] || [[Parintins]], [[Amazonas (Brazilian state)|Amazonas]], [[Brazil]]
+|-
+|    PIO || SPSO || [[Capitán FAP Renán Elías Olivera Airport]] || [[Pisco, Peru|Pisco]], [[Peru]]
+|-
+|    PIP || PAPN || [[Pilot Point Airport]] (FAA: PNP) || [[Pilot Point, Alaska]], [[United States]]
+|-
+|    PIR || KPIR || [[Pierre Regional Airport]] || [[Pierre, South Dakota]], [[United States]]
+|-
+|    PIS || LFBI || [[Poitiers - Biard Airport]] || [[Poitiers]], [[France]]
+|-
+|    PIT || KPIT || [[Pittsburgh International Airport]] || [[Findlay Township, Pennsylvania|Findlay]] (near [[Pittsburgh, Pennsylvania|Pittsburgh]]), [[Pennsylvania]], [[United States]]
+|-
+|    PIU || SPUR || [[Piura Airport]] || [[Piura]], [[Peru]]
+|-
+|    PIX || LPPI || [[Pico Airport]] || [[Pico Island]], [[Azores]], [[Portugal]]
+|-
+|    PIZ || PPIZ || [[Point Lay LRRS Airport]] || [[Point Lay, Alaska]], [[United States]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PJ&quot;/&gt;-PJ-
+|-
+|    PJA || ESUP || [[Pajala Airport]] || [[Pajala]], [[Sweden]]
+|-
+|    PJB || KPAN || [[Payson Airport]] (FAA: PAN) || [[Payson, Arizona]], [[United States]]
+|-
+|    PJC || SGPJ || [[Dr. Augusto Roberto Fuster International Airport]] || [[Pedro Juan Caballero, Paraguay]]
+|-
+|    PJG || OPPG || [[Panjgur Airport]] || [[Panjgur]], [[Pakistan]]
+|-
+|    PJM || MRPJ || [[Puerto Jimenez Airport]] || [[Puerto Jimenez]], [[Costa Rica]]
+&lt;!-- PJY is FAA code (not IATA) for Pinckneyville-Du Quoin Airport in Pinckneyville, Illinois, United States --&gt;
+|-
+|    PJZ ||      || [[Puerto Juarez Airport]] || [[Puerto Juárez, Quintana Roo]], [[Mexico]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PK&quot;/&gt;-PK-
+|-
+|    PKA || PAPK || [[Napaskiak Airport]] || [[Napaskiak, Alaska]], [[United States]]
+|-
+|    PKB || KPKB || [[Mid-Ohio Valley Regional Airport]] || [[Parkersburg, West Virginia]], [[United States]]
+|-
+|    PKC || UHPP || [[Yelizovo Airport]] || [[Petropavlovsk-Kamchatsky]], [[Russia]]
+|-
+|    PKD || KPKD || [[Park Rapids Municipal Airport]] (Konshok Field) || [[Park Rapids, Minnesota]], [[United States]]
+|-
+|    PKF || KPKF || [[Park Falls Municipal Airport]] || [[Park Falls, Wisconsin]], [[United States]]
+|-
+|    PKH || LGHL || [[Porto Cheli Airport]] || [[Porto Cheli]], [[Argolis]], [[Greece]]
+|-
+|    PKO || DBBP || [[Parakou Airport]] || [[Parakou]], [[Benin]]
+|-
+|    PKR || VNPK || [[Pokhara Airport]] || [[Pokhara]], [[Nepal]]
+|-
+|    PKT || YKPT || [[Port Keats Airfield]] || [[Wadeye, Northern Territory]], [[Australia]]
+|-
+|    PKU || WIBB || [[Sultan Syarif Kasim II Airport]] || [[Pekanbaru]], [[Sumatra]], [[Indonesia]]
+|-
+|    PKV || ULOO || [[Pskov Airport]] || [[Pskov]], [[Russia]]
+|-
+|    PKW || FBSP || [[Selebi Phikwe Airport]] || [[Selebi Phikwe]], [[Botswana]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PL&quot;/&gt;-PL-
+|-
+| &lt;s&gt;PLB&lt;/s&gt; || &lt;s&gt;KPLB&lt;/s&gt; || [[Clinton County Airport]] (closed) || [[Plattsburgh, New York]], [[United States]]
+|-
+|    PLE ||      || [[Paiela Airport]] || [[Paiela]], [[Papua New Guinea]]
+|-
+|    PLH || EGHD || [[Plymouth City Airport]] (closed 2011) || [[Plymouth]], [[United Kingdom]]
+|-
+|    PLJ ||      || [[Placencia Airport]] || [[Placencia]], [[Belize]]
+|-
+|    PLK || KPLK || [[M. Graham Clark Downtown Airport]] || [[Point Lookout, Missouri]], [[United States]]
+|-
+|    PLL || SBMN || [[Ponta Pelada Airport]] || [[Manaus]], [[Amazonas (Brazilian state)|Amazonas]], [[Brazil]]
+|-
+|    PLM || WIPP || [[Sultan Mahmud Badaruddin II Airport]] || [[Palembang]], [[Sumatra]], [[Indonesia]]
+|-
+|    PLN || KPLN || [[Pellston Regional Airport]] || [[Pellston, Michigan]], [[United States]]
+|-
+|    PLO || YPLC || [[Port Lincoln Airport]] || [[Port Lincoln, South Australia]], [[Australia]]
+|-
+|    PLQ || EYPA || [[Palanga International Airport]] || [[Palanga]], [[Lithuania]]
+|-
+|    PLR || KPLR || [[St. Clair County Airport]] || [[Pell City, Alabama]], [[United States]]
+|-
+|    PLS || MBPV || [[Providenciales International Airport]] || [[Providenciales]], [[Turks and Caicos Islands]]
+|-
+|    PLU || SBBH || [[Pampulha Domestic Airport]] || [[Belo Horizonte]], [[Brazil]]
+|-
+|    PLX || UASS || [[Semey Airport]] || [[Semey]], [[Kazakhstan]]
+|-
+|    PLY ||      || [[Plymouth Municipal Airport (Indiana)|Plymouth Municipal Airport]] (FAA: C65) || [[Plymouth, Indiana]], [[United States]]
+|-
+|    PLZ || FAPE || [[Port Elizabeth Airport]] || [[Port Elizabeth]], [[South Africa]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PM&quot;/&gt;-PM-
+|-
+|    PMB || KPMB || [[Pembina Municipal Airport]] || [[Pembina, North Dakota]], [[United States]]
+|-
+|    PMC || SCTE || [[El Tepual Airport]] || [[Puerto Montt]], [[Chile]]
+|-
+|    PMD || KPMD || [[LA/Palmdale Regional Airport]] || [[Palmdale, California]], [[United States]]
+|-
+|    PMF || LIMP || [[Parma Airport]] (Parma &quot;Giuseppe Verdi&quot; Airport) || [[Parma]], [[Italy]]
+|-
+|    PMG || SBPP || [[Ponta Porã International Airport]] || [[Ponta Porã]], [[Mato Grosso do Sul]], [[Brazil]]
+|-
+|    PMH || KPMH || [[Greater Portsmouth Regional Airport]] || [[Portsmouth, Ohio]], [[United States]]
+|-
+|    PMI || LEPA || [[Palma de Mallorca Airport]] (Son Sant Joan Airport) || [[Palma de Mallorca]], [[Spain]]
+|-
+|    PML || PAAL || [[Port Moller Airport]] (FAA: 1AK3) || [[Cold Bay, Alaska]], [[United States]]
+|-
+|    PMO || LICJ || [[Palermo Airport]] (Falcone-Borsellino Airport) || [[Punta Raisi]] (near [[Palermo]]), [[Italy]]
+|-
+|    PMP ||      || [[Pimaga Airport]] || [[Pimaga]], [[Papua New Guinea]]
+&lt;!-- PMP is FAA code (IATA: PPM) for Pompano Beach Airpark in Pompano Beach, Florida, United States --&gt;
+|-
+|    PMQ || SAWP || [[Perito Moreno Airport]] || [[Perito Moreno, Santa Cruz]], [[Argentina]]
+|-
+|    PMR || NZPM || [[Palmerston North International Airport]] || [[Palmerston North]], [[New Zealand]]
+|-
+|    PMS || OSPR || [[Palmyra Airport]] || [[Palmyra, Syria]]
+|-
+|    PMV || SVMG || [[Del Caribe International General Santiago Marino Airport]] || [[Porlamar]], [[Venezuela]]
+|-
+|    PMW || SBPJ || [[Palmas Airport]] || [[Palmas, Tocantins]], [[Brazil]]
+|-
+|    PMY || SAVY || [[El Tehuelche Airport]] || [[Puerto Madryn]], [[Argentina]]
+|-
+|    PMZ || MRPM || [[Palmar Sur Airport]] || [[Palmar Sur]], [[Costa Rica]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PN&quot;/&gt;-PN-
+|-
+|    PNA || LEPP || [[Pamplona Airport]] || [[Pamplona]], [[Spain]]
+|-
+|    PNC || KPNC || [[Ponca City Regional Airport]] || [[Ponca City, Oklahoma]], [[United States]]
+|-
+|    PNE || KPNE || [[Northeast Philadelphia Airport]] || [[Philadelphia, Pennsylvania]], [[United States]]
+|-
+|    PNH || VDPP || [[Phnom Penh International Airport]] || [[Phnom Penh]], [[Cambodia]]
+|-
+|    PNI || PTPN || [[Pohnpei International Airport]] || [[Kolonia]], [[Federated States of Micronesia]]
+|-
+|    PNK || WIOO || [[Supadio Airport]] || [[Pontianak, Indonesia|Pontianak]], [[Kalimantan]], [[Indonesia]]
+&lt;!-- PNM is FAA code (not IATA) for Princeton Municipal Airport in Princeton, Minnesota, United States --&gt;
+|-
+|    PNN || KPNN || [[Princeton Municipal Airport (Maine)|Princeton Municipal Airport]] || [[Princeton, Maine]], [[United States]]
+&lt;!-- PNP is FAA code (IATA: PIP) for Pilot Point Airport in Pilot Point, Alaska, United States --&gt;
+|-
+|    PNQ || VAPO || [[Pune International Airport]] || [[Pune, India]]
+|-
+|    PNR || FCPP || [[Pointe Noire Airport]] || [[Pointe-Noire]], [[Republic of the Congo]]
+|-
+|    PNS || KPNS || [[Pensacola International Airport]] || [[Pensacola, Florida]], [[United States]]
+|-
+|    PNT || SCNT || [[Teniente Julio Gallardo Airport]] || [[Puerto Natales]], [[Chile]]
+|-
+|    PNU ||      || [[Panguitch Municipal Airport]] (FAA: U55) || [[Panguitch, Utah]], [[United States]]
+|-
+|    PNX || KGYI || [[North Texas Regional Airport]] (FAA: GYI) || [[Sherman, Texas|Sherman]]/[[Denison, Texas]], [[United States]]
+|-
+|    PNY || VOTY || [[Pondicherry Airport]] || [[Puducherry (city)|Puducherry]], [[India]]
+|-
+|    PNZ || SBPL || [[Senador Nilo Coelho Airport]] || [[Petrolina]], [[Pernambuco]], [[Brazil]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PO&quot;/&gt;-PO-
+|-
+|    POA || SBPA || [[Salgado Filho International Airport]] || [[Porto Alegre]], [[Rio Grande do Sul]], [[Brazil]]
+|-
+|    POB || KPOB || [[Pope Air Force Base]] || [[Fayetteville, North Carolina]], [[United States]]
+|-
+|    POC || KPOC || [[Brackett Field]] || [[La Verne, California]], [[United States]]
+|-
+|    POD || GOSP || [[Podor Airport]] || [[Podor]], [[Senegal]]
+|-
+|    POE || KPOE || [[Polk Army Airfield]] || [[Fort Polk, Louisiana]], [[United States]]
+|-
+|    POF || KPOF || [[Poplar Bluff Municipal Airport]] || [[Poplar Bluff, Missouri]], [[United States]]
+|-
+|    POG || FOOG || [[Port Gentil Airport]] || [[Port Gentil]], [[Gabon]]
+|-
+|    POH || KPOH || [[Pocahontas Municipal Airport]] || [[Pocahontas, Iowa]], [[United States]]
+|-
+|    POJ ||      || [[Patos de Minas Airport]] || [[Patos de Minas]], [[Minas Gerais]], [[Brazil]]
+|-
+|    POL || FQPB || [[Pemba Airport (Mozambique)|Pemba Airport]] || [[Pemba, Mozambique|Pemba]]/[[Porto Amelia]], [[Mozambique]]
+|-
+|    POM || AYPY || [[Jacksons International Airport]] (Port Moresby Airport) || [[Port Moresby]], [[Papua New Guinea]]
+|-
+|    POP || MDPP || [[Puerto Plata Airport]] || [[San Felipe de Puerto Plata]], [[Dominican Republic]]
+|-
+|    POR || EFPO || [[Pori Airport]] || [[Pori]], [[Finland]]
+|-
+|    POS || TTPP || [[Piarco International Airport]] || [[Piarco]] (near [[Port of Spain]]), [[Trinidad and Tobago]]
+|-
+|    POT || MKKJ || [[Ken Jones Aerodrome]] || [[Port Antonio, Jamaica]]
+|-
+|    POU || KPOU || [[Dutchess County Airport]] || [[Poughkeepsie (city), New York|Poughkeepsie, New York]], [[United States]]
+|-
+|    POW || LJPZ || [[Portorož Airport]] || [[Portorož]], [[Slovenia]]
+|-
+|    POX || LFPT || [[Pontoise Airport]] || [[Paris]], [[France]]
+|-
+|    POY || KPOY || [[Powell Municipal Airport]] || [[Powell, Wyoming]], [[United States]]
+|-
+|    POZ || EPPO || [[Poznań-Ławica Airport]] || [[Poznań]], [[Poland]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PP&quot;/&gt;-PP-
+|-
+|    PPA || KPPA || [[Perry Lefors Field]] || [[Pampa, Texas]], [[United States]]
+|-
+|    PPB || SBDN || [[Adhemar de Barros Airport]] || [[Presidente Prudente, São Paulo|Presidente Prudente]], [[São Paulo (state)|São Paulo]], [[Brazil]]
+|-
+|    PPC || PAPR || [[Prospect Creek Airport]] || [[Prospect Creek, Alaska]], [[United States]]
+|-
+|    PPE || KPPE || [[Mar de Cortés International Airport]] || [[La Jolla de Cortes, Sonora]], [[Mexico]]
+|-
+|    PPF || KPPF || [[Tri-City Airport (Kansas)|Tri-City Airport]] || [[Parsons, Kansas]], [[United States]]
+|-
+|    PPG || NSTU || [[Pago Pago International Airport]] || [[Pago Pago, American Samoa]]
+|-
+|    PPI || YPIR || [[Port Pirie Airport]] || [[Port Pirie, South Australia]], [[Australia]]
+|-
+|    PPK || UACP || [[Petropavlovsk Airport]] || [[Petropavl]], [[Kazakhstan]]
+|-
+|    PPL || VNPL || [[Phaplu Airport]] || [[Phaplu]], [[Nepal]]
+|-
+|    PPM || KPMP || [[Pompano Beach Airpark]] (FAA: PMP) || [[Pompano Beach, Florida]], [[United States]]
+|-
+|    PPN || SKPP|| [[Guillermo León Valencia Airport]] || [[Popayán]], [[Colombia]]
+|-
+|    PPO || KPPO || [[La Porte Municipal Airport (Indiana)|La Porte Municipal Airport]] || [[La Porte, Indiana]], [[United States]]
+|-
+|    PPP || YBPN || [[Whitsunday Coast Airport]] || [[Proserpine, Queensland]], [[Australia]]
+|-
+|    PPQ || NZPP || [[Paraparaumu Airport]] || [[Paraparaumu Beach]], [[New Zealand]]
+|-
+|    PPS || RPVP || [[Puerto Princesa Airport]] || [[Puerto Princesa City]], [[Philippines]]
+|-
+|    PPT || NTAA || [[Faa'a International Airport]] || [[Papeete]], [[Tahiti]], [[French Polynesia]]
+|-
+|    PPV ||      || [[Port Protection Seaplane Base]] (FAA: 19P) || [[Port Protection, Alaska]], [[United States]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PQ&quot;/&gt;-PQ-
+|-
+|    PQI || KPQI || [[Northern Maine Regional Airport at Presque Isle]] || [[Presque Isle, Maine]], [[United States]]
+|-
+|    PQC || VVPQ || [[Phu Quoc International Airport]] || [[Phú Quốc|Phu Quoc Island]], [[Vietnam]]
+&lt;!-- PQL is FAA code (IATA: PGL) for Trent Lott International Airport in Pascagoula, Mississippi, United States --&gt;
+&lt;!-- PQN is FAA code (not IATA) for Pipestone Municipal Airport in Pipestone, Minnesota, United States --&gt;
+|-
+|    PQQ || YPMQ || [[Port Macquarie Airport]] || [[Port Macquarie, New South Wales]], [[Australia]]
+|-
+|    PQS ||      || [[Pilot Station Airport]] (FAA: 0AK) || [[Pilot Station]], [[Alaska]], [[United States]]
+|-
+|    PQT || BGQE || [[Qeqertaq Heliport]] || [[Qeqertaq]], [[Greenland]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PR&quot;/&gt;-PR-
+|-
+|    PRA || SAAP || [[General Justo José de Urquiza Airport]] || [[Paraná, Entre Ríos]], [[Argentina]]
+|-
+|    PRB || KPRB || [[Paso Robles Municipal Airport]] || [[Paso Robles, California]], [[United States]]
+|-
+|    PRC || KPRC || [[Ernest A. Love Field]] || [[Prescott, Arizona]], [[United States]]
+|-
+|    PRG || LKPR || [[Václav Havel Airport Prague]] || [[Prague]], [[Czech Republic]]
+|-
+|    PRH || VTCP || [[Phrae Airport]] || [[Phrae]], [[Thailand]]
+|-
+|    PRI ||      || [[Praslin Island Airport]] || [[Praslin Island]], [[Seychelles]]
+|-
+|    PRM || LPPM || [[Portimão Airport]] || [[Portimão]], [[Algarve]], [[Portugal]]
+|-
+|    PRN || BKPR || [[Pristina International Airport Adem Jashari]] || [[Pristina]], [[Kosovo]]
+|-
+|    PRO || KPRO || [[Perry Municipal Airport (Iowa)|Perry Municipal Airport]] || [[Perry, Iowa]], [[United States]]
+|-
+|    PRP || LFKO || [[Propriano Airport]] || [[Propriano]], [[France]]
+|-
+|    PRQ || SARS || [[Termal Airport]] (Pres. Roque Saenz Pena Airport) || [[Presidencia Roque Sáenz Peña]], [[Chaco Province|Chaco]], [[Argentina]]
+|-
+|    PRR || SYPR || [[Paruima Airport]] || [[Paruima]], [[Guyana]]
+|-
+|    PRW ||      || [[Prentice Airport]] (FAA: 5N2) || [[Prentice, Wisconsin]], [[United States]]
+|-
+|    PRX || KPRX || [[Cox Field]] || [[Paris, Texas]], [[United States]]
+|-
+|    PRY || FAWB || [[Wonderboom Airport]] || [[Pretoria]], [[South Africa]]
+|-
+|    PRZ ||      || [[Prineville Airport]] (FAA: S39) || [[Prineville, Oregon]], [[United States]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PS&quot;/&gt;-PS-
+|-
+|    PSA || LIRP || [[Galileo Galilei Airport]] || [[Pisa]], [[Italy]]
+|-
+|    PSB || KPSB || [[Mid-State Airport]] || [[Philipsburg, Centre County, Pennsylvania|Philipsburg, Pennsylvania]], [[United States]]
+|-
+|    PSC || KPSC || [[Tri-Cities Airport (Washington)|Tri-Cities Airport]] || [[Pasco, Washington]], [[United States]]
+|-
+|    PSE || TJPS || [[Mercedita Airport]] || [[Ponce, Puerto Rico]]
+|-
+|    PSF || KPSF || [[Pittsfield Municipal Airport (Massachusetts)|Pittsfield Municipal Airport]] || [[Pittsfield, Massachusetts]], [[United States]]
+|-
+|    PSG || PAPG || [[Petersburg James A. Johnson Airport]] || [[Petersburg, Alaska]], [[United States]]
+|-
+|    PSK || KPSK || [[New River Valley Airport]] || [[Dublin, Virginia]], [[United States]]
+|-
+|    PSL || EGPT || [[Perth Airport (Scotland)|Perth Airport]] || [[Perth, Scotland]], [[United Kingdom]]
+|-
+|    PSM || KPSM || [[Pease International Tradeport]] || [[Portsmouth, New Hampshire]], [[United States]]
+|-
+|    PSN || KPSN || [[Palestine Municipal Airport]] || [[Palestine, Texas]], [[United States]]
+|-
+|    PSO || SKPS || [[Antonio Nariño Airport]] || [[Pasto]], [[Colombia]]
+&lt;!-- PSO is FAA code (IATA: PGO) for Stevens Field in Pagosa Springs, Colorado, United States --&gt;
+|-
+|    PSP || KPSP || [[Palm Springs International Airport]] || [[Palm Springs, California]], [[United States]]
+|-
+|    PSQ ||      || [[Philadelphia Seaplane Base]] (FAA: 9N2) || [[Essington, Pennsylvania|Essington]], [[Pennsylvania]], [[United States]]
+|-
+|    PSR || LIBP || [[Pescara Airport]] || [[Pescara]], [[Italy]]
+|-
+|    PSS || SARP || [[Libertador General José de San Martín Airport]] || [[Posadas, Misiones|Posadas]], [[Argentina]]
+|-
+|    PST ||      || [[Preston Airport]] || [[Guatemala, Cuba]]
+|-
+|    PSX || KPSX || [[Palacios Municipal Airport]] || [[Palacios, Texas]], [[United States]]
+|-
+|    PSY || SFAL || [[Port Stanley Airport]] || [[Stanley, Falkland Islands]], [[United Kingdom]]
+|-
+|    PSZ || SLPS || [[Puerto Suárez International Airport]] || [[Puerto Suárez]], [[Bolivia]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PT&quot;/&gt;-PT-
+|-
+|    PTA || PALJ || [[Port Alsworth Airport]] (FAA: TPO) || [[Port Alsworth, Alaska]], [[United States]]
+|-
+|    PTB || KPTB || [[Dinwiddie County Airport]] || [[Petersburg, Virginia]], [[United States]]
+|-
+|    PTC ||      || [[Port Alice Seaplane Base]] (FAA: 16K) || [[Port Alice, Alaska|Port Alice]], [[Alaska]], [[United States]]
+|-
+|    PTD || PAAP || [[Port Alexander Seaplane Base]] (FAA: AHP) || [[Port Alexander, Alaska]], [[United States]]
+&lt;!-- PTD is FAA code (not IATA) for Potsdam Municipal Airport (Damon Field) in Potsdam, New York, United States --&gt;
+|-
+|    PTG || FAPP || [[Polokwane International Airport]] || [[Polokwane]], [[South Africa]]
+|-
+|    PTH || PAPH || [[Port Heiden Airport]] || [[Port Heiden, Alaska]], [[United States]]
+|-
+|    PTJ || YPOD || [[Portland Airport (Australia)|Portland Airport]] || [[Portland, Victoria]], [[Australia]]
+|-
+|    PTK || KPTK || [[Oakland County International Airport]] || [[Waterford, Michigan]], [[United States]]
+|-
+|    PTN || KPTN || [[Harry P. Williams Memorial Airport]] || [[Patterson, Louisiana]], [[United States]]
+|-
+|    PTP || TFFR || [[Pointe-à-Pitre International Airport|Guadeloupe Pôle Caraïbes Airport]] || [[Pointe-à-Pitre]], [[Guadeloupe]]
+|-
+|    PTR ||      || [[Pleasant Harbour Airport]] || [[Uganik Island]], [[United States]]
+|-
+|    PTS || KPTS || [[Atkinson Municipal Airport]] || [[Pittsburg, Kansas]], [[United States]]
+|-
+|    PTT || KPTT || [[Pratt Industrial Airport]] || [[Pratt, Kansas]], [[United States]]
+|-
+|    PTU || PAPM || [[Platinum Airport]] || [[Platinum, Alaska]], [[United States]]
+|-
+|    PTV || KPTV || [[Porterville Municipal Airport]] || [[Porterville, California]], [[United States]]
+|-
+|    PTW || KPTW || [[Pottstown Limerick Airport]] || [[Pottstown, Pennsylvania]], [[United States]]
+|-
+|    PTY || MPTO || [[Tocumen International Airport]] || [[Panama City]], [[Panama]]
+|-
+|    PTZ || SEPA || [[Rio Amazonas Airport]] || [[Shell Mera]], [[Ecuador]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PU&quot;/&gt;-PU-
+|-
+|    PUB || KPUB || [[Pueblo Memorial Airport]] || [[Pueblo, Colorado]], [[United States]]
+|-
+|    PUC || KPUC || [[Carbon County Airport]] || [[Price, Utah]], [[United States]]
+|-
+|    PUD || SAWD || [[Puerto Deseado Airport]] || [[Puerto Deseado]], [[Santa Cruz Province, Argentina]]
+|-
+|    PUF || LFBP || [[Pau Pyrénées Airport]] || [[Pau, Pyrénées-Atlantiques|Pau]], [[France]]
+|-
+|    PUI ||      || [[Purini Airport]] || [[Purini]], [[Papua New Guinea]]
+|-
+|    PUJ || MDPC || [[Punta Cana International Airport]] || [[Punta Cana]], [[Dominican Republic]]
+|-
+|    PUK || NTGQ || [[Pukarua Airport]] || [[Pukarua]], [[Tuamotus]], [[French Polynesia]]
+|-
+|    PUL ||      || [[Port of Poulsbo Marina Moorage Seaplane Base]] (FAA: 83Q) || [[Poulsbo, Washington]], [[United States]]
+|-
+|    PUO ||      || [[Northstar Heliport]] (FAA: 90AK) || [[Prudhoe Bay]]/[[Deadhorse, Alaska]], [[United States]]
+|-
+|    PUP || DFCP || [[Pô Airport]] || [[Pô]], [[Burkina Faso]]
+|-
+|    PUQ || SCCI || [[Carlos Ibanez Del Campo International Airport]] || [[Punta Arenas]], [[Chile]]
+|-
+|    PUS || RKPK || [[Gimhae International Airport]] || [[Busan]], [[South Korea]]
+|-
+|    PUU || SKAS || [[Tres de Mayo Airport]] || [[Puerto Asís]], [[Colombia]]
+|-
+|    PUW || KPUW || [[Pullman-Moscow Regional Airport]] || [[Pullman, Washington]] (near [[Moscow, Idaho]]), [[United States]]
+|-
+|    PUY || LDPL || [[Pula Airport]] || [[Pula]], [[Croatia]]
+|-
+|    PUZ || MNPC || [[Puerto Cabezas Airport]] || [[Puerto Cabezas]], [[Nicaragua]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PV&quot;/&gt;-PV-
+|-
+|    PVA || SKPV || [[El Embrujo Airport]] || [[Providencia Island]], [[Colombia]]
+&lt;!-- PVB is FAA code (not IATA) for Platteville Municipal Airport in Platteville, Wisconsin, United States --&gt;
+|-
+|    PVC || KPVC || [[Provincetown Municipal Airport]] || [[Provincetown, Massachusetts]], [[United States]]
+|-
+|    PVD || KPVD || [[T. F. Green Airport|Theodore Francis Green State Airport]] || [[Providence, Rhode Island]], [[United States]]
+|-
+|    PVF || KPVF || [[Placerville Airport]] || [[Placerville, California]], [[United States]]
+|-
+|    PVG || ZSPD || [[Shanghai Pudong International Airport]] || [[Shanghai]], [[People's Republic of China]]
+|-
+|    PVH || SBPV || [[Governador Jorge Teixeira de Oliveira International Airport]] || [[Porto Velho]], [[Brazil]]
+&lt;!-- PVJ is FAA code (not IATA) for Pauls Valley Municipal Airport in Pauls Valley, Oklahoma, United States --&gt;
+|-
+|    PVK || LGPZ || [[Aktion Airport]] || [[Preveza]], [[Greece]]
+|-
+|    PVN ||      || [[Pleven Airport]] || [[Pleven]], [[Bulgaria]]
+|-
+|    PVO || SEPV || [[Reales Tamarindos Airport]] || [[Portoviejo]], [[Ecuador]]
+|-
+|    PVR || MMPR || [[Lic. Gustavo Díaz Ordaz International Airport]] || [[Puerto Vallarta]], [[Jalisco]], [[Mexico]]
+|-
+|    PVS || UHMD || [[Provideniya Bay Airport]] || [[Provideniya]], [[Chukotka Autonomous Okrug|Chukotka]], Russia
+|-
+|    PVU || KPVU || [[Provo Municipal Airport]] || [[Provo, Utah]], [[United States]]
+|-
+|    PVW || KPVW || [[Hale County Airport]] || [[Plainview, Texas]], [[United States]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PW&quot;/&gt;-PW-
+|-
+|    PWA || KPWA || [[Wiley Post Airport]] || [[Oklahoma City, Oklahoma]], [[United States]]
+&lt;!-- PWC is FAA code (not IATA) for Pine River Regional Airport in Pine River, Minnesota, United States --&gt;
+|-
+|    PWD || KPWD || [[Sher-Wood Airport]] || [[Plentywood, Montana]], [[United States]]
+|-
+|    PWE || UHMP || [[Pevek Airport]] || [[Pevek]], [[Russia]]
+&lt;!-- PWG is FAA code (not IATA) for McGregor Executive Airport in Waco, Texas, United States --&gt;
+|-
+|    PWK || KPWK || [[Palwaukee Municipal Airport]] || [[Chicago, Illinois|Chicago]]/[[Prospect Heights, Illinois|Prospect Heights]]/[[Wheeling, Illinois]], [[United States]]
+|-
+|    PWL ||      || [[Purwokerto Airport]] || [[Wirasaba]], [[Central Java]], [[Indonesia]]
+|-
+|    PWM || KPWM || [[Portland International Jetport]] || [[Portland, Maine]], [[United States]]
+|-
+|    PWQ || UASP || [[Pavlodar Airport]] || [[Pavlodar]], [[Kazakhstan]]
+|-
+|    PWT || KPWT || [[Bremerton National Airport]] || [[Bremerton, Washington]], [[United States]]
+|-
+|    PWY || KPNA || [[Ralph Wenz Field]] || [[Pinedale, Wyoming]], [[United States]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PX&quot;/&gt;-PX-
+&lt;!-- PXE is FAA code (not IATA) for Perry-Houston County Airport in Perry, Georgia, United States --&gt;
+&lt;!-- PXK is FAA code (not IATA) for Paxson Airport in Paxson, Alaska, United States --&gt;
+|-
+|    PXL ||      || [[Polacca Airport]] (FAA: P10) || [[Polacca, Arizona|Polacca]], [[Arizona]], [[United States]]
+|-
+|    PXM || MMPS || [[Puerto Escondido International Airport]] || [[Puerto Escondido (Oaxaca)|Puerto Escondido]], [[Oaxaca]], [[Mexico]]
+|-
+|    PXO || LPPS || [[Porto Santo Airport]] || [[Porto Santo]], [[Madeira]], [[Portugal]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PY&quot;/&gt;-PY-
+|-
+|    PYC ||      || [[Playón Chico Airport]] || [[Ukupseni]], [[Guna Yala]], [[Panama]]
+&lt;!-- PYG is FAA code (not IATA) for Pageland Airport in Pageland, South Carolina, United States --&gt;
+|-
+|    PYH || SVPA || [[Cacique Aramare Airport]] || [[Puerto Ayacucho]], [[Venezuela]]
+|-
+|    PYJ || UERP|| [[Polyarny Airport]] || [[Polyarny, Murmansk Oblast|Polyarny]], [[Yakutia]], Russia
+|-
+|    PYM || KPYM || [[Plymouth Municipal Airport (Massachusetts)|Plymouth Municipal Airport]] || [[Plymouth, Massachusetts]], [[United States]]
+&lt;!-- PYP is FAA code (not IATA) for Centre-Piedmont-Cherokee County Regional Airport in Centre, Alabama, United States --&gt;
+|-
+|    PYY ||      || [[Pai Airport]] || [[Pai, Thailand|Pai]], [[Thailand]]
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#DDDDDD;&quot; | &lt;cite id=&quot;PZ&quot;/&gt;-PZ-
+|-
+|    PZB || FAPM || [[Pietermaritzburg Airport]] || [[Pietermaritzburg]], [[South Africa]]
+|-
+|    PZH || OPZB || [[Zhob Airport]] || [[Zhob]], [[Pakistan]]
+|-
+|    PZO || SVPR || [[Manuel Carlos Piar Guayana Airport]] || [[Ciudad Guayana]], [[Venezuela]]
+&lt;!-- PZQ is FAA code (not IATA) for Presque Isle County Airport in Rogers City, Michigan, United States --&gt;
+|-
+|    PZU || HSPN || [[Port Sudan New International Airport]] || [[Port Sudan]], [[Sudan]]
+|-
+|    PZY || LZPP || [[Pieštany Airport]] || [[Piešťany]], [[Slovakia]]
+|}
+
+==References==
+* {{cite web | url = http://www.iata.org/publications/Pages/code-search.aspx | title = IATA Airline and Airport Code Search | publisher = [[International Air Transport Association]]}}
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = [[PDF]] | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|P]]</text>
+      <sha1>2zpgshx93b9r1cp6y2a6dwh6rz5wbtn</sha1>
+    </revision>
+  </page>
+</mediawiki>

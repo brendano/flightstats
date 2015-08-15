@@ -1,0 +1,881 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: G</title>
+    <ns>0</ns>
+    <id>317105</id>
+    <revision>
+      <id>669134703</id>
+      <parentid>647852791</parentid>
+      <timestamp>2015-06-29T03:26:12Z</timestamp>
+      <contributor>
+        <username>HankW512</username>
+        <id>16106831</id>
+      </contributor>
+      <comment>/* G */ updated GSQ; no DST</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="55124">{{Lists of airports by IATA code}}
+
+==G==
+{{AlphanumericTOC|prefixLink=G|prefixDesc=G|numbers=|sections=}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+! style=&quot;text-align:left;&quot; | Time
+! style=&quot;text-align:left;&quot; | DST
+&lt;!-- comments added to prevent addition of incorrect IATA codes --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GA&quot;/&gt;-GA-
+|-
+|    GAA ||      || [[Guamal Airport]] || [[Guamal]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    GAB || KGAB || [[Gabbs Airport]] || [[Gabbs, Nevada]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    GAC ||      || [[Gracias Airport]] || [[Gracias]], [[Honduras]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    GAD || KGAD || [[Northeast Alabama Regional Airport]] || [[Gadsden, Alabama]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GAE || DTTG || [[Gabès - Matmata International Airport]] || [[Gabès]], [[Tunisia]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    GAF || DTTF || [[Gafsa - Ksar International Airport]] || [[Gafsa]], [[Tunisia]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    GAG || KGAG || [[Gage Airport]] || [[Gage, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GAH || YGAY || [[Gayndah Airport]] || [[Gayndah, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    GAI || KGAI || [[Montgomery County Airpark]] || [[Gaithersburg, Maryland]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GAJ || RJSC || [[Yamagata Airport]] (Junmachi Airport) || [[Yamagata Prefecture|Yamagata]], [[Honshū]], Japan || [[Japan Standard Time|UTC+09:00]] ||
+|-
+|    GAL || PAGA || [[Edward G. Pitka Sr. Airport]] || [[Galena, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    GAM || PAGM || [[Gambell Airport]] || [[Gambell, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    GAN || VRMG || [[Gan Island Airport]] || [[Gan Island]], [[Seenu Atoll]], [[Maldives]] || [[UTC+05:00]] ||
+|-
+|    GAO || MUGT || [[Mariana Grajales Airport]] (Los Canos Airport) || [[Guantánamo]], [[Cuba]] || [[UTC−05:00]] || Mar-Nov
+&lt;!-- GAO is FAA code (not IATA) for South Lafourche Airport in Galliano, Louisiana, United States --&gt;
+|-
+|    GAP || AYGP || [[Gusap Airport]] || [[Gusap]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    GAQ || GAGO || [[Gao International Airport]] || [[Gao]], [[Mali]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    GAR || AYGI || [[Garaina Airport]] || [[Garaina]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    GAS || HKGA || [[Garissa Airport]] || [[Garissa]], [[Kenya]] || [[East Africa Time|UTC+03:00]] ||
+&lt;!-- GAS is FAA code (not IATA) for Gallia-Meigs Regional Airport in Gallipolis, Ohio, United States --&gt;
+|-
+|    GAT || LFNA || [[Tallard Airport]] || [[Gap, Hautes-Alpes|Gap]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GAU || VEGT || [[Lokpriya Gopinath Bordoloi International Airport]] || [[Guwahati]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    GAV ||      || [[Gag Island Airport]] || [[Gag Island]], [[West Papua (region)|West Papua]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    GAW || VYGG || [[Gangaw Airport]] || [[Gangaw]], [[Myanmar]] (Burma) || [[Myanmar Standard Time|UTC+06:30]] ||
+|-
+|    GAX ||      || [[Gamba Airport]] || [[Gamba, Gabon]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    GAY || VEGY || [[Gaya Airport]] || [[Gaya, India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    GAZ ||      || [[Guasopa Airport]] || [[Guasopa]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GB&quot;/&gt;-GB-
+&lt;!-- GBA ||      || [[Big Bay Airport]] || [[Big Bay, Espiritu Santo|Big Bay]], [[Sanma Province|Sanma]], [[Vanuatu]] --&gt;
+|-
+|    GBB ||      || [[Gara Djebilet Airport]] || [[Gara Djebilet]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    GBC || AYGS || [[Gasuke Airport]] || [[Gasuke]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    GBD || KGBD || [[Great Bend Municipal Airport]] || [[Great Bend, Kansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GBE || FBSK || [[Sir Seretse Khama International Airport]] || [[Gaborone]], [[Botswana]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    GBF || AYNE || [[Negarbo Airport]] || [[Negarbo]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    GBG || KGBG || [[Galesburg Municipal Airport]] || [[Galesburg, Illinois]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GBH || PAGB || [[Galbraith Lake Airport]] || [[Galbraith Lake]], [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    GBJ || TFFM || [[Marie Galante Airport]] (Les Bases) || [[Marie Galante]], [[Grand Bourg]], [[Guadeloupe]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    GBK || GFGK || [[Gbangbatok Airport]] || [[Gbangbatok]], [[Sierra Leone]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    GBL || YGBI || [[Goulburn Island Airport]] || [[Goulburn Island]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    GBM ||      || [[Garbaharey Airport]] || [[Garbaharey]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+&lt;!-- GBN is FAA code (not IATA) for Gila Bend Air Force Auxiliary Field in Gila Bend, Arizona, United States --&gt;
+|-
+|    GBP || YGAM || [[Gamboola Airport]] || [[Gamboola]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    GBR || KGBR || [[Walter J. Koladza Airport]] || [[Great Barrington, Massachusetts]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GBU || HSKG || [[Khashm El Girba Airport]] || [[Khashm El Girba]], [[Sudan]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    GBV || YGIB || [[Gibb River Airport]] || [[Gibb River]], [[Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    GBZ || NZGB || [[Claris Airfield]] (Great Barrier Island Airport) || [[Great Barrier Island]], New Zealand || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GC&quot;/&gt;-GC-
+|-
+|    GCA ||      || [[Guacamaya Airport]] || [[Guacamaya]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    GCC || KGCC || [[Gillette-Campbell County Airport]] || [[Gillette, Wyoming]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+&lt;!-- GCD is FAA code (IATA: JDA) for Grant County Regional Airport/Ogilvie Field in John Day, Oregon, United States --&gt;
+|-
+|    GCI || EGJB || [[Guernsey Airport]] || [[Guernsey]], [[Channel Islands]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    GCJ || FAGC || [[Grand Central Airport]] || [[Johannesburg]], South Africa || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    GCK || KGCK || [[Garden City Regional Airport]] || [[Garden City, Kansas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GCM || MWCR || [[Owen Roberts International Airport]] || [[Georgetown, Cayman Islands]] || [[Eastern Time Zone|UTC−05:00]] ||
+&lt;!-- GCM is FAA code (not IATA) for Claremore Regional Airport in Claremore, Oklahoma, United States --&gt;
+|-
+|    GCN || KGCN || [[Grand Canyon National Park Airport]] || [[Tusayan, Arizona]], United States || [[Mountain Time Zone|UTC−07:00]] ||
+&lt;!-- GCT is FAA code (not IATA) for Guthrie County Regional Airport in Guthrie Center, Iowa, United States --&gt;
+&lt;!-- GCW is not IATA code for Grand Canyon West Airport (FAA: 1G4, IATA: none) in Peach Springs, Arizona, United States --&gt;
+|-
+|    GCY || KGCY || [[Greeneville-Greene County Municipal Airport]] || [[Greeneville, Tennessee]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GD&quot;/&gt;-GD-
+|-
+|    GDA ||      || [[Gounda Airport]] || [[Gounda]], [[Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+&lt;!-- GDB is FAA code (not IATA) for Granite Falls Municipal Airport (Lenzen-Roe Memorial Field) in Granite Falls, Minnesota --&gt;
+|-
+|    GDC || KGYH || [[Donaldson Center Airport]] (FAA: GYH) || [[Greenville, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GDD || YGDN || [[Gordon Downs Airport]] || [[Gordon Downs]], [[Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    GDE || HAGO || [[Gode Airport]] (Iddidole Airport) || [[Gode]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    GDG || UHBI || [[Magdagachi Airport]] || [[Magdagachi]], [[Russia]] || [[Yakutsk Time|UTC+09:00]] ||
+|-
+|    GDH ||      || [[Golden Horn Lodge Seaplane Base]] (FAA: 3Z8) || [[Golden Horn Lodge]], [[Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    GDI ||      || [[Gordil Airport]] || [[Gordil]], [[Central African Republic]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    GDJ || FZWC || [[Gandajika Airport]] || [[Gandajika]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+&lt;!-- GDJ is FAA code (not IATA) for Granbury Municipal Airport in Granbury, Texas, United States --&gt;
+|-
+|    GDL || MMGL || [[Don Miguel Hidalgo y Costilla International Airport]] || [[Guadalajara, Jalisco|Guadalajara]], Mexico || [[Central Time Zone|UTC−06:00]] || Apr-Oct
+|-
+|    GDM || KGDM || [[Gardner Municipal Airport (Massachusetts)|Gardner Municipal Airport]] || [[Gardner, Massachusetts]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GDN || EPGD || [[Gdańsk Lech Wałęsa Airport]] (Rebiechowo Airport) || [[Gdańsk]], Poland || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GDO || SVGD || [[Guasdualito Airport]] (Vare Maria Airport) || [[Guasdualito]], [[Venezuela]] || [[Time in Venezuela|UTC−04:30]] ||
+|-
+|    GDP || SNGD || [[Guadalupe Airport]] || [[Guadalupe, Piauí]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    GDQ || HAGN || [[Gondar Airport]] || [[Gondar]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    GDT || MBGT || [[J.A.G.S. McCartney International Airport]] (Grand Turk Int'l) || [[Grand Turk Island]], [[Turks and Caicos Islands]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    GDV || KGDV || [[Dawson Community Airport]] || [[Glendive, Montana]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    GDW || KGDW || [[Gladwin Zettel Memorial Airport]] || [[Gladwin, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GDX || UHMM || [[Sokol Airport]] || [[Magadan]], Russia || [[Magadan Time|UTC+10:00]] ||
+&lt;!-- GDY is FAA code (not IATA) for Grundy Municipal Airport in Grundy, Virginia, United States --&gt;
+|-
+|    GDZ || URKG || [[Gelendzhik Airport]] || [[Gelendzhik]], [[Krasnodarskiy]], Russia || [[Moscow Time|UTC+03:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GE&quot;/&gt;-GE-
+|-
+|    GEA || NWWM || [[Nouméa Magenta Airport]] || [[Nouméa]], [[New Caledonia]] || [[Time in France|UTC+11:00]] ||
+|-
+|    GEB || WAMJ || [[Gebe Airport]] || [[Gebe]], [[Maluku (province)|Maluku]], [[Indonesia]] || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    GEC ||      || [[Lefkoniko Airport]] || [[Lefkoniko]], [[Cyprus]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    GED || KGED || [[Sussex County Airport]] || [[Georgetown, Delaware]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GEE || YGTO || [[George Town Aerodrome]] || [[George Town, Tasmania]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    GEF || AGEV || [[Geva Airstrip]] || [[Liangia]], [[Vella Lavella Island]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+|    GEG || KGEG || [[Spokane International Airport]] || [[Spokane, Washington]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    GEI ||      || [[Green Islands Airport]] || [[Green Islands]], [[Papua New Guinea]] || [[UTC+11:00]] ||
+|-
+|    GEL || SBNM || [[Sepé Tiaraju Airport]] || [[Santo Ângelo]], [[Rio Grande do Sul]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    GEO || SYCJ || [[Cheddi Jagan International Airport]] (Timehri Int'l) || [[Georgetown, Guyana]] || [[UTC−04:00]] ||
+&lt;!-- GEO is FAA code (not IATA) for Brown County Airport in Georgetown, Ohio, United States --&gt;
+|-
+|    GER || MUNG || [[Rafael Perez Airport]] || [[Nueva Gerona]], [[Cuba]] || [[UTC−05:00]] || Mar-Nov
+|-
+|    GES || RPMR || [[General Santos International Airport]] (Tambler Airport) || [[General Santos City]], [[Philippines]] || [[Philippine Standard Time|UTC+08:00]] ||
+|-
+|    GET || YGEL || [[Geraldton Airport]] || [[Geraldton, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+&lt;!-- GEU is FAA code (not IATA) for Glendale Municipal Airport in Glendale, Arizona, United States --&gt;
+|-
+|    GEV || ESNG || [[Gällivare Airport]] || [[Gällivare]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GEW || AYGC || [[Gewoia Airport]] || [[Gewoia]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    GEX || YGLG || [[Geelong Airport]] || [[Grovedale, Victoria]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    GEY || KGEY || [[South Big Horn County Airport]] || [[Greybull, Wyoming]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+&lt;!-- GEZ is FAA code (not IATA) for Shelbyville Municipal Airport in Shelbyville, Indiana, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GF&quot;/&gt;-GF-
+|-
+|    GFA || KGFA || [[Malmstrom Air Force Base]] (heliport) || [[Great Falls, Montana]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    GFD || KGFD || [[Pope Field (Indiana)|Pope Field]] || [[Greenfield, Indiana]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GFF || YGTH || [[Griffith Airport]] || [[Griffith, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    GFK || KGFK || [[Grand Forks International Airport]] || [[Grand Forks, North Dakota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GFL || KGFL || [[Floyd Bennett Memorial Airport]] || [[Glens Falls, New York]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GFN || YGFN || [[Clarence Valley Regional Airport|Grafton Airport]] || [[Grafton, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    GFO || SYBT || [[Bartica Airport]] || [[Bartica]], [[Guyana]] || [[UTC−04:00]] ||
+|-
+|    GFR || LFRF || [[Granville Airport]] || [[Granville, Manche|Granville]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GFY || FYGF || [[Grootfontein Airport]] || [[Grootfontein]], [[Namibia]] || [[West Africa Time|UTC+01:00]] || Sep-Apr
+&lt;!-- GFZ is FAA code (not IATA) for Greenfield Municipal Airport in Greenfield, Iowa, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GG&quot;/&gt;-GG-
+|-
+|    GGC ||      || [[Lumbala N'guimbo Airport]] || [[Lumbala N'guimbo]], [[Angola]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    GGD || YGDS || [[Gregory Downs Airport]] || [[Gregory Downs, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    GGE || KGGE || [[Georgetown County Airport]] || [[Georgetown, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- GGF is FAA code (not IATA) for Grant Municipal Airport in Grant, Nebraska, United States --&gt;
+|-
+|    GGG || KGGG || [[East Texas Regional Airport]] || [[Longview, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- GGI is FAA code (not IATA) for Grinnell Regional Airport in Grinnell, Iowa, United States --&gt;
+|-
+|    GGN || DIGA || [[Gagnoa Airport]] || [[Gagnoa]], [[Côte d'Ivoire]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    GGO || DIGL || [[Guiglo Airport]] || [[Guiglo]], [[Côte d'Ivoire]] || [[Greenwich Mean Time|UTC±00:00]] ||
+&lt;!-- GGP is FAA code (not IATA) for Logansport/Cass County Airport in Logansport, Indiana, United States --&gt;
+|-
+|    GGR ||      || [[Garowe International Airport]] || [[Garowe]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    GGS || SAWR || [[Gobernador Gregores Airport]] || [[Gobernador Gregores]], [[Santa Cruz Province (Argentina)|Santa Cruz]], [[Argentina]] || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    GGT || MYEF || [[Exuma International Airport]] || [[Moss Town]], [[Great Exuma Island]], [[Bahamas]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- GGV is FAA code (not IATA) for Kwigillingok Airport in Kwigillingok, Alaska, United States --&gt;
+|-
+|    GGW || KGGW || [[Glasgow Airport (U.S.)|Glasgow Airport]] (Wokal Field) || [[Glasgow, Montana]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GH&quot;/&gt;-GH-
+|-
+|    GHA || DAUG || [[Noumérat – Moufdi Zakaria Airport]] || [[Ghardaia]], [[Algeria]] || [[Central European Time|UTC+01:00]] ||
+|-
+|    GHB || MYEM || [[Governor's Harbour Airport]] || [[Governor's Harbour]], [[Eleuthera]], [[Bahamas]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GHC || MYBG || [[Great Harbour Cay Airport]] || [[Bullock Harbour]], [[Berry Islands]], [[Bahamas]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GHD ||      || [[Ghimbi Airport]] || [[Ghimbi]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    GHE ||      || [[Garachiné Airport]] || [[Garachiné]], [[Panama]] || [[Eastern Time Zone|UTC−05:00]] ||
+|-
+|    GHF || ETEU || [[Giebelstadt Airport]] || [[Giebelstadt]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- GHG is FAA code (not IATA) for Marshfield Municipal Airport (George Harlow Field) in Marshfield, Massachusetts --&gt;
+|-
+|    GHK || LLAZ || [[Gush Katif Airport]] (closed) || [[Gush Katif]], [[Israel]] || [[Israel Standard Time|UTC+02:00]] || Mar-Oct
+|-
+|    GHM || KGHM || [[Centerville Municipal Airport (Tennessee)|Centerville Municipal Airport]] || [[Centerville, Tennessee]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GHN || ZUGH || [[Guanghan Airport]] || [[Guanghan]], [[Sichuan]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    GHT || HLGT || [[Ghat Airport]] || [[Ghat, Libya]] || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    GHU || SAAG || [[Gualeguaychú Airport]] || [[Gualeguaychú, Entre Ríos]], Argentina || [[Time in Argentina|UTC−03:00]] ||
+&lt;!-- GHW is FAA code (not IATA) for Glenwood Municipal Airport in Glenwood, Minnesota, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GI&quot;/&gt;-GI-
+|-
+|    GIB || LXGB || [[Gibraltar Airport]] (North Front Airport) || [[Gibraltar]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GIC || YBOI || [[Boigu Island Airport]] || [[Boigu Island, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    GID || HBBE || [[Gitega Airport]] || [[Gitega]], [[Burundi]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    GIF || KGIF || [[Winter Haven's Gilbert Airport]] || [[Winter Haven, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GIG || SBGL || [[Rio de Janeiro-Galeão International Airport]] || [[Rio de Janeiro]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    GII || GUSI || [[Siguiri Airport]] || [[Siguiri]], Guinea || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    GIL || OPGT || [[Gilgit Airport]] || [[Gilgit]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    GIM ||      || [[Miele Mimbale Airport]] || [[Miele Mimbale]], Gabon || [[West Africa Time|UTC+01:00]] ||
+|-
+|    GIR || SKGI || [[Santiago Vila Airport]] || [[Girardot, Cundinamarca|Girardot]], Colombia || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    GIS || NZGS || [[Gisborne Airport]] || [[Gisborne, New Zealand]] || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|-
+|    GIT ||      || [[Geita Airport]] || [[Geita]], Tanzania || [[East Africa Time|UTC+03:00]] ||
+|-
+|    GIY || FAGI || [[Giyani Airport]] || [[Giyani]], South Africa || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    GIZ || OEGN || [[Prince Abdullah Bin Abdulaziz Airport]] (Gizan Airport) || [[Jizan Region|Jazan]], Saudi Arabia || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GJ&quot;/&gt;-GJ-
+|-
+|    GJA || MHNJ || [[Guanaja Airport]] || [[Guanaja]], [[Bay Islands (department)|Bay Islands]], Honduras || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    GJL || DAAV || [[Jijel Ferhat Abbas Airport]] || [[Jijel]], Algeria || [[Central European Time|UTC+01:00]] ||
+|-
+|    GJM || SBGM || [[Guajara-Mirim Airport]] || [[Guajara-Mirim]], [[Rondônia]], Brazil || [[Time in Brazil|UTC−04:00]] ||
+|-
+|    GJR || BIGJ || [[Gjögur Airport]] || [[Gjögur]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    GJT || KGJT || [[Grand Junction Regional Airport]] (Walker Field) || [[Grand Junction, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GK&quot;/&gt;-GK-
+|-
+|    GKA || AYGA || [[Goroka Airport]] || [[Goroka]], Papua New Guinea || [[UTC+10:00]] ||
+|-
+|    GKD || LTFK || [[Gökçeada Airport]] || [[Gökçeada]], [[Turkey]] || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    GKE || ETNG || [[NATO Air Base Geilenkirchen]] || [[Geilenkirchen]],  [[North Rhine-Westphalia]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GKH || VNGK || [[Gorkha Airport]] || [[Prithbinarayan|Gorkha]], [[Nepal]] || [[Nepal Standard Time|UTC+05:45]] ||
+&lt;!-- GKJ is FAA code (IATA: MEJ) for Port Meadville Airport in Meadville, Pennsylvania, United States --&gt;
+|-
+|    GKL || YGKL || [[Great Keppel Island Airport]] || [[Great Keppel Island]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    GKN || PAGK || [[Gulkana Airport]] || [[Gulkana, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    GKO ||      || [[Kongoboumba Airport]] || [[Kongoboumba]], Gabon || [[West Africa Time|UTC+01:00]] ||
+|-
+|    GKT || KGKT || [[Gatlinburg-Pigeon Forge Airport]] || [[Sevierville, Tennessee]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+&lt;!-- GKY is FAA code (not IATA) for Arlington Municipal Airport in Arlington, Texas, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GL&quot;/&gt;-GL-
+|-
+|    GLA || EGPF || [[Glasgow International Airport]] || [[Glasgow]], [[Scotland]], United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    GLC ||      || [[Geladi Airport]] || [[Geladi]], [[Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    GLD || KGLD || [[Goodland Municipal Airport]] (Renner Field) || [[Goodland, Kansas]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    GLE || KGLE || [[Gainesville Municipal Airport]] || [[Gainesville, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GLF || MRGF || [[Golfito Airport]] || [[Golfito]], [[Costa Rica]] || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    GLG || YGLE || [[Glengyle Airport]] || [[Glengyle Station]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    GLH || KGLH || [[Mid-Delta Regional Airport]] || [[Greenville, Mississippi]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GLI || YGLI || [[Glen Innes Airport]] || [[Glen Innes, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    GLK || HCMR || [[Abdullahi Yusuf International Airport]] (Galkayo Airport) || [[Galkayo]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    GLL || ENKL || [[Gol Airport, Klanten]] || [[Gol, Norway]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GLM || YGLO || [[Glenormiston Airport]] || [[Glenormiston]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    GLN ||      || [[Goulimime Airport]] || [[Goulimime]], [[Morocco]] || [[Western European Time|UTC±00:00]] || Mar-Oct*
+|-
+|    GLO || EGBJ || [[Gloucester Airport]] || [[Gloucester]] / [[Cheltenham]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|-
+|    GLP || AYUP || [[Gulgubip Airport]] || [[Gulgubip]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    GLR || KGLR || [[Gaylord Regional Airport]] || [[Gaylord, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GLS || KGLS || [[Scholes International Airport at Galveston]] || [[Galveston, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GLT || YGLA || [[Gladstone Airport]] || [[Gladstone, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    GLV || PAGL || [[Golovin Airport]] || [[Golovin, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    GLW || KGLW || [[Glasgow Municipal Airport]] || [[Glasgow, Kentucky]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GLX || WAMA || [[Gamarmalamo Airport]] (Galela Airport) || [[Galela]], [[North Maluku]], Indonesia || [[Time in Indonesia|UTC+09:00]] ||
+|-
+|    GLY ||      || [[Goldsworthy Airport]] || [[Goldsworthy, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+&lt;!-- GLY is FAA code (not IATA) for Clinton Memorial Airport in Clinton, Missouri, United States --&gt;
+|-
+|    GLZ || EHGR || [[Gilze-Rijen Air Base]] || [[Breda]], Netherlands || [[Central European Time|UTC+01:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GM&quot;/&gt;-GM-
+|-
+|    GMA || FZFK || [[Gemana Airport]] || [[Gemana]], [[Democratic Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    GMB || HAGM || [[Gambela Airport]] || [[Gambela, Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    GMC ||      || [[Guerima Airport]] || [[Guerima]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    GME || UMGG || [[Gomel Airport]] || [[Gomel]], [[Belarus]] || [[UTC+03:00]] ||
+|-
+|    GMI || AYGT || [[Gasmata Airport]] || [[Gasmata Island]], Papua New Guinea || [[UTC+10:00]] ||
+&lt;!-- GMJ is FAA code (not IATA) for Grove Municipal Airport in Grove, Oklahoma, United States --&gt;
+&lt;!-- GML is not the IATA code of [[Gostomel Airport]] (Antonov International Airport) (ICAO code: UKKM), [[Kiev]], Ukraine --&gt;
+|-
+|    GMM || FCOG || [[Gamboma Airport]] || [[Gamboma]], [[Republic of the Congo]] || [[West Africa Time|UTC+01:00]] ||
+|-
+|    GMN || NZGM || [[Greymouth Airport]] || [[Greymouth]], New Zealand || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|-
+|    GMP || RKSS || [[Gimpo International Airport]] (Kimpo Airport) || [[Seoul]], South Korea || [[Korea Standard Time|UTC+09:00]] ||
+|-
+|    GMR || NTGJ || [[Totegegie Airport]] (Gambier Island Airport) || [[Mangareva]], [[Gambier Islands]], French Polynesia || [[Time in France|UTC−09:00]] ||
+|-
+|    GMS || SNGM || [[Guimarães Airport]] || [[Guimarães, Maranhão]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    GMT || PAGZ || [[Granite Mountain Air Station]] (FAA: GSZ) || [[Granite Mountain, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    GMU || KGMU || [[Greenville Downtown Airport]] || [[Greenville, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GMV ||      || [[Monument Valley Airport]] (FAA: UT25) || [[Monument Valley]], [[Utah]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    GMZ || GCGM || [[La Gomera Airport]] || [[Alajeró]] / [[San Sebastián de La Gomera|San Sebastián]], Canary Islands, Spain || [[Western European Time|UTC±00:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GN&quot;/&gt;-GN-
+|-
+|    GNA || UMMG || [[Obukhovo Airport]] || [[Grodno]], [[Belarus]] || [[UTC+03:00]] ||
+|-
+|    GNB || LFLS || [[Grenoble-Isère Airport]] || [[Grenoble]], France || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- GNC is FAA code (not IATA) for Gaines County Airport in Seminole, Texas, United States --&gt;
+|-
+|    GND || TGPY || [[Maurice Bishop International Airport]] || [[St. George's, Grenada]] || [[Atlantic Time Zone|UTC−04:00]] ||
+|-
+|    GNE || EBGT || [[St. Denijs-Westrem Airport]] (Ghent Airport) || [[Ghent]], Belgium || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- GNF is FAA code (not IATA) for Grenada Municipal Airport in Grenada, Mississippi, United States --&gt;
+|-
+|    GNG || KGNG || [[Gooding Municipal Airport]] || [[Gooding, Idaho]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    GNI || RCGI || [[Lyudao Airport]] (Green Island Airport) || [[Lyudao]] (Green Island), Taiwan || [[Time in Taiwan|UTC+08:00]] ||
+&lt;!-- GNL is not IATA code for Groton-New London Airport (IATA/FAA: GON) in Groton, Connecticut --&gt;
+|-
+|    GNM || SNGI || [[Guanambi Airport]] || [[Guanambi]], [[Bahia]], Brazil || [[Time in Brazil|UTC−03:00]] ||
+|-
+|    GNN || HAGH || [[Ghinnir Airport]] || [[Ghinnir]], Ethiopia || [[East Africa Time|UTC+03:00]] ||
+|-
+|    GNR || SAHR || [[Dr. Arturo Umberto Illia Airport]] || [[General Roca]], [[Río Negro Province|Río Negro]], Argentina || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    GNS || WIMB || [[Binaka Airport]] || [[Gunungsitoli]], [[Nias Island]], Indonesia || [[Time in Indonesia|UTC+07:00]] ||
+|-
+|    GNT || KGNT || [[Grants-Milan Municipal Airport]] || [[Grants, New Mexico]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    GNU ||      || [[Goodnews Airport]] || [[Goodnews, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    GNV || KGNV || [[Gainesville Regional Airport]] || [[Gainesville, Florida]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GNY || LTCS || [[Şanlıurfa GAP Airport]] || [[Şanlıurfa]], Turkey || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    GNZ || FBGZ || [[Ghanzi Airport]] || [[Ghanzi]], Botswana || [[Central Africa Time|UTC+02:00]] ||
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GO&quot;/&gt;-GO-
+|-
+|    GOA || LIMJ || [[Cristoforo Colombo Airport]] || [[Genoa]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GOB || HAGB || [[Robe Airport]] || [[Goba]], Ethiopia || [[East Africa Time|UTC+03:00]] ||
+|-
+|    GOC || AYGX || [[Gora Airport]] || [[Gora, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    GOE ||      || [[Gonalia Airport]] || [[Gonalia]], Papua New Guinea || [[UTC+10:00]] ||
+|-
+|    GOF ||      || [[Goodfellow Air Force Base]] || [[San Angelo, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GOG || FYGB || [[Gobabis Airport]] || [[Gobabis]], [[Namibia]] || [[West Africa Time|UTC+01:00]] || Sep-Apr
+|-
+|    GOH || BGGH || [[Nuuk Airport]] (Godthåb/Nuuk Airport) || [[Nuuk]], Greenland || [[Time in Denmark|UTC−03:00]] || Mar-Oct
+|-
+|    GOI || VOGO || [[Goa International Airport]] (Dabolim Airport) || [[Dabolim]], [[Goa]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    GOJ || UWGG || [[Nizhny Novgorod Strigino Airport|Strigino Airport]] || [[Nizhny Novgorod]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    GOK || KGOK || [[Guthrie-Edmond Regional Airport]] (was Guthrie Municipal) || [[Guthrie, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GOL ||      || [[Gold Beach Municipal Airport]] (FAA: 4S1) || [[Gold Beach, Oregon]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    GOM || FZNA || [[Goma Airport]] || [[Goma]], [[Democratic Republic of the Congo]] || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    GON || KGON || [[Groton-New London Airport]] || [[Groton, Connecticut]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GOO || YGDI || [[Goondiwindi Airport]] || [[Goondiwindi, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    GOP || VEGK || [[Gorakhpur Airport]] || [[Gorakhpur]], India || [[Indian Standard Time|UTC+05:30]] ||
+&lt;!-- GOP is FAA code (not IATA) for City-County Airport in Gatesville, Texas, United States --&gt;
+|-
+|    GOQ || ZLGM || [[Golmud Airport]] || [[Golmud]], [[Qinghai]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    GOR || HAGR || [[Gore Airport]] || [[Gore, Ethiopia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    GOS ||      || [[Gosford Airport]] || [[Gosford, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    GOT || ESGG || [[Gothenburg-Landvetter Airport]] || [[Gothenburg]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GOU || FKKR || [[Garoua International Airport]] || [[Garoua]], Cameroon || [[West Africa Time|UTC+01:00]] ||
+|-
+|    GOV || YPGV || [[Nhulunbuy Airport]] || [[Gove, Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+&lt;!-- GOV is FAA code (not IATA) for Grayling Army Airfield in Grayling, Michigan, United States --&gt;
+&lt;!-- GOY is no longer the code for [[SLAF Ampara]] (ICAO: VCCG), [[Ampara]], [[Sri Lanka]] --&gt;
+|-
+|    GOZ || LBGO || [[Gorna Oryahovitsa Airport]] || [[Gorna Oryahovitsa]], Bulgaria || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GP&quot;/&gt;-GP-
+|-
+|    GPA || LGRX || [[Araxos Airport]] || [[Araxos]] / [[Patras]], Greece || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|-
+|    GPB || SBGU || [[Tancredo Thomas de Farias Airport]] || [[Guarapuava]], [[Paraná (state)|Paraná]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+&lt;!-- GPH is FAA code (not IATA) for Midwest National Air Center (Clay County Regional) in Mosby, Missouri, United States --&gt;
+|-
+|    GPI || SKGP || [[Guapi Airport]] || [[Guapi, Cauca|Guapi]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    GPL || MRGP || [[Guápiles Airport]] || [[Guápiles]], [[Costa Rica]] || [[Central Time Zone|UTC−06:00]] ||
+&lt;!-- GPM is FAA code (not IATA) for Grand Prairie Municipal Airport in Grand Prairie, Texas, United States --&gt;
+|-
+|    GPN || YGPT || [[Garden Point Airport]] || [[Pirlangimpi]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    GPO || SAZG || [[General Pico Airport]] || [[General Pico]], [[La Pampa Province|La Pampa]], Argentina || [[Time in Argentina|UTC−03:00]] ||
+|-
+|    GPS || SEGS || [[Seymour Airport]] || [[Baltra Island]], [[Galápagos Islands]], Ecuador || [[Time in Ecuador|UTC−05:00]] ||
+|-
+|    GPT || KGPT || [[Gulfport-Biloxi International Airport]] || [[Gulfport, Mississippi]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GPZ || KGPZ || [[Grand Rapids/Itasca County Airport]] (Gordon Newstrom Field) || [[Grand Rapids, Minnesota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GQ&quot;/&gt;-GQ-
+|-
+|    GQQ || KGQQ || [[Galion Municipal Airport]] || [[Galion, Ohio]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GR&quot;/&gt;-GR-
+|-
+|    GRA ||      || [[Gamarra Airport]] || [[Gamarra, Cesar|Gamarra]], [[Colombia]] || [[Time in Colombia|UTC−05:00]] ||
+|-
+|    GRB || KGRB || [[Austin Straubel International Airport]] || [[Green Bay, Wisconsin]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GRC ||      || [[Grand Cess Airport]] || [[Grand Cess]], Liberia || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    GRD || KGRD || [[Greenwood County Airport]] || [[Greenwood, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GRE || KGRE || [[Greenville Airport]] || [[Greenville, Illinois]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GRF || KGRF || [[Gray Army Airfield]] (Fort Lewis) || [[Tacoma, Washington]], United States || [[Pacific Time Zone|UTC−08:00]] || Mar-Nov
+|-
+|    GRG || OAGZ || [[Gardez Airport]] || [[Gardez]], [[Afghanistan]] || [[Time in Afghanistan|UTC+04:30]] ||
+|-
+|    GRH ||      || [[Garuahi Airport]] || [[Garuahi]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    GRI || KGRI || [[Central Nebraska Regional Airport]] || [[Grand Island, Nebraska]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GRJ || FAGG || [[George Airport]] || [[George, South Africa]] || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    GRK || KGRK || [[Killeen-Fort Hood Regional Airport]] (Robert Gray Army Airfield) || [[Fort Hood]] / [[Killeen, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GRL || AYGG || [[Garasa Airport]] || [[Garasa]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    GRM || KCKC || [[Grand Marais/Cook County Airport]] (FAA: CKC) || [[Grand Marais, Minnesota]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GRN || KGRN || [[Gordon Municipal Airport]] || [[Gordon, Nebraska]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    GRO || LEGE || [[Girona-Costa Brava Airport]] || [[Girona]], Spain || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GRP || SWGI || [[Gurupi Airport]] || [[Gurupi]], [[Goiás]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    GRQ || EHGG || [[Groningen Airport Eelde]] || [[Groningen (city)|Groningen]] / [[Eelde]], Netherlands || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GRR || KGRR || [[Gerald R. Ford International Airport]] || [[Grand Rapids, Michigan]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GRS || LIRS || [[Grosseto Airport]] (Baccarini Airport) || [[Grosseto]], Italy || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GRT ||      || [[Gujrat Airport]] || [[Gujrat city|Gujrat]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    GRU || SBGR || [[São Paulo-Guarulhos International Airport]] || [[Guarulhos]] (near [[São Paulo]]), [[São Paulo (state)]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    GRV || URMG || [[Grozny Airport]] || [[Grozny]], Russia || [[Moscow Time|UTC+03:00]] ||
+|-
+|    GRW || LPGR || [[Graciosa Island Airport]] || [[Graciosa Island]], [[Azores]], Portugal || [[UTC−01:00]] || Mar-Oct
+|-
+|    GRX || LEGR || [[Federico García Lorca Airport|Granada Jaén Airport]] || [[Granada]], Spain || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GRY || BIGR || [[Grímsey Airport]] || [[Grímsey]], [[Iceland]] || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    GRZ || LOWG || [[Graz Airport]] (Thalerhof Airport) || [[Graz]], Austria || [[Central European Time|UTC+01:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GS&quot;/&gt;-GS-
+|-
+|    GSA || WBKN || [[Long Pasia Airport]] || [[Long Pasia]], [[Sabah]], [[Malaysia]] || [[Time in Malaysia|UTC+08:00]] ||
+|-
+|    GSB || KGSB || [[Seymour Johnson Air Force Base]] || [[Goldsboro, North Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GSC || YGSC || [[Gascoyne Junction Airport]] || [[Gascoyne Junction, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+|-
+|    GSE || ESGP || [[Gothenburg City Airport]] (Göteborg City Airport) || [[Gothenburg]] (Göteborg), Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GSH || KGSH || [[Goshen Municipal Airport]] || [[Goshen, Indiana]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GSI ||      || [[Guadalcanal Airport]] || [[Guadalcanal]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+|    GSM || OIKQ || [[Gheshm Airport]] || [[Gheshm]], [[Iran]] || [[Iran Standard Time|UTC+03:30]] || Mar-Sep
+|-
+|    GSN || YMGN || [[Mount Gunson Airport]] || [[Mount Gunson]], [[South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+&lt;!-- GSN is FAA code (IATA: SPN) for Francisco C. Ada/Saipan International Airport in the Northern Mariana Islands --&gt;
+|-
+|    GSO || KGSO || [[Piedmont Triad International Airport]] || [[Greensboro, North Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GSP || KGSP || [[Greenville-Spartanburg International Airport]] || [[Greenville, South Carolina|Greenville]] / [[Spartanburg, South Carolina]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GSQ || HEOW || [[Sharq Al-Owainat Airport]] || [[Sharq Al-Owainat]], Egypt || [[Eastern European Time|UTC+02:00]] ||
+|-
+|    GSR || HCMG || [[Qardho Airport|Gardo Airport]] (Qardho Airport) || [[Qardho|Gardo]], [[Somalia]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    GSS ||      || [[Sabi Sabi Airport]] || [[Sabi Sabi]], South Africa || [[South African Standard Time|UTC+02:00]] ||
+|-
+|    GST || PAGS || [[Gustavus Airport]] || [[Gustavus, Alaska]], United States || [[Alaska Time Zone|UTC−09:00]] || Mar-Nov
+|-
+|    GSU || HSGF || [[Azaza Airport]] || [[Gedaref]], [[Sudan]] || [[East Africa Time|UTC+03:00]] ||
+|-
+|    GSY || EGXB || [[RAF Binbrook]] || [[Grimsby]], England, United Kingdom || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+&lt;!-- GSZ is FAA code (IATA: GMT) for Granite Mountain Air Station in Granite Mountain, Alaska, United States --&gt;
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GT&quot;/&gt;-GT-
+|-
+|    GTA ||      || [[Gatokae Airport]] || [[Gatokae]], [[Solomon Islands]] || [[UTC+11:00]] ||
+|-
+| &lt;s&gt;GTB&lt;/s&gt; ||      || &lt;s&gt;[[Genting Airport]]&lt;/s&gt; || &lt;s&gt;[[Genting Highlands|Genting]], [[Malaysia]]&lt;/s&gt;
+&lt;!-- GTB is FAA code (not IATA) for Wheeler-Sack Army Airfield in Fort Drum, New York, United States --&gt;
+|-
+|    GTC ||      || [[Green Turtle Airport]] || [[Green Turtle]], [[Bahamas]] || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GTE || YGTE || [[Groote Eylandt Airport]] || [[Groote Eylandt]], [[Northern Territory]], Australia || [[Australian Time|UTC+09:30]] ||
+|-
+|    GTF || KGTF || [[Great Falls International Airport]] || [[Great Falls, Montana]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    GTG || KGTG || [[Grantsburg Municipal Airport]] || [[Grantsburg, Wisconsin]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GTI || EDCG || [[Rügen Airport]] || [[Güttin]], [[Mecklenburg-Vorpommern]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    &lt;s&gt;GTK&lt;/s&gt; ||      || &lt;s&gt;[[Sungei Tekai Airport]]&lt;/s&gt; || &lt;s&gt;[[Sungei Tekai]], [[Malaysia]]&lt;/s&gt;
+|-
+|    GTN || NZGT || [[Glentanner Aerodrome]] || [[Mount Cook]], New Zealand || [[Time in New Zealand|UTC+12:00]] || Sep-Apr
+|-
+|    GTO || WAMG || [[Jalaluddin Airport]] || [[Gorontalo (province)|Gorontalo]], Indonesia || [[Time in Indonesia|UTC+08:00]] ||
+|-
+|    GTR || KGTR || [[Golden Triangle Regional Airport]] || [[Columbus, Mississippi|Columbus]]/[[West Point, Mississippi|West Point]]/[[Starkville, Mississippi]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GTS || YGDW || [[Granite Downs Airport]] || [[Granite Downs]], [[South Australia]], Australia || [[Australian Time|UTC+09:30]] || Oct-Apr
+|-
+|    GTT || YGTN || [[Georgetown Airport (Australia)|Georgetown Airport]] || [[Georgetown, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    GTU || KGTU || [[Georgetown Airport (Texas, USA)|Georgetown Airport]] || [[Georgetown, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GTW || LKHO || [[Holešov Airport]] || [[Holešov]], [[Zlín]], [[Czech Republic]] || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GTY ||      || [[Gettysburg Regional Airport]] (FAA: W05) || [[Gettysburg, Pennsylvania]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GU&quot;/&gt;-GU-
+|-
+|    GUA || MGGT || [[La Aurora International Airport]] || [[Guatemala City]], Guatemala || [[Central Time Zone|UTC−06:00]] ||
+|-
+|    GUB || MMGR || [[Guerrero Negro Airport]] || [[Guerrero Negro]], [[Baja California Sur]], Mexico || [[Mountain Time Zone|UTC−07:00]] || Apr-Oct
+|-
+|    GUC || KGUC || [[Gunnison-Crested Butte Regional Airport]] || [[Gunnison, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    GUD || GAGM || [[Goundam Airport]] || [[Goundam]], Mali || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    GUE ||      || [[Guriaso Airport]] || [[Guriaso]], Papua New Guinea || [[UTC+10:00]] ||
+|-
+|    GUF || KJKA || [[Jack Edwards Airport]] (FAA: JKA) || [[Gulf Shores]], [[Alabama]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GUG || AYGF || [[Guari Airport]] || [[Guari]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    GUH || YGDH || [[Gunnedah Airport]] || [[Gunnedah, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    GUI || SVGI || [[Guiria Airport]] || [[Guiria]], Venezuela || [[Time in Venezuela|UTC−04:30]] ||
+|-
+|    GUJ || SBGW || [[Guaratingueta Airport]] || [[Guaratingueta]], [[São Paulo]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    GUL || YGLB || [[Goulburn Airport]] || [[Goulburn, New South Wales]], Australia || [[Australian Time|UTC+10:00]] || Oct-Apr
+|-
+|    GUM || PGUM || [[Antonio B. Won Pat International Airport]] (Guam International) || [[Hagåtña, Guam]] || [[Chamorro Time Zone|UTC+10:00]] ||
+|-
+|    GUP || KGUP || [[Gallup Municipal Airport]] || [[Gallup, New Mexico]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    GUQ || SVGU || [[Guanare Airport]] || [[Guanare]], Venezuela || [[Time in Venezuela|UTC−04:30]] ||
+|-
+|    GUR || AYGN || [[Gurney Airport]] || [[Alotau]], Papua New Guinea || [[UTC+10:00]] ||
+|-
+|    GUS || KGUS || [[Grissom Air Reserve Base]] || [[Peru, Indiana]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GUT || ETUO || [[RAF Gütersloh]] || [[Gütersloh]], [[North Rhine-Westphalia]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GUU || BIGF || [[Grundarfjörður Airport]] || [[Grundarfjörður]], Iceland || [[Greenwich Mean Time|UTC±00:00]] ||
+|-
+|    GUV || AYML || [[Mougulu Airport]] || [[Mougulu]], Papua New Guinea || [[UTC+10:00]] ||
+|-
+|    GUW || UATG || [[Atyrau Airport]] || [[Atyrau]], [[Kazakhstan]] || [[Time in Kazakhstan|UTC+05:00]] ||
+|-
+|    GUX || VAGN || [[Guna Airport]] || [[Guna, India]] || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    GUY || KGUY || [[Guymon Municipal Airport]] || [[Guymon, Oklahoma]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GUZ || SNGA || [[Guarapari Airport]] || [[Guarapari]], [[Espírito Santo]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GV&quot;/&gt;-GV-
+|-
+|    GVA || LSGG || [[Cointrin International Airport]] || [[Geneva]], Switzerland || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GVE || KGVE || [[Gordonsville Municipal Airport]] || [[Gordonsville, Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GVI || AYGV || [[Green River Airport]] || [[Green River, Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    GVL || KGVL || [[Lee Gilmer Memorial Airport]] || [[Gainesville, Georgia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GVP || YGNV || [[Greenvale Airport]] || [[Greenvale, Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+&lt;!-- GVQ is FAA code (not IATA) for Genesee County Airport in Batavia, New York, United States --&gt;
+|-
+|    GVR || SBGV || [[Governador Valadares Airport]] || [[Governador Valadares]], [[Minas Gerais]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    GVT || KGVT || [[Majors Airport (Texas)|Majors Airport]] || [[Greenville, Texas]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|-
+|    GVX || ESSK || [[Gävle-Sandviken Airport]] || [[Gävle-Sandviken]], Sweden || [[Central European Time|UTC+01:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GW&quot;/&gt;-GW-
+|-
+|    GWA || VYGW || [[Gwa Airport]] || [[Gwa, Burma|Gwa]], [[Myanmar]] (Burma) || [[Myanmar Standard Time|UTC+06:30]] ||
+&lt;!-- GWB is FAA code (not IATA) for DeKalb County Airport in Auburn, Indiana, United States --&gt;
+|-
+|    GWD || OPGD || [[Gwadar Airport]] || [[Gwadar]], Pakistan || [[Time in Pakistan|UTC+05:00]] ||
+|-
+|    GWE || FVTL || [[Thornhill Air Base]] || [[Gweru]], Zimbabwe || [[Central Africa Time|UTC+02:00]] ||
+|-
+|    GWL || VIGR || [[Gwalior Airport]] || [[Gwalior]], India || [[Indian Standard Time|UTC+05:30]] ||
+|-
+|    GWN ||      || [[Gnarowein Airport]] || [[Gnarowein]], [[Papua New Guinea]] || [[UTC+10:00]] ||
+|-
+|    GWO || KGWO || [[Greenwood-Leflore Airport]] || [[Greenwood, Mississippi]], United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+&lt;!-- GWR is FAA code (not IATA) for [[Gwinner-Roger Melroe Field]] in [[Gwinner, North Dakota]], United States --&gt;
+|-
+|    GWS || KGWS || [[Glenwood Springs Municipal Airport]] || [[Glenwood Springs, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|-
+|    GWT || EDXW || [[Sylt Airport]] ([[Westerland Airport]]) || [[Westerland (Schleswig)|Westerland]], Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GWV ||      || [[Glendale Fokker Field]] (FAA: WV66) || [[Glendale, West Virginia]], United States || [[Eastern Time Zone|UTC−05:00]] || Mar-Nov
+|-
+|    GWW || EDBG || [[RAF Gatow]] || Berlin, Germany || [[Central European Time|UTC+01:00]] || Mar-Oct
+&lt;!-- GWW is FAA code (not IATA) for Goldsboro-Wayne Municipal Airport in Goldsboro, North Carolina, United States --&gt;
+|-
+|    GWY || EICM || [[Galway Airport]] || [[Galway]], Ireland || [[Greenwich Mean Time|UTC±00:00]] || Mar-Oct
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GX&quot;/&gt;-GX-
+|-
+|    GXF || OYSY || [[Seiyun Airport]] || [[Seiyun]], Yemen || [[UTC+03:00#Arabia Standard Time|UTC+03:00]] ||
+|-
+|    GXG || FNNG || [[Negage Airport]] || [[Negage]], Angola || [[West Africa Time|UTC+01:00]] ||
+|-
+|    GXH || ZLXH || [[Gannan Xiahe Airport]] || [[Xiahe County|Xiahe]], [[Gansu]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    GXQ || SCCY || [[Teniente Vidal Airport]] || [[Coyhaique]], Chile || [[Time in Chile|UTC−03:00]] ||
+|-
+|    GXX || FKKJ || [[Yagoua Airport]] || [[Yagoua]], Cameroon || [[West Africa Time|UTC+01:00]] ||
+|-
+|    GXY || KGXY || [[Greeley-Weld County Airport]] || [[Greeley, Colorado]], United States || [[Mountain Time Zone|UTC−07:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GY&quot;/&gt;-GY-
+|-
+|    GYA || SLGY || [[Guayaramerín Airport]] || [[Guayaramerín]], [[Bolivia]] || [[UTC−04:00]] ||
+&lt;!-- GYB is FAA code (not IATA) for Giddings-Lee County Airport in Giddings, Texas, United States --&gt;
+|-
+|    GYD || UBBB || [[Heydar Aliyev International Airport]] (Bina Int'l) || [[Baku]], Azerbaijan || [[Time in Azerbaijan|UTC+04:00]] || Mar-Oct
+|-
+|    GYE || SEGU || [[José Joaquín de Olmedo International Airport]] || [[Santiago de Guayaquil]], Ecuador || [[Time in Ecuador|UTC−05:00]] ||
+|-
+|    GYG || UEMM || [[Magan Airport]] || [[Magan, Russia]], [[Sakha Republic]], [[Russia]] || [[Yakutsk Time|UTC+09:00]] ||
+&lt;!-- GYH is FAA code (IATA: GDC) for Donaldson Center Airport in Greenville, South Carolina, United States --&gt;
+|-
+|    GYI || HRYG || [[Gisenyi Airport]] || [[Gisenyi]], Rwanda || [[Central Africa Time|UTC+02:00]] ||
+&lt;!-- GYI is FAA code (IATA: PNX) for North Texas Regional Airport in Sherman/Denison, Texas, United States --&gt;
+|-
+|    GYL || YARG || [[Argyle Airport]] || [[Argyle, Western Australia]], Australia || [[Australian Time|UTC+08:00]] ||
+&lt;!-- GYL is FAA code (not IATA) for Glencoe Municipal Airport in Glencoe, Minnesota, United States --&gt;
+|-
+|    GYM || MMGM || [[General José María Yáñez International Airport]] || [[Guaymas]], [[Sonora]], Mexico || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+|    GYN || SBGO || [[Santa Genoveva Airport]] || [[Goiânia]], [[Goiás]], Brazil || [[Time in Brazil|UTC−03:00]] || Oct-Feb
+|-
+|    GYP || YGYM || [[Gympie Airport]] || [[Gympie]], [[Queensland]], Australia || [[Australian Time|UTC+10:00]] ||
+|-
+|    GYR || KGYR || [[Phoenix Goodyear Airport]] || [[Goodyear, Arizona]], United States || [[Mountain Time Zone|UTC−07:00]] ||
+|-
+|    GYS || ZUGU || [[Guangyuan Airport]] || [[Guangyuan]], [[Sichuan]], China || [[Time in China|UTC+08:00]] ||
+|-
+|    GYY || KGYY || [[Gary/Chicago International Airport]] || [[Gary, Indiana]] (near [[Chicago]]), United States || [[Central Time Zone|UTC−06:00]] || Mar-Nov
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;6&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;GZ&quot;/&gt;-GZ-
+|-
+|    GZA || LVGZ || [[Yaser Arafat International Airport]] || [[Gaza City|Gaza]], Palestine || [[Eastern European Time|UTC+02:00]] || Mar-Sep
+&lt;!-- GZH is FAA code (not IATA) for Middleton Field Airport in Evergreen, Alabama, United States --&gt;
+|-
+|    GZI || OAGN || [[Ghazni Airport]] || [[Ghazni]], [[Afghanistan]] || [[Time in Afghanistan|UTC+04:30]] ||
+&lt;!-- GZL is FAA code (not IATA) for Stigler Regional Airport in Stigler, Oklahoma, United States --&gt;
+|-
+|    GZM || LMMG || [[Xewkija Heliport]] (Gozo Heliport) || [[Xewkija]], [[Gozo]], Malta || [[Central European Time|UTC+01:00]] || Mar-Oct
+|-
+|    GZO || AGGN || [[Nusatupe Airport]] || [[Gizo, Solomon Islands|Gizo]] / [[Nusatupe]], [[Western Province (Solomon Islands)|Western Province, Solomon Islands]] || [[UTC+11:00]] ||
+&lt;!-- GZS is FAA code (not IATA) for Abernathy Field in Pulaski, Tennessee, United States --&gt;
+|-
+|    GZT || LTAJ || [[Oğuzeli Airport]] || [[Gaziantep]], Turkey || [[Eastern European Time|UTC+02:00]] || Mar-Oct
+|}
+∗ Morocco temporarily suspends DST for the month of Ramadan.
+
+==References==
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = PDF | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|G]]</text>
+      <sha1>9jaqiepxi3ekket4k7xg1kop5d8sk6x</sha1>
+    </revision>
+  </page>
+</mediawiki>

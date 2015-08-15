@@ -1,0 +1,1047 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26wmf18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of airports by IATA code: S</title>
+    <ns>0</ns>
+    <id>317144</id>
+    <revision>
+      <id>675985579</id>
+      <parentid>665436694</parentid>
+      <timestamp>2015-08-13T23:46:00Z</timestamp>
+      <contributor>
+        <username>Natg 19</username>
+        <id>3492060</id>
+      </contributor>
+      <comment>Disambiguated: [[São Luís]] → [[São Luís, Maranhão]], [[San Carlos Airport]] → [[San Carlos Airport (California)]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="50969">{{Lists of airports by IATA code}}
+
+==S==
+{{AlphanumericTOC|prefixLink=S|prefixDesc=S|numbers=|sections=}}
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size:95%;&quot;
+! style=&quot;text-align:left; width:4em;&quot; | IATA
+! style=&quot;text-align:left; width:5em;&quot; | [[International Civil Aviation Organization airport code|ICAO]]
+! style=&quot;text-align:left;&quot; | Airport&amp;nbsp;name
+! style=&quot;text-align:left;&quot; | Location&amp;nbsp;served
+&lt;!-- comments added to prevent addition of incorrect IATA codes --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SA&quot;/&gt;-SA-
+|-
+|    SAA || KSAA || [[Shively Field]] || [[Saratoga, Wyoming]], [[United States]]
+|-
+|    SAB || TNCS || [[Juancho E. Yrausquin Airport]] || [[Saba]], [[Caribbean Netherlands]]
+|-
+|    SAC || KSAC || [[Sacramento Executive Airport]] || [[Sacramento, California]], [[United States]]
+|-
+|    SAD || KSAD || [[Safford Regional Airport]] || [[Safford, Arizona]], [[United States]]
+|-
+|    SAE || BGST || [[Saattut Heliport]] || [[Saattut]], [[Greenland]]
+|-
+|    SAF || KSAF || [[Santa Fe Municipal Airport]] || [[Santa Fe, New Mexico]], [[United States]]
+|-
+|    SAG ||      || [[Sagwon Airport]] || [[Sagwon, Alaska]], [[United States]]
+|-
+|    SAH || OYSN || [[El Rahaba Airport]] (Sanaa International) || [[Sana'a]], [[Yemen]]
+|-
+|    SAI ||      || [[San Marino Airport]] || [[San Marino, San Marino|San Marino]], [[San Marino|Republic of San Marino]]
+|-
+|    SAJ ||      || [[Sirajganj Airport]] || [[Sirajganj]], [[Bangladesh]]
+|-
+|    SAK || BIKR || [[Sauðárkrókur Airport]] || [[Sauðárkrókur]], [[Iceland]]
+|-
+|    SAL || MSLP || [[El Salvador International Airport]] || [[San Salvador, El Salvador|San Salvador]], [[El Salvador]]
+|-
+|    SAN || KSAN || [[San Diego International Airport]] || [[San Diego, California]], [[United States]]
+|-
+|    SAO ||      || All Airports || [[São Paulo (city)|São Paulo]], [[Brazil]]
+|-
+|    SAP || MHLM || [[La Mesa International Airport]] || [[San Pedro Sula]], [[Honduras]]
+|-
+|    SAR || KSAR || [[Sparta Community Airport]] (Hunter Field) || [[Sparta, Illinois]], [[United States]]
+|-
+|    SAS || KSAS || [[Salton Sea Airport]] || [[Salton City, California]], [[United States]]
+|-
+|    SAT || KSAT || [[San Antonio International Airport]] || [[San Antonio, Texas]], [[United States]]
+|-
+|    SAU || WATS || [[Tardamu Airport]] || [[Savu Island]], [[East Nusa Tenggara]], [[Indonesia]]
+|-
+|    SAV || KSAV || [[Savannah/Hilton Head International Airport]] || [[Savannah, Georgia]] (near [[Hilton Head, South Carolina]]), [[United States]]
+|-
+|    SAW || LTFJ || [[Sabiha Gökçen International Airport]] || [[Istanbul]], [[Turkey]]
+|-
+|    SAY || LIQS || [[Siena-Ampugnano Airport]] || [[Siena]], [[Italy]]
+|-
+|    SAZ || GLST || [[Sasstown Airport]] || [[Sasstown]], [[Liberia]]
+&lt;!-- SAZ is FAA code (not IATA) for Staples Municipal Airport in Staples, Minnesota, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SB&quot;/&gt;-SB-
+|-
+|    SBA || KSBA || [[Santa Barbara Airport|Santa Barbara Municipal Airport]] || [[Santa Barbara, California]], [[United States]]
+|-
+|    SBD ||  || [[Norton Air Force Base]] || [[San Bernardino, California]], [[United States]]
+|-
+|    SBF || OADS || [[Sardeh Band Airport]] || [[Sardeh Band]], [[Afghanistan]]
+|-
+|    SBH || TFFJ || [[Gustaf III Airport]] || [[Gustavia, Saint Barthélemy]], [[Saint Barthélemy]]
+|-
+|    SBI || GUSB || [[Sambailo Airport]] || [[Koundara]], [[Guinea]]
+|-
+|    SBK || LFRT || [[Saint-Brieuc - Armor Airport]] || [[Saint-Brieuc]], [[France]]
+|-
+|    SBL || SLSA || [[Santa Ana del Yacuma Airport]] || [[Santa Ana del Yacuma]], [[Bolivia]]
+|-
+|    SBM || KSBM || [[Sheboygan County Memorial Airport]] || [[Sheboygan, Wisconsin]], [[United States]]
+|-
+|    SBN || KSBN || [[South Bend Regional Airport]] || [[South Bend, Indiana]], [[United States]]
+|-
+|    SBO ||      || [[Salina-Gunnison Airport]] (FAA: 44U) || [[Salina, Utah]], [[United States]]
+&lt;!-- SBO is FAA code (not IATA) for Emanuel County Airport in Swainsboro, Georgia, United States --&gt;
+|-
+|    SBP || KSBP || [[San Luis Obispo County Regional Airport]] || [[San Luis Obispo, California]], [[United States]]
+|-
+|    SBS || KSBS || [[Steamboat Springs Airport]] (Bob Adams Field) || [[Steamboat Springs, Colorado]], [[United States]]
+|-
+|    SBT || KSBD || [[San Bernardino International Airport]] || [[San Bernardino, California]], [[United States]]
+|-
+|    SBU || FASB || [[Springbok Airport]] || [[Springbok, Northern Cape|Springbok]], [[South Africa]]
+&lt;!-- SBU is FAA code (not IATA) for Blue Earth Municipal Airport in Blue Earth, Minnesota, United States --&gt;
+|-
+|    SBW ||      || [[Sibu Airport]] || [[Sibu]], [[Malaysia]]
+|-
+|    SBX || KSBX || [[Shelby Airport]] || [[Shelby, Montana]], [[United States]]
+|-
+|    SBY || KSBY || [[Salisbury-Ocean City Wicomico Regional Airport]] || [[Salisbury, Maryland]], [[United States]]
+|-
+|    SBZ || LRSB || [[Sibiu International Airport]] || [[Sibiu]], [[Romania]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SC&quot;/&gt;-SC-
+|-
+|    SCB || KSCB || [[Scribner State Airport]] || [[Scribner, Nebraska]], [[United States]]
+|-
+|    SCC || PASC || [[Deadhorse Airport]] || [[Deadhorse, Alaska]], [[United States]]
+|-
+|    SCD ||      || [[Sulaco Airport]] || [[Sulaco, Honduras|Sulaco]], [[Honduras]]
+|-
+|    SCE || KUNV || [[University Park Airport]] (FAA: UNV) || [[State College, Pennsylvania]], [[United States]]
+|-
+|    SCF || KSDL || [[Scottsdale Airport]] (FAA: SDL) || [[Scottsdale, Arizona]], [[United States]]
+|-
+|    SCH || KSCH || [[Schenectady County Airport]] || [[Schenectady, New York]], [[United States]]
+|-
+|    SCK || KSCK || [[Stockton Metropolitan Airport]] || [[Stockton, California]], [[United States]]
+|-
+|    SCL || SCEL || [[Comodoro Arturo Merino Benítez International Airport]] || [[Santiago, Chile|Santiago]], [[Chile]]
+|-
+|    SCM ||      || [[Scammon Bay Airport]] || [[Scammon Bay, Alaska]], [[United States]]
+|-
+|    SCN || EDDR || [[Saarbrücken Airport]] || [[Saarbrücken]], [[Germany]]
+|-
+|    SCO || UATE || [[Shevchenko Airport|Aktau Airport]] || [[Aktau]], [[Kazakhstan]]
+|-
+|    SCQ || LEST || [[Santiago de Compostela Airport]] || [[Santiago de Compostela]], [[Spain]]
+|-
+|    SCS || EGPM || [[Scatsta Airport]] || [[Shetland Islands]], [[Scotland]], [[United Kingdom]]
+|-
+|    SCU || MUCU || [[Antonio Maceo Airport|Antonio Maceo International Airport]] || [[Santiago de Cuba|Santiago]], [[Cuba]]
+|-
+|    SCV || LRSV || [[Suceava Airport]] || [[Suceava]], [[Romania]]
+|-
+|    SCW || UUYY || [[Syktyvkar Airport]] || [[Syktyvkar]], [[Komi Republic]], [[Russia]]
+|-
+|    SCX || MM57 || [[Salina Cruz Airport]] (NAS Salina Cruz) || [[Salina Cruz]], [[Oaxaca]], [[Mexico]]
+|-
+|    SCY || SEST || [[San Cristóbal Airport]] || [[San Cristóbal Island]], [[Galápagos Islands]], [[Ecuador]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SD&quot;/&gt;-SD-
+|-
+|    SDA || ORBI || [[Baghdad International Airport]] (formerly ORBS/Saddam Int'l) || [[Baghdad]], [[Iraq]]
+&lt;!-- SDA is FAA code (not IATA) for Shenandoah Municipal Airport in Shenandoah, Iowa, United States --&gt;
+|-
+|    SDC || SCEL || [[Sandcreek Airport]] || [[Sandcreek Village]], [[Guyana]]
+|-
+|    SDD || FNUB || [[Lubango Airport]] || [[Lubango]], [[Angola]]
+|-
+|    SDE || SANE || [[Vicecomodoro Ángel de la Paz Aragonés Airport]] || [[Santiago del Estero]], [[Argentina]]
+|-
+|    SDF || KSDF || [[Louisville International Airport]] (Standiford Field) || [[Louisville, Kentucky]], [[United States]]
+|-
+|    SDJ || RJSS || [[Sendai Airport]] || [[Natori, Miyagi|Natori]], [[Japan]]
+|-
+|    SDK || WBKS || [[Sandakan Airport]] || [[Sandakan]], [[Malaysia]]
+|-
+|    SDL || ESNN || [[Sundsvall-Härnösand Airport]] (Midlanda Airport) || [[Sundsvall]], [[Sweden]]
+|-
+|    SDM || KSDM || [[Brown Field Municipal Airport]] || [[San Diego, California]], [[United States]]
+|-
+|    SDN || ENSD || [[Sandane Airport, Anda]] || [[Gloppen]], [[Sogn og Fjordane]], [[Norway]]
+|-
+|    SDP || PASD || [[Sand Point Airport]] || [[Sand Point, Alaska]], [[United States]]
+|-
+|    SDQ || MDSD || [[Las Américas International Airport]] || [[Punta Caucedo]] (near [[Santo Domingo]]), [[Dominican Republic]]
+|-
+|    SDR || LEXJ || [[Santander Airport|Santander - Parayas Airport]] || [[Santander, Cantabria]], [[Spain]]
+|-
+|    SDU || SBRJ || [[Santos Dumont Airport]] || [[Rio de Janeiro]], [[Brazil]]
+|-
+|    SDV || LLSD || [[Sde Dov Airport]] || [[Tel Aviv]], [[Israel]]
+|-
+|    SDX || KSEZ || [[Sedona Airport]] (FAA: SEZ) || [[Sedona, Arizona]], [[United States]]
+|-
+|    SDY || KSDY || [[Sidney-Richland Municipal Airport]] || [[Sidney, Montana]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SE&quot;/&gt;-SE-
+|-
+|    SEA || KSEA || [[Seattle–Tacoma International Airport]] || [[SeaTac, Washington|SeaTac]] (near [[Seattle, Washington|Seattle]] and [[Tacoma, Washington|Tacoma]]), [[Washington (U.S. state)|Washington]], [[United States]]
+|-
+|    SEE || KSEE || [[Gillespie Field]] || [[San Diego, California|San Diego]] / [[El Cajon, California]], [[United States]]
+|-
+|    SEF || KSEF || [[Sebring Regional Airport]] || [[Sebring, Florida]], [[United States]]
+|-
+|    SEG || KSEG || [[Penn Valley Airport]] || [[Selinsgrove, Pennsylvania]], [[United States]]
+|-
+|    SEH ||      || [[Senggeh Airport]] || [[Senggeh]], [[Indonesia]]
+|-
+|    SEK ||      || [[Srednekolymsk Airport]] || [[Srednekolymsk]], [[Sakha Republic]], [[Russia]]
+|-
+|    SEL ||      || All Airports (code was used in [[Gimpo International Airport]]) || [[Seoul]], [[South Korea]]
+|-
+|    SEM || KSEM || [[Craig Field (Alabama)|Craig Field]] || [[Selma, Alabama]], [[United States]]
+|-
+|    SEN || EGMC || [[London Southend Airport]] || [[Southend]], [[Essex]] (near [[London]]) [[United Kingdom]]
+|-
+|    SEP || KSEP || [[Clark Field Municipal Airport]] || [[Stephenville, Texas]], [[United States]]
+|-
+|    SEQ || WIBS || [[Sungai Pakning Bengkalis Airport]] || [[Sungai Pakning Bengkalis]], [[Indonesia]]
+&lt;!-- SEQ is FAA code (not IATA) for Randolph AFB Auxiliary Field in Seguin, Texas, United States --&gt;
+|-
+|    SER || KSER || [[Freeman Municipal Airport]] || [[Seymour, Indiana]], [[United States]]
+|-
+|    SET ||      || [[San Esteban Airport]] || [[San Esteban, Honduras|San Esteban]], [[Honduras]]
+&lt;!-- SET is FAA code (not IATA) for St. Charles County Smartt Airport in St. Charles, Missouri, United States --&gt;
+|-
+|    SEX || ETAS || [[Sembach Air Base]] || [[Sembach]], [[Germany]]
+|-
+|    SEY || GQNS || [[Sélibaby Airport]] || [[Sélibaby]], [[Mauritania]]
+|-
+|    SEZ || FSIA || [[Seychelles International Airport]] || [[Mahé, Seychelles|Mahé]], [[Seychelles]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SF&quot;/&gt;-SF-
+|-
+|    SFA || DTTX || [[Thyna/El Maou Airport]] || [[Sfax]], [[Tunisia]]
+|-
+|    SFB || KSFB || [[Orlando Sanford International Airport]] || [[Sanford, Florida]] (near [[Orlando, Florida|Orlando]]), [[United States]]
+|-
+|    SFD || SVSR || [[Las Flecheras Airport]] || [[San Fernando de Apure]], [[Venezuela]]
+&lt;!-- SFD is former FAA code (not IATA) for Winner Regional Airport (Bob Wiley Field) in Winner, South Dakota, United States --&gt;
+|-
+|    SFE || RPUS || [[San Fernando Airport (Philippines)|San Fernando Airport]] || [[San Fernando City, La Union|San Fernando City]], [[La Union]], [[Philippines]]
+|-
+|    SFF || KSFF || [[Felts Field]] || [[Spokane, Washington]], [[United States]]
+|-
+|    SFH || MMSF || [[San Felipe International Airport]] || [[San Felipe, Baja California|San Felipe]], [[Baja California]], [[Mexico]]
+|-
+|    SFJ || BGSF || [[Kangerlussuaq Airport]] || [[Kangerlussuaq]], [[Greenland]]
+|-
+|    SFL || GVSF || [[São Filipe Airport]] || [[Fogo, Cape Verde|Fogo]], [[Cape Verde]]
+|-
+|    SFM || KSFM || [[Sanford Seacoast Regional Airport]] || [[Sanford, Maine]], [[United States]]
+|-
+|    SFO || KSFO || [[San Francisco International Airport]] || [[San Francisco, California]], [[United States]]
+|-
+|    SFQ || LTCH || [[Sanliurfa Airport]] (closed 2007; → GNY) || [[Sanliurfa]], [[Turkey]]
+&lt;!-- SFQ is FAA code (not IATA) for Suffolk Executive Airport in Suffolk, Virginia, United States --&gt;
+|-
+|    SFS || RPLB || [[Subic Bay International Airport]] || [[Morong, Bataan|Morong]], [[Bataan]], [[Philippines]]
+|-
+|    SFT || ESNS || [[Skellefteå Airport]] || [[Skellefteå]], [[Skellefteå]], [[Sweden]]
+&lt;!-- SFY is FAA code (not IATA) for Tri-Township Airport in Savanna, Illinois, United States --&gt;
+|-
+|    SFZ || KSFZ || [[North Central State Airport]] || [[Pawtucket, Rhode Island]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SG&quot;/&gt;-SG-
+|-
+|    SGA || OASN || [[Sheghnan Airport]] || [[Sheghnan]], [[Afghanistan]]
+|-
+|    SGC || USRR || [[Surgut Airport]] || [[Surgut]], [[Russia]]
+|-
+|    SGD || EKSB || [[Sønderborg Airport]] || [[Sønderborg]], [[Denmark]]
+|-
+|    SGE || EDGS || [[Siegerland Airport]] || [[Burbach, North Rhine-Westphalia|Burbach]], [[Germany]]
+|-
+|    SGF || KSGF || [[Springfield-Branson National Airport]] || [[Springfield, Missouri]], [[United States]]
+|-
+|    SGG || BGSG || [[Sermiligaaq Heliport]] || [[Sermiligaaq]], [[Greenland]]
+|-
+|    SGH || KSGH || [[Springfield-Beckley Municipal Airport]] || [[Springfield, Ohio]], [[United States]]
+|-
+|    SGK ||      || [[Sangapi Airport]] || [[Sangapi]], [[Papua New Guinea]]
+|-
+|    SGL || RPLS || [[Danilo Atienza Air Base|Danilo Atienza (Sangley Point) Air Base]] || [[Cavite City]], [[Cavite]], [[Philippines]]
+|-
+|    SGN || VVTS || [[Tan Son Nhat International Airport]] || [[Ho Chi Minh City]], [[Vietnam]]
+|-
+|    SGR || KSGR || [[Sugar Land Regional Airport]] || [[Sugar Land, Texas]] (near [[Houston, Texas|Houston]]), [[United States]]
+&lt;!-- SGS is FAA code (not IATA) for South St. Paul Municipal Airport (Richard E. Fleming Field) in South St. Paul, Minnesota, United States --&gt;
+|-
+|    SGT || KSGT || [[Stuttgart Municipal Airport]] || [[Stuttgart, Arkansas]], [[United States]]
+|-
+|    SGU || KSGU || [[St. George Municipal Airport (1972-2010)|St. George Municipal Airport]] || [[St. George, Utah]], [[United States]]
+|-
+|    SGY || PAGY || [[Skagway Airport]] || [[Skagway, Alaska]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SH&quot;/&gt;-SH-
+|-
+|    SHA || ZSSS || [[Shanghai Hongqiao International Airport]] || [[Shanghai]], [[China]]
+|-
+|    SHB || RJCN || [[Nakashibetsu Airport]] || [[Nakashibetsu]], [[Japan]]
+|-
+|    SHD || KSHD || [[Shenandoah Valley Regional Airport]] || [[Staunton, Virginia|Staunton]] / [[Waynesboro, Virginia|Waynesboro]] / [[Harrisonburg, Virginia]], [[United States]]
+|-
+|    SHE || ZYTX || [[Shenyang Taoxian International Airport]] || [[Shenyang]], [[China]]
+|-
+|    SHG || PAHG || [[Shungnak Airport]] || [[Shungnak, Alaska]], [[United States]]
+|-
+|    SHH || PASH || [[Shishmaref Airport]] || [[Shishmaref, Alaska]], [[United States]]
+|-
+|    SHI || RORS || [[Shimojishima Airport]] || [[Shimojishima]], [[Japan]]
+|-
+|    SHJ || OMSJ || [[Sharjah International Airport]] || [[Sharjah (city)|Sharjah]], [[United Arab Emirates]]
+|-
+|    SHL || VEBI || [[Barapani Airport]] || [[Shillong]], [[India]]
+&lt;!-- SHL is FAA code (not IATA) for Sheldon Municipal Airport in Sheldon, Iowa, United States --&gt;
+|-
+|    SHM || RJBD || [[Nanki-Shirahama Airport]] || [[Shirahama]], [[Japan]]
+|-
+|    SHN || KSHN || [[Sanderson Field]] || [[Shelton, Washington]], [[United States]]
+|-
+|    SHO || RKND || [[Sokcho Airport]] || [[Sokcho]], [[South Korea]]
+|-
+|    SHP || ZBSH || [[Qinhuangdao Shanhaiguan Airport]] || [[Qinhuangdao]], [[Hebei province|Hebei]], [[China]]
+|- 
+|    SHR || KSHR || [[Sheridan County Airport]] || [[Sheridan, Wyoming]], [[United States]]
+|- 
+|    SHS || ZHSS || [[Shashi Airport]] || [[Jingzhou]], [[Hubei]], [[China]]
+|-
+|    SHT || YSHT || [[Shepparton Airport]] || [[Shepparton]], [[Victoria (Australia)|Victoria]], [[Australia]]
+|-
+|    SHV || KSHV || [[Shreveport Regional Airport]] || [[Shreveport, Louisiana]], [[United States]]
+|-
+|    SHX || PAHX || [[Shageluk Airport]] || [[Shageluk, Alaska]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SI&quot;/&gt;-SI-
+|-
+|    SIA || ZLSN || [[Xi'an Xiguan Airport|Xiguan Airport]] || [[Xi'an]], [[Shaanxi]], [[China]]
+|-
+|    SID || GVAC || [[Amilcar Cabral International Airport]] || [[Sal Island]], [[Cape Verde]]
+|-
+|    SIG || TJIG || [[Fernando Luis Ribas Dominicci Airport]] || [[San Juan, Puerto Rico|San Juan]], [[Puerto Rico]]
+|-
+|    SII || GMMF || [[Sania Ramel Airport]] || [[Sidi Ifni]], [[Morocco]]
+|-
+|    SIJ || BISI || [[Siglufjörður Airport]] || [[Siglufjörður]], [[Iceland]]
+|-
+|    SIK || KSIK || [[Sikeston Memorial Municipal Airport]] || [[Sikeston, Missouri]], [[United States]]
+|-
+|    SIN || WSSS || [[Singapore Changi Airport]] || [[Changi]], [[Singapore]]
+|-
+|    SIO || YSMI || [[Smithton Airport]] || [[Smithton, Tasmania]], [[Australia]]
+|-
+|    SIP || UKFF || [[Simferopol International Airport]] || [[Simferopol]], [[Ukraine]]
+|-
+|    SIR || LSGS || [[Sion Airport]] || [[Sion, Switzerland|Sion]], [[Switzerland]]
+|-
+|    SIS || FASS || [[Sishen Airport]] || [[Sishen, Northern Cape]], [[South Africa]]
+|-
+|    SIT || PASI || [[Sitka Rocky Gutierrez Airport]] || [[Sitka, Alaska]], [[United States]]
+|-
+|    SIU || MNSI || [[Siuna Airport]] || [[Siuna]], [[Nicaragua]]
+|-
+|    SIV || KSIV || [[Sullivan County Airport]] || [[Sullivan, Indiana]], [[United States]]
+|-
+|    SIY || KSIY || [[Siskiyou County Airport]] || [[Montague, California]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SJ&quot;/&gt;-SJ-
+|-
+|    SJC || KSJC || [[San Jose International Airport]] || [[San Jose, California]], [[United States]]
+|-
+|    SJD || MMSD || [[Los Cabos International Airport]] || [[Los Cabos]], [[Mexico]]
+|-
+|    SJE || SKSJ || [[Jorge Enrique González Airport]] || [[San José del Guaviare]], [[Colombia]]
+|-
+|    SJI || RPUH || [[San Jose Airport (Mindoro)|San Jose Airport]] || [[San Jose, Occidental Mindoro|San Jose]], [[Occidental Mindoro]], [[Philippines]]
+|-
+|    SJJ || LQSA || [[Sarajevo International Airport]] || [[Sarajevo]], [[Bosnia and Herzegovina]]
+|-
+|    SJK || SBSJ || [[São José dos Campos Regional Airport]] || [[São José dos Campos]], [[Brazil]]
+|-
+|    SJN || KSJN || [[St. Johns Industrial Air Park]] || [[St. Johns, Arizona]], [[United States]]
+|-
+|    SJO || MROC || [[Juan Santamaría International Airport]] || [[San José, Costa Rica|San José]], [[Costa Rica]]
+|-
+|    SJP || SBSR || [[Prof. Eribelto Manoel Reino State Airport]] || [[São José do Rio Preto]], [[Brazil]]
+|-
+|    SJT || KSJT || [[San Angelo Regional Airport]] (Mathis Field) || [[San Angelo, Texas]], [[United States]]
+|-
+|    SJU || TJSJ || [[Luis Muñoz Marín International Airport]] || [[San Juan, Puerto Rico|San Juan]], [[Puerto Rico]]
+|-
+|    SJW || ZBSJ || [[Shijiazhuang Zhengding International Airport]] || [[Shijiazhuang]], [[China]]
+|-
+|    SJX ||      || [[Sartaneja Airport]] || [[Sarteneja]], [[Belize]]
+&lt;!-- SJX is FAA code (not IATA) for Beaver Island Airport in Beaver Island, Michigan, United States --&gt;
+|-
+|    SJY || EFSI || [[Seinäjoki Airport]] || [[Seinäjoki]], [[Finland]]
+|-
+|    SJZ || LPSJ || [[São Jorge Airport]] || [[Azores]], [[Portugal]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SK&quot;/&gt;-SK-
+|-
+|    SKA || KSKA || [[Fairchild Air Force Base]] || [[Spokane, Washington]], [[United States]]
+|-
+|    SKB || TKPK || [[Robert L. Bradshaw International Airport]] || [[Basseterre]], [[Saint Kitts and Nevis]]
+|-
+|    SKE || ENSN || [[Skien Airport, Geiteryggen]] || [[Skien]], [[Telemark]], [[Norway]]
+|-
+|    SKF || KSKF || [[Lackland Air Force Base]] / [[Kelly Field Annex]] || [[San Antonio, Texas]], [[United States]]
+|-
+|    SKG || LGTS || [[Makedonia Airport]] || [[Thessaloniki]], [[Greece]]
+|-
+|    SKI || DABP || [[Skikda Airport]] || [[Skikda]], [[Algeria]]
+&lt;!-- SKI is FAA code (not IATA) for Sac City Municipal Airport in Sac City, Iowa, United States --&gt;
+|-
+|    SKK || PFSH || [[Shaktoolik Airport]] (FAA: 2C7) || [[Shaktoolik, Alaska]], [[United States]]
+|-
+|    SKN || ENSK || [[Stokmarknes Airport, Skagen]] || [[Hadsel]], [[Nordland]], [[Norway]]
+|-
+|    SKP || LWSK || [[Skopje &quot;Alexander the Great&quot; Airport|Skopje Airport]] || [[Skopje]], [[Republic of Macedonia|Macedonia]]
+|-
+|    SKS || EKSP || [[Skrydstrup Airport]] || [[Vojens]], [[Denmark]]
+|-
+|    SKT || OPST || [[Sialkot International Airport]] || [[Sialkot]], [[Pakistan]]
+|-
+|    SKU || LGSY || [[Skyros Island National Airport]] || [[Skyros]], [[Greece]]
+|-
+|    SKV || HESC || [[St. Catherine International Airport]] || [[Saint Katherine city|St. Catherine]], [[Egypt]]
+|-
+|    SKW || PASW || [[Skwentna Airport]] || [[Skwentna, Alaska]], [[United States]]
+|-
+|    SKX || UWPS || [[Saransk Airport]] || [[Saransk]], [[Russia]]
+&lt;!-- SFX is FAA code (IATA: TSM) for Taos Regional Airport in Taos, New Mexico, United States --&gt;
+|-
+|    SKY || KSKY || [[Griffing Sandusky Airport]] || [[Sandusky, Ohio]], [[United States]]
+|-
+|    SKZ || OPSK || [[Sukkur Airport]] || [[Sukkur]], [[Pakistan]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SL&quot;/&gt;-SL-
+|-
+|    SLA || SASA || [[Martín Miguel de Güemes International Airport]] || [[Salta]], [[Salta Province]], [[Argentina]]
+|-
+|    SLB || KSLB || [[Storm Lake Municipal Airport]] || [[Storm Lake, Iowa]], [[United States]]
+|-
+|    SLC || KSLC || [[Salt Lake City International Airport]] || [[Salt Lake City, Utah]], [[United States]]
+|-
+|    SLD || LZSL || [[Sliač Airport]] || [[Sliač]], [[Slovakia]]
+|-
+|    SLE || KSLE || [[McNary Field]] || [[Salem, Oregon]], [[United States]]
+|-
+|    SLG || KSLG || [[Smith Field (Arkansas)|Smith Field]] || [[Siloam Springs, Arkansas]], [[United States]]
+|-
+|    SLH || NVSC || [[Vanua Lava Airport|Sola Airport]] || [[Sola, Vanuatu|Sola]], [[Vanua Lava]], [[Torba Province]], [[Vanuatu]]
+&lt;!-- SLH is FAA code (not IATA) for Cheboygan County Airport in Cheboygan, Michigan, United States --&gt;
+|-
+|    SLI || FLSW || [[Solwezi Airport]] || [[Solwezi]], [[Zambia]]
+&lt;!-- SLI is FAA code (not IATA) for Los Alamitos Army Airfield in Los Alamitos, California, United States --&gt;
+|-
+|    SLJ || YSOL || [[Solomon Airport (Western Australia) |Solomon Airport]] || [[Karijini National Park]], [[Western Australia]], [[Australia]]
+&lt;!-- SLJ is not the IATA of [[Stellar Airpark]] (FAA: P19), [[Chandler, Arizona]], [[United States]] --&gt;
+&lt;!-- SLJ is FAA code (not IATA) for Hagler Army Airfield in Camp Shelby, Mississippi, United States --&gt;
+|-
+|    SLK || KSLK || [[Adirondack Regional Airport]] || [[Saranac Lake, New York]], [[United States]]
+|-
+|    SLL || OOSA || [[Salalah Airport]] || [[Salalah]], [[Oman]]
+|-
+|    SLM || LESA || [[Matacán Airport]] || [[Salamanca]], [[Spain]]
+|-
+|    SLN || KSLN || [[Salina Municipal Airport]] || [[Salina, Kansas]], [[United States]]
+|-
+|    SLO || KSLO || [[Salem-Leckrone Airport]] || [[Salem, Illinois]], [[United States]]
+|-
+|    SLP || MMSP || [[Ponciano Arriaga International Airport]] || [[San Luis Potosí, San Luis Potosí]], [[México]]
+|-
+|    SLQ || PASL || [[Sleetmute Airport]] || [[Sleetmute, Alaska]], [[United States]]
+|-
+|    SLR || KSLR || [[Sulphur Springs Municipal Airport]] || [[Sulphur Springs, Texas]], [[United States]]
+|-
+|    SLS || LBSS || [[Silistra Airport]] || [[Silistra]], [[Bulgaria]]
+|-
+|    SLT || KANK || [[Harriet Alexander Field]] (FAA: ANK) || [[Salida, Colorado]], [[United States]]
+|-
+|    SLU || TLPC || [[George F. L. Charles Airport]] || [[Castries]], [[Saint Lucia]]
+|-
+|    SLV || VISM || [[Shimla Airport]] || [[Shimla|Simla]], [[Himachal Pradesh]], [[India]]
+|-
+|    SLW || MMIO || [[Plan de Guadalupe International Airport]] || [[Saltillo]], [[Mexico]]
+|-
+|    SLY || USDD || [[Salekhard Airport]] || [[Salekhard]], [[Russia]]
+|-
+|    SLZ || SBSL || [[Marechal Cunha Machado International Airport]] || [[São Luís, Maranhão|São Luís]], [[Brazil]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SM&quot;/&gt;-SM-
+|-
+|    SMA || LPAZ || [[Santa Maria Airport (Azores)|Santa Maria Airport]] || [[Santa Maria Island (Azores)|Santa Maria]], [[Portugal]]
+|-
+|    SMD || KSMD || [[Smith Field (Indiana)|Smith Field]] || [[Fort Wayne, Indiana]], [[United States]]
+|-
+|    SME || KSME || [[Lake Cumberland Regional Airport]] (J.T. Wilson Field) || [[Somerset, Kentucky]], [[United States]]
+|-
+|    SMF || KSMF || [[Sacramento International Airport]] || [[Sacramento, California]], [[United States]]
+|-
+|    SMH || AYSP || [[Sapmanga Airport]] || [[Sapmanga]], [[Papua New Guinea]]
+|-
+|    SMI || LGSM || [[Samos International Airport]] &quot;Aristarchos of Samos&quot; || [[Samos Island]], [[Greece]]
+|-
+|    SMK || PAMK || [[St. Michael Airport]] || [[St. Michael, Alaska]], [[United States]]
+|-
+|    SMM || WBKA || [[Semporna Airport]] || [[Sabah]], [[Malaysia]]
+|-
+|    SMN || KSMN || [[Lemhi County Airport]] || [[Salmon, Idaho]], [[United States]]
+|-
+|    SMO || KSMO || [[Santa Monica Municipal Airport]] || [[Santa Monica, California]], [[United States]]
+|-
+|    SMQ || WAOS || [[Sampit Airport]] || [[Sampit]], [[Central Kalimantan]] ([[Borneo]]), [[Indonesia]]
+&lt;!-- SMQ is FAA code (not IATA) for Somerset Airport in Somerville, New Jersey, United States --&gt;
+|-
+|    SMR || SKSM || [[Simón Bolívar International Airport (Colombia)|Simón Bolívar International Airport]] || [[Santa Marta]], [[Colombia]]
+|-
+|    SMS || FMMS || [[Sainte Marie Airport]] || [[Île Sainte-Marie]], [[Madagascar]]
+&lt;!-- SMS is FAA code (IATA: SUM) for Sumter Airport in Sumter, South Carolina, United States --&gt;
+|-
+|    SMU || PASP || [[Sheep Mountain Airport]] || [[Sheep Mountain, Alaska|Sheep Mountain]], [[Alaska]], [[United States]]
+|-
+|    SMV || LSZS || [[Samedan Airport]] (Engadin Airport) || [[St. Moritz]] / [[Samedan]], [[Switzerland]]
+|-
+|    SMX || KSMX || [[Santa Maria Public Airport]] (Capt. G. Allan Hancock Field) || [[Santa Maria, California]], [[United States]]
+|-
+|    SMY || GOTS || [[Simenti Airport]] || [[Simenti]], [[Senegal]]
+|-
+|    SMZ || SMST || [[Stoelmans Eiland Airport]] || [[Stoelmans Eiland]], [[Suriname]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SN&quot;/&gt;-SN-
+|-
+|    SNA || KSNA || [[John Wayne Airport]] (Orange County Airport) || [[Santa Ana, California]], [[United States]]
+|-
+|    SNB || YSNB || [[Snake Bay Airport]] || [[Milikapiti, Northern Territory|Milikapiti]], [[Melville Island, Northern Territory]], [[Australia]]
+|-
+|    SNC || SESA || [[General Ulpiano Paez Airport]] || [[Salinas (canton seat)|Salinas]], [[Ecuador]]
+&lt;!-- SNC is FAA code (not IATA) for Chester Airport in Chester, Connecticut, United States --&gt;
+|-
+|    SNE || GVSN || [[Preguiça Airport]] || [[São Nicolau, Cape Verde|São Nicolau]], [[Cape Verde]]
+|-
+|    SNH || YSPE || [[Stanthorpe Airport]] || [[Stanthorpe, Queensland]], [[Australia]]
+&lt;!-- SNH is FAA code (not IATA) for Savannah-Hardin County Airport in Savannah, Tennessee, United States --&gt;
+|-
+|    SNI || GLGE || [[Greenville/Sinoe Airport]] || [[Greenville, Liberia|Greenville]], [[Liberia]]
+|-
+|    SNK || KSNK || [[Winston Field]] || [[Snyder, Texas]], [[United States]]
+|-
+|    SNL || KSNL || [[Shawnee Regional Airport]] || [[Shawnee, Oklahoma]], [[United States]]
+|-
+|    SNN || EINN || [[Shannon International Airport]] || [[Shannon Town|Shannon]] ([[County Clare]]), [[Republic of Ireland|Ireland]]
+|-
+|    SNP || PASN || [[St. Paul Island Airport]] || [[St. Paul Island, Alaska]], [[United States]]
+|-
+|    SNR || LFRZ || [[Saint-Nazaire Montoir Airport]] || [[Saint-Nazaire]], [[France]]
+|-
+|    SNS || KSNS || [[Salinas Municipal Airport]] || [[Salinas, California]], [[United States]]
+|-
+|    SNU || MUSC || [[Abel Santamaría Airport]] || [[Santa Clara, Cuba|Santa Clara]], [[Cuba]]
+|-
+|    SNY || KSNY || [[Sidney Municipal Airport (Nebraska)|Sidney Municipal Airport]] (Lloyd W. Carr Field) || [[Sidney, Nebraska]], [[United States]]
+|-
+|    SNZ || SBSC || [[Santa Cruz Air Force Base]] || [[Santa Cruz, Rio de Janeiro|Santa Cruz]], [[Rio de Janeiro]], [[Brazil]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SO&quot;/&gt;-SO-
+&lt;!-- SOA is FAA code (not IATA) for Sonora Municipal Airport in Sonora, Texas, United States --&gt;
+|-
+|    SOB || LHSM || [[Sármellék International Airport]] || [[Sármellék]], [[Hungary]]
+|-
+|    SOC || WARQ || [[Adi Soemarmo International Airport]] || [[Solo City]], [[Indonesia]]
+|-
+|    SOD || SDCO || [[Sorocaba Airport]] || [[Sorocaba]], [[São Paulo (state)|São Paulo]], [[Brazil]]
+|-
+|    SOF || LBSF || [[Sofia Airport]] || [[Sofia]], [[Bulgaria]]
+|-
+|    SOG || ENSG || [[Sogndal Airport, Haukåsen]] || [[Sogndal]], [[Norway]]
+|-
+|    SOJ || ENSR || [[Sørkjosen Airport]] || [[Sørkjosen]], [[Norway]]
+|-
+|    SOK || FXSM || [[Semonkong Airport]] || [[Semonkong]], [[Lesotho]]
+|-
+|    SOM || SVST || [[San Tomé Airport]] || [[San Tomé, Venezuela|San Tomé]], [[Venezuela]]
+|-
+|    SON || NVSS || [[Santo-Pekoa International Airport]] || [[Luganville]], [[Vanuatu]]
+|-
+|    SOP || KSOP || [[Moore County Airport (North Carolina)|Moore County Airport]] || [[Pinehurst, North Carolina|Pinehurst]] / [[Southern Pines, North Carolina]], [[United States]]
+|-
+|    SOS || RPSN || [[Sayak Airport|Sayak (Siargao) Airport]] || [[Del Carmen]], [[Surigao del Norte]], [[Philippines]]
+|-
+|    SOU || EGHI || [[Southampton Airport]] || [[Eastleigh]] (near [[Southampton]]), [[England]], [[United Kingdom]]
+|-
+|    SOV || PASO || [[Seldovia Airport]] || [[Seldovia, Alaska]], [[United States]]
+|-
+|    SOW || KSOW || [[Show Low Regional Airport]] || [[Show Low, Arizona]], [[United States]]
+|-
+|    SOY || EGER || [[Stronsay Airport]] || [[Stronsay]], [[Scotland]], [[United Kingdom]]
+&lt;!-- SOY is FAA code (not IATA) for Sioux Center Municipal Airport in Sioux Center, Iowa, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SP&quot;/&gt;-SP-
+|-
+|    SPA || KSPA || [[Spartanburg Downtown Memorial Airport]] || [[Spartanburg, South Carolina]], [[United States]]
+|-
+|    SPB ||      || [[Charlotte Amalie Harbor Seaplane Base]] (St. Thomas Seaplane Base) (FAA: VI22) || [[Charlotte Amalie, United States Virgin Islands|Charlotte Amalie]], [[St. Thomas, U.S. Virgin Islands|Saint Thomas]], [[U.S. Virgin Islands]]
+|-
+|    SPC || GCLA || [[La Palma Airport]] || [[La Palma]], [[Canary Islands]], [[Spain]]
+|-
+|    SPD || VGSD || [[Saidpur Airport]] || [[Saidpur, Rajshahi Division|Saidpur]], [[Bangladesh]]
+|-
+|    SPF || KSPF || [[Black Hills Airport]] (Clyde Ice Field) || [[Spearfish, South Dakota]], [[United States]]
+|-
+|    SPG || KSPG || [[Albert Whitted Airport]] || [[St. Petersburg, Florida]], [[United States]]
+|-
+|    SPH ||      || [[Sopu Airport]] || [[Sopu]], [[Papua New Guinea]]
+&lt;!-- SPH is FAA code (not IATA) for Springhill Airport in Springhill, Louisiana, United States --&gt;
+|-
+|    SPI || KSPI || [[Abraham Lincoln Capital Airport]] || [[Springfield, Illinois]], [[United States]]
+|-
+|    SPJ || LGSP || [[Sparti Airport]] || [[Sparti (municipality)|Sparti]], [[Laconia]], [[Greece]]
+|-
+|    SPK ||      || All Airports || [[Sapporo]], [[Japan]]
+|-
+|    SPM || ETAD || [[Spangdahlem Air Base]] || [[Spangdahlem]], [[Germany]]
+|-
+|    SPN || PGSN || [[Saipan International Airport]] (Francisco C. Ada) (FAA: GSN) || [[Saipan Island]], [[Northern Mariana Islands]]
+|-
+|    SPR ||      || [[San Pedro Airport]] || [[San Pedro Town|San Pedro]], [[Belize]]
+|-
+|    SPS || KSPS || [[Sheppard AFB]] / [[Wichita Falls Municipal Airport]] || [[Wichita Falls, Texas]], [[United States]]
+|-
+|    SPU || LDSP || [[Split Airport]] || [[Split, Croatia|Split]], [[Croatia]]
+|-
+|    SPW || KSPW || [[Spencer Municipal Airport]] || [[Spencer, Iowa]], [[United States]]
+|-
+|    SPZ || KASG || [[Springdale Municipal Airport]] (FAA: ASG) || [[Springdale, Arkansas]], [[United States]]
+&lt;!-- SPZ is FAA code (not IATA) for Silver Springs Airport in Silver Springs, Nevada, United States --&gt;
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SQ&quot;/&gt;-SQ-
+|-
+|    SQA || KIZA || [[Santa Ynez Airport]] (FAA: IZA) || [[Santa Ynez, California]], [[United States]]
+|-
+|    SQI || KSQI || [[Whiteside County Airport]] (Jos. H. Bittorf Field) || [[Sterling, Illinois|Sterling]] / [[Rock Falls, Illinois]], [[United States]]
+|-
+|    SQL || KSQL || [[San Carlos Airport (California)|San Carlos Airport]] || [[San Carlos, California]], [[United States]]
+|-
+|    SQQ || EYSA || [[Šiauliai International Airport]] || [[Šiauliai]], [[Lithuania]]
+|-
+|    SQR || WAWS || [[Soroako Airport]] || [[Soroako]], [[Indonesia]]
+|-
+|    SQV ||      || [[Sequim Valley Airport]] (FAA: W28) || [[Sequim, Washington]], [[United States]]
+|-
+|    SQW || EKSV || [[Skive Airport]] || [[Skive, Denmark|Skive]], [[Denmark]]
+|-
+|    SQX || SSOE || [[São Miguel do Oeste Airport]] || [[São Miguel do Oeste]], [[Santa Catarina (state)|Santa Catarina]], [[Brazil]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SR&quot;/&gt;-SR-
+&lt;!-- SRB is FAA code (not IATA) for Upper Cumberland Regional Airport in Sparta, Tennessee, United States --&gt;
+|-
+|    SRC || KSRC || [[Searcy Municipal Airport]] || [[Searcy, Arkansas]], [[United States]]
+|-
+|    SRE || SLSU || [[Juana Azurduy de Padilla International Airport]] || [[Sucre]], [[Bolivia]]
+&lt;!-- SRE is FAA code (not IATA) for Seminole Municipal Airport in Seminole, Oklahoma, United States --&gt;
+|-
+|    SRF ||      || [[San Rafael Airport, California|San Rafael Airport]] || [[San Rafael, California]], [[United States]]
+|-
+|    SRG || WARS || [[Achmad Yani International Airport]] || [[Semarang]], [[Indonesia]]
+|-
+|    SRH || FTTA || [[Sarh Airport]] || [[Sarh]], [[Chad]]
+|-
+|    SRI || WALS || [[Temindung Airport]] (will be succeeded by [[Samarinda International Airport]]) || Sei Pinang, [[Samarinda]]
+|-
+|    SRK || BGSI || [[Siorapaluk Heliport]] || [[Siorapaluk]], [[Greenland]]
+|-
+|    SRJ || SLSB || [[Capitán Germán Quiroga Guardia Airport]] || [[San Borja, Bolivia|San Borja]], [[Bolivia]]
+|-
+|    SRP || ENSA || [[Stord Airport, Sørstokken]] || [[Stord]], [[Hordaland]], [[Norway]]
+|-
+|    SRQ || KSRQ || [[Sarasota-Bradenton International Airport]] || [[Sarasota, Florida]] (near [[Bradenton, Florida|Bradenton]]), [[United States]]
+&lt;!-- SRR is FAA code (IATA: RUI) for Sierra Blanca Regional Airport in Ruidoso, New Mexico, United States --&gt;
+|-
+|    SRT || HUSO || [[Soroti Airport]] || [[Soroti]], [[Uganda]]
+|-
+|    SRV ||      || [[Stony River 2 Airport]] || [[Stony River, Alaska]], [[United States]]
+|-
+|    SRW || KRUQ || [[Rowan County Airport]] (FAA: RUQ) || [[Salisbury, North Carolina]], [[United States]]
+|-
+|    SRX || HLGD || [[Gardabya Airport]] || [[Sirte]], [[Libya]]
+|-
+|    SRY || OINZ || [[Dasht-e Naz Airport]] || [[Sari, Iran|Sari]], [[Iran]]
+|-
+|    SRZ || SLET || [[El Trompillo Airport]] || [[Santa Cruz de la Sierra]], [[Bolivia]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SS&quot;/&gt;-SS-
+|-
+|    SSA || SBSV || [[Deputado Luís Eduardo Magalhães International Airport]] || [[Salvador, Bahia]], [[Brazil]]
+|-
+|    SSB ||      || [[Christiansted Harbor Seaplane Base]] (St. Croix Seaplane Base) (FAA: VI32) || [[Christiansted]], [[Saint Croix]], [[U.S. Virgin Islands]]
+|-
+|    SSC || KSSC || [[Shaw Air Force Base]] || [[Sumter, South Carolina]], [[United States]]
+|-
+|    SSE || VASL || [[Solapur Airport]] || [[Solapur|Sholapur]] (Solapur), [[India]]
+|-
+|    SSF || KSSF || [[Stinson Municipal Airport]] || [[San Antonio, Texas]], [[United States]]
+|-
+|    SSG || FGSL || [[Malabo International Airport]] (Saint Isabel Airport) || [[Malabo]], [[Equatorial Guinea]]
+|-
+|    SSH || HESH || [[Sharm el-Sheikh International Airport]] || [[Sharm el-Sheikh]], [[Egypt]]
+|-
+|    SSI || KSSI || [[Malcolm McKinnon Airport]] || [[Brunswick, Georgia]], [[United States]]
+|-
+|    SSJ || ENST || [[Sandnessjøen Airport, Stokka]] || [[Sandnessjøen]], [[Norway]]
+|-
+|    SSN || RKSM || [[Seoul Air Base]] || [[Seongnam]], [[South Korea]]
+|-
+|    SSQ ||      || [[La Sarre Airport]] || [[La Sarre, Quebec]], [[Canada]]
+&lt;!-- SSQ is FAA code (not IATA) for Shell Lake Municipal Airport in Shell Lake, Wisconsin, United States --&gt;
+|-
+|    SSR || NVSH || [[Sara Airport]] || [[Sara, Vanuatu|Sara]], [[Vanuatu]]
+|-
+|    SSV ||      || [[Siasi Airport]] || [[Siasi]], [[Sulu Province|Sulu]], [[Philippines]]
+|-
+|    SSX || LTAQ || [[Samsun Samair Airport]] || [[Samsun]], [[Turkey]]
+|-
+|    SSZ || SBST || [[Santos Air Base]] || [[Santos (São Paulo)|Santos]], [[Brazil]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;ST&quot;/&gt;-ST-
+|-
+|    STA || EKVJ || [[Stauning Vestjylland Airport]] || [[Skjern, Denmark|Skjern]], [[Denmark]]
+|-
+|    STB || SVSZ || [[Miguel Urdaneta Fernández Airport]] || [[Santa Bárbara del Zulia]], [[Venezuela]]
+|-
+|    STC || KSTC || [[St. Cloud Regional Airport]] || [[St. Cloud, Minnesota]], [[United States]]
+|-
+|    STD || SVSO || [[Mayor Buenaventura Vivas Airport]] || [[Santo Domingo]] (near [[San Cristóbal, Táchira]]), [[Venezuela]]
+|-
+|    STE || KSTE || [[Stevens Point Municipal Airport]] || [[Stevens Point, Wisconsin]], [[United States]]
+|-
+|    STF || YSTI || [[Stephens Island Airport]] || [[Stephens Island (Torres Strait)|Stephens Island]], [[Queensland]], [[Australia]]
+|-
+|    STG || PAPB || [[St. George Airport (Alaska)|St. George Airport]] (FAA: PBV) || [[St. George, Alaska]], [[United States]]
+|-
+|    STI || MDST || [[Cibao International Airport]] || [[Santiago de los Caballeros|Santiago]], [[Dominican Republic]]
+|-
+|    STJ || KSTJ || [[Rosecrans Memorial Airport]] || [[St. Joseph, Missouri]], [[United States]]
+|-
+|    STK || KSTK || [[Sterling Municipal Airport]] || [[Sterling, Colorado]], [[United States]]
+|-
+|    STL || KSTL || [[Lambert–St. Louis International Airport]] || [[St. Louis, Missouri]], [[United States]]
+|-
+|    STM || SBSN || [[Santarém-Maestro Wilson Fonseca Airport]] || [[Santarém, Brazil|Santarém]], [[Pará]], [[Brazil]]
+|-
+|    STN || EGSS || [[London Stansted Airport]] || [[Essex, England|Essex]] (near [[London]]), [[England]], [[United Kingdom]]
+|-
+|    STO ||      || All Airports || [[Stockholm]], [[Sweden]]
+|-
+|    STP || KSTP || [[St. Paul Downtown Airport]] (Holman Field) || [[St. Paul, Minnesota]], [[United States]]
+|-
+|    STQ || KOYM || [[St. Marys Municipal Airport]] (FAA: OYM) || [[St. Marys, Pennsylvania]], [[United States]]
+|-
+|    STR || EDDS || [[Stuttgart Airport]] || [[Stuttgart]], [[Germany]]
+|-
+|    STS || KSTS || [[Charles M. Schulz Sonoma County Airport]] || [[Santa Rosa, California]], [[United States]]
+|-
+|    STT || TIST || [[Cyril E. King Airport]] || [[Charlotte Amalie, U.S. Virgin Islands|Charlotte Amalie]], [[Saint Thomas, United States Virgin Islands|Saint Thomas]], [[United States Virgin Islands]]
+|-
+|    STU ||      || [[Santa Cruz Airport, Belize|Santa Cruz Airport]] || [[Santa Cruz, Belize|Santa Cruz]], [[Belize]]
+|-
+|    STV || VASU || [[Surat Airport]] || [[Surat]], [[Gujarat]], [[India]]
+|-
+|    STW || URMT || [[Stavropol Shpakovskoye Airport]] || [[Stavropol]], [[Russia]]
+|-
+|    STX || TISX || [[Henry E. Rohlsen Airport]] || [[Christiansted, U.S. Virgin Islands|Christiansted]], [[Saint Croix]], [[United States Virgin Islands]]
+|-
+|    STY || SUSO || [[Nueva Hesperides International Airport|Nueva Hespérides International Airport]] || [[Salto, Uruguay|Salto]], [[Salto Department|Salto]], [[Uruguay]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SU&quot;/&gt;-SU-
+|-
+|    SUA || KSUA || [[Witham Field]] || [[Stuart, Florida]], [[United States]]
+|-
+|    SUB || WARR || [[Juanda International Airport]] || [[Surabaya]], [[Indonesia]]
+|-
+|    SUD || KSUD || [[Stroud Municipal Airport]] || [[Stroud, Oklahoma]], [[United States]]
+|-
+|    SUE || KSUE || [[Door County Cherryland Airport]] || [[Sturgeon Bay, Wisconsin]], [[United States]]
+|-
+|    SUF || LICA || [[Lamezia Terme International Airport]] || [[Lamezia Terme]], [[Italy]]
+|-
+|    SUG || RPMS || [[Surigao Airport]] || [[Surigao City]], [[Surigao del Norte]], [[Philippines]]
+|-
+|    SUI || UGSS || [[Sukhumi Dranda Airport]] || [[Sukhumi]], [[Georgia (country)|Georgia]]
+|-
+|    SUJ || LRSM || [[Satu Mare International Airport]] || [[Satu Mare]], [[Romania]]
+|-
+|    SUK ||      || [[Sakkyryr Airport]] || [[Batagay-Alyta]], [[Sakha Republic]], [[Russia]]
+|-
+|    SUM || KSMS || [[Sumter Airport]] (FAA: SMS) || [[Sumter, South Carolina]], [[United States]]
+|-
+|    SUN || KSUN || [[Friedman Memorial Airport]] || [[Hailey, Idaho]], [[United States]]
+|-
+|    SUO ||      || [[Sunriver Airport]] (FAA: S21) || [[Sunriver, Oregon]], [[United States]]
+|-
+|    SUS || KSUS || [[Spirit of St. Louis Airport]] || [[Chesterfield, Missouri]], [[United States]]
+|-
+|    SUT || HTSU || [[Sumbawanga Airport]] || [[Sumbawanga]], [[Tanzania]]
+&lt;!-- SUT is FAA code (IATA: RUI) for Brunswick County Airport in Oak Island, North Carolina, United States --&gt;
+|-
+|    SUU || KSUU || [[Travis Air Force Base]] || [[Fairfield, California]], [[United States]]
+|-
+|    SUV || NFNA || [[Nausori International Airport]] || [[Suva]] / [[Nausori]], [[Viti Levu]], [[Fiji]]
+|-
+|    SUW || KSUW || [[Richard I. Bong Airport]] || [[Superior, Wisconsin]], [[United States]]
+|-
+|    SUX || KSUX || [[Sioux Gateway Airport]] (Colonel Bud Day Field) || [[Sioux City, Iowa]], [[United States]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SV&quot;/&gt;-SV-
+|-
+|    SVA || PASA || [[Savoonga Airport]] || [[Savoonga, Alaska]], [[United States]]
+|-
+|    SVC || KSVC || [[Grant County Airport (New Mexico)|Grant County Airport]] || [[Silver City, New Mexico]], [[United States]]
+|-
+|    SVD || TVSV || [[E.T. Joshua Airport]] || [[Arnos Vale, Saint Vincent and the Grenadines|Arno Vale]] (near [[Kingstown]]), [[Saint Vincent (island)|Saint Vincent]], [[Saint Vincent and the Grenadines]]
+|-
+|    SVE || KSVE || [[Susanville Municipal Airport]] || [[Susanville, California]], [[United States]]
+|-
+|    SVF || DBBS || [[Savé Airport]] || [[Savé]], [[Benin]]
+|-
+|    SVG || ENZV || [[Stavanger Airport, Sola]] || [[Stavanger]], [[Norway]]
+|-
+|    SVH || KSVH || [[Statesville Regional Airport]] || [[Statesville, North Carolina]], [[United States]]
+|-
+|    SVJ || ENSH || [[Svolvær Airport, Helle]] || [[Svolvær]], [[Norway]]
+|-
+|    SVN || KSVN || [[Hunter Army Airfield]] || [[Savannah, Georgia]], [[United States]]
+|-
+|    SVO || UUEE || [[Sheremetyevo International Airport]] || [[Moscow]], [[Russia]]
+|-
+|    SVQ || LEZL || [[San Pablo Airport]] || [[Seville]], [[Spain]]
+|-
+|    SVR || BGSV || [[Savissivik Heliport]] || [[Savissivik]], [[Greenland]]
+|-
+|    SVS ||      || [[Stevens Village Airport]] || [[Stevens Village, Alaska]], [[United States]]
+|-
+|    SVW || PASV || [[Sparrevohn LRRS Airport]] || [[Sparrevohn, Alaska|Sparrevohn]], [[Alaska]], [[United States]]
+|-
+|    SVX || USSS || [[Koltsovo International Airport]] || [[Yekaterinburg]], [[Russia]]
+|-
+|    SVZ || SVSA || [[Juan Vicente Gómez International Airport]] || [[San Antonio del Táchira]], [[Venezuela]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SW&quot;/&gt;-SW-
+|-
+|    SWA || ZGOW || [[Jieyang Chaoshan Airport]] || [[Jieyang]] / [[Shantou]] / [[Chaozhou]], [[Guangdong]], [[China]]
+|-
+|    SWD || PAWD || [[Seward Airport]] || [[Seward, Alaska]], [[United States]]
+|-
+|    SWF || KSWF || [[Stewart International Airport]] || [[Newburgh, New York]], [[United States]]
+|-
+|    SWI ||      || [[Swindon Airport]] || [[Swindon]], [[England]], [[United Kingdom]]
+&lt;!-- SWI is FAA code (not IATA) for Sherman Municipal Airport in Sherman, Texas, United States --&gt;
+|-
+|    SWN || OPSW || [[Sahiwal Airport]] || [[Sahiwal]], [[Pakistan]]
+|-
+|    SWO || KSWO || [[Stillwater Regional Airport]] || [[Stillwater, Oklahoma]], [[United States]]
+|-
+|    SWS || EGFH || [[Swansea Airport]] || [[Swansea]], [[Wales]], [[United Kingdom]]
+|-
+|    SWT || UNSS || [[Strezhevoy Airport]] || [[Strezhevoy]], [[Tomsk Oblast]], [[Russia]]
+&lt;!-- SWT is FAA code (not IATA) for Seward Municipal Airport in Seward, Nebraska, United States --&gt;
+|-
+|    SWW || KSWW || [[Avenger Field]] || [[Sweetwater, Texas]], [[United States]]
+|-
+|    SWY || WMBA || [[Sitiawan Airport]] || [[Perak]], [[Malaysia]]
+|-
+|    SWZ ||      || [[Western Sydney Airport]] (designated site for proposed [[Second Sydney Airport]]) || [[Badgerys Creek, New South Wales]], [[Australia]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SX&quot;/&gt;-SX-
+|-
+|    SXB || LFST || [[Strasbourg Entzheim International Airport]] || [[Strasbourg]], [[France]]
+|-
+|    SXF || EDDB || [[Berlin Schönefeld Airport]] || [[Berlin]], [[Germany]]
+|-
+|    SXL || EISG || [[Sligo Airport]] || [[Strandhill]] (near [[Sligo Town|Sligo]]), [[Republic of Ireland|Ireland]]
+|-
+|    SXM || TNCM || [[Princess Juliana International Airport]] || [[Philipsburg, Sint Maarten|Philipsburg]], [[Sint Maarten]], [[Kingdom of the Netherlands]]
+|-
+|    SXP ||      || [[Sheldon Point Airport]] || [[Sheldon Point, Alaska]], [[United States]]
+|-
+|    SXQ || PASX || [[Soldotna Airport]] || [[Soldotna, Alaska]], [[United States]]
+|-
+|    SXR || VISR || [[Srinagar International Airport]] || [[Srinagar]], [[India]]
+|-
+|    SXV || VOSM || [[Salem Airport (India)|Salem Airport]] || [[Salem, India]]
+|-
+|    SXY ||      || [[Sidney Municipal Airport (New York)|Sidney Municipal Airport]] || [[Sidney, New York]], [[United States]]
+|-
+|    SXZ || LTCL || [[Siirt Airport]] || [[Siirt]], [[Turkey]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SY&quot;/&gt;-SY-
+|-
+|    SYA || PASY || [[Eareckson Air Station]] || [[Shemya, Alaska]], [[United States]]
+|-
+|    SYD || YSSY || [[Sydney Airport]] || [[Mascot, New South Wales|Mascot]] (near [[Sydney]]), [[Australia]]
+|-
+|    SYF ||      || Silva Bay Seaplane Base || [[Gabriola Island]], [[British Columbia]], [[Canada]]
+&lt;!-- SYF is FAA code (not IATA) for Cheyenne County Municipal Airport in St. Francis, Kansas, United States --&gt;
+|-
+|    SYI || KSYI || [[Shelbyville Municipal Airport (Tennessee)|Shelbyville Municipal Airport]] (Bomar Field) || [[Shelbyville, Tennessee]], [[United States]]
+|-
+|    SYJ || OIKY || [[Sirjan Airport]] || [[Sirjan]], [[Kerman Province]], [[Iran]]
+|-
+|    SYL || KSYL || [[Roberts Army Heliport]] || [[Camp Roberts, California|Camp Roberts]], [[San Luis Obispo County, California]], [[United States]]
+|-
+|    SYN || KSYN || [[Stanton Airfield]] || [[Stanton, Minnesota]], [[United States]]
+|-
+|    SYO || RJSY || [[Shonai Airport]] || [[Yamagata Prefecture|Yamagata]], [[Japan]]
+|-
+|    SYP || MPSA || [[Ruben Cantu Airport]] || [[Santiago de Veraguas]], [[Panama]]
+|-
+|    SYQ || MRPV || [[Tobías Bolaños International Airport]] || [[San José, Costa Rica|San José]], [[Costa Rica]]
+|-
+|    SYR || KSYR || [[Syracuse Hancock International Airport]] || [[Mattydale, New York|Mattydale]] (near [[Syracuse, New York|Syracuse]]), [[New York]], [[United States]]
+|-
+|    SYV || KSYV || [[Sylvester Airport]] || [[Sylvester, Georgia]], [[United States]]
+|-
+|    SYX || ZJSY || [[Sanya Phoenix International Airport]] || [[Sanya]], [[Hainan]], [[China]]
+|-
+|    SYY || EGPO || [[Stornoway Airport]] || [[Stornoway]], [[Scotland]], [[United Kingdom]]
+|-
+|    SYZ || OISS || [[Shiraz International Airport]] || [[Shiraz]], [[Iran]]
+
+|- class=&quot;sortbottom&quot;
+! colspan=&quot;4&quot; style=&quot;text-align:left; background:#ddd;&quot;| &lt;cite id=&quot;SZ&quot;/&gt;-SZ-
+|-
+|    SZB || WMSA || [[Sultan Abdul Aziz Shah Airport]] || [[Subang, Selangor|Subang]] (near [[Kuala Lumpur]]), [[Malaysia]]
+|-
+|    &lt;s&gt;SZD&lt;/s&gt; || &lt;s&gt;EGSY&lt;/s&gt; || &lt;s&gt;[[Sheffield City Airport]]&lt;/s&gt; (closed in April 2008) || [[Sheffield]], [[England]], [[United Kingdom]]
+|-
+|    SZF || LTFH || [[Carsamba Airport]] || [[Samsun]], [[Turkey]]
+|-
+|    SZG || LOWS || [[Salzburg Airport]] || [[Salzburg]], [[Austria]]
+|-
+|    SZI ||      || [[Zaysan Airport]] || [[Zaysan (town)|Zaysan]], [[Kazakhstan]]
+|-
+|    SZL || KSZL || [[Whiteman Air Force Base]] || [[Knob Noster, Missouri]], [[United States]]
+|-
+|    SZN || KSZN || [[Santa Cruz Island Airport]] || [[Santa Barbara, California]], [[United States]]
+|-
+|    SZP || KSZP || [[Santa Paula Airport]] || [[Santa Paula, California]], [[United States]]
+|-
+|    SZQ ||      || [[Sáenz Peña Airport]] || [[Sáenz Peña, Buenos Aires]], [[Argentina]]
+|-
+|    SZR || LBSZ || [[Stara Zagora Airport]] || [[Stara Zagora]], [[Bulgaria]]
+|-
+|    SZS || NZRC || [[Ryans Creek Aerodrome]] || [[Stewart Island]], [[New Zealand]]
+|-
+|    SZT || MMSC || [[San Cristóbal de las Casas National Airport]] || [[Chiapas]], [[Mexico]]
+&lt;!-- SZT is FAA code (not IATA) for Sandpoint Airport in Sandpoint, Idaho, United States --&gt;
+|-
+|    SZV || ZSSZ || [[Suzhou Guangfu Airport]] || [[Suzhou]], [[Jiangsu]], [[China]]
+|-
+|    SZW || EDOP || [[Schwerin-Parchim Airport]] || [[Parchim]], [[Germany]]
+|-
+|    SZX || ZGSZ || [[Shenzhen Bao'an International Airport]] || [[Shenzhen]], [[Guangdong]], [[China]]
+|-
+|    SZY || EPSY || [[Szczytno-Snationalrt Airport]] || [[Szymany, Szczytno County|Szymany]] (near [[Szczytno]]), [[Poland]]
+&lt;!-- SZY is FAA code (not IATA) for Robert Sibley Airport in Selmer, Tennessee, United States --&gt;
+|-
+|    SZZ || EPSC || [[Szczecin-Goleniów &quot;Solidarnosc&quot; Airport]] || [[Goleniów]] (near [[Szczecin]]), [[Poland]]
+
+|}
+
+==References==
+* {{cite web | url = http://www.iata.org/publications/Pages/code-search.aspx | title = IATA Airline and Airport Code Search | publisher = [[International Air Transport Association]]}}
+* {{cite web | url = http://www.unece.org/cefact/locode/welcome.html | title = United Nations Code for Trade and Transport Locations | work = [[UN/LOCODE]] 2011-2 | publisher = [[United Nations Economic Commission for Europe|UNECE]] | date = 28 February 2012}} - includes IATA codes
+* {{cite web | url = http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf | title = ICAO Location Indicators by State | format = [[PDF]] | publisher = [[International Civil Aviation Organization]] | date = 17 September 2010}}
+* [http://aviation-safety.net/ Aviation Safety Network] - IATA and ICAO airport codes
+* [http://gcmap.com/ Great Circle Mapper] - IATA, ICAO and FAA airport codes
+
+[[Category:Lists of airports by IATA code|S]]</text>
+      <sha1>65bntfg6nw24z62c4eygyht841q0o6m</sha1>
+    </revision>
+  </page>
+</mediawiki>
