@@ -47,7 +47,8 @@ def info(out):
 
     <li><b>Delay Rate:</b> The 
         <a class=subtle href="about.html">estimated</a>
-    percentage of flights that arrive more than 1 hour after their scheduled arrival time.
+    percentage of flights that arrive more than 1 hour after their scheduled arrival time,
+    or fail to arrive at all.
     (Overall: {bigdelayrate})
     </ul>
     """.format(bigfailrate=nicenum(overall['pfail']),
