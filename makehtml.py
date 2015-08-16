@@ -204,8 +204,8 @@ makepage("origin.html", "Origin Performance",
     maketable("rank_origin.csv"))
 
 makepage("month.html", "Month (season) performance",
-    "Which times of the year tend to have on-time flights?  For each month, this shows the percentage of flights that month that are late.",
-    maketable("rank_month.csv"))
+    "Which times of the year tend to have on-time flights?  For each month, this shows the percentage of flights that month which are late.",
+    maketable("rank_month.csv", do_name_lookups=False))
 
 # makepage("pair.html", "Route performance",
 # """Which routes are on time? For each route (an origin and destination), this shows the percentage of flights that arrive to their destination late.   <P><b>Note:</b> routes with a small number of flights, like less than 1000, show much higher failure and delay rates than they really have had.  See the <a href="about.html">about page</a> for an explanation.""",
@@ -253,7 +253,7 @@ for airport in all_airports:
         Performance for <b>{airport} - {name}</b> ({city})
         """.format(airport=airport, **codes.airports_dict[airport]),
         """
-        Overall rates at {airport}:
+        Rates at {airport}:
         <ul>
         <li>Failure rate: {failrate}
         <li>Delay rate: {delayrate}
@@ -296,7 +296,7 @@ for carrier in all_carriers:
     """.format(wikilink=carrier_wikilink(carrier), name=codes.getname(carrier),
         **locals()),
     """
-    Overall rates for {carrier}:
+    Rates for {carrier}:
     <ul>
     <li>Failure rate: {failrate}
     <li>Delay rate: {delayrate}
@@ -383,7 +383,8 @@ makepage("about.html", "About this website", """
         In the meantime, the code and data is available at
         <a href="https://github.com/brendano/flightstats">github.com/brendano/flightstats</a>.
 
-        <p>Website created by <a href="http://brenocon.com/">Brendan O'Connor</a>.
+        <p>Website started by <a href="http://brenocon.com/">Brendan O'Connor</a>
+        when stuck, not for the first time, in O'Hare.
 
         """.format(**locals()),
         "",
