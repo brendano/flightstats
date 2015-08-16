@@ -8,7 +8,7 @@ top = """
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
     <link rel="stylesheet" href="mytheme.css" >
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script> 
-    <script type="text/javascript" src="http://brenocon.com/js/tablesorter/2.7.2/js/jquery.tablesorter.min.js"></script> 
+    <script type="text/javascript" src="jquery.tablesorter.min.js"></script> 
     <script>
     $(document).ready(function() 
         { 
@@ -31,7 +31,7 @@ top = """
 
 def info(out):
     print>>out, """
-    <p>This is calculated from historical data from June 2014 through June 2015.
+    <p>This is calculated from historical data from July 2014 through June 2015.
     <ul>
     <li><b>Failure Rate:</b> The percentage of flights that are cancelled or diverted.
     <li><b>Delay Rate:</b> The percentage of flights that arrive more than 1 hour after their scheduled arrival time.
@@ -112,10 +112,10 @@ def make_airport_table(csvfile, do_name_lookups=True):
     print>>out, "<thead>"
     print>>out, "<tr>"
     print>>out, "<th>", "Airport"
-    print>>out, "<th>Num. Incoming Flights"
-    print>>out, "<th>Incoming Failure Rate", "<th>Incoming Delay Rate"
     print>>out, "<th>Num. Outgoing Flights"
     print>>out, "<th>Outgoing Failure Rate", "<th>Outgoing Delay Rate"
+    print>>out, "<th>Num. Incoming Flights"
+    print>>out, "<th>Incoming Failure Rate", "<th>Incoming Delay Rate"
     print>>out, "</thead>"
 
     print>>out, "<tbody>"
@@ -171,8 +171,9 @@ makepage("about.html", "About this website", """
         as collected by the Bureau of Transportation Statistics,
         with data
         from <a href="http://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236">this site</a>.
-        The current numbers are based on historical records from
-        June 2014 through June 2015, only for flights between 
+        The numbers are based on historical records from
+        one year of historical data (July 2014 through June 2015),
+        only for flights between 
         the busiest 100 airports during this period.
         This is {grand_total:,} flights total.
 
@@ -184,7 +185,8 @@ makepage("about.html", "About this website", """
         To remedy this, we instead show the worst-case rate:
         the true percentage has a 98% chance of being lower than what we show.
         (It's not really a worst-case; call it a "98% worst case". 
-        The calculation is the upper side of a <a href="https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval">Agresti-Coull</a> confidence interval.)
+        The calculation is the upper side of an
+        <a href="https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval">Agresti-Coull</a> confidence interval.)
         Therefore our numbers are overly harsh for, say, routes with only a few dozen flights; there's not enough data on them to trust they will have a small delay rate in the future.
 
         <p>Much more sophisticated statistical analysis methods are possible
@@ -202,8 +204,8 @@ makepage("about.html", "About this website", """
         no_info=True
         )
 
-with open("html/index.html",'w') as fp:
-    print>>fp, """
-<meta http-equiv="refresh" content="0; url=http://brenocon.com/flightstats/carrier.html">
-"""
-
+# with open("html/index.html",'w') as fp:
+#     print>>fp, """
+# <meta http-equiv="refresh" content="0; url=http://brenocon.com/flightstats/carriers.html">
+# """
+# 

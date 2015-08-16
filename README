@@ -6,14 +6,30 @@ summary_data/ directory.
 
 To re-run the analysis and build the website:
 
-1. Manually download CSVs from the BTS website. About 50-100MB per month (unzipped).
+1. Manually download CSVs from the BTS website into data/.
 2. install the right R libraries
 3. ./build.sh  ==>  results in summary_data/ and html/.
 
-Flights CSVs from BTS are in the data/ directory (~1 GB total)
-
 In the rank_*.csv files, the "_raw" columns are the simple averages;
 without the "_raw" is the Agresti-Coull upper-bound estimate.
+
+Flights CSVs from BTS go to the data/ directory (~1 GB total).
+I put a copy here: http://brenocon.com/flightstats/bts_data.zip
+On my machine "ls -l" currently looks like this. (the sizes are nonuniform
+because different columns were selected)
+
+   44296178 Aug 15 18:46 201407 950571106_T_ONTIME.csv
+  110493345 Aug  9 20:32 201408 890983367_T_ONTIME.csv
+  101769492 Aug  9 20:36 201409 890983367_T_ONTIME.csv
+  106715878 Aug  9 20:39 201410 890983367_T_ONTIME.csv
+  100446087 Aug  9 20:40 201411 890983367_T_ONTIME.csv
+  104082960 Aug  9 20:41 201412 890983367_T_ONTIME.csv
+  101940847 Aug  9 20:31 201501 890983367_T_ONTIME.csv
+   92622944 Aug  9 20:26 201502 890983367_T_ONTIME.csv
+  109329310 Aug  9 20:21 201503 890983367_T_ONTIME.csv
+  105381487 Aug  9 20:21 201504 890983367_T_ONTIME.csv
+  108022962 Aug  9 20:25 201505 890983367_T_ONTIME.csv
+   42870299 Aug 15 18:44 201506 950571106_T_ONTIME.csv
 
 
 Updating the data:
@@ -23,6 +39,6 @@ http://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236
 into the data/ directory.
 need to select the columns that stuff.r uses.
 
-i added year/months to the CSV spreadsheet names, though that's not important
+I added year/months to the CSV spreadsheet names, though that's not important
 for the analyzer.
 
