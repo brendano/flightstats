@@ -14,7 +14,7 @@ In the rank_*.csv files, the "_raw" columns are the simple averages;
 without the "_raw" is the Agresti-Coull upper-bound estimate.
 
 Flights CSVs from BTS go to the data/ directory (~1 GB total).
-I put a copy here: http://brenocon.com/flightstats/bts_data.zip
+I put a copy here: http://brenocon.com/flightstats/bts_data_201406-201506.zip
 On my machine "ls -l" currently looks like this. (the sizes are nonuniform
 because different columns were selected)
 

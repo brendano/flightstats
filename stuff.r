@@ -41,11 +41,14 @@ ac_hi = function(p,n, z=2) {
 mysum = function(x) summarise(x, n=n(),
         pfail_raw=mean(!suc), 
         pdelay1hr_raw=mean(!suc | ARR_DELAY>60)) %>%
+    # filter(n >= 100) %>%
     mutate(pfail=ac_hi(pfail_raw,n), pdelay1hr=ac_hi(pdelay1hr_raw,n))
 
-mywrite = function(data,filename) write.csv(sprintf(data,
-                            sprintf("summary_data/%s",filename), row.names=FALSE)
+mywrite = function(data,filename) 
+    write.csv(data, sprintf("summary_data/%s",filename), 
+	      row.names=FALSE)
 
+## Top summaries
 src = d %>% group_by(ORIGIN) %>% mysum
 src %>% arrange(ORIGIN) %>% mywrite("rank_origin.csv")
 dst = d %>% group_by(DEST) %>% mysum
@@ -54,5 +57,43 @@ inner_join(src,dst, by=c("ORIGIN"="DEST")) %>% mywrite("rank_airports.csv")
 d %>% group_by(CARRIER) %>% mysum %>% arrange(CARRIER) %>% mywrite("rank_carrier.csv")
 d %>% group_by(month) %>% mysum %>% arrange(month) %>% mywrite("rank_month.csv")
 d %>% group_by(ORIGIN,DEST) %>% mysum %>% filter(n>=100) %>% arrange(ORIGIN,DEST) %>% mywrite("rank_pair.csv")
-d %>% group_by(ORIGIN,DEST,CARRIER) %>% mysum %>% arrange(pdelay1hr) %>% mywrite("rank_pair_carrier.csv")
+d %>% group_by(ORIGIN,DEST,CARRIER) %>% mysum %>% arrange(ORIGIN,DEST,CARRIER) %>% mywrite("rank_pair_carrier.csv")
 
+## Per-Airport breakdowns
+
+for (airport in whitelist) {
+# for (airport in "BDL") {
+    print(airport)
+
+    outs = d %>% filter(ORIGIN==airport)
+    ins  = d %>% filter(DEST==airport)
+
+    joined = full_join(outs %>% group_by(CARRIER) %>% mysum,
+		       ins %>% group_by(CARRIER) %>% mysum,
+		       by="CARRIER")
+    joined[is.na(joined)] = 0
+    joined %>% mywrite(sprintf("by_airport/%s_carriers.csv", airport))
+
+    outs %>% group_by(DEST) %>% mysum %>% 
+	mywrite(sprintf("by_airport/%s_outs.csv", airport))
+
+    ins %>% group_by(ORIGIN) %>% mysum %>%
+	mywrite(sprintf("by_airport/%s_ins.csv", airport))
+
+    joined = full_join(
+	outs %>% group_by(DEST) %>% mysum,
+	ins %>% group_by(ORIGIN) %>% mysum,
+	by=c("DEST"="ORIGIN"))
+    joined[is.na(joined)]=0
+    joined %>% mywrite(sprintf("by_airport/%s_outin.csv", airport))
+
+}
+
+
+## Per-Carrier breakdowns
+
+pc = read_csv("summary_data/rank_pair_carrier.csv")
+for (carrier in unique(pc$CARRIER)) {
+    print(carrier)
+    pc %>% filter(CARRIER==carrier) %>% arrange(ORIGIN,DEST) %>% mywrite(sprintf("by_carrier/%s_pairs.csv", carrier))
+}
