@@ -1,23 +1,34 @@
 from __future__ import division
-import csv,os,re
+import csv,os,re,sys
 from cStringIO import StringIO
 
 import codes
 
+  # <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+
+    # <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script> 
+    # <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    # <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
 top = """
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
     <link rel="stylesheet" href="mytheme.css" >
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script> 
-    <script type="text/javascript" src="jquery.tablesorter.min.js"></script> 
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+    
+    <script src="jquery.tablesorter.min.js"></script> 
     <script>
     $(document).ready(function() 
         { 
             $("table").tablesorter();
+            $( document ).tooltip();
         } 
     ); 
     </script>
 
     <style>
+    
     .pctsign { font-size: 80%; padding-left: 0.3em; }
     .sel { text-decoration: underline; }
     .nav { font-size: 80%; }
@@ -41,18 +52,16 @@ def info(out):
     <p>This is calculated from historical data from July 2014 through June 2015.
     <ul>
     <li><b>Failure Rate:</b> The 
-        <a class=subtle href="about.html">estimated</a>
     percentage of flights that are cancelled or diverted.
     (Overall: {bigfailrate})
 
     <li><b>Delay Rate:</b> The 
-        <a class=subtle href="about.html">estimated</a>
     percentage of flights that arrive more than 1 hour after their scheduled arrival time,
     or fail to arrive at all.
     (Overall: {bigdelayrate})
     </ul>
-    """.format(bigfailrate=nicenum(overall['pfail']),
-            bigdelayrate=nicenum(overall['pdelay1hr']))
+    """.format(bigfailrate=nicenum(overall['pfail_raw']),
+            bigdelayrate=nicenum(overall['pdelay1hr_raw']))
 
 def navstuff(out, curpage):
     def condlink(pagename, text):
@@ -94,15 +103,27 @@ def niceint(num):
     num = int(num)
     return "{:,}".format(num)
 
-COUNT_THRESH = 100
+COUNT_THRESH = 1
+num_stat_cols = 7
+
+def rate_td(word, n, raw, est):
+    if abs(raw-est) > .001:
+        inner = """ ({raw:.1f}% raw, {est:.1f}% estimated)""".format(raw=raw*100,est=est*100)
+    else:
+        inner = """"""
+
+    return """<td title="{k} {word}{inner}">{estnice}""".format(
+            word=word, inner=inner,
+            k=int(round(n*raw)), n=int(n),
+            estnice=nicenum(est))
 
 def maketable(csvfile, do_name_lookups=True):
     out = StringIO()
     fp = open("summary_data/" + csvfile)
     rows = csv.reader(iter(fp))
     header = rows.next()
-    assert header[-5:] == ["n","pfail_raw","pdelay1hr_raw","pfail","pdelay1hr"]
-    infokeys = header[:-5]
+    assert set(header[-num_stat_cols:]) == set(["n","pfail_raw","pdelay1hr_raw","pfail_ac","pdelay1hr_ac", "pfail_bayes", "pdelay1hr_bayes"])
+    infokeys = header[:-num_stat_cols]
     # print>>out, "<table>"
     print>>out, "<a class=csvlink href='summary_data/%s'>[csv]</a>" % csvfile
     print>>out, "<table cellpadding=3 border=1 cellspacing=0>"
@@ -125,8 +146,8 @@ def maketable(csvfile, do_name_lookups=True):
             print>>out, s
 
         print>>out, "<td>", niceint(int(d['n']))
-        print>>out, "<td>", nicenum(float(d['pfail']))
-        print>>out, "<td>", nicenum(float(d['pdelay1hr']))
+        print>>out, rate_td("failed flights", int(d['n']), float(d['pfail_raw']), float(d['pfail_bayes']))
+        print>>out, rate_td("delayed flights", int(d['n']), float(d['pdelay1hr_raw']), float(d['pdelay1hr_bayes']))
     print>>out, "</tbody>"
     print>>out, "</table>"
     return out.getvalue()
@@ -174,11 +195,11 @@ def make_twoway_table(csvfile, col_nicename, col_codename,
         s = d[col_codename]
         print>>out, "<td>", linkify(s, longname=do_name_lookups)
         print>>out, "<td>", niceint(int(d['n.x']))
-        print>>out, "<td>", nicenum(float(d['pfail.x']))
-        print>>out, "<td>", nicenum(float(d['pdelay1hr.x']))
+        print>>out, rate_td("failed flights", int(d['n.x']), float(d['pfail_raw.x']), float(d['pfail_bayes.x']))
+        print>>out, rate_td("delayed flights", int(d['n.x']), float(d['pdelay1hr_raw.x']), float(d['pdelay1hr_bayes.x']))
         print>>out, "<td>", niceint(int(d['n.y']))
-        print>>out, "<td>", nicenum(float(d['pfail.y']))
-        print>>out, "<td>", nicenum(float(d['pdelay1hr.y']))
+        print>>out, rate_td("failed flights", int(d['n.y']), float(d['pfail_raw.y']), float(d['pfail_bayes.y']))
+        print>>out, rate_td("delayed flights", int(d['n.y']), float(d['pdelay1hr_raw.y']), float(d['pdelay1hr_bayes.y']))
     print>>out, "</tbody>"
     print>>out, "</table>"
     return out.getvalue()
@@ -224,7 +245,6 @@ makepage("airports.html", "Airport Performance",
 
 ## Per-Airport breakdowns
 
-
 all_airports = {d['ORIGIN']:d for d in csv.DictReader(open("summary_data/rank_airports.csv"))}
 
 for airport in all_airports:
@@ -267,8 +287,8 @@ for airport in all_airports:
         Performance for the {numroutes} <b>routes</b> in and out of this airport:
         {h_outin}
         """.format(
-        failrate=nicenum( 0.5*(float(d['pfail.x']) + float(d['pfail.y'])) ),
-        delayrate=nicenum(0.5*(float(d['pdelay1hr.x'])+float(d['pdelay1hr.y']))),
+        failrate=nicenum( 0.5*(float(d['pfail_bayes.x']) + float(d['pfail_bayes.y'])) ),
+        delayrate=nicenum(0.5*(float(d['pdelay1hr_bayes.x'])+float(d['pdelay1hr_bayes.y']))),
         numroutes=len(list(open("summary_data/by_airport/%s_outin.csv" % airport)))-1,
             **locals()),
     )
@@ -314,8 +334,8 @@ for carrier in all_carriers:
     {h_by_airport}
     -->
     """.format(
-        failrate=nicenum(float(d['pfail'])),
-        delayrate=nicenum(float(d['pdelay1hr'])),
+        failrate=nicenum(float(d['pfail_bayes'])),
+        delayrate=nicenum(float(d['pdelay1hr_bayes'])),
         **locals())
     )
 
@@ -335,6 +355,42 @@ makepage("about.html", "About this website", """
         This is {grand_total:,} flights total.
 
         <p>
+        The percentages are calculated with Bayesian smoothing: if a particular
+        route has very few flights, like less than a thousand, we display a
+        number that's not the raw percentage but one closer to the overall
+        average, since there isn't much data yet to make a deterimination of
+        the failure or delay rate.  Hovering the mouse over a percentage will
+        show the raw data.
+        <span style="font-size: 80%">[Details: we use a simple empirical Bayes approach,
+        calculating the posterior mean given a Beta prior
+        whose parameters were fit on the dataset of MLEs for all
+        route/carrier combinations.
+        The CSV files contain "pfail_raw" and "pdelay1hr_raw" columns
+        which are the simple percentages. Multiplyling "pfail_raw" by "n"
+        will get the number of failed flights.]</span>
+
+        <p>There are many factors that don't get taken into account.
+        For example, these calculations aren't very good at
+        assigning blame between
+        the carrier, origin airport, and destination airport.
+        And the delay and failure rates don't consider really important factors
+        like weather or time of flight, etc.
+
+        <p>
+        In the meantime, the code and data is available at
+        <a href="https://github.com/brendano/flightstats">github.com/brendano/flightstats</a>.
+
+        <p>Website started by <a href="http://brenocon.com/">Brendan O'Connor</a>
+        when stuck, not for the first time, in O'Hare.
+
+        """.format(**locals()),
+        "",
+        no_info=True
+        )
+
+# DELETED agresti-coull explanation
+
+"""
         Percentages show pessimistic "worst-case" delay rates and failure rates,
         to control for when there's a lack of data.
         If there are a large number of flights, this is just the historical percentage.
@@ -360,40 +416,4 @@ makepage("about.html", "About this website", """
         small delay rate in the future.
         (The webpages do not show entries where there's fewer than 100 flights,
         since the rates are not reliable. But they can be accessed in the csv download.)
-
-        <p>There are still many other factors that could make the delay rate higher,
-        which this procedure doesn't show: the season, time of flight, etc.
-
-        <p>
-        The CSV files contain "pfail" and "pdelay1hr" columns, which are the ones 
-        shown on the webpages.  The "pfail_raw" and "pdelay1hr_raw" columns
-        are the simple percentages. Multiplyling "pfail_raw" by "n"
-        will get the number of failed flights.
-
-        <p>Much more sophisticated statistical analysis methods are possible
-        for this problem.
-        For example, these calculations aren't very good at
-        assigning blame between
-        the carrier, origin airport, and destination airport.
-        And the delay and failure rates could be much higher, or lower,
-        due to other factors like season, time of flight, etc.
-        And better smoothing/pooling (incorporating multiple factors) would 
-        help predict delay rates for cases with less data.
-
-        <p>
-        In the meantime, the code and data is available at
-        <a href="https://github.com/brendano/flightstats">github.com/brendano/flightstats</a>.
-
-        <p>Website started by <a href="http://brenocon.com/">Brendan O'Connor</a>
-        when stuck, not for the first time, in O'Hare.
-
-        """.format(**locals()),
-        "",
-        no_info=True
-        )
-
-# with open("html/index.html",'w') as fp:
-#     print>>fp, """
-# <meta http-equiv="refresh" content="0; url=http://brenocon.com/flightstats/carriers.html">
-# """
-# 
+"""

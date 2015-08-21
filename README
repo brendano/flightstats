@@ -10,9 +10,6 @@ To re-run the analysis and build the website:
 2. install the right R libraries
 3. ./build.sh  ==>  results in summary_data/ and html/.
 
-In the rank_*.csv files, the "_raw" columns are the simple averages;
-without the "_raw" is the Agresti-Coull upper-bound estimate.
-
 Flights CSVs from BTS go to the data/ directory (~1 GB total).
 I put a copy here: http://brenocon.com/flightstats/bts_data_201406-201506.zip
 On my machine "ls -l" currently looks like this. (the sizes are nonuniform

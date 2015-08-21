@@ -41,14 +41,30 @@ ac_hi = function(p,n, z=2) {
 mysum = function(x) summarise(x, n=n(),
         pfail_raw=mean(!suc), 
         pdelay1hr_raw=mean(!suc | ARR_DELAY>60)) %>%
+    ungroup %>%
     # filter(n >= 100) %>%
-    mutate(pfail=ac_hi(pfail_raw,n), pdelay1hr=ac_hi(pdelay1hr_raw,n))
+    mutate(pfail_ac=ac_hi(pfail_raw,n), 
+           pdelay1hr_ac=ac_hi(pdelay1hr_raw,n)) %>%
+    mutate(pfail_bayes      =bayes(pfail_raw,n, 1.4, 73.8),
+           pdelay1hr_bayes  =bayes(pdelay1hr_raw,n, 4.2, 51.8))
+
+bayes = function(p,n, prior_a, prior_b) {
+    # vector of many ps. fit the density then posterior mean estimate the new values.
+    k = p*n
+    (k+prior_a) / (n + prior_a + prior_b)
+    # ab_delay= fitbeta(x$pdelay1hr_raw)
+    # nfail = x$pfail_raw*x$
+}
+
+
+
 
 mywrite = function(data,filename) 
     write.csv(data, sprintf("summary_data/%s",filename), 
 	      row.names=FALSE)
 
 ## Top summaries
+d %>% mysum %>% mywrite("overall.csv")
 src = d %>% group_by(ORIGIN) %>% mysum
 src %>% arrange(ORIGIN) %>% mywrite("rank_origin.csv")
 dst = d %>% group_by(DEST) %>% mysum
@@ -59,7 +75,7 @@ d %>% group_by(month) %>% mysum %>% arrange(month) %>% mywrite("rank_month.csv")
 d %>% group_by(ORIGIN,DEST) %>% mysum %>% filter(n>=100) %>% arrange(ORIGIN,DEST) %>% mywrite("rank_pair.csv")
 d %>% group_by(ORIGIN,DEST,CARRIER) %>% mysum %>% arrange(ORIGIN,DEST,CARRIER) %>% mywrite("rank_pair_carrier.csv")
 
-## Per-Airport breakdowns
+# Per-Airport breakdowns
 
 for (airport in whitelist) {
 # for (airport in "BDL") {
