@@ -53,12 +53,12 @@ def info(out):
     <ul>
     <li><b>Failure Rate:</b> The 
     percentage of flights that are cancelled or diverted.
-    (Overall: {bigfailrate})
+    (Overall in U.S.: {bigfailrate})
 
     <li><b>Delay Rate:</b> The 
     percentage of flights that arrive more than 1 hour after their scheduled arrival time,
     or fail to arrive at all.
-    (Overall: {bigdelayrate})
+    (Overall in U.S.: {bigdelayrate})
     </ul>
     """.format(bigfailrate=nicenum(overall['pfail_raw']),
             bigdelayrate=nicenum(overall['pdelay1hr_raw']))
@@ -367,7 +367,8 @@ makepage("about.html", "About this website", """
         route/carrier combinations.
         The CSV files contain "pfail_raw" and "pdelay1hr_raw" columns
         which are the simple percentages. Multiplyling "pfail_raw" by "n"
-        will get the number of failed flights.]</span>
+        will get the number of failed flights. 
+        Thanks to <a href="http://mike-love.net/">Mike Love</a> for the suggestion.]</span>
 
         <p>There are many factors that don't get taken into account.
         For example, these calculations aren't very good at
@@ -381,7 +382,7 @@ makepage("about.html", "About this website", """
         <a href="https://github.com/brendano/flightstats">github.com/brendano/flightstats</a>.
 
         <p>Website started by <a href="http://brenocon.com/">Brendan O'Connor</a>
-        when stuck, not for the first time, in O'Hare.
+        when stuck in O'Hare.
 
         """.format(**locals()),
         "",
